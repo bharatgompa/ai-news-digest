@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Daily Digest</title>
+<style>
+  :root {
+    --bg: #f7f7f5; --surface: #ffffff; --text: #1d1d1b; --muted: #6b6b66;
+    --border: #e4e3de; --accent: #c2410c; --chip: #f1efe9;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #161614; --surface: #1f1f1c; --text: #ecebe6; --muted: #9a9991;
+      --border: #33322e; --accent: #fb923c; --chip: #2a2926;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #161614; --surface: #1f1f1c; --text: #ecebe6; --muted: #9a9991;
+    --border: #33322e; --accent: #fb923c; --chip: #2a2926;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  .layout { display: grid; grid-template-columns: 240px 1fr; max-width: 1080px; margin: 0 auto; min-height: 100vh; }
+  aside { border-right: 1px solid var(--border); padding: 24px 16px; position: sticky; top: 0; height: 100vh; overflow-y: auto; }
+  aside h1 { font-size: 18px; margin: 0 0 16px; }
+  .dates { list-style: none; margin: 0; padding: 0; }
+  .dates button {
+    all: unset; display: block; width: 100%; padding: 8px 10px; border-radius: 8px;
+    cursor: pointer; font-size: 14px; color: var(--muted);
+  }
+  .dates button:hover { background: var(--chip); color: var(--text); }
+  .dates button[aria-current="true"] { background: var(--chip); color: var(--text); font-weight: 600; }
+  .dates small { display: block; font-size: 12px; }
+  main { padding: 32px 24px 64px; min-width: 0; }
+  .date { color: var(--muted); font-size: 14px; margin: 0; }
+  .headline { font-size: 26px; line-height: 1.25; margin: 4px 0 8px; }
+  .meta { color: var(--muted); font-size: 13px; margin-bottom: 24px; }
+  .toolbar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 24px; }
+  .toolbar input {
+    flex: 1; min-width: 180px; padding: 8px 12px; border-radius: 8px;
+    border: 1px solid var(--border); background: var(--surface); color: var(--text); font: inherit;
+  }
+  .toolbar button {
+    padding: 8px 12px; border-radius: 8px; border: 1px solid var(--border);
+    background: var(--surface); color: var(--text); font: inherit; font-size: 14px; cursor: pointer;
+  }
+  .toolbar button[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
+  section h3 { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 32px 0 12px; }
+  .story { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; margin-bottom: 12px; }
+  .story a { color: var(--text); font-weight: 600; text-decoration: none; }
+  .story a:hover { color: var(--accent); }
+  .story p { margin: 6px 0 0; }
+  .why { color: var(--muted); font-size: 14px; }
+  .src { font-size: 12px; color: var(--muted); margin-top: 8px; display: flex; gap: 8px; align-items: center; }
+  .imp { color: var(--accent); letter-spacing: 1px; }
+  .empty { color: var(--muted); padding: 48px 0; }
+  .menu { display: none; }
+  @media (max-width: 760px) {
+    .layout { grid-template-columns: 1fr; }
+    aside { position: static; height: auto; border-right: 0; border-bottom: 1px solid var(--border); padding: 16px; }
+    .dates { display: flex; gap: 6px; overflow-x: auto; }
+    .dates button { white-space: nowrap; }
+    .dates small { display: none; }
+    main { padding: 20px 16px 48px; }
+    .headline { font-size: 21px; }
+  }
+</style>
+</head>
+<body>
+<div class="layout">
+  <aside>
+    <h1>🗞 Daily Digest</h1>
+    <ul class="dates" id="dates"></ul>
+  </aside>
+  <main id="main"><p class="empty">Loading…</p></main>
+</div>
+<script>
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+let current = null, query = "", topOnly = false;
+
+async function getJSON(path) {
+  const r = await fetch(path, { cache: "no-cache" });
+  if (!r.ok) throw new Error(path + " → " + r.status);
+  return r.json();
+}
+
+function render() {
+  const d = current;
+  const q = query.toLowerCase();
+  const sections = d.sections.map((s) => ({
+    ...s,
+    stories: s.stories.filter((st) =>
+      (!topOnly || st.importance >= 4) &&
+      (!q || (st.title + " " + st.summary + " " + st.source).toLowerCase().includes(q))),
+  })).filter((s) => s.stories.length);
+
+  const when = new Date(d.generated_at * 1000).toLocaleString();
+  $("#main").innerHTML = `
+    <p class="date">${esc(d.date)}</p>
+    <h2 class="headline">${esc(d.headline)}</h2>
+    <div class="meta">${d.items_scanned} items scanned · generated ${esc(when)}${
+      d.failed_sources?.length ? ` · ${d.failed_sources.length} source(s) unavailable` : ""}</div>
+    <div class="toolbar">
+      <input id="q" type="search" placeholder="Search this day…" value="${esc(query)}">
+      <button id="top" aria-pressed="${topOnly}">Top stories only</button>
+    </div>
+    ${sections.length ? sections.map((s) => `
+      <section>
+        <h3>${esc(s.title)}</h3>
+        ${s.stories.map((st) => `
+          <article class="story">
+            <a href="${esc(st.url)}" target="_blank" rel="noopener">${esc(st.title)}</a>
+            <p>${esc(st.summary)}</p>
+            <p class="why">↳ ${esc(st.why_it_matters)}</p>
+            <div class="src"><span class="imp" title="importance ${st.importance}/5">${"●".repeat(st.importance)}</span>${esc(st.source)}</div>
+          </article>`).join("")}
+      </section>`).join("") : `<p class="empty">No stories match.</p>`}`;
+
+  $("#q").addEventListener("input", (e) => { query = e.target.value; render(); $("#q").focus(); $("#q").setSelectionRange(query.length, query.length); });
+  $("#top").addEventListener("click", () => { topOnly = !topOnly; render(); });
+}
+
+async function open(date) {
+  document.querySelectorAll(".dates button").forEach((b) => b.setAttribute("aria-current", b.dataset.date === date));
+  try {
+    current = await getJSON(`data/digests/${date}.json`);
+    history.replaceState(null, "", "#" + date);
+    render();
+  } catch (e) {
+    $("#main").innerHTML = `<p class="empty">Couldn't load ${esc(date)}.</p>`;
+  }
+}
+
+(async () => {
+  let index = [];
+  try { index = await getJSON("data/index.json"); } catch {}
+  if (!index.length) {
+    $("#main").innerHTML = `<p class="empty">No digests yet. The first one appears after the GitHub Action runs.</p>`;
+    return;
+  }
+  $("#dates").innerHTML = index.map((e) => `
+    <li><button data-date="${esc(e.date)}">${esc(e.date)}<small>${e.stories} stories</small></button></li>`).join("");
+  $("#dates").addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) open(b.dataset.date); });
+  const wanted = location.hash.slice(1);
+  open(index.some((e) => e.date === wanted) ? wanted : index[0].date);
+})();
+</script>
+</body>
+</html>

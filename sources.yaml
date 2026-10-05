@@ -1,0 +1,51 @@
+# What the agent reads every day. Add/remove freely — a broken feed is skipped, not fatal.
+#
+# YouTube: every channel has a free RSS feed. To find a channel_id, open the channel page,
+# View Page Source, and search for "channel_id" (or "externalId"). It looks like UCxxxxxxxxxxxxxxxxxxxxxx.
+
+interests: |
+  The reader is a ~4 YOE backend engineer in India (Java, Kafka, GCP, C++, fintech) preparing to
+  switch to a product company and move towards AI-engineer / Forward Deployed Engineer roles.
+  They care about, in priority order:
+  1. Major AI developments: model launches, agent frameworks, AI tooling, AI hiring/job-market shifts.
+  2. Backend, distributed systems and system design — real engineering write-ups, outages, architecture.
+  3. Big tech / Indian tech industry: layoffs, hiring, funding, product-company news.
+  4. Markets & personal finance — ONLY big-picture events relevant to a long-term SIP/index investor in India
+     (RBI policy, big Nifty/Sensex moves, tax/regulation changes). Skip day-trading tips, stock picks,
+     IPO hype, crypto shilling.
+  Skip: celebrity/gossip, clickbait, minor product updates, duplicated coverage of the same story.
+
+feeds:
+  # --- AI & tech (global) ---
+  - { name: Hacker News (150+ pts), url: "https://hnrss.org/frontpage?points=150", category: tech }
+  - { name: TechCrunch AI, url: "https://techcrunch.com/category/artificial-intelligence/feed/", category: ai }
+  - { name: The Verge AI, url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", category: ai }
+  - { name: MIT Technology Review AI, url: "https://www.technologyreview.com/topic/artificial-intelligence/feed", category: ai }
+  - { name: OpenAI News, url: "https://openai.com/news/rss.xml", category: ai }
+  - { name: Google AI Blog, url: "https://blog.google/technology/ai/rss/", category: ai }
+  - { name: Ars Technica, url: "https://feeds.arstechnica.com/arstechnica/index", category: tech }
+
+  # --- Engineering / system design ---
+  - { name: InfoQ, url: "https://feed.infoq.com/", category: engineering }
+  - { name: The Pragmatic Engineer, url: "https://blog.pragmaticengineer.com/rss/", category: engineering }
+  - { name: Netflix Tech Blog, url: "https://netflixtechblog.com/feed", category: engineering }
+  - { name: Uber Engineering, url: "https://www.uber.com/blog/engineering/rss/", category: engineering }
+
+  # --- India tech & markets ---
+  - { name: Inc42, url: "https://inc42.com/feed/", category: india-tech }
+  - { name: ET Tech, url: "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms", category: india-tech }
+  - { name: LiveMint Markets, url: "https://www.livemint.com/rss/markets", category: markets }
+  - { name: Moneycontrol Business, url: "https://www.moneycontrol.com/rss/business.xml", category: markets }
+
+youtube_channels:
+  # Fill in channel IDs (see note at top). Video titles + descriptions get summarised.
+  # - { name: PrasadTechInTelugu, channel_id: "UCxxxxxxxxxxxxxxxxxxxxxx" }
+  # - { name: DayTraderInTelugu, channel_id: "UCxxxxxxxxxxxxxxxxxxxxxx" }
+  - { name: Fireship, channel_id: "UCsBjURrPoezykLs9EqgamOA" }
+  - { name: ByteByteGo, channel_id: "UCZgt6AzoyjslHTC9dz0UoTw" }
+
+settings:
+  lookback_hours: 26        # a little over a day, so a late cron run doesn't miss items
+  max_items_per_feed: 15
+  max_items_total: 150      # hard cap on what we send to the LLM
+  digest_size: 15           # how many stories end up in the digest
