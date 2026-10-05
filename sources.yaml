@@ -1,21 +1,52 @@
-# What the agent reads every day. Add/remove freely — a broken feed is skipped, not fatal.
+# What the agent reads every day. Add/remove freely — a broken feed is skipped, not fatal,
+# and the digest's "failed_sources" field tells you which ones broke.
 #
 # YouTube: every channel has a free RSS feed. To find a channel_id, open the channel page,
 # View Page Source, and search for "channel_id" (or "externalId"). It looks like UCxxxxxxxxxxxxxxxxxxxxxx.
 
 interests: |
-  The reader is a ~4 YOE backend engineer in India (Java, Kafka, GCP, C++, fintech) preparing to
-  switch to a product company and move towards AI-engineer / Forward Deployed Engineer roles.
-  They care about, in priority order:
-  1. Major AI developments: model launches, agent frameworks, AI tooling, AI hiring/job-market shifts.
-  2. Backend, distributed systems and system design — real engineering write-ups, outages, architecture.
-  3. Big tech / Indian tech industry: layoffs, hiring, funding, product-company news.
-  4. Markets & personal finance — ONLY big-picture events relevant to a long-term SIP/index investor in India
-     (RBI policy, big Nifty/Sensex moves, tax/regulation changes). Skip day-trading tips, stock picks,
-     IPO hype, crypto shilling.
-  Skip: celebrity/gossip, clickbait, minor product updates, duplicated coverage of the same story.
+  The reader is a ~4 YOE backend engineer from Andhra Pradesh/Telangana, working in India (Java, Kafka,
+  GCP, C++, fintech). They are preparing to switch to a product company and moving towards
+  AI-engineer / Forward Deployed Engineer roles. They want this digest to replace reading several
+  newspapers: a well-rounded picture of the last 24 hours, across the globe.
+
+  They care about:
+  - AI: major model launches, agent frameworks, AI tooling, AI's effect on jobs and hiring.
+  - Tech & engineering: big tech news, backend/distributed systems, notable engineering write-ups and outages.
+  - Tech industry & jobs: layoffs, hiring trends, funding, Indian startup and IT-services news.
+  - India: national politics, policy, government decisions, courts, and major events.
+    Give extra weight to Andhra Pradesh and Telangana news.
+  - World: geopolitics, wars and conflicts, elections, trade, climate and natural disasters.
+  - Markets & money (they are a long-term SIP / index-fund investor): RBI policy, inflation, big
+    Nifty/Sensex moves and why, tax/PF/mutual-fund rule changes, personal-finance news.
+  - IPOs: upcoming and ongoing IPOs with factual details (dates, price band, size, subscription status,
+    listing performance). Report facts only — no "should you apply" verdicts or grey-market hype.
+  - Cricket: Indian team results and squads, major series and tournaments (international and IPL).
+
+  Skip: celebrity/entertainment gossip, clickbait, day-trading tips, individual stock "buy" calls,
+  crypto shilling, minor product updates, and duplicated coverage of the same story.
 
 feeds:
+  # --- India: news & politics ---
+  - { name: The Hindu - National, url: "https://www.thehindu.com/news/national/feeder/default.rss", category: india }
+  - { name: Indian Express - India, url: "https://indianexpress.com/section/india/feed/", category: india }
+  - { name: The Hindu - Andhra Pradesh, url: "https://www.thehindu.com/news/national/andhra-pradesh/feeder/default.rss", category: india-regional }
+  - { name: The Hindu - Telangana, url: "https://www.thehindu.com/news/national/telangana/feeder/default.rss", category: india-regional }
+
+  # --- World ---
+  - { name: BBC World, url: "https://feeds.bbci.co.uk/news/world/rss.xml", category: world }
+  - { name: Al Jazeera, url: "https://www.aljazeera.com/xml/rss/all.xml", category: world }
+
+  # --- Markets, money & IPOs ---
+  - { name: ET Markets, url: "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms", category: markets }
+  - { name: LiveMint Markets, url: "https://www.livemint.com/rss/markets", category: markets }
+  - { name: LiveMint Money, url: "https://www.livemint.com/rss/money", category: personal-finance }
+  - { name: Moneycontrol Business, url: "https://www.moneycontrol.com/rss/business.xml", category: markets }
+  - { name: Moneycontrol IPO News, url: "https://www.moneycontrol.com/rss/iponews.xml", category: ipo }
+
+  # --- Cricket ---
+  - { name: ESPNcricinfo, url: "https://www.espncricinfo.com/rss/content/story/feeds/0.xml", category: cricket }
+
   # --- AI & tech (global) ---
   - { name: Hacker News (150+ pts), url: "https://hnrss.org/frontpage?points=150", category: tech }
   - { name: TechCrunch AI, url: "https://techcrunch.com/category/artificial-intelligence/feed/", category: ai }
@@ -29,23 +60,23 @@ feeds:
   - { name: InfoQ, url: "https://feed.infoq.com/", category: engineering }
   - { name: The Pragmatic Engineer, url: "https://blog.pragmaticengineer.com/rss/", category: engineering }
   - { name: Netflix Tech Blog, url: "https://netflixtechblog.com/feed", category: engineering }
-  - { name: Uber Engineering, url: "https://www.uber.com/blog/engineering/rss/", category: engineering }
+  - { name: Cloudflare Blog, url: "https://blog.cloudflare.com/rss/", category: engineering }
 
-  # --- India tech & markets ---
+  # --- India tech ---
   - { name: Inc42, url: "https://inc42.com/feed/", category: india-tech }
   - { name: ET Tech, url: "https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms", category: india-tech }
-  - { name: LiveMint Markets, url: "https://www.livemint.com/rss/markets", category: markets }
-  - { name: Moneycontrol Business, url: "https://www.moneycontrol.com/rss/business.xml", category: markets }
 
 youtube_channels:
-  # Fill in channel IDs (see note at top). Video titles + descriptions get summarised.
-  # - { name: PrasadTechInTelugu, channel_id: "UCxxxxxxxxxxxxxxxxxxxxxx" }
-  # - { name: DayTraderInTelugu, channel_id: "UCxxxxxxxxxxxxxxxxxxxxxx" }
+  # Video titles + descriptions get summarised (full transcripts are a v2 idea).
+  - { name: PrasadTechInTelugu, channel_id: "UCb-xXZ7ltTvrh9C6DgB9H-Q" }
+  - { name: DayTraderInTelugu, channel_id: "UCeEP6GESh2t4-e2132uj3Sg" }
+  - { name: Dhruv Rathee, channel_id: "UC-CSyyi47VX1lD9zyeABW3w" }
+  - { name: CA Rachana Ranade, channel_id: "UCe3qdG0A_gr-sEdat5y2twQ" }
   - { name: Fireship, channel_id: "UCsBjURrPoezykLs9EqgamOA" }
   - { name: ByteByteGo, channel_id: "UCZgt6AzoyjslHTC9dz0UoTw" }
 
 settings:
   lookback_hours: 26        # a little over a day, so a late cron run doesn't miss items
-  max_items_per_feed: 15
-  max_items_total: 150      # hard cap on what we send to the LLM
-  digest_size: 15           # how many stories end up in the digest
+  max_items_per_feed: 12    # keeps busy news feeds from crowding out the rest
+  max_items_total: 250      # hard cap on what we send to the LLM
+  digest_size: 25           # how many stories end up in the digest
