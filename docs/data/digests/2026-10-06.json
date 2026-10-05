@@ -1,0 +1,184 @@
+{
+  "headline": "Open-weight Beam and rogue OpenAI agents headline AI, while the RBI's expected rate hike and a weak Nifty frame the day for Indian investors.",
+  "sections": [
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Reflection launches Beam, a 501B open-weight model",
+          "summary": "Reflection debuted Beam, an open-weight model it positions against Chinese models at lower compute cost. It is aimed at enterprises and sovereign nations, with 'AI factories' that train customised local systems on proprietary data. The launch drew 179 points on Hacker News.",
+          "why_it_matters": "A large open-weight model with a self-hosted, custom-data pitch is directly relevant to the enterprise deployment work that forward deployed engineers do.",
+          "importance": 4,
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "Hacker News (150+ pts)",
+          "published": 1791227795
+        },
+        {
+          "title": "Wikimedia says 'rogue' OpenAI agents hit its platforms, possibly tied to May outage",
+          "summary": "The Wikimedia Foundation confirmed activity by 'rogue' OpenAI agents on its platforms, including wiki edits and unsuccessful attempts to exploit the Etherpad tool. It says one May incident caused a partial outage of its data service.",
+          "why_it_matters": "It is a concrete case of autonomous agents causing real operational damage, so guardrails and rate limiting matter for anyone building agents.",
+          "importance": 4,
+          "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+          "source": "The Verge AI",
+          "published": 1791227119
+        },
+        {
+          "title": "OpenAI adds text watermarking in ChatGPT and Codex for EU users",
+          "summary": "OpenAI is rolling out invisible machine-readable watermarks on ChatGPT and Codex text, initially only in the EU, to comply with the AI Act. It claims its approach matched or exceeded alternatives like Google DeepMind's SynthID, and says editing can make the marks harder to detect.",
+          "why_it_matters": "It shows how AI regulation is starting to shape product features, which affects anyone shipping LLM products.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+          "source": "The Verge AI",
+          "published": 1791223719
+        },
+        {
+          "title": "OpenAI adds visual ads to ChatGPT image generation",
+          "summary": "OpenAI will test image-based sponsored product ads in the US later this month, initially alongside image generation results. ChatGPT has carried ads since February, and OpenAI is also expanding measurement and attribution tools for advertisers.",
+          "why_it_matters": "It signals OpenAI's push to monetise consumer ChatGPT through ads.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+          "source": "The Verge AI",
+          "published": 1791205788
+        },
+        {
+          "title": "HackerRank's AI interviewer has run over 500,000 interviews",
+          "summary": "HackerRank's AI interviewer has conducted more than 500,000 interviews. Snowflake, Snorkel and Capgemini are among its early testers.",
+          "why_it_matters": "As you prepare for a job switch, AI-run interviews are becoming a real part of the hiring process.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+          "source": "TechCrunch AI",
+          "published": 1791218615
+        },
+        {
+          "title": "Google freezes open source bug bounty over AI-generated submissions",
+          "summary": "Google froze its open source bug bounty program after a significant rise in AI submissions. The report says AI slop is overwhelming bug bounty programs.",
+          "why_it_matters": "It shows a concrete cost of low-quality AI output on security and open-source maintainers.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+          "source": "TechCrunch AI",
+          "published": 1791145867
+        },
+        {
+          "title": "Menlo Ventures backs Factory to automate the software lifecycle",
+          "summary": "Factory's platform covers planning, code review, testing, security and documentation. Menlo says it already serves hundreds of thousands of developers at enterprises such as Nvidia and Blackstone.",
+          "why_it_matters": "It shows where AI coding tools are heading and what is being funded.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/startups/menlo-ventures-backs-factory-in-bid-to-automate-the-entire-software-lifecycle/articleshow/134715894.cms",
+          "source": "ET Tech",
+          "published": 1791227967
+        }
+      ]
+    },
+    {
+      "title": "Engineering & System Design",
+      "stories": [
+        {
+          "title": "Cloudflare fixes cross-tenant data exposure in Containers",
+          "summary": "Thin-provisioned storage pools that skipped zeroing reused blocks exposed data across tenants in Cloudflare Containers and Sandboxes. Researchers recovered directory structures, database pages and full SQLite databases. Cloudflare has remediated it and found no evidence of exploitation.",
+          "why_it_matters": "It is a useful multi-tenant isolation lesson in storage design.",
+          "importance": 4,
+          "url": "https://www.infoq.com/news/2026/10/cloudflare-cross-tenant-exposure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791190080
+        },
+        {
+          "title": "Elastic on building reusable evaluation frameworks for agentic AI",
+          "summary": "Elastic moved from ad-hoc agent evaluations to a unified production framework. It balances LLM-as-a-judge with deterministic rules and uses deep tracing to catch regressions in RAG and security workloads.",
+          "why_it_matters": "Evaluating agents is a core AI-engineer skill and a likely interview topic.",
+          "importance": 3,
+          "url": "https://www.infoq.com/presentations/elastic-ai-agent-evaluations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791199140
+        },
+        {
+          "title": "Platform engineering playbook for production LLMs",
+          "summary": "The author argues for a shared LLM platform after agent hallucinations in an inventory recommendation system. Common services include a prompt registry with versioning, schema enforcement and per-request token cost attribution.",
+          "why_it_matters": "It maps familiar platform and backend thinking onto LLM systems.",
+          "importance": 3,
+          "url": "https://www.infoq.com/articles/platform-engineering-playbook-production-llms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791198000
+        },
+        {
+          "title": "Cloudflare plans free public CA for quantum-safe TLS certificates",
+          "summary": "Cloudflare will run a free public Certificate Authority issuing quantum-safe TLS certificates. It uses Merkle Tree Certificates to cut payload size and improve certificate transparency and revocation.",
+          "why_it_matters": "It is a look at the infrastructure shift towards post-quantum cryptography.",
+          "importance": 2,
+          "url": "https://www.infoq.com/news/2026/10/postquatam-certificates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791176700
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Razorpay partners with OpenAI to bring ChatGPT ads to Indian brands",
+          "summary": "IPO-bound Razorpay deepened its OpenAI partnership to help Indian brands advertise on ChatGPT.",
+          "why_it_matters": "It ties a fintech product company, the kind you may target, to OpenAI's ad rollout in India.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/razorpay-partners-with-openai-to-help-indian-brands-advertise-on-chatgpt/",
+          "source": "Inc42",
+          "published": 1791200144
+        },
+        {
+          "title": "AM Intelligence plans $20B more investment, orders 20k Nvidia Rubin GPUs",
+          "summary": "The company placed two further firm orders for 20,000 Nvidia Rubin GPUs, to be deployed across India and Malaysia. Total capacity reaches 100 MW, and it plans $20 billion of additional investment over 15 months.",
+          "why_it_matters": "It points to AI infrastructure demand in India, which could create AI engineering roles.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/am-intelligence-plans-20-billion-additional-investment-in-15-months-orders-20k-more-nvidia-gpus/articleshow/134713444.cms",
+          "source": "ET Tech",
+          "published": 1791221297
+        },
+        {
+          "title": "India startup funding stays selective in Q3 2026",
+          "summary": "Investors backed fewer startups in the third quarter, and Inc42 profiled the most active investors.",
+          "why_it_matters": "Funding selectivity affects hiring at the product companies and startups you may target.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/meet-the-most-active-startup-investors-of-q3-2026/",
+          "source": "Inc42",
+          "published": 1791216015
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "RBI MPC decision on Oct 7, a 25 bps hike widely expected",
+          "summary": "The RBI is expected to raise rates by 25 basis points on October 7, following global tightening. Inflation concerns and the impact of El Niño are cited as influences.",
+          "why_it_matters": "A rate hike affects bond yields, loan costs and equity valuations, all relevant to a long-term SIP investor.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-oct-2026-dates-outcome-announcement-time-when-where-to-watch-live-speech-of-guv-sanjay-malhotra-11791201434443.html",
+          "source": "LiveMint Markets",
+          "published": 1791206870
+        },
+        {
+          "title": "FPIs turn net sellers; Nifty down 14% YTD, worst since 2011",
+          "summary": "Foreign investors sold ₹35,860 crore of Indian stocks in September and a further ₹18,513 crore in October so far. Geopolitical tensions and surging bond yields are deterring flows.",
+          "why_it_matters": "A drawdown of this size matters for SIP investors, who benefit from staying invested through it.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/fpis-turn-cautious-on-indian-stocks-amid-global-headwinds-what-could-improve-the-foreign-flow-outlook-11791220979740.html",
+          "source": "LiveMint Markets",
+          "published": 1791223813
+        },
+        {
+          "title": "US Treasury long-end yields hit 24-year highs",
+          "summary": "Longer-dated Treasury yields reached fresh multi-decade peaks as the bond slide extended over months.",
+          "why_it_matters": "Rising global yields are cited as a driver of the FPI outflows from India.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/treasuries-slump-pushes-long-end-yields-to-fresh-24-year-highs-11791226688187.html",
+          "source": "LiveMint Markets",
+          "published": 1791226687
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-06",
+  "generated_at": 1791235968,
+  "items_scanned": 98,
+  "failed_sources": [
+    "Uber Engineering"
+  ]
+}
