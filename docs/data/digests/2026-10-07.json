@@ -1,0 +1,402 @@
+{
+  "headline": "RBI hikes repo rate to 5.50% in its first increase in four years as markets wobble, Jio's mega IPO nears, and Mistral and OpenAI headline a busy AI day.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Opposition protests against CEC Gyanesh Kumar escalate",
+          "summary": "Delhi Police detained around 260 INDIA bloc protesters, including 10 MPs, during a demonstration demanding the Chief Election Commissioner's resignation. A further protest is planned at Jantar Mantar on October 10. The Supreme Court has issued a notice to the ECI and the Centre.",
+          "why_it_matters": "A major confrontation over electoral integrity that is now before the Supreme Court.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/cec-row-gyanesh-kumar-india-bloc-march-election-commission-sir-delhi-police-cjp-jantar-mantar-protest-live-updates-october-7-2026/article71554188.ece",
+          "source": "The Hindu - National",
+          "published": 1791355853
+        },
+        {
+          "title": "Pakistan-linked spy network targeted Navy's Eastern Command in Visakhapatnam",
+          "summary": "Pakistani operatives posed as women on Facebook, moved servicemen to WhatsApp and sought ship and submarine movements. Eighteen suspects, including 13 naval personnel, are under probe, and two are in judicial custody till October 14.",
+          "why_it_matters": "A serious security breach centred on Visakhapatnam in Andhra Pradesh.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/how-did-a-pakistan-linked-spy-network-target-navys-eastern-command-and-how-was-it-cracked-explained/article71554274.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1791353429
+        },
+        {
+          "title": "Telangana SIR: pressure on BLOs over Form-7s",
+          "summary": "The Goshamahal ERO warned political parties of action if BLOs are pressured into accepting Form-7s in bulk without applicants' signatures. A case was also registered against a BJP booth-level agent over an alleged attempt to delete 30 voters' names in Musheerabad. The last date for claims and objections in Telangana was October 7.",
+          "why_it_matters": "Voter-roll revision is a live issue in your home state.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/sir-blos-being-forced-to-accept-form-7s-without-signature-of-applicants/article71552172.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1791344365
+        },
+        {
+          "title": "Telangana power tariff hike and TG-Transco stake dilution row",
+          "summary": "BRS leader Harish Rao opposed the reported move to dilute 26% of TG-Transco and the electricity charge hike. He alleged the Congress government plans to privatise TG-Transco, TG-Genco, Singareni and the Discoms.",
+          "why_it_matters": "It affects power bills and state-utility policy in Telangana.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/people-need-relief-during-festive-season-but-they-are-burdened-harish-rao-on-telangana-electricity-charges-hike/article71551793.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1791353372
+        },
+        {
+          "title": "Shree Cement plans ₹6,700 crore investment in Andhra Pradesh",
+          "summary": "The minister said the investment would go to Kadapa, Palnadu and Anakapalli districts. It is expected to create employment for around 3,000 people.",
+          "why_it_matters": "Notable industrial investment in your home state.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/shree-cement-plans-6700-crore-investments-in-ap-minister/article71552026.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1791344993
+        },
+        {
+          "title": "Survey ordered to trace 45 acres missing from records near KCR's farmhouse",
+          "summary": "Telangana ordered a survey of 45 acres missing from records near Survey No. 325. Notices will also seek land records of former CM K. Chandrasekhar Rao and his family.",
+          "why_it_matters": "A politically sensitive land-records probe in Telangana.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/telangana/survey-ordered-to-trace-45-acres-missing-from-records-near-kcrs-farmhouse/article71554143.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1791348911
+        },
+        {
+          "title": "Tamil Nadu CM Vijay faces land-ownership allegations in Madras High Court",
+          "summary": "An election petitioner alleges Vijay claimed ownership over 50 cents of poromboke land in Kodaikanal. He also says the Neelangarai bungalow was acquired through a 2005 settlement deed rather than inherited.",
+          "why_it_matters": "A legal challenge to a sitting chief minister.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-vijay-has-claimed-ownership-over-50-cents-of-poromboke-land-in-kodaikanal-alleges-election-petitioner-before-madras-hc/article71551690.ece",
+          "source": "The Hindu - National",
+          "published": 1791356017
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Drones sink ships near NATO countries, EU says",
+          "summary": "Two cargo ships have sunk and one was set afire, with sailors dead or missing. The EU called the attacks unacceptable.",
+          "why_it_matters": "A serious escalation of maritime security risk in Europe.",
+          "importance": 4,
+          "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+          "source": "Ars Technica",
+          "published": 1791322270
+        },
+        {
+          "title": "Russia launches 'massive' strike on Kyiv",
+          "summary": "At least two people were killed in Kyiv as Russia said it carried out a massive strike on the city and other Ukrainian regions.",
+          "why_it_matters": "The Ukraine war continues to escalate.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1791353966
+        },
+        {
+          "title": "Houthis attack Aden airport; Saudi forces down missile near Riyadh",
+          "summary": "The Yemeni government said a missile hit Aden airport's runway minutes before a flight from Cairo was due to land. Saudi forces downed a missile near Riyadh.",
+          "why_it_matters": "Widening Gulf conflict affects oil and regional stability.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1791355271
+        },
+        {
+          "title": "White House defends Trump's Iran remark about LA and San Diego",
+          "summary": "The White House said Trump was warning of the risk of a nuclear Iran after Gavin Newsom called the remarks 'deranged'.",
+          "why_it_matters": "The Iran war is driving oil prices and global markets.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791317731
+        },
+        {
+          "title": "US death row inmate Christa Pike survives execution attempt",
+          "summary": "Lawyers say Pike is awake and speaking after a failed lethal injection. Experts call the apparent recovery unprecedented.",
+          "why_it_matters": "A major, unprecedented US legal and ethical story.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791356842
+        },
+        {
+          "title": "Francis Halzen wins 2026 Nobel Prize in Physics",
+          "summary": "Halzen led development of the IceCube Neutrino Observatory, which detects 'ghost particles' from space.",
+          "why_it_matters": "The year's top science prize.",
+          "importance": 2,
+          "url": "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/",
+          "source": "Ars Technica",
+          "published": 1791305597
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "RBI raises repo rate 25 bps to 5.50%, first hike in four years",
+          "summary": "The MPC voted unanimously to raise the repo rate from 5.25%. Governor Malhotra cited $734.6 billion forex reserves, 18.1% bank credit growth and $10.3 billion of FPI outflows.",
+          "why_it_matters": "Floating-rate loan EMIs rise and FD rates may follow, which matters for your SIP and debt allocation.",
+          "importance": 5,
+          "url": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-october-2026-repo-rate-hiked-by-25-bps-to-5-50-growth-inflation-forecast-other-key-takeaways-11791344804917.html",
+          "source": "LiveMint Markets",
+          "published": 1791348013
+        },
+        {
+          "title": "Sensex, Nifty fall as RBI hikes rates; banks hold up",
+          "summary": "Sensex dipped 529 points and Nifty 191 points on rising Brent crude and US yields before trimming losses. Bank stocks gained up to 2%, while auto and real estate declined.",
+          "why_it_matters": "Shows how the market took the first hike in four years.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/rbi-mpc-25-bps-rate-hike-impact-on-stock-market-sensex-nifty-fall-experts-reveal-what-investors-should-do-now-11791341499851.html",
+          "source": "LiveMint Markets",
+          "published": 1791348794
+        },
+        {
+          "title": "What the rate hike means for home-loan EMIs",
+          "summary": "Floating-rate borrowers may see higher EMIs, longer tenures or both, depending on the lender's mechanism.",
+          "why_it_matters": "Direct impact on loan costs.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/rbi-repo-rate-hike-how-will-the-25-bps-increase-affect-your-home-loan-emi-experts-explain-11791352919630.html",
+          "source": "LiveMint Money",
+          "published": 1791353925
+        },
+        {
+          "title": "UPI MDR on select merchant transactions above ₹2,000 from 15 October",
+          "summary": "The charge will apply only to select merchant transactions, and consumers will not have to pay it.",
+          "why_it_matters": "A UPI fee change relevant to a fintech engineer and everyday payments.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/upi-mdr-charges-will-newly-introduced-fees-impact-your-diwali-dhanteras-shopping-bills-11791348699822.html",
+          "source": "LiveMint Money",
+          "published": 1791349337
+        },
+        {
+          "title": "EIA raises oil forecasts on the Iran war",
+          "summary": "Brent is expected to average $105 a barrel in Q4 2026 and $84 in 2027, citing tight inventories and limited diesel supply.",
+          "why_it_matters": "High oil weighs on India's inflation and markets.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/eia-raises-oil-price-forecasts-as-iran-war-tightens-global-markets/articleshow/134758136.cms",
+          "source": "ET Markets",
+          "published": 1791354521
+        },
+        {
+          "title": "Motilal Oswal expects Nifty Q2 earnings up 27%",
+          "summary": "This would be the strongest growth in 17 quarters. Persistent FII outflows and global pressures remain risks.",
+          "why_it_matters": "Sets the earnings backdrop for index-fund investors.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/nifty-earnings-seen-rising-27-strongest-growth-in-17-quarters-in-q2-motilal-oswal/articleshow/134758313.cms",
+          "source": "ET Markets",
+          "published": 1791355404
+        },
+        {
+          "title": "RBI lets depositories show bank deposits in consolidated statements",
+          "summary": "SEBI-registered depositories can include bank deposit details alongside securities in a single statement by end-2026. The RBI also approved interoperability among NBFC account aggregators.",
+          "why_it_matters": "Easier consolidated tracking of investments.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-allows-sebi-regulated-depositories-to-include-customer-deposit-details-in-statements-what-changes-for-investors/articleshow/134757684.cms",
+          "source": "ET Markets",
+          "published": 1791353380
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Reliance Jio IPO: ₹37,700 crore issue opens October 21",
+          "summary": "Jio Platforms is raising ₹37,700 crore, with subscriptions expected to begin on October 21. The company has over 524 million customers.",
+          "why_it_matters": "India's largest IPO is imminent.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-rs-37700-crore-mega-issue-full-schedule-5-must-know-details/videoshow/134758557.cms",
+          "source": "ET Markets",
+          "published": 1791355698
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Mistral releases Large 4, a 1T multimodal model",
+          "summary": "Mistral AI released Mistral Large 4, a large multimodal model aiming to leapfrog both American and Chinese rivals. It topped Hacker News with over 1,700 points.",
+          "why_it_matters": "A major model launch to evaluate for AI-engineering work.",
+          "importance": 4,
+          "url": "https://mistral.ai/news/mistral-large-4/\\",
+          "source": "Hacker News (150+ pts)",
+          "published": 1791292549
+        },
+        {
+          "title": "OpenAI publishes 722 math manuscripts from an unreleased model",
+          "summary": "The batch covers 372 result families, extending a run of breakthroughs that have impressed and unsettled mathematicians. It also raises research-ethics questions.",
+          "why_it_matters": "A signal of frontier model capability.",
+          "importance": 4,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+          "source": "The Verge AI",
+          "published": 1791329198
+        },
+        {
+          "title": "Anthropic opens its most powerful models to more security teams",
+          "summary": "Partners under Glasswing found at least 129,000 verified vulnerabilities between April and July. Anthropic's own scanning found 5,500 more.",
+          "why_it_matters": "Shows AI's scale in security work.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams/articleshow/134749345.cms",
+          "source": "ET Tech",
+          "published": 1791313495
+        },
+        {
+          "title": "Google cuts free Gemini access to Flash Lite from October 9",
+          "summary": "Free users will be limited to Flash Lite, and standard Flash requires a $4.99/month AI Plus plan.",
+          "why_it_matters": "Affects free-tier tooling for developers.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+          "source": "The Verge AI",
+          "published": 1791292741
+        },
+        {
+          "title": "Anthropic offers startups a free year of Claude Team plus $1,000 credits",
+          "summary": "The program targets companies building on top of models.",
+          "why_it_matters": "Useful for anyone prototyping an AI product.",
+          "importance": 2,
+          "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+          "source": "TechCrunch AI",
+          "published": 1791302400
+        },
+        {
+          "title": "Ray Dalio warns the AI bubble may burst as rates rise",
+          "summary": "Speaking in Singapore, Dalio said a huge amount of debt is funding AI, and rising rates are where the bubble begins to pop.",
+          "why_it_matters": "Funding risk matters for AI jobs.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/billionaire-ray-dalio-says-were-nearing-point-where-ai-bubble-may-burst/articleshow/134756519.cms",
+          "source": "ET Tech",
+          "published": 1791349511
+        },
+        {
+          "title": "Lambda raising $4B ahead of 2027 IPO",
+          "summary": "The Nvidia-backed company is raising up to $4 billion at a $14.5 billion pre-money valuation, led by Coatue and Blackstone.",
+          "why_it_matters": "Shows continued capital flow into AI infrastructure.",
+          "importance": 2,
+          "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+          "source": "TechCrunch AI",
+          "published": 1791316830
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Google's Spanner Omni reaches GA",
+          "summary": "The distributed SQL database now runs on-premises, across clouds or on a laptop. Google replaced Colossus and TrueTime with software equivalents, and there is no availability SLA.",
+          "why_it_matters": "A significant distributed-systems and GCP development.",
+          "importance": 4,
+          "url": "https://www.infoq.com/news/2026/10/spanner-omni-deploy-anywhere-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791348180
+        },
+        {
+          "title": "Hackers obtain counterfeit TLS certificates for Google and others",
+          "summary": "A compromise of three domain registries let hackers obtain unauthorized certs.",
+          "why_it_matters": "A serious web-security issue.",
+          "importance": 3,
+          "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+          "source": "Ars Technica",
+          "published": 1791314474
+        },
+        {
+          "title": "DNS root key-signing key rolls over on October 11",
+          "summary": "The root switches to KSK-2024, and RFC 8509 trust anchor sentinels can test whether a resolver is ready.",
+          "why_it_matters": "Resolvers that are not ready could break.",
+          "importance": 3,
+          "url": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
+          "source": "Cloudflare Blog",
+          "published": 1791309011
+        },
+        {
+          "title": "OpenTelemetry Kubernetes Attributes Processor hits v1.0.0",
+          "summary": "The processor is now stable, making Kubernetes telemetry more predictable across observability pipelines.",
+          "why_it_matters": "Relevant to production observability.",
+          "importance": 2,
+          "url": "https://www.infoq.com/news/2026/10/opentelemetry-kubernetes-observ/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791288000
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Hyderabad edtech byteXL raises $9M",
+          "summary": "The round was led by Elevar Equity, with Kalaari Capital and the Michael & Susan Dell Foundation participating. It will take tech and AI skilling to more engineering colleges.",
+          "why_it_matters": "Hyderabad AI-skilling startup funding.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/bytexl-raises-9-mn-to-take-tech-ai-skilling-to-more-engineering-colleges/",
+          "source": "Inc42",
+          "published": 1791351485
+        },
+        {
+          "title": "AI research startup FYDY in talks to raise $12M",
+          "summary": "The stealth startup is in advanced talks with Lightspeed and General Catalyst.",
+          "why_it_matters": "Indian frontier-AI research funding.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/fydy-in-talks-to-raise-12-mn-from-lightspeed-general-catalyst/",
+          "source": "Inc42",
+          "published": 1791294090
+        },
+        {
+          "title": "Boston Dynamics names ex-Amazon executive Rohit Prasad CEO",
+          "summary": "The appointment is effective October 7. Boston Dynamics is owned by Hyundai Motor Group.",
+          "why_it_matters": "A leadership change in robotics.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/humanoid-robot-maker-boston-dynamics-appoints-ex-amazon-executive-rohit-prasad-as-ceo/articleshow/134755782.cms",
+          "source": "ET Tech",
+          "published": 1791346987
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India recall Bhuvneshwar Kumar for New Zealand T20Is",
+          "summary": "Varun Chakravarthy is also back, and Ravi Bishnoi has been left out.",
+          "why_it_matters": "The T20I squad for the New Zealand tour.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1557336.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1791346006
+        },
+        {
+          "title": "Harmanpreet Kaur steps down; Mandhana named captain across formats",
+          "summary": "Harmanpreet, 37, stepped down as India captain. Smriti Mandhana was appointed captain across formats.",
+          "why_it_matters": "A major change in the women's team's leadership.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1557275.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1791297229
+        },
+        {
+          "title": "India A red-ball squad for New Zealand named",
+          "summary": "Dhruv Jurel captains, with Rahul and Jaiswal included. Rishabh Pant is picked subject to fitness.",
+          "why_it_matters": "A Test-selection pointer.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1557353.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1791305392
+        },
+        {
+          "title": "Ganguly takes charge as Delhi Capitals head coach",
+          "summary": "Rishabh Pant returns to Delhi Capitals from Lucknow Super Giants, and Yuvraj Singh is expected to join as batting coach.",
+          "why_it_matters": "A big IPL reshuffle.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1557286.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1791337303
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-07",
+  "generated_at": 1791357230,
+  "items_scanned": 174,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
