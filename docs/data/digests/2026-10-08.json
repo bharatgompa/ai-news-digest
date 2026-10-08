@@ -1,0 +1,357 @@
+{
+  "headline": "RBI hikes repo rate 25 bps to 5.50% and Indian markets slide, OpenAI ships GPT-6 and Anthropic Haiku 5.5, while Andhra declares early kharif drought.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Andhra Pradesh declares early kharif drought in 388 mandals",
+          "summary": "The State cites a 53.4% rainfall deficit between June and August and El Niño conditions. Across 21 districts, 283 mandals are classified as severely drought-affected.",
+          "why_it_matters": "Major hit to Andhra's farm economy and a likely trigger for relief measures in your home state.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-declares-early-kharif-drought-in-388-mandals-across-21-districts/article71558175.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1791440792
+        },
+        {
+          "title": "CEC row escalates: Rahul Gandhi says he won't stop until Gyanesh Kumar resigns",
+          "summary": "Student groups and others plan a united mobilisation against the Chief Election Commissioner ahead of an October 10 protest. Fresh FIRs have been filed against Rahul and Priyanka Gandhi over Tuesday's protest, and Telangana Congress leaders plan solidarity deeksha. Revanth Reddy called Kumar an 'instrument' of Modi.",
+          "why_it_matters": "The SIR and election-commission fight is dominating national politics and is playing out in Telangana too.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/cec-gyanesh-kumar-india-bloc-congress-jantar-mantar-rahul-priyanka-gandhi-detention-cjp-protest-live-updates/article71558244.ece",
+          "source": "The Hindu - National",
+          "published": 1791443482
+        },
+        {
+          "title": "Andhra local body polls: YSRCP wants all-party meeting",
+          "summary": "YSRCP urges the SEC to call an all-party meeting before notification, citing delays in caste certificates. It also seeks Central forces and wants ward-wise rolls prepared only after SIR is completed. Separately, the DGP asked police in four Godavari districts to use drones and step up intelligence ahead of the polls.",
+          "why_it_matters": "Sets up the next political contest in Andhra Pradesh.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-ysrcp-urges-sec-to-call-all-party-meeting-before-notification/article71555779.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1791439313
+        },
+        {
+          "title": "Telangana's MeeSeva moved from Oracle to open-source PostgreSQL",
+          "summary": "The migration, completed in April 2026, shows both the potential savings and the technical and administrative hurdles of moving mission-critical government systems off proprietary software.",
+          "why_it_matters": "A real-world backend database migration case from your home state, relevant to your engineering work.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/how-telanganas-meeseva-migration-to-open-source-could-make-governments-rethink-software-costs/article71541810.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1791425875
+        },
+        {
+          "title": "Andhra plans Japan-style industrial clusters",
+          "summary": "The State has a pipeline of 714 projects worth ₹22.6 lakh crore with potential for 19.3 lakh jobs, per Industries Minister T.G. Bharath. The clusters aim to link MSMEs to global supply chains.",
+          "why_it_matters": "Signals Andhra's industrial and job-creation push.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-plans-japan-style-industrial-clusters-to-link-msmes-to-global-supply-chains-says-tg-bharath/article71555767.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1791438418
+        },
+        {
+          "title": "Centre rejects Musk's claim on Starlink",
+          "summary": "The Centre said satcom rules are non-discriminatory, rejecting Elon Musk's allegation that unnamed oligarchs are blocking Starlink's launch in India.",
+          "why_it_matters": "Policy signal on satellite internet and big-tech dealings in India.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/centre-rejects-elon-musks-claim-on-starlink-says-satcom-rules-non-discriminatory/",
+          "source": "Inc42",
+          "published": 1791438682
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Houthi attacks on Saudi airports kill three",
+          "summary": "Officials say three people were killed in Houthi attacks on Saudi Arabia airports. The Houthis claimed responsibility, marking an escalation in the conflict.",
+          "why_it_matters": "Escalation near Gulf energy and aviation hubs can lift oil prices, which already weigh on India.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791430355
+        },
+        {
+          "title": "Three years on, how October 7 redrew the Middle East",
+          "summary": "Three years of war have upended alliances, weakened US influence and reshaped the region's power balance. Global protests marked the anniversary with calls for a Gaza ceasefire.",
+          "why_it_matters": "Context for the region's geopolitics and energy risks.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1791439884
+        },
+        {
+          "title": "Single Ebola death in Kenya raises fears of wider spread",
+          "summary": "WHO says the Kenyan patient first fell ill in the DRC, where they lived and were treated.",
+          "why_it_matters": "Early-stage outbreak worth watching for regional spread.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/10/8/why-single-ebola-death-in-kenya-has-sparked-fears-of-wider-african-spread?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1791437674
+        },
+        {
+          "title": "Margaret Hamilton, Apollo 11 software pioneer, dies at 90",
+          "summary": "The computer scientist led development of the software that helped land Apollo 11 on the Moon and received the Presidential Medal of Freedom.",
+          "why_it_matters": "A foundational figure of software engineering.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791436240
+        },
+        {
+          "title": "UK diplomats to leave East Jerusalem consulate; building stays open",
+          "summary": "Israel says most UK diplomats must leave the consulate, responding to UK sanctions on settlements. Miliband says the building will remain open as a mission with vital services continuing.",
+          "why_it_matters": "A diplomatic rift between Israel and the UK over the West Bank.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791443175
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Sensex, Nifty slump after RBI hike; over ₹7 lakh cr wiped out",
+          "summary": "Nifty fell about 1% and Sensex nearly 700 points on October 8, as RBI's hawkish hike, rising crude, foreign selling and inflation worries weighed. IT stocks rose ahead of TCS results.",
+          "why_it_matters": "Nifty is down about 14% in 2026, which matters for your SIP and index holdings.",
+          "importance": 5,
+          "url": "https://www.livemint.com/market/stock-market-news/stock-market-crash-terrible-thursday-for-sensex-nifty-as-over-rs-7-lakh-cr-investors-wealth-eroded-what-went-wrong-11791442321941.html",
+          "source": "LiveMint Markets",
+          "published": 1791442420
+        },
+        {
+          "title": "RBI raises repo rate 25 bps to 5.50%",
+          "summary": "RBI made a precautionary hike to curb demand as inflation is set to inch up. PNB, Indian Bank, Bank of Baroda and others have already raised lending rates. Axis MF suggests 1-3 year high-quality corporate bonds for debt investors.",
+          "why_it_matters": "Pushes up EMIs and bond yields and changes the debt-fund calculus.",
+          "importance": 5,
+          "url": "https://www.livemint.com/money/personal-finance/rbi-monetary-policy-repo-rate-hike-inflation-loans-deposits-11791381958678.html",
+          "source": "LiveMint Money",
+          "published": 1791431806
+        },
+        {
+          "title": "UPI MDR rollout may slip to January 2027",
+          "summary": "The 0.4% fee on eligible merchant payments above ₹2,000 may be delayed from October 15 to January 2027, while consumers stay exempt. Paytm shares fell 10% on the reports.",
+          "why_it_matters": "Matters for fintech and payments, your own domain.",
+          "importance": 4,
+          "url": "https://www.livemint.com/money/personal-finance/upi-mdr-rollout-delayed-0-4-fee-on-payments-above-2-000-may-start-in-january-2027-11791440269900.html",
+          "source": "LiveMint Money",
+          "published": 1791441277
+        },
+        {
+          "title": "TCS kicks off Q2 earnings season today",
+          "summary": "IT stocks rose up to 3% ahead of TCS results and interim dividend. Analysts expect modest sequential revenue growth with currency tailwinds supporting margins.",
+          "why_it_matters": "Sets the tone for IT services demand and hiring.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-hcl-tech-other-it-stocks-jump-up-to-3-despite-weak-market-sentiment-what-to-expect-as-q2-earnings-season-begins/articleshow/134781427.cms",
+          "source": "ET Markets",
+          "published": 1791439011
+        },
+        {
+          "title": "Emerging markets see first foreign outflow since June",
+          "summary": "Foreign investors pulled $26.3 billion from EM stocks and bonds in September per IIF, as a hawkish Fed lifted Treasury yields and the dollar.",
+          "why_it_matters": "Explains the FPI selling pressure on Indian equities.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ems-see-first-foreign-outflow-since-june-as-fed-turns-hawkish/articleshow/134781013.cms",
+          "source": "ET Markets",
+          "published": 1791437637
+        },
+        {
+          "title": "FD details to be added to consolidated account statement",
+          "summary": "RBI's initiative will give investors a single view of bank deposits and investments, expected by 31 December 2026.",
+          "why_it_matters": "Simpler tracking of your overall portfolio.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/fd-details-to-soon-be-included-in-consolidated-account-statement-says-rbi-what-it-means-for-investors-11791421790743.html",
+          "source": "LiveMint Money",
+          "published": 1791425522
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Jio Platforms IPO due this month",
+          "summary": "Reliance's share price implies a 25-36% discount on its two-thirds Jio stake, per analysis. The Jio Platforms IPO is set for this month.",
+          "why_it_matters": "Likely to be India's biggest IPO.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/ipo/reliance-industries-share-price-jio-platforms-ipo-11791435313094.html",
+          "source": "LiveMint Markets",
+          "published": 1791436026
+        },
+        {
+          "title": "Ola Electric ₹1,000 cr rights issue opens October 22",
+          "summary": "Priced at ₹27 per share, the rights issue opens October 22 and closes October 30.",
+          "why_it_matters": "Dates and price for a live capital raise.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/ola-electrics-%e2%82%b91000-cr-rights-issue-to-open-on-october-22-issue-price-set-at-%e2%82%b927/",
+          "source": "Inc42",
+          "published": 1791383936
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "OpenAI launches GPT-6 and Intelligent UI for everyone",
+          "summary": "ChatGPT can now answer with interactive visuals such as diagrams, charts, forms and buttons, rolling out to all users alongside GPT-6.",
+          "why_it_matters": "A major model launch that shifts the baseline for AI product work.",
+          "importance": 5,
+          "url": "https://openai.com/index/gpt-6-for-everyone/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1791396058
+        },
+        {
+          "title": "Anthropic launches Claude Haiku 5.5",
+          "summary": "The third Claude 5.5 model targets classification, summarization and extraction, including voice agents and live support. It costs 75% less than Haiku 4.5, ahead of a planned IPO.",
+          "why_it_matters": "Cheaper fast models change agent economics.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-third-claude-5-5-model-expanding-ai-lineup-before-planned-ipo/articleshow/134773835.cms",
+          "source": "ET Tech",
+          "published": 1791399787
+        },
+        {
+          "title": "Mistral's open-weight 'Le Chonk' challenges top models",
+          "summary": "Mistral says it can rival top closed models while remaining open-weight.",
+          "why_it_matters": "Open-weight competition is intensifying.",
+          "importance": 3,
+          "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+          "source": "Ars Technica",
+          "published": 1791382357
+        },
+        {
+          "title": "Microsoft adds agent controls to Windows, launches Surface Laptop Ultra",
+          "summary": "Microsoft Execution Containers aim to stop agents accessing data or doing unauthorised tasks on a PC. Surface Laptop Ultra starts at $2,599 and runs on Nvidia RTX Spark.",
+          "why_it_matters": "OS-level agent sandboxing is relevant to agent engineering.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-brings-more-ai-to-pcs-as-it-challenges-apple/articleshow/134773844.cms",
+          "source": "ET Tech",
+          "published": 1791399941
+        },
+        {
+          "title": "Nous Research hits $1.5B valuation",
+          "summary": "The Hermes Agent developer raised a $90M Series B and launched AI agents for business users.",
+          "why_it_matters": "Funding keeps flowing into agent companies.",
+          "importance": 2,
+          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+          "source": "TechCrunch AI",
+          "published": 1791406125
+        },
+        {
+          "title": "Common Sense calls ChatGPT for Teens an 'unacceptable risk'",
+          "summary": "Testing found some safeguards don't work as promised and the bot keeps teens engaged during crises.",
+          "why_it_matters": "Safety scrutiny of AI products is increasing.",
+          "importance": 2,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+          "source": "The Verge AI",
+          "published": 1791363600
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Grab cuts Counter Service p99 latency by 50%",
+          "summary": "Grab moved from a wide column database to Aerospike using shadow traffic and data parity validation. It reports 1 TB versus 3 TB of disk and 45-50% lower cost per node.",
+          "why_it_matters": "A practical migration playbook for high-volume backends.",
+          "importance": 4,
+          "url": "https://www.infoq.com/news/2026/10/grab-counter-aerospike-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791383400
+        },
+        {
+          "title": "Session-ordered Kafka pipeline in Go",
+          "summary": "A custom design provides session-level ordering over Kafka partitions across thousands of channels, using consistent hashing, retries and contiguous watermark commits.",
+          "why_it_matters": "Directly relevant to your Kafka work.",
+          "importance": 4,
+          "url": "https://www.infoq.com/articles/apache-kafka-golang-session-ordered-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791363600
+        },
+        {
+          "title": "Survey: AI-generated code shifts bottleneck to debugging",
+          "summary": "A Coleman Parkes survey for Undo found AI coding agents sped up code generation but increased debugging, comprehension and maintenance burdens.",
+          "why_it_matters": "Shows where engineering value is shifting.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/survey-complex-codebases-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791396000
+        },
+        {
+          "title": "Cloudflare uses AI harness to probe its WAF",
+          "summary": "Frontier models in a controlled harness use blocked attacks as starting points to generate and refine new variations.",
+          "why_it_matters": "Example of agentic security testing in production.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/cloudflare-sec-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791357660
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Amazon makes fresh job cuts in retail",
+          "summary": "Amazon confirmed a small number of cuts, mainly in its Stores unit.",
+          "why_it_matters": "Continuing layoffs affect the hiring climate.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/amazon-makes-fresh-job-cuts-mainly-in-retail-division/articleshow/134777857.cms",
+          "source": "ET Tech",
+          "published": 1791425525
+        },
+        {
+          "title": "CoreWeave enters India with AdaniConneX",
+          "summary": "The AI cloud provider plans 240 MW of data centre capacity in India.",
+          "why_it_matters": "Signals AI infrastructure investment and job demand in India.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/coreweave-enters-india-partners-adaniconnex-for-240-mw-data-centre-capacity/",
+          "source": "Inc42",
+          "published": 1791442226
+        },
+        {
+          "title": "Indian late-stage startup funding dips",
+          "summary": "Funding stabilised in Q3, but late-stage VCs turned risk averse.",
+          "why_it_matters": "Affects hiring at product startups.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/late-stage-funding-dips-swish-takes-on-zomato-more/",
+          "source": "Inc42",
+          "published": 1791426621
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "Afghanistan face Bangladesh in rare Test",
+          "summary": "Afghanistan start afresh under new captain Rahmat Shah, while Bangladesh have form concerns despite their win in Darwin.",
+          "why_it_matters": "Test action to follow.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1557588.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1791441473
+        },
+        {
+          "title": "Hopes and Haddin leave Punjab Kings coaching staff",
+          "summary": "Both are currently coaching Queensland and New South Wales in the Sheffield Shield.",
+          "why_it_matters": "IPL coaching change ahead of the next season.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1557596.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1791442318
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-08",
+  "generated_at": 1791444227,
+  "items_scanned": 192,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
