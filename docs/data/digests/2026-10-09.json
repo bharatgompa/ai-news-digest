@@ -1,0 +1,393 @@
+{
+  "headline": "Indian markets reel from a ~₹30 lakh crore drawdown while Hexaware's Anthropic pact lifts IT stocks, and OpenAI's revenue and research credibility take hits.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Telangana may see net deletion of 70 lakh+ names under SIR",
+          "summary": "The Hindu reports Telangana could see a net deletion of 70 lakh names or more from its electoral rolls in the SIR exercise. Separately, KTR has sought a Supreme Court probe into the SIR process and demanded CEC Gyanesh Kumar's removal.",
+          "why_it_matters": "Directly affects voter rolls in your home state and is a live political fight.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/telangana/sir-telangana-may-witness-net-deletion-of-close-to-70-lakh-names-from-electoral-rolls/article71560770.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1791485139
+        },
+        {
+          "title": "Bypoll results: BJP widens lead in West Bengal, TVK ahead in Tamil Nadu",
+          "summary": "Counting is underway in the bypolls. BJP is widening its lead in West Bengal and TVK leads in Tamil Nadu, while CM Rangasamy's AINRC has won in Puducherry.",
+          "why_it_matters": "An early read on the political mood in key states.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/byelection-bypoll-results-nandigram-rejinagar-madurantakam-dharapuram-thattanchavady-nagaon-live-updates-october-9-2026/article71562394.ece",
+          "source": "The Hindu - National",
+          "published": 1791530308
+        },
+        {
+          "title": "Supreme Court on West Bengal SIR: hear deleted voters seeking re-inclusion first",
+          "summary": "The Court suggested tribunals should first hear lakhs of voters seeking inclusion in the West Bengal roll, with exclusion appeals taken up last.",
+          "why_it_matters": "Sets the process for how SIR disputes are handled nationally.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-sir-supreme-court-mulls-having-tribunals-first-hear-deleted-voters-seeking-re-inclusion/article71562834.ece",
+          "source": "The Hindu - National",
+          "published": 1791529310
+        },
+        {
+          "title": "Bhatti seeks protection of states' revenues in GST reforms",
+          "summary": "Telangana Deputy CM Bhatti said GST is about 35% of the state's own tax revenue, so any fall in collections would hit spending on schools, hospitals and welfare.",
+          "why_it_matters": "State finances shape welfare and infrastructure spending in Telangana.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/bhatti-seeks-protection-of-states-revenues-in-gst-reforms/article71560866.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1791501641
+        },
+        {
+          "title": "Assam student found dead near tracks in Srikakulam",
+          "summary": "The student, who had called home about drunken men in her train coach, was found dead. Police say she may have fallen, her family alleges murder, and the SP has formed special teams.",
+          "why_it_matters": "A safety case in Andhra Pradesh drawing public attention.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/assam-student-who-called-home-about-drunken-men-in-train-coach-found-dead-near-tracks-in-andhras-srikakulam/article71562492.ece",
+          "source": "The Hindu - National",
+          "published": 1791529103
+        },
+        {
+          "title": "Govt to release AI regulation consultation paper: Vaishnaw",
+          "summary": "IT Minister Ashwini Vaishnaw said the government is preparing a consultation paper on AI regulation.",
+          "why_it_matters": "Regulation will shape the AI jobs and products you work toward.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/govt-to-release-consultation-paper-on-ai-regulation-vaishnaw/",
+          "source": "Inc42",
+          "published": 1791468660
+        },
+        {
+          "title": "NCC bags ₹1,286 crore Hyderabad Radial Road-2 order",
+          "summary": "NCC won a ₹1,286.03 crore order from Hyderabad Growth Corridor Limited to build Radial Road-2 from ORR near Budwel to Nacharam. Its shares rose about 5%.",
+          "why_it_matters": "Major Hyderabad infrastructure project.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/ncc-shares-jump-5-on-rs-1286-crore-telangana-road-project-order/articleshow/134807647.cms",
+          "source": "ET Markets",
+          "published": 1791520738
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Trump says US won't strike Iran before midterms",
+          "summary": "Trump dismissed speculation of military action against Iran before the midterm elections, and oil prices dropped.",
+          "why_it_matters": "Oil prices have been a key driver of the Indian market slump.",
+          "importance": 4,
+          "url": "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1791526927
+        },
+        {
+          "title": "Russian strike on buses in Kramatorsk kills at least 30",
+          "summary": "Ukraine says Russia targeted two crowded vehicles in Kramatorsk, killing at least 30 as deadly attacks surge.",
+          "why_it_matters": "Escalation in the war.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791477089
+        },
+        {
+          "title": "ICE shooting in New York sparks protests",
+          "summary": "ICE agents shot a man after surrounding his vehicle with a five-year-old inside. The mayor, governor and lawmakers condemned it, while DHS says it was an arrest of a 'criminal illegal alien'.",
+          "why_it_matters": "Immigration enforcement is a live issue for Indians in the US.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791519979
+        },
+        {
+          "title": "Pentagon to livestream firing squad execution",
+          "summary": "Pete Hegseth says the execution will be public, though a legal expert calls it unprecedented and on uncertain legal terrain.",
+          "why_it_matters": "A notable legal and policy controversy.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791529505
+        },
+        {
+          "title": "Spain housing protests as PM calls snap election",
+          "summary": "Hundreds have camped in central Madrid blaming 'vulture funds' for the housing crisis, and the PM has called a snap election.",
+          "why_it_matters": "European political shift.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791486606
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Sensex, Nifty lose ~₹30 lakh crore in under six weeks",
+          "summary": "Surging oil prices, elevated bond yields and FII selling have driven the fall, and Nifty is still struggling against bearish trends. Experts say a rebound depends on the health of the broader economy.",
+          "why_it_matters": "Context for your SIP portfolio's drawdown.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-crash-wipes-off-rs-30-lakh-crore-from-dalal-street-in-less-than-6-weeks-what-can-trigger-a-rebound/articleshow/134808073.cms",
+          "source": "ET Markets",
+          "published": 1791521363
+        },
+        {
+          "title": "Kalpen Parekh: SIPs may slow but investors unlikely to quit without a big correction",
+          "summary": "The DSP MF head said SIP flows remain resilient, though prolonged weak returns could test faith. He advises focusing on time horizon, asset allocation and downside risks.",
+          "why_it_matters": "Directly relevant to a long-term SIP investor.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/kalpen-parekh-dsp-mutual-fund-sip-inflows-systematic-investment-plans-equity-markets-asset-allocation-mutual-funds-11791481524802.html",
+          "source": "LiveMint Markets",
+          "published": 1791522942
+        },
+        {
+          "title": "Govt caps trade margins on cancer drugs at 30%",
+          "summary": "Margins on non-scheduled anti-cancer drugs are capped at 30%, potentially cutting prices by 20-70% and saving patients ₹2,500 crore a year. Hospital stocks rose up to 5%, as brokerages see manageable earnings impact.",
+          "why_it_matters": "A significant healthcare cost policy move.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/fortis-healthcare-apollo-hospitals-max-medanta-shares-rise-should-investors-buy-after-30-cancer-drug-price-cap-11791528628172.html",
+          "source": "LiveMint Markets",
+          "published": 1791530353
+        },
+        {
+          "title": "Many diversified equity funds negative YTD in 2026",
+          "summary": "Several diversified equity funds are in the red this year, though the picture changes sharply over three- and five-year periods.",
+          "why_it_matters": "Puts your SIP returns in perspective.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/diversified-equity-mutual-funds-in-the-red-october-2026-which-schemes-have-negative-ytd-3-and-5-year-cagr-returns-11791481593491.html",
+          "source": "LiveMint Money",
+          "published": 1791483904
+        },
+        {
+          "title": "PFRDA chief on next phase of NPS",
+          "summary": "PFRDA chief S. Ramann outlined a proposed retirement income scheme, more annuity competition, NPS Swasthya and gig-worker access.",
+          "why_it_matters": "Affects retirement planning options.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/pfrda-chief-nps-ris-retirement-income-annuity-plans-11791438605435.html",
+          "source": "LiveMint Money",
+          "published": 1791516659
+        },
+        {
+          "title": "Paytm, Pine Labs, MobiKwik slide on UPI MDR delay reports",
+          "summary": "Paytm closed 5.4% lower at ₹1,640 on reports that UPI MDR will be delayed.",
+          "why_it_matters": "Matters for fintech economics.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/fintech-stocks-slide-amid-reports-of-upi-mdr-delay/",
+          "source": "Inc42",
+          "published": 1791448551
+        },
+        {
+          "title": "RBI governor eases worries on new FEMA reporting rules",
+          "summary": "Governor Sanjay Malhotra clarified the new foreign exchange reporting framework for individuals' transactions, easing concerns among freelancers and startups.",
+          "why_it_matters": "Relevant if you receive foreign income or work with global firms.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/new-fema-rules-explained-what-freelancers-creators-and-saas-startups-need-to-know/",
+          "source": "Inc42",
+          "published": 1791445804
+        },
+        {
+          "title": "SEBI introduces credit risk-o-meter for corporate bonds",
+          "summary": "The new meter classifies bonds and other debt instruments into six credit-risk levels, like the mutual fund risk-o-meter.",
+          "why_it_matters": "Helps assess bond risk.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/investing-in-corporate-bonds-through-obpps-how-to-read-sebis-new-mutual-fund-like-credit-risk-o-meter-experts-explain-11791484632093.html",
+          "source": "LiveMint Money",
+          "published": 1791491100
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Nvidia-backed Firmus scraps $5 billion IPO",
+          "summary": "Firmus withdrew its planned $5 billion IPO, raising valuation concerns. Maas Group shares fell about 11%.",
+          "why_it_matters": "A signal on AI infrastructure valuations in public markets.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-maas-group-shares-plunge-11-after-nvidia-backed-firmus-scraps-5-billion-ipo/articleshow/134814805.cms",
+          "source": "ET Markets",
+          "published": 1791527183
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Hexaware signs multi-year Anthropic partnership; shares surge 11%",
+          "summary": "Hexaware will integrate Claude into its platforms for enterprise AI in IT operations and software engineering.",
+          "why_it_matters": "Shows IT services firms pivoting to AI work, relevant to AI/FDE roles.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/hexaware-technologies-shares-surge-11-on-multi-year-pact-with-anthropic/articleshow/134808414.cms",
+          "source": "ET Markets",
+          "published": 1791521768
+        },
+        {
+          "title": "Google launches Gemini agent for work",
+          "summary": "The agent can plan and execute tasks across business apps, delegate to subagents, use multiple models, and has its own workplace identity with an email address.",
+          "why_it_matters": "A major enterprise agent launch.",
+          "importance": 4,
+          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "source": "TechCrunch AI",
+          "published": 1791483480
+        },
+        {
+          "title": "OpenAI revenue lower than reported; math results withdrawn",
+          "summary": "Annualized revenue nears $50 billion, below earlier reports of about $70 billion. Separately, OpenAI withdrew three mathematical results.",
+          "why_it_matters": "Shapes how you read AI-lab hype and the sector's economics.",
+          "importance": 4,
+          "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+          "source": "TechCrunch AI",
+          "published": 1791483582
+        },
+        {
+          "title": "Fired OpenAI security researchers dispute claims, warn of chilling effect",
+          "summary": "Three fired researchers say they were let go for raising AI risk concerns and dispute mishandling allegations in an open letter.",
+          "why_it_matters": "Concerns AI safety culture.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+          "source": "TechCrunch AI",
+          "published": 1791489866
+        },
+        {
+          "title": "Anthropic updates usage policy",
+          "summary": "The policy now bans sustained abusive behavior toward Claude and addresses election interference, weapons development and surveillance.",
+          "why_it_matters": "Governs how you can build on Claude.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+          "source": "The Verge AI",
+          "published": 1791478800
+        },
+        {
+          "title": "Anthropic offers free AI security scans for open-source projects",
+          "summary": "OSS Scanner gives opted-in open-source projects periodic security scans by Anthropic's strongest models at no cost.",
+          "why_it_matters": "A practical use of AI in security tooling.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+          "source": "The Verge AI",
+          "published": 1791496431
+        },
+        {
+          "title": "SoftBank seeks up to $100 billion from Gulf investors",
+          "summary": "The FT reports Masayoshi Son is seeking to raise up to $100 billion from Gulf investors to expand his AI bet.",
+          "why_it_matters": "Shows the scale of AI capital flows.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-seeks-100-billion-from-gulf-investors/articleshow/134808949.cms",
+          "source": "ET Tech",
+          "published": 1791522141
+        },
+        {
+          "title": "CoreWeave enters India with AdaniConneX, 240 MW",
+          "summary": "CoreWeave announced India entry, partnering AdaniConneX for 240 MW of data centre capacity.",
+          "why_it_matters": "Signals AI infrastructure demand and jobs in India.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/coreweave-enters-india-partners-adaniconnex-for-240-mw-data-centre-capacity/",
+          "source": "Inc42",
+          "published": 1791442226
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Cloudflare K2: event streaming on R2",
+          "summary": "K2 is in public beta as a serverless durable-log streaming service on R2, with about one second p99 produce latency claimed. A tester measured end-to-end p99 of 7.5 seconds.",
+          "why_it_matters": "Relevant to Kafka-style systems.",
+          "importance": 4,
+          "url": "https://www.infoq.com/news/2026/10/cloudflare-k2-serverless-streams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791522360
+        },
+        {
+          "title": "Multi-agent patterns from Spotify Ads using Google ADK Java",
+          "summary": "A talk covers production multi-agent architecture, agent boundaries, deterministic guardrails, tracing-based evaluation and cost control.",
+          "why_it_matters": "Java agent patterns applicable to AI engineering.",
+          "importance": 3,
+          "url": "https://www.infoq.com/presentations/spotify-multi-agent-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791457200
+        },
+        {
+          "title": "Let's Encrypt cuts certificate lifetimes to 64 days from February 2027",
+          "summary": "Free TLS certificate lifetimes will drop to 64 days.",
+          "why_it_matters": "Backend teams need automated renewal.",
+          "importance": 3,
+          "url": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
+          "source": "Ars Technica",
+          "published": 1791489437
+        },
+        {
+          "title": "Firebase iOS SDK outage and poor response",
+          "summary": "A backend change crashed apps using Firebase analytics for 2-6 hours. Google did not update the status page and posted a postmortem four days later.",
+          "why_it_matters": "A useful outage case study.",
+          "importance": 3,
+          "url": "https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/",
+          "source": "The Pragmatic Engineer",
+          "published": 1791478597
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Green Card curbs could speed India's shift to high-value tech work: Karnataka minister",
+          "summary": "Priyank Kharge expects tighter US mobility to expand GCCs, bring more R&D mandates to Indian cities, and raise demand for senior tech professionals.",
+          "why_it_matters": "Bearing on product-company hiring in India.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/karnataka/us-green-card-curbs-could-accelerate-indias-shift-to-high-value-tech-work-karnatakas-it-minister/article71562786.ece",
+          "source": "The Hindu - National",
+          "published": 1791529927
+        },
+        {
+          "title": "Nifty IT jumps 3%, TCS up almost 6% after Q2 results",
+          "summary": "TCS reported Q2 revenue of ₹73,188 crore, up 11.2% YoY, with net profit up 15% to ₹13,884 crore.",
+          "why_it_matters": "A read on IT services health.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/nifty-it-becomes-rocket-3-up-check-tcs-infosys-wipro-mphasis-hcl-oracle-tech-mahindra-coforge-performance-11791520174506.html",
+          "source": "LiveMint Markets",
+          "published": 1791520994
+        },
+        {
+          "title": "Flock Safety to cut about 18% of staff",
+          "summary": "The AI surveillance maker plans to lay off roughly 18% of employees amid mounting opposition to its products.",
+          "why_it_matters": "Layoff signal in AI startups.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-surveillance-startup-flock-safety-to-cut-several-hundred-jobs-amid-backlash/articleshow/134804570.cms",
+          "source": "ET Tech",
+          "published": 1791513605
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "Chapman and Foulkes out of NZ's T20I series against India",
+          "summary": "Blair Tickner and Josh Clarkson join the squad for the five-match series starting later this month.",
+          "why_it_matters": "Upcoming India series.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1557672.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1791521465
+        },
+        {
+          "title": "Kotak on Bhuvneshwar's recall in Bumrah's absence",
+          "summary": "Kotak said Bhuvneshwar was probably recalled for experience without Bumrah, and called Ishan Kishan much more mature now.",
+          "why_it_matters": "Squad selection insight.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1557658.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1791475555
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-09",
+  "generated_at": 1791530597,
+  "items_scanned": 189,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
