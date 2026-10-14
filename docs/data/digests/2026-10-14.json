@@ -1,0 +1,444 @@
+{
+  "headline": "Google's Gemini 4 Argon lands and Indian IT stocks rally, while Jio's record IPO nears and Russia hits Kyiv again.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "L. Murugan quits Union Ministry and Rajya Sabha, fueling Cabinet reshuffle buzz",
+          "summary": "L. Murugan resigned from the Ministry and his Rajya Sabha seat. Four other Ministers ended their Rajya Sabha terms this year, and Dharmendra Pradhan was forced to quit, leaving several vacancies in the Council of Ministers.",
+          "why_it_matters": "A pre-Deepavali Cabinet reset could change who runs key ministries and policy.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/union-minister-l-murugan-resigns-wishes-to-return-to-tamil-nadu-to-strengthen-bjp-in-state/article71579815.ece",
+          "source": "The Hindu - National",
+          "published": 1791955176
+        },
+        {
+          "title": "CJP leaders sent to 5 days' judicial custody over Jantar Mantar protest",
+          "summary": "Saurav Das and Ashutosh Ranka were remanded after protests demanding CEC Gyanesh Kumar's resignation. Police filed two FIRs against 14 party members, and CJP founder Abhijit Dipke called it an 'unofficial Emergency'. Delhi Police also de-notified Jantar Mantar as a protest venue on October 12.",
+          "why_it_matters": "It raises questions about the right to protest and the credibility of the Election Commission.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/cjp-anto-cec-protest-jantar-mantar-case-saurav-das-ashutosh-ranka-arrest-update/article71582061.ece",
+          "source": "The Hindu - National",
+          "published": 1791954835
+        },
+        {
+          "title": "Andhra Pradesh lines up 115 MoUs ahead of CII Partnership Summit",
+          "summary": "The state will hold three regional conferences, with 115 MoUs worth ₹79,628 crore in proposed investment and potential jobs for 1,88,038 people.",
+          "why_it_matters": "Investment and jobs in your home state, including potential tech hiring.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-to-hold-three-regional-conferences-ahead-of-cii-partnership-summit/article71582200.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1791951389
+        },
+        {
+          "title": "Tamil Nadu CM Vijay seeks more Krishna water; Naidu makes no commitment",
+          "summary": "Vijay asked for more Krishna water for Chennai. Naidu said AP will consider it depending on availability and its own needs. They also discussed Godavari-Cauvery river linkage.",
+          "why_it_matters": "Inter-state water sharing directly affects Andhra Pradesh.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/tamil-nadu-cm-vijay-seeks-more-krishna-water-for-chennai-andhra-pradesh-cm-naidu-makes-no-commitment/article71580087.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1791937830
+        },
+        {
+          "title": "UPI MDR rollout on select payments deferred beyond Diwali",
+          "summary": "Implementation of MDR on select UPI payments has been pushed past Diwali. The same ETtech dispatch also reports that India's first quantum computer is coming soon.",
+          "why_it_matters": "UPI fees matter to fintech engineers and to payment economics.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/upi-mdr-rollout-pushed-indias-first-quantum-computer-coming-soon/articleshow/134929832.cms",
+          "source": "ET Tech",
+          "published": 1791943542
+        },
+        {
+          "title": "Telangana holds special SIR camps on Oct 15 and 16",
+          "summary": "The camps will help enrol omitted voters, and first-time electors can apply via Form-6. The claims and objections period has ended, but enrolment stays open until November 7.",
+          "why_it_matters": "Practical voter-roll deadline for Telangana residents.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/telangana/sir-special-camps-on-october-15-16-to-help-enrol-omitted-voters-in-telangana/article71580414.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1791953623
+        },
+        {
+          "title": "Four doctors suspended at Kakinada GGH over a cannula left in a patient's abdomen",
+          "summary": "Two assistant professors and two PG students were suspended. The cannula was left during delivery surgery and removed after the woman was readmitted with stomach pain.",
+          "why_it_matters": "A public healthcare accountability story from Andhra Pradesh.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/two-assistant-professors-two-pg-students-suspended-for-medical-negligence-at-kakinada-ggh/article71580270.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1791953309
+        },
+        {
+          "title": "Why academics and activists slept in Telangana schools",
+          "summary": "An explainer notes education's share of the Telangana state budget has fallen to a single-digit percentage and stayed there for a decade.",
+          "why_it_matters": "It shows Telangana's education funding priorities.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/telangana/why-did-academics-and-activists-sleep-in-telangana-schools-explainer/article71582312.ece",
+          "source": "The Hindu - National",
+          "published": 1791956218
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Russian ballistic missiles hit Kyiv power plant for second day",
+          "summary": "Zelensky said the strikes hit a key power plant with no early warning from partners. Kyiv was hit on consecutive days, while Ukrainian drones struck over 100km inside Russia's Saratov region, killing one.",
+          "why_it_matters": "The war is escalating against energy infrastructure heading into winter.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791952566
+        },
+        {
+          "title": "Houthi missiles intercepted over Saudi Arabia as fighting intensifies",
+          "summary": "Saudi Arabia intercepted missiles aimed at Riyadh and Dhahran, with falling debris injuring people. This followed a Saudi-led coalition strike on a fuel depot near Sanaa.",
+          "why_it_matters": "Gulf escalation threatens oil prices and the safety of Indian diaspora in the region.",
+          "importance": 4,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1791947386
+        },
+        {
+          "title": "Pope Leo diagnosed with lung cancer, surgery successful",
+          "summary": "The Vatican said Pope Leo had a lower lobe of his right lung removed and the surgery was successful.",
+          "why_it_matters": "Major global news about the head of the Catholic Church.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791937020
+        },
+        {
+          "title": "Ukrainian ex-officer goes on trial in Germany over Nord Stream blasts",
+          "summary": "Serhii K stands accused of a plot to destroy Russia's gas pipelines, four years after the attacks. The trial is expected to run into February.",
+          "why_it_matters": "It could test Germany's political stance on Ukraine.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791934942
+        },
+        {
+          "title": "Bank of America fined $1.2bn over money laundering failures",
+          "summary": "The US Treasury said the bank inadequately flagged transactions linked to potential Chinese money laundering networks.",
+          "why_it_matters": "A large compliance penalty relevant to fintech and banking.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791943532
+        },
+        {
+          "title": "China and North Korea to open New Yalu River Bridge",
+          "summary": "The long-delayed bridge will formally open Thursday, per Xinhua.",
+          "why_it_matters": "Signals deepening China-North Korea ties.",
+          "importance": 2,
+          "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1791952038
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Indian IT stocks surge as AI-disruption fears ease",
+          "summary": "Nifty IT rose over 2,000 points in two sessions to cross 30,000. HCL Tech gained nearly 11% after Q2 results, and TCS and Infosys rose 6–10%.",
+          "why_it_matters": "The sector that employs your peers is being re-rated; Wipro results are next.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-hcl-tech-infosys-shares-surge-up-to-11-in-2-days-nifty-it-soars-2000-points-more-steam-left-for-rally/articleshow/134933219.cms",
+          "source": "ET Markets",
+          "published": 1791956009
+        },
+        {
+          "title": "India's CPI inflation crosses 5% in September, may peak in November",
+          "summary": "Retail inflation went above 5% in September 2026, with projections of a possible peak in November, putting pressure on festive spending.",
+          "why_it_matters": "Inflation drives RBI policy and real returns on your savings.",
+          "importance": 4,
+          "url": "https://www.livemint.com/money/personal-finance/diwali-shopping-2026-cpi-inflation-crosses-5-in-september-may-hit-6-8-in-november-what-item-wise-data-reveals-11791946414211.html",
+          "source": "LiveMint Money",
+          "published": 1791953011
+        },
+        {
+          "title": "Sensex, Nifty flat after sharp rally",
+          "summary": "Indian equities were nearly flat, with IT up and pharma down. Analysts flagged elevated US bond yields and crude as headwinds, while short-covering and tax-relief hopes supported sentiment.",
+          "why_it_matters": "Context for the market backdrop for SIP investors.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-muted-a-day-after-sharp-rally-it-stocks-extend-gains-what-lies-ahead-for-dalal-street/articleshow/134933372.cms",
+          "source": "ET Markets",
+          "published": 1791956182
+        },
+        {
+          "title": "Railway bonus not yet approved; 78-day letter is forged",
+          "summary": "The Cabinet may consider the productivity-linked bonus on October 14. The Railway Board says a circulating letter claiming a 78-day bonus is forged.",
+          "why_it_matters": "Separates a fake claim from the actual pending decision.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/railway-employees-may-get-productivity-linked-bonus-how-much-can-they-expect-this-festive-season-11791954679471.html",
+          "source": "LiveMint Money",
+          "published": 1791956666
+        },
+        {
+          "title": "Income Tax Act 2025: NRI residency rules explained",
+          "summary": "Residency depends on days spent in India, income and other conditions, including the 182-day and 120-day tests and the ₹15 lakh threshold.",
+          "why_it_matters": "Useful if you take a role abroad.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/income-tax-act-2025-nri-tax-residency-in-india-182-day-stay-rule-15-lakh-threshold-and-itr-exemption-condition-11791939879172.html",
+          "source": "LiveMint Money",
+          "published": 1791943891
+        },
+        {
+          "title": "CBDT sends tax audit reminders to about 12,000 professionals before October 21 deadline",
+          "summary": "The expanded SAKSHAM NUDGE initiative targets professionals with lower-than-usual tax audit filings.",
+          "why_it_matters": "Shows the tax department's increasing data-driven compliance outreach.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/cbdt-sends-tax-audit-reminders-to-nearly-12-000-professionals-ahead-of-21-october-deadline-what-is-saksham-nudge-11791941640497.html",
+          "source": "LiveMint Money",
+          "published": 1791942193
+        },
+        {
+          "title": "NHAI FASTag Annual Pass: ₹3,075 for up to 200 crossings",
+          "summary": "The pass is valid for one year or until crossings run out, for eligible private cars, jeeps and vans.",
+          "why_it_matters": "A practical way to cut highway toll costs.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/how-to-save-thousands-on-national-highway-tolls-what-is-nhais-fastag-annual-pass-should-you-apply-for-it-explained-11791956967269.html",
+          "source": "LiveMint Money",
+          "published": 1791957475
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Jio Platforms to file RHP for record ₹30,000 crore IPO",
+          "summary": "The issue is expected to open October 21–23 with a likely price band of ₹1,065–1,119 and a valuation of up to ₹10.3 lakh crore. Existing investors are not expected to sell stakes.",
+          "why_it_matters": "This would be India's largest-ever share sale.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/exclusive-countdown-begins-for-the-mother-of-all-ipos-jio-likely-to-file-rhp-today-for-record-rs-30000-crore-issue/articleshow/134932999.cms",
+          "source": "ET Markets",
+          "published": 1791955455
+        },
+        {
+          "title": "Zetwerk IPO: growing revenue and orders but losses and negative cash flows",
+          "summary": "Zetwerk runs a manufacturing platform with growing revenue, orders and a strong repeat rate. Losses and negative cash flows remain concerns.",
+          "why_it_matters": "Another large pipeline IPO from the new-age tech space.",
+          "importance": 2,
+          "url": "https://www.livemint.com/market/ipo/zetwerk-ipo-review-business-model-valuation-risks-11791950025743.html",
+          "source": "LiveMint Markets",
+          "published": 1791956688
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Google launches Gemini 4 Argon",
+          "summary": "Google released its flagship model to developers and businesses, claiming frontier reasoning, after months of delays and a DeepMind leadership shakeup. It is rolling out in the Gemini app and Antigravity for paying users, with 50% discounted API rates through November.",
+          "why_it_matters": "A new frontier model changes tooling choices for anyone building AI products.",
+          "importance": 5,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+          "source": "The Verge AI",
+          "published": 1791907200
+        },
+        {
+          "title": "Anthropic seeks rehearing over Pentagon supply-chain-risk label",
+          "summary": "Anthropic asked a US appeals court to reconsider a ruling upholding the Pentagon's designation of it as a national security supply chain risk, stemming from a dispute over safety guardrails.",
+          "why_it_matters": "It affects government-facing AI vendor dynamics.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-seeks-rehearing-of-case-over-pentagons-security-risk-branding/articleshow/134930323.cms",
+          "source": "ET Tech",
+          "published": 1791944812
+        },
+        {
+          "title": "OpenAI engineer arrested for planting recording device in executive conference room",
+          "summary": "Abdulrahman Alfozan, a 35-year-old Saudi national, is charged with using a device to intercept oral communications. The device was hidden in a USB port behind a TV.",
+          "why_it_matters": "A rare insider-security incident at a leading AI lab.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+          "source": "The Verge AI",
+          "published": 1791924325
+        },
+        {
+          "title": "SoftBank's record $11bn junk bond sale raises stakes on AI bet",
+          "summary": "SoftBank promised its highest-ever yields in the offering, highlighting pressure on Masayoshi Son amid concerns of market overheating.",
+          "why_it_matters": "A signal of how leveraged parts of the AI boom are.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/softbank-junk-bond-sale-raises-stakes-for-ceo-sons-all-in-ai-bet/articleshow/134930375.cms",
+          "source": "ET Tech",
+          "published": 1791945024
+        },
+        {
+          "title": "Shopify opens catalog to more AI shopping agents",
+          "summary": "Shoppers can configure AI agents to buy on their behalf, giving more agents access to over a billion Shopify listings.",
+          "why_it_matters": "Agentic commerce is a concrete use case for AI engineers.",
+          "importance": 3,
+          "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+          "source": "The Verge AI",
+          "published": 1791920562
+        },
+        {
+          "title": "Judge orders OpenAI to hand over hiring records in Apple trade secrets case",
+          "summary": "Apple can access OpenAI's interview materials involving former Apple employees, plus private messages and testimony from key figures.",
+          "why_it_matters": "Shows legal risk around talent poaching in AI.",
+          "importance": 2,
+          "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+          "source": "TechCrunch AI",
+          "published": 1791923804
+        },
+        {
+          "title": "Anthropic warns AI-powered worms could spread across smart devices",
+          "summary": "The warning is the latest in studies showing AI could supercharge self-spreading malware.",
+          "why_it_matters": "AI security is a growing area for engineers.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/why-ai-makes-computer-worms-harder-to-stop/articleshow/134932397.cms",
+          "source": "ET Tech",
+          "published": 1791953356
+        },
+        {
+          "title": "AI labs buy data from defunct startups to train models",
+          "summary": "One founder netted roughly $25,000 for his code base, with more payment pending.",
+          "why_it_matters": "Shows the emerging market for training data.",
+          "importance": 2,
+          "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+          "source": "MIT Technology Review AI",
+          "published": 1791882000
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Anthropic details redesign of source control",
+          "summary": "Anthropic published an engineering write-up on redesigning source control, drawing 668 points on Hacker News.",
+          "why_it_matters": "Insight into how AI-heavy teams handle code volume.",
+          "importance": 3,
+          "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+          "source": "Hacker News (150+ pts)",
+          "published": 1791906596
+        },
+        {
+          "title": "Cloudflare explains how D1 scales to millions of databases",
+          "summary": "The deep dive covers a control plane that manages millions of databases while keeping data plane queries at the edge.",
+          "why_it_matters": "A practical distributed systems architecture lesson.",
+          "importance": 3,
+          "url": "https://blog.cloudflare.com/d1-control-plane/",
+          "source": "Cloudflare Blog",
+          "published": 1791908418
+        },
+        {
+          "title": "Zimbra critical RCE via SNMP handlers is actively exploited",
+          "summary": "CVE-2026-73570 allows unauthenticated remote code execution. Upgrade to 10.1.20 or disable the vulnerable SNMP services.",
+          "why_it_matters": "An actively exploited flaw that needs prompt patching.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/zimbra-command-injection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791897180
+        },
+        {
+          "title": "11-year-old unsoundness bugs found in Rust borrow checker",
+          "summary": "A GitHub issue reveals long-standing soundness bugs in the Rust borrow checker, with 705 points on HN.",
+          "why_it_matters": "Relevant to systems programmers.",
+          "importance": 2,
+          "url": "https://github.com/rust-lang/rust/issues/164250",
+          "source": "Hacker News (150+ pts)",
+          "published": 1791887220
+        },
+        {
+          "title": "AWS reworks EventBridge custom buses for enterprise scale",
+          "summary": "The enhanced Custom Event Bus targets fragmented event infrastructure across teams and accounts.",
+          "why_it_matters": "Relevant to event-driven design like Kafka-based systems.",
+          "importance": 2,
+          "url": "https://www.infoq.com/news/2026/10/aws-eventbridge-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791892800
+        },
+        {
+          "title": "Jury finds Arm breached Qualcomm license, awards $2",
+          "summary": "A Delaware jury found Arm breached its architectural license and intentionally sought to disrupt Qualcomm's business, awarding only nominal damages.",
+          "why_it_matters": "Matters for the chip licensing landscape.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/technology/delaware-jury-awards-qualcomm-2-in-damages-finds-arm-breached-license-agreement/articleshow/134925577.cms",
+          "source": "ET Tech",
+          "published": 1791917004
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Government picks 19 AIFs to deploy ₹7,131 crore under RDI Fund",
+          "summary": "Blume, Speciale Invest and Chiratae are among those selected.",
+          "why_it_matters": "It points to future deep-tech funding and jobs in India.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/",
+          "source": "Inc42",
+          "published": 1791925676
+        },
+        {
+          "title": "Urban Company considers fresh fundraise a year after IPO",
+          "summary": "The home services company is weighing new funding as InstaHelp losses mount.",
+          "why_it_matters": "A read on how newly listed Indian startups fare.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/urban-company-eyes-fresh-fundraise-a-year-after-ipo-as-instahelp-losses-mount/",
+          "source": "Inc42",
+          "published": 1791895995
+        },
+        {
+          "title": "RevRag.AI raises $2.5M for AI relationship managers for lenders and insurers",
+          "summary": "The agentic AI startup raised seed funding led by Accion Ventures.",
+          "why_it_matters": "A fintech-focused agentic AI startup, close to your domain.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/fintech-saas-startup-revrag-ai-nets-2-5-mn-to-build-ai-relationship-managers-for-lenders-and-insurers/",
+          "source": "Inc42",
+          "published": 1791946818
+        },
+        {
+          "title": "Adani Enterprises and Jabil sign MoU for AI-focused JV",
+          "summary": "The two firms signed an MoU to set up an AI-focused joint venture.",
+          "why_it_matters": "Signals industrial AI investment in India.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/adani-group-partners-with-jabil-to-build-ai-data-infrastructure/",
+          "source": "Inc42",
+          "published": 1791901822
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "Hazlewood's six-for seals dominant Australia win over South Africa",
+          "summary": "South Africa were bowled out for 206 chasing a record 421. It was the first defeat of Bavuma's unbeaten run as Test captain.",
+          "why_it_matters": "Major Test series result.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1558276.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1791906218
+        },
+        {
+          "title": "Afghanistan hold Bangladesh to a draw in Abu Dhabi",
+          "summary": "Atal's century and lower-order resistance saved the Test as Bangladesh missed chances and could not take the last two wickets.",
+          "why_it_matters": "A tight finish in an international Test.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1558264.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1791955652
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-14",
+  "generated_at": 1791958110,
+  "items_scanned": 188,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
