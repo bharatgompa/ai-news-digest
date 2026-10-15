@@ -1,0 +1,408 @@
+{
+  "headline": "Jio's record IPO details land and Anthropic's revenue surge headlines a day when hot US inflation rattled Asian AI stocks, while Andhra Pradesh sets local body poll dates.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Andhra Pradesh announces local body poll schedule",
+          "summary": "The State Election Commission said 13 Municipal Corporations and 87 Municipalities go to polls on October 28, with panchayat polls in three phases.",
+          "why_it_matters": "Direct impact on Andhra Pradesh politics, your home state.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/apsec-announces-poll-schedule-for-local-bodies-model-code-comes-into-force/article71583883.ece",
+          "source": "The Hindu - National",
+          "published": 1792042529
+        },
+        {
+          "title": "NDA partners yet to agree on seat-sharing in AP local polls",
+          "summary": "Talks have stalled over Mayor posts, with parties holding firm on seats and posts. A decision is likely in two days.",
+          "why_it_matters": "Shows how the ruling alliance in AP is holding together ahead of the polls.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/no-consensus-yet-on-seat-sharing-between-nda-partners-in-local-body-elections/article71584652.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1791992711
+        },
+        {
+          "title": "ECI extends SIR deadline in Andhra Pradesh",
+          "summary": "The notice phase and disposal of claims and objections now run to October 22. Final electoral rolls will be published on October 30.",
+          "why_it_matters": "Affects voter roll accuracy in your state, and you may want to check your own entry.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/eci-extends-sir-deadline-in-andhra-pradesh-final-electoral-rolls-to-be-published-on-october-30/article71583964.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1791990846
+        },
+        {
+          "title": "ED attaches ₹129.85 crore in TTD ghee adulteration case",
+          "summary": "The ED attached assets of three dairy firms, their promoters and related entities.",
+          "why_it_matters": "Major development in a high-profile Andhra Pradesh case involving Tirumala temple.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-ghee-adulteration-case-ed-attaches-assets-worth-12985-crore-of-dairy-firms/article71584095.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1791990153
+        },
+        {
+          "title": "Revanth Reddy warns energy officials over power interruptions",
+          "summary": "The Telangana CM threatened action, including suspensions, if power interruptions are reported. Separately, Harish Rao alleged farms get under 8 hours of interrupted supply.",
+          "why_it_matters": "Power supply is a live political issue in Telangana.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/cm-warns-energy-department-officials-of-action-including-suspensions-if-power-interruptions-are-reported/article71585271.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1792004167
+        },
+        {
+          "title": "Supreme Court to hear INDIA bloc plea against SIR",
+          "summary": "The court is likely to hear Rahul Gandhi and INDIA bloc leaders' plea against the Special Intensive Revision of electoral rolls.",
+          "why_it_matters": "Could shape how voter roll revisions proceed nationwide, including in your states.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-15-2026-rahul-gandhi-india-bloc/article71586459.ece",
+          "source": "The Hindu - National",
+          "published": 1792042887
+        },
+        {
+          "title": "SC upholds quashing of Tamil Nadu reservation for converts to Islam",
+          "summary": "The Supreme Court upheld the Madras High Court order quashing the notification. It said the government order created an 'artificial group' accessing backward-class benefits.",
+          "why_it_matters": "An important reservation ruling.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/supreme-court-upholds-madras-hc-order-quashing-tamil-nadu-reservation-notification-for-converts-to-islam/article71586768.ece",
+          "source": "The Hindu - National",
+          "published": 1792042902
+        },
+        {
+          "title": "SC makes insurance mandatory on all train tickets from Oct 27",
+          "summary": "Insurance, already optional for online tickets, becomes mandatory for tickets bought at station counters from October 27, 2026.",
+          "why_it_matters": "A direct change for rail travellers.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/sc-makes-insurance-mandatory-for-all-train-tickets-from-oct-27-heres-what-it-means-for-customers-booking-offline-11791992943821.html",
+          "source": "LiveMint Money",
+          "published": 1791996330
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "US inflation rises more than expected to 3.7%",
+          "summary": "US inflation rose to 3.7% in the year to September, driven by higher motor fuel costs.",
+          "why_it_matters": "It revived rate fears and hit global equities, including emerging markets like India.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791991574
+        },
+        {
+          "title": "Ukraine hit by Starlink throttling",
+          "summary": "Ukraine says Starlink access has improved but speed limits still disrupt its drone missions. Musk suggested the US government may be behind the slowdown.",
+          "why_it_matters": "Shows how dependent the war is on private infrastructure.",
+          "importance": 3,
+          "url": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+          "source": "Ars Technica",
+          "published": 1791986171
+        },
+        {
+          "title": "Drone attacks sink ships in the Black Sea",
+          "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania. NATO may redeploy anti-drone defenses.",
+          "why_it_matters": "The conflict is widening to NATO's borders.",
+          "importance": 3,
+          "url": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+          "source": "Ars Technica",
+          "published": 1792011791
+        },
+        {
+          "title": "IMF warns on Asia growth",
+          "summary": "The IMF said Asia's growth may slow to 4.4% in 2027 on energy price shocks, Middle East conflict, AI market correction risks and rising bond yields.",
+          "why_it_matters": "Frames the macro risks for India and your investments.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-imf-warns-of-energy-shock-ai-correction-risks-to-asias-growth-outlook/articleshow/134957808.cms",
+          "source": "ET Markets",
+          "published": 1792040573
+        },
+        {
+          "title": "Istanbul floods kill a teenager",
+          "summary": "Heavy rain collapsed roads and flooded hospitals in Turkiye's largest city, shutting schools and halting traffic.",
+          "why_it_matters": "A major weather disaster.",
+          "importance": 2,
+          "url": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792033922
+        },
+        {
+          "title": "Hundreds of thousands strike across Ireland",
+          "summary": "Public sector workers are on strike in a pay dispute with the Irish government.",
+          "why_it_matters": "A large labour action in a country with a big tech and Indian-worker presence.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791987498
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Sensex jumps 1,100 points, Nifty near 22,950",
+          "summary": "Benchmarks rebounded on Thursday after the previous day's fall, helped by IT and banking stocks and a drop in oil prices.",
+          "why_it_matters": "It gives context for your index-fund holdings.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/why-is-stock-market-up-today-sensex-jumps-800-points-nifty-nears-22-850-top-3-reasons-explained-11792038542724.html",
+          "source": "LiveMint Markets",
+          "published": 1792038839
+        },
+        {
+          "title": "Nifty IT up 9% in three sessions",
+          "summary": "IT stocks rose up to 3.5% on strong HCLTech and TCS results, AI services optimism and a weaker rupee.",
+          "why_it_matters": "It signals sentiment toward your sector's employers.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/tcs-infosys-hcltech-wipro-techm-it-stocks-gain-up-to-3-5-today-nifty-it-jumps-9-in-3-days-whats-driving-rally-11792041546787.html",
+          "source": "LiveMint Markets",
+          "published": 1792042867
+        },
+        {
+          "title": "Nikkei plunges nearly 5% on AI stock selloff",
+          "summary": "AI-linked stocks fell on concerns over CoreWeave's finances and hot US inflation. SoftBank fell 9.4%, and Advantest and Tokyo Electron dropped 13.9% and 7.3%. Oracle's 5-year CDS also widened to a record 288 bps.",
+          "why_it_matters": "Signals rising stress around AI infrastructure financing.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-plunges-nearly-5-as-ai-stocks-tumble-on-coreweave-debt-concerns/articleshow/134957270.cms",
+          "source": "ET Markets",
+          "published": 1792038397
+        },
+        {
+          "title": "Government to sell 60.72% of IDBI Bank to Fairfax for ₹52,877 crore",
+          "summary": "The government decided to sell its stake to Canada's Fairfax Financial Holdings. IDBI shares fell about 6% on the news.",
+          "why_it_matters": "A major bank privatisation.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/idbi-bank-stake-sale-how-52-877-crore-fairfax-deal-will-impact-lic-idbi-share-price-today-11792032963718.html",
+          "source": "LiveMint Markets",
+          "published": 1792034786
+        },
+        {
+          "title": "EPF partial withdrawal rules explained",
+          "summary": "New rules group partial withdrawals into essential needs, housing and special circumstances, with a 12-month minimum membership.",
+          "why_it_matters": "Relevant to your PF planning.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/1-lakh-in-your-pf-account-how-much-can-you-withdraw-25-000-50-000-or-75-000-know-the-rules-11791977603723.html",
+          "source": "LiveMint Money",
+          "published": 1791980243
+        },
+        {
+          "title": "Cabinet skips July 2026 DA decision",
+          "summary": "The Union Cabinet did not announce the DA hike, but approved a railway bonus and a social assistance plan.",
+          "why_it_matters": "Matters for central employees' pay and general salary benchmarks.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/dearness-allowance-hike-cabinet-skips-july-2026-da-decision-as-railway-bonus-social-assistance-plan-get-nod-11792040339878.html",
+          "source": "LiveMint Money",
+          "published": 1792043553
+        },
+        {
+          "title": "Tax relief on US stock dividends in India",
+          "summary": "Dividends from US stocks arrive after US withholding tax but are again fully taxable in India. Relief can be claimed.",
+          "why_it_matters": "Useful if you hold US stocks or funds.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/us-stocks-you-receive-75-on-a-100-dividend-but-india-may-tax-the-full-amount-again-how-to-claim-relief-11791996665585.html",
+          "source": "LiveMint Money",
+          "published": 1792002096
+        },
+        {
+          "title": "Largecaps shrinking, smallcaps growing in market share",
+          "summary": "Domestic institutions are tilting toward mid and small caps while large caps face foreign selling.",
+          "why_it_matters": "Informs index-fund allocation thinking.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/largecaps-are-shrinking-smallcaps-are-getting-bigger-what-is-changing-in-indias-stock-market/articleshow/134957229.cms",
+          "source": "ET Markets",
+          "published": 1792038186
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Jio Platforms IPO: ₹1,065–₹1,119 band, opens Oct 21",
+          "summary": "The IPO opens October 21 and closes October 23, with a fresh issue of up to ₹30,213 crore. The upper band implies about ₹10.3 lakh crore valuation, the largest IPO in India's history. ₹2,500 crore is reserved for RIL shareholders, with record date October 14.",
+          "why_it_matters": "The biggest IPO in Indian history.",
+          "importance": 5,
+          "url": "https://inc42.com/buzz/jio-ipo-to-open-for-subscription-on-october-21/",
+          "source": "Inc42",
+          "published": 1791986082
+        },
+        {
+          "title": "Zetwerk raises ₹2,251 crore from anchors ahead of IPO",
+          "summary": "The manufacturing company raised the amount from anchor investors before its issue opens.",
+          "why_it_matters": "An active IPO on the calendar.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/zetwerk-raises-%e2%82%b92251-cr-from-anchor-investors-ahead-of-ipo/",
+          "source": "Inc42",
+          "published": 1791994977
+        },
+        {
+          "title": "Tonbo Imaging raises ₹255 crore from anchors; bidding opens Oct 15",
+          "summary": "The defence tech startup's public issue opens for bidding on October 15.",
+          "why_it_matters": "A defence-tech IPO opens.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/ipo-bound-tonbo-imaging-nets-%e2%82%b9255-cr-from-anchor-investors/",
+          "source": "Inc42",
+          "published": 1792004345
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Anthropic Q3 revenue up 45% to $16.8 billion ahead of IPO",
+          "summary": "Anthropic's quarterly revenue rose 45% to $16.8 billion, after $4.7 billion and $11.6 billion in the first two quarters. It targets a valuation above $2 trillion despite large operating losses.",
+          "why_it_matters": "A key signal for the AI industry and its IPO market.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-q3-revenue-surges-45-to-16-8-billion-as-ai-startup-gears-up-for-2-trillion-ipo/articleshow/134956776.cms",
+          "source": "ET Tech",
+          "published": 1792025527
+        },
+        {
+          "title": "OpenAI: next AI phase is about outcomes",
+          "summary": "OpenAI's Pragya Misra said the work is now going to boards and CEOs to solve specific problems and report results to investors.",
+          "why_it_matters": "It describes the forward-deployed work you are aiming for.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/next-phase-of-ai-about-driving-outcomes-not-experiments-openais-pragya-misra/articleshow/134955737.cms",
+          "source": "ET Tech",
+          "published": 1792032283
+        },
+        {
+          "title": "The AI race is back on",
+          "summary": "The Verge says Anthropic and OpenAI had pulled ahead, but rivals such as Google and Meta are again contending.",
+          "why_it_matters": "Matters for which platforms to build on.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+          "source": "The Verge AI",
+          "published": 1792004763
+        },
+        {
+          "title": "FSB calls for human oversight of agentic AI",
+          "summary": "The Financial Stability Board issued final guidance for banks and firms on managing agentic AI risks.",
+          "why_it_matters": "Relevant to fintech agent deployments.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-financial-watchdog-calls-for-more-human-oversight-of-agentic-ai/articleshow/134957794.cms",
+          "source": "ET Tech",
+          "published": 1792040289
+        },
+        {
+          "title": "Eight US states sue OpenAI over child safety",
+          "summary": "Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana filed separate suits alleging ChatGPT harms kids and misleads customers.",
+          "why_it_matters": "Regulatory risk for the leading AI vendor.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+          "source": "The Verge AI",
+          "published": 1792012288
+        },
+        {
+          "title": "McKinsey tests AI client simulation in interviews",
+          "summary": "Some entry-level candidates will hold a 10-minute conversation with an AI simulated client.",
+          "why_it_matters": "A sign of how AI is changing hiring.",
+          "importance": 3,
+          "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+          "source": "The Verge AI",
+          "published": 1792018411
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Netflix TimeSeries tiered storage: Kafka/Flink to Cassandra cold reads",
+          "summary": "Netflix describes moving multi-petabyte time series data from hot storage to cheaper tiers.",
+          "why_it_matters": "Directly relevant to Kafka and distributed storage work.",
+          "importance": 4,
+          "url": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
+          "source": "Netflix Tech Blog",
+          "published": 1792007768
+        },
+        {
+          "title": "Netflix Conductor: The Next Chapter",
+          "summary": "Netflix discussed the future of its workflow orchestration engine after ending maintenance of the open-source version.",
+          "why_it_matters": "Relevant to microservice orchestration design.",
+          "importance": 3,
+          "url": "https://netflixtechblog.com/netflix-conductor-the-next-chapter-41ad21067649?source=rss----2615bd06b42e---4",
+          "source": "Netflix Tech Blog",
+          "published": 1792007417
+        },
+        {
+          "title": "Hillel Wayne on finding resilience bugs with formal methods",
+          "summary": "The talk covers property strength, state-space verification and 'adversarial non-determinism' for reasoning about distributed system failures.",
+          "why_it_matters": "Practical mental models for distributed systems.",
+          "importance": 3,
+          "url": "https://www.infoq.com/presentations/formal-methods-principles/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1791975600
+        },
+        {
+          "title": "Fridge hack hit 700 supermarkets",
+          "summary": "The incident exploited outdated devices exposed to the Internet, costing millions and sparking fires.",
+          "why_it_matters": "A reminder of the cost of basic security failures.",
+          "importance": 2,
+          "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+          "source": "Ars Technica",
+          "published": 1792013709
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Netflix to cut 1,000 jobs",
+          "summary": "The cuts are about 6% of its global workforce and its steepest since 2022.",
+          "why_it_matters": "A hiring-market signal from a big tech employer.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1791996452
+        },
+        {
+          "title": "Centre preparing a data centre policy",
+          "summary": "Minister of State Jitin Prasada said the policy is coming amid concerns about power costs.",
+          "why_it_matters": "Affects India's AI infrastructure build-out.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/centre-to-roll-out-data-centre-policy-amid-power-cost-concerns/",
+          "source": "Inc42",
+          "published": 1791975464
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "West Indies beat India by 24 runs to level T20I series 2-2",
+          "summary": "Chasing 248 in Hyderabad, India lost despite Sanju Samson's 56 off 23. Samson called Tilak's wicket the turning point. India now play the decider unchanged, bowling first.",
+          "why_it_matters": "The series is on the line at your home ground.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1558497.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1792033967
+        },
+        {
+          "title": "Natarajan returns to SRH, Ansari goes to DC",
+          "summary": "Natarajan rejoins SRH at INR 5 crore, and Ansari moves to Delhi Capitals at INR 40 lakh.",
+          "why_it_matters": "IPL trade news.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1558453.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1791981471
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-15",
+  "generated_at": 1792043695,
+  "items_scanned": 199,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
