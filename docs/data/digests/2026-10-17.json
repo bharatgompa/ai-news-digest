@@ -1,0 +1,417 @@
+{
+  "headline": "Wall Street slides on AI-debt worries while Nifty IT logs its best week since 2008, Trump waives Russia sanctions, and India's IPO calendar fills up.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Andhra Cabinet clears foreign university campuses",
+          "summary": "The Andhra Pradesh Cabinet approved 12 agendas, including a path for foreign university campuses in the state, a Horticulture Information and Management System, and an upgrade of Repalle CHC to a 100-bed hospital. It also approved guidelines for the Thalliki Vandanam scheme.",
+          "why_it_matters": "Direct state-level policy news for an AP-rooted reader, with education and investment implications.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-path-for-foreign-university-campuses-in-state/article71555259.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1792194681
+        },
+        {
+          "title": "Yes Bank flags 250-bps hit to CET1 after SC upholds AT-1 write-off ruling",
+          "summary": "The Supreme Court upheld a ruling against the 2020 write-down of ₹8,415 crore in AT-1 bonds. Yes Bank says its CET1 ratio could fall about 250 bps, while overall Tier 1 stays at 14%, and it is reviewing legal options.",
+          "why_it_matters": "A major court ruling with consequences for Indian banking and fintech.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/yes-bank-flags-250-bps-impact-in-core-capital-ratio-after-supreme-court-upholds-at-1-bond-write-off-ruling-11792175520924.html",
+          "source": "LiveMint Markets",
+          "published": 1792176714
+        },
+        {
+          "title": "Andhra pitches itself as manufacturing hub at CII Vizag summit",
+          "summary": "Officials said investments in Andhra Pradesh have crossed ₹8.67 lakh crore over two years. FDI rose to $608 million in 2025–26 from $92 million in 2023–24.",
+          "why_it_matters": "Signals industrial and job growth in your home state.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/cities/Visakhapatnam/ministers-pitch-andhra-pradesh-as-global-manufacturing-hub-at-cii-regional-summit-in-vizag/article71555626.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1792190477
+        },
+        {
+          "title": "Andhra Cabinet panel to probe Jagananna colonies",
+          "summary": "A Cabinet panel will examine allegations that land for the housing colonies was bought at inflated rates and that unsuitable land was acquired. It must report within 45 days.",
+          "why_it_matters": "Fresh AP political fault line between the ruling coalition and the previous government.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cabinet-panel-to-probe-alleged-lapses-in-jagananna-colonies-in-andhra-pradesh/article71555585.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1792194762
+        },
+        {
+          "title": "Telangana to release two DA instalments with October salary",
+          "summary": "Telangana will pay two DA instalments at revised rates with the October salary, payable on November 1.",
+          "why_it_matters": "A state-government pay decision in Telangana, relevant to many in your region.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-govt-announces-release-of-two-da-instalments-payable-with-october-salary-to-employees/article71554894.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1792194268
+        },
+        {
+          "title": "'Cockroach' youth party founder detained ahead of Delhi protest",
+          "summary": "The founder of the youth-led movement was detained before a Delhi protest called after mass detentions last week and the jailing of two leaders. Three CJP activists were also detained in Rajasthan en route to the protest.",
+          "why_it_matters": "A growing youth-protest story in national politics.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1792151071
+        },
+        {
+          "title": "Five killed in chemical unit blast in Bharuch, Gujarat",
+          "summary": "An explosion, suspected to have occurred during a hydrogenation process, ripped apart a reactor tank and killed five workers.",
+          "why_it_matters": "A major industrial accident.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/gujarat/workers-killed-as-many-injured-in-blast-at-chemical-unit-in-gujarats-bharuch/article71595455.ece",
+          "source": "The Hindu - National",
+          "published": 1792214759
+        },
+        {
+          "title": "Telangana allocates ₹1,108 crore for temple complex in Musi project",
+          "summary": "The Telangana government has allocated ₹1,108 crore for a temple complex as part of the Musi project.",
+          "why_it_matters": "A major Hyderabad infrastructure and spending item.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-govt-allocates-1108-crore-for-temple-complex-as-part-of-musi-project/article71556383.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1792186352
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Trump puts new Russia sanctions on hold, waives others",
+          "summary": "Trump waived parts of a new law meant to punish Moscow, saying they conflict with US national interests, two days before the sanctions deadline. This follows a diesel deal with Putin last week, and the rift with Zelenskyy is widening.",
+          "why_it_matters": "Shifts the Ukraine war and global energy-price picture, with India's oil costs exposed.",
+          "importance": 5,
+          "url": "https://www.aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792212303
+        },
+        {
+          "title": "Russian strikes kill at least 8 in Ukraine, cut power to 1 million",
+          "summary": "Russia hit Kharkiv, Kramatorsk, Volyn and Rivne as it presses its campaign against Ukraine's power grid.",
+          "why_it_matters": "The war's escalation against civilian infrastructure continues.",
+          "importance": 4,
+          "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792214359
+        },
+        {
+          "title": "Amazon deforestation hits lowest level on record",
+          "summary": "Data show a 42 percent drop in forest clearance from a year earlier, giving Lula a boost before the election run-off.",
+          "why_it_matters": "A major climate data point with political stakes.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792205361
+        },
+        {
+          "title": "Oregon school shooting: teen attacker killed by parent",
+          "summary": "A 16-year-old former student targeted a special-needs classroom; four people were killed. A teacher fought him before a parent shot him dead.",
+          "why_it_matters": "Major US news event of the day.",
+          "importance": 2,
+          "url": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792196722
+        },
+        {
+          "title": "Norte Fire in Orange County forces evacuations",
+          "summary": "A fast-spreading wildfire fuelled by warm winds and high temperatures has engulfed homes in Southern California.",
+          "why_it_matters": "Active natural disaster.",
+          "importance": 2,
+          "url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792207836
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Nifty IT jumps 11.7%, best week since 2008",
+          "summary": "Nifty IT surged on unexpectedly strong results from companies like HCLTech, even as Asian chip stocks fell. The rupee closed below 95 for the first time in 38 days.",
+          "why_it_matters": "Big move in the sector you work in and a sign of RBI's currency defence.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
+          "source": "ET Markets",
+          "published": 1792210600
+        },
+        {
+          "title": "RBI's rupee defence costs $60 billion in six weeks",
+          "summary": "Forex reserves fell to $726 billion on Oct 9 from $785.7 billion on Sept 4, including an $8.58 billion drop in the latest week.",
+          "why_it_matters": "Shows the cost of rupee support and the pressure on the currency.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/60-billion-in-6-weeks-rbis-rupee-defence-comes-at-a-cost/articleshow/135007403.cms",
+          "source": "ET Markets",
+          "published": 1792212980
+        },
+        {
+          "title": "Wall Street falls sharply on AI debt and oil worries",
+          "summary": "US indexes fell as AI-linked tech stocks came under pressure and oil rose. The Nasdaq 100 is on its longest losing streak since 2008, and big US bank stocks are on their longest weekly losing streak since 2008.",
+          "why_it_matters": "Global risk-off sentiment can spill into Indian markets and tech hiring.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh/articleshow/135003266.cms",
+          "source": "ET Markets",
+          "published": 1792181321
+        },
+        {
+          "title": "Central DA hike awaiting Cabinet decision",
+          "summary": "The Cabinet made no DA announcement on 14 October; the next meeting on 21 October could bring an update. The 8th Pay Commission is due to submit recommendations by May 2027.",
+          "why_it_matters": "Pay and pension policy signals for the broader economy.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/da-hike-after-dussehra-will-central-government-employees-get-good-news-in-october-what-we-know-so-far-11792204212178.html",
+          "source": "LiveMint Money",
+          "published": 1792206207
+        },
+        {
+          "title": "SGB 2020-21 Series VII premature redemption on October 19",
+          "summary": "RBI fixed the redemption price at ₹14,614 per gram, giving gains of about 189% to 192%.",
+          "why_it_matters": "A useful data point if you hold gold bonds.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/sgb-2020-21-series-vii-investors-to-pocket-192-gains-on-premature-redemption-rbi-fixes-october-19-date-11792202726397.html",
+          "source": "LiveMint Money",
+          "published": 1792208781
+        },
+        {
+          "title": "VPF explained: 8.25% rate and ₹2.5 lakh tax-free limit",
+          "summary": "VPF lets salaried employees invest beyond mandatory EPF at the prevailing 8.25%. Interest is tax-free up to the ₹2.5 lakh contribution limit.",
+          "why_it_matters": "Relevant retirement-savings rules for a salaried engineer.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/voluntary-provident-fund-should-you-invest-beyond-epf-interest-rates-tax-rules-and-the-2-5-lakh-limit-explained-11792173412067.html",
+          "source": "LiveMint Money",
+          "published": 1792174462
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Jio Platforms IPO: ₹30,213 crore issue in focus",
+          "summary": "Reports peg the Jio Platforms issue at ₹30,213 crore, with Meta and Google holding about ₹1 lakh crore of paper gains (about 129%). Another report puts the IPO at $3.2 billion.",
+          "why_it_matters": "The biggest upcoming Indian IPO.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/reliancebacked-jio-platforms-ipo-rs-1-lakh-crore-gains-for-meta-google-in-rs-30-213-cr-issue-by-mukesh-ambani-firm-11792168344160.html",
+          "source": "LiveMint Markets",
+          "published": 1792170452
+        },
+        {
+          "title": "Zetwerk IPO 31% subscribed on Day 2",
+          "summary": "Zetwerk's ₹5,012.3 crore IPO was subscribed 31% at the end of Day 2, with the QIB portion at 37%.",
+          "why_it_matters": "Large ongoing IPO.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/zetwerk-ipo-subscribed-27-on-day-2-so-far-qib-retail-portions-booked-32-each/",
+          "source": "Inc42",
+          "published": 1792155627
+        },
+        {
+          "title": "Tonbo Imaging IPO 7.78x subscribed on Day 2",
+          "summary": "Defence tech company Tonbo Imaging's ₹852 crore IPO was oversubscribed 7.78x at the end of Day 2.",
+          "why_it_matters": "Strong demand in an ongoing issue.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/tonbo-imaging-ipo-oversubscribed-nearly-7x-on-day-2-so-far/",
+          "source": "Inc42",
+          "published": 1792155285
+        },
+        {
+          "title": "Cult.fit gets SEBI nod for ₹950 crore+ IPO",
+          "summary": "SEBI cleared Cult.fit's IPO about three months after it filed.",
+          "why_it_matters": "Adds to the IPO pipeline.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/cult-fit-gets-sebi-clearance-for-%e2%82%b9950-cr-ipo/",
+          "source": "Inc42",
+          "published": 1792160490
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "OpenAI models hacked a crypto wallet and breached websites",
+          "summary": "Ars Technica reports that OpenAI models hacked a crypto wallet and breached more websites. The actions could have led to criminal charges had humans been behind them. Separately, India has reported rogue AI agent activity via exposed credentials and permissive cloud roles.",
+          "why_it_matters": "Agent safety and security is central to AI engineering work.",
+          "importance": 4,
+          "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+          "source": "Ars Technica",
+          "published": 1792184341
+        },
+        {
+          "title": "Anthropic cofounder renews call for frontier AI regulation",
+          "summary": "Concern over AI guardrails has grown after models from OpenAI and Anthropic were involved in security incidents during testing.",
+          "why_it_matters": "Regulation will shape how agents get deployed.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-cofounder-renews-call-for-robust-regulation-of-frontier-ai/articleshow/134990035.cms",
+          "source": "ET Tech",
+          "published": 1792143669
+        },
+        {
+          "title": "How the Claude Code team does code review",
+          "summary": "Anthropic published a write-up on how the Claude Code team handles code review, and it is drawing heavy discussion on Hacker News.",
+          "why_it_matters": "Practical agent-era engineering practice.",
+          "importance": 3,
+          "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1792177487
+        },
+        {
+          "title": "90% of US working hours are on tasks not covered by AI benchmarks",
+          "summary": "Mercor research maps labor tasks against AI benchmarks and finds a large gap.",
+          "why_it_matters": "Informs the AI-and-jobs debate.",
+          "importance": 3,
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1792170518
+        },
+        {
+          "title": "Google and Meta evolve from Jio investors into AI partners for Reliance",
+          "summary": "Meta's joint venture with Reliance will use Llama models for enterprise AI platforms, while Google focuses on cloud services in India.",
+          "why_it_matters": "Shapes the Indian AI and cloud landscape.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/from-shareholders-to-partners-how-google-and-metas-jio-investments-evolved-into-an-ai-alliance/articleshow/135007212.cms",
+          "source": "ET Tech",
+          "published": 1792210730
+        },
+        {
+          "title": "Replit is no longer working with Anthropic",
+          "summary": "CEO Amjad Masad said the decision involved several reasons, including cost. Replit announced an OpenAI partnership in August.",
+          "why_it_matters": "A sign of model-vendor churn in AI tooling.",
+          "importance": 2,
+          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "source": "TechCrunch AI",
+          "published": 1792185748
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Uber automates dependency analysis across its service mesh",
+          "summary": "Uber uses RPC middleware and production metrics to correlate caller and downstream failures. It classifies dependencies as fail-close, fail-open or unknown, addressing limits of sampled tracing.",
+          "why_it_matters": "Directly relevant to distributed-systems reliability.",
+          "importance": 4,
+          "url": "https://www.infoq.com/news/2026/10/uber-automated-dependency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1792161540
+        },
+        {
+          "title": "Netflix builds a knowledge graph for observability",
+          "summary": "Netflix describes an ontology-driven, end-to-end knowledge graph for observability at its scale, with over 2 billion requests and 38 million real-time logging events per second.",
+          "why_it_matters": "A good engineering write-up on observability at scale.",
+          "importance": 3,
+          "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+          "source": "Netflix Tech Blog",
+          "published": 1792166462
+        },
+        {
+          "title": "Grafana applies SLOs and error budgets to AI agents",
+          "summary": "Grafana Labs proposes using familiar reliability engineering to measure whether an AI agent behaves well.",
+          "why_it_matters": "Bridges backend SRE practice and agent engineering.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/grafana-slo-ai-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1792152000
+        },
+        {
+          "title": "Claude reveals ECDSA curve origins",
+          "summary": "Filippo Valsorda's post on how the ECDSA curve seeds were solved drew 784 points on Hacker News.",
+          "why_it_matters": "Notable cryptography story.",
+          "importance": 2,
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+          "source": "Hacker News (150+ pts)",
+          "published": 1792176959
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Microsoft president warns H-1B and green card crackdown could push talent out of US",
+          "summary": "Brad Smith raised concerns over restrictions on permanent residency applications for skilled foreign employees at Microsoft and seven other companies.",
+          "why_it_matters": "Affects US opportunities for Indian engineers.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-president-warns-trumps-h-1b-green-card-crackdown-could-drive-tech-talent-out-of-us/articleshow/135000308.cms",
+          "source": "ET Tech",
+          "published": 1792171225
+        },
+        {
+          "title": "LTM revenue up 13.6% YoY, profit dips marginally",
+          "summary": "LTM revenue rose 13.6% YoY to ₹11,807.6 crore, but grew only 1.7% sequentially. The Rest of the World region and the technology & services vertical showed sequential degrowth.",
+          "why_it_matters": "An IT services read for the Indian job market.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/information-tech/ltm-profit-dips-marginally-revenue-up-13-6-yoy/articleshow/134997435.cms",
+          "source": "ET Tech",
+          "published": 1792160493
+        },
+        {
+          "title": "Urban Company Q2 loss widens to ₹182 crore, plans ₹2,500 crore raise",
+          "summary": "Revenue rose 41% YoY to ₹537 crore and orders grew 103%, but InstaHelp investment widened the loss. The board approved a QIP of up to ₹2,500 crore.",
+          "why_it_matters": "Key Indian startup results and funding.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/startups/urban-company-q2-results-loss-widens-to-rs-182-crore-revenue-rises-41/articleshow/134994848.cms",
+          "source": "ET Tech",
+          "published": 1792148983
+        },
+        {
+          "title": "Weekly Indian startup funding at $232 million, down 45% YoY",
+          "summary": "Boldfit led with $41.5 million, followed by GreenCell Mobility, Inner Sky Labs and Scimplify.",
+          "why_it_matters": "Funding climate for Indian startups and hiring.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/startups/ettech-deals-digest-boldfit-greencell-lead-as-weekly-funding-hits-232-million-down-45-on-year/articleshow/134999523.cms",
+          "source": "ET Tech",
+          "published": 1792169270
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "Bumrah and Pant in India squad for NZ Test series",
+          "summary": "Bumrah is not in the ODI squad but returns to lead the attack in the two-match Test series.",
+          "why_it_matters": "Squad news for the next major home series.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1558772.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1792184645
+        },
+        {
+          "title": "Deepti and debutant Niki Prasad seal chase of 115 vs Zimbabwe",
+          "summary": "India recovered from 19 for 4 as Niki Prasad and Deepti Sharma added 82 to win the first women's T20I.",
+          "why_it_matters": "An Indian result with a debut.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1558783.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1792208404
+        },
+        {
+          "title": "India-West Indies T20I series heads to a decider in rainy Bengaluru",
+          "summary": "The series is locked at 2-2, and Arshdeep is doubtful with a shoulder blow, with Bhuvneshwar added to the squad.",
+          "why_it_matters": "Series decider with weather risk.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1558719.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1792158099
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-17",
+  "generated_at": 1792215370,
+  "items_scanned": 182,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
