@@ -1,0 +1,354 @@
+{
+  "headline": "Kolkata pandal stampede kills at least 19 as Jio's mega IPO nears opening, Indian banks report Q2 results, and AI financing worries and tanker incidents near Hormuz unsettle global markets.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Kolkata pandal stampede kills at least 19",
+          "summary": "At least 19 people, including a seven-year-old girl, died in a stampede at a Durga Puja pandal in Kolkata. Seven people, including Chorbagan Durga Puja organisers, have been arrested, and police registered a suo motu case of culpable homicide not amounting to murder. Amit Shah visited the injured in hospital, while junior doctors alleged mismanagement of patients, which the state health minister denied.",
+          "why_it_matters": "It is the biggest national story of the day and raises crowd-management accountability ahead of the festival season.",
+          "importance": 5,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792297306
+        },
+        {
+          "title": "NDA seat-sharing pact for Andhra Pradesh civic polls",
+          "summary": "The TDP will contest 11 of 17 municipal corporations, including Greater Visakhapatnam, while JSP gets four and BJP two. Guntur polls are on October 28 with counting on October 30, and the SEC has appointed 28 IAS officers as general observers.",
+          "why_it_matters": "Sets the shape of the upcoming urban local body contests in your home state.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/ulb-polls-nda-arrives-at-seat-sharing-pact/article71589826.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1792280538
+        },
+        {
+          "title": "Telangana: El Nino impact to peak till February",
+          "summary": "Telangana's Chief Secretary said the El Nino impact is severe and will remain at its peak till February. Separately, the Centre approved ₹379 crore for Telangana's government medical colleges, adding 465 PG seats.",
+          "why_it_matters": "Signals water and agriculture stress ahead in Telangana, plus a healthcare capacity boost.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/el-nino-impact-severe-will-be-at-peak-till-february-telangana-chief-secretary/article71586970.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1792270466
+        },
+        {
+          "title": "Telangana politics: KTR alleges ₹3,000-crore coal import scam",
+          "summary": "KTR sought a probe into proposed foreign coal imports, alleging a ₹3,000-crore scam. The CM separately alleged that KCR is drawing water illegally to his farmhouse.",
+          "why_it_matters": "Shows the sharpening BRS-Congress confrontation in Telangana.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/ktr-seeks-probe-into-proposed-foreign-coal-imports-alleges-3000-crore-scam/article71588450.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1792270309
+        },
+        {
+          "title": "Rubio's Mumbai-only visit irks Indian opposition",
+          "summary": "The US Secretary of State is skipping New Delhi, and opposition leaders complain the arrangements are humiliating.",
+          "why_it_matters": "Indicates friction in India-US diplomatic optics.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792300609
+        },
+        {
+          "title": "Jagan backs CJP leaders in custody; BJP hits back",
+          "summary": "Jagan spoke up for CJP leaders in judicial custody, drawing criticism from BJP's Satya Kumar Yadav in Andhra. TDP's Varla Ramaiah separately said Jagan cannot escape the corruption cases, with courts set for daily trial.",
+          "why_it_matters": "Andhra political developments tied to the civic poll run-up and the corruption trials.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/jagan-mohan-reddy-speaks-up-for-cjp-leaders-in-judicial-custody-draws-bjp-fire-in-andhra/article71587106.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1792280597
+        },
+        {
+          "title": "Manipur: 15 houses burnt in Kamjong, three hurt in gun attack",
+          "summary": "Police said a joint column of Assam Rifles, BSF and Kamjong Police has been deployed to control the situation.",
+          "why_it_matters": "Continued instability in Manipur.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/manipur/15-houses-burnt-in-manipurs-kamjong-three-injured-in-gun-attack/article71599153.ece",
+          "source": "The Hindu - National",
+          "published": 1792300299
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Two tankers catch fire after hitting mines in Strait of Hormuz",
+          "summary": "Iran says two tankers, each carrying about two million barrels of crude, caught fire after hitting mines. The IRGC said they used an unauthorised route.",
+          "why_it_matters": "Hormuz disruptions can move crude prices and India's import bill.",
+          "importance": 4,
+          "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792288458
+        },
+        {
+          "title": "France: over 1,000 arrested after cost-of-living protests",
+          "summary": "More than half a million joined protests, followed by clashes, looting and fires across cities. Masked protesters set fire to Limoges town hall, which officials say is largely lost.",
+          "why_it_matters": "Major unrest in a large European economy.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1792270337
+        },
+        {
+          "title": "Trump waives several Russia sanctions amid Zelensky row",
+          "summary": "The US president temporarily ended many restrictions on Moscow passed by Congress, citing national security. Separately, a Ukrainian drone swarm reportedly attacked St Petersburg.",
+          "why_it_matters": "Shifts the dynamics of the Ukraine war and sanctions.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1792285825
+        },
+        {
+          "title": "European diplomats attacked by Israeli settlers; Rubio wants crackdown",
+          "summary": "The Israeli military condemned the violence but the PM's office called it a smear campaign. Rubio wants a crackdown on settler violence after an attack on a US journalist.",
+          "why_it_matters": "Growing Western pressure on Israel over West Bank violence.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1792281158
+        },
+        {
+          "title": "Deaths in fire at Canada's Alberta military base",
+          "summary": "Canada's defence minister confirmed deaths and injuries but gave no figures or cause, calling the situation very active and delicate.",
+          "why_it_matters": "A serious incident at a military facility in a G7 country.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1792296050
+        },
+        {
+          "title": "Former DRC president Kabila joins rebellion",
+          "summary": "Joseph Kabila's move raises new questions about the war in eastern Congo and prospects for peace.",
+          "why_it_matters": "Could escalate a major African conflict.",
+          "importance": 2,
+          "url": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792290108
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Nifty rises 2.8% on the week on IT and domestic buying",
+          "summary": "Indian equities rebounded this week led by IT shares and domestic institutional buying. Nifty needs to hold above the 22,750–22,800 support zone for the recovery to continue; next week watch earnings, foreign flows, rates and crude.",
+          "why_it_matters": "Context for your SIP portfolio's near-term moves.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/nifty-soars-2-8-this-week-what-lies-ahead-for-dalal-street-experts-decode-5-triggers-key-levels-for-next-week-11792231234654.html",
+          "source": "LiveMint Markets",
+          "published": 1792236889
+        },
+        {
+          "title": "Bank Q2 results: ICICI, Axis strong, HDFC modest, IDBI down 39%",
+          "summary": "ICICI Bank profit rose 20% with NIM at 4.18%, Axis rose 38% with advances up 23%, and HDFC Bank rose 4.7% with a new CEO arriving this month. YES Bank profit rose 65%, but an AT1 Supreme Court ruling could mean a post-tax loss of ₹5,217 crore; IDBI fell 39% on a base effect.",
+          "why_it_matters": "Banks are heavy index weights, so their results drive Nifty and Sensex.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/q2-results-2026-race-hdfc-vs-icici-bank-vs-axis-bank-vs-yes-bank-vs-idbi-which-bank-won-in-pat-nii-revenue-growth-11792244738368.html",
+          "source": "LiveMint Markets",
+          "published": 1792248411
+        },
+        {
+          "title": "AI trade reversal hits Asian suppliers as financing costs rise",
+          "summary": "A US tech selloff is exposing Asia's AI supply chain to rising financing costs. A Jefferies report flags credit risk at Oracle and CoreWeave.",
+          "why_it_matters": "A risk to global equity sentiment that affects index funds.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks-11792284261229.html",
+          "source": "LiveMint Markets",
+          "published": 1792284260
+        },
+        {
+          "title": "Centre's July DA hike still awaited; 8th Pay Commission meets in Mumbai",
+          "summary": "No DA announcement had come as of October 16, though past hikes came between late September and October. The 8th CPC meets stakeholders in Mumbai on 22–23 October.",
+          "why_it_matters": "Key pay and policy developments for government employees.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/dearness-allowance-hike-2026-will-the-centre-announce-the-july-da-revision-before-diwali-what-history-suggests-11792249985080.html",
+          "source": "LiveMint Money",
+          "published": 1792261847
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Jio Platforms IPO opens October 21",
+          "summary": "The ₹30,000-crore-plus issue runs 21–23 October with a price band of ₹1,065–1,119 and reportedly drew nearly ₹2.5 lakh crore in institutional commitments. Proceeds are partly meant to repay borrowings at Reliance Jio Infocomm.",
+          "why_it_matters": "India's biggest IPO and the headline event of the primary market this week.",
+          "importance": 5,
+          "url": "https://www.livemint.com/market/ipo/jio-platforms-ipo-rhp-from-financials-to-spectrum-portfolio-10-key-things-to-know-before-subscribing-11792293777990.html",
+          "source": "LiveMint Markets",
+          "published": 1792297438
+        },
+        {
+          "title": "Paras Healthcare IPO price band ₹660–693",
+          "summary": "The ₹1,450-crore issue opens October 21, with a ₹500-crore fresh issue and ₹950-crore offer for sale. Proceeds will mainly repay borrowings; nine listings are also lined up this week.",
+          "why_it_matters": "Second major mainboard IPO opening the same day.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/paras-healthcare-ipo-opens-oct-21-sets-price-band-at-660-693-per-share/articleshow/135023842.cms",
+          "source": "ET Markets",
+          "published": 1792298032
+        },
+        {
+          "title": "Burma Burma parent files DRHP with ₹150 cr fresh issue",
+          "summary": "Hunger Pangs, parent of Burma Burma, filed its DRHP for an IPO. Its FY26 net loss rose to ₹15.4 crore.",
+          "why_it_matters": "A new filing in the consumer startup IPO pipeline.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/burma-burma-parent-files-drhp-for-ipo-with-%e2%82%b9150-cr-fresh-issue/",
+          "source": "Inc42",
+          "published": 1792219962
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "DeepSeek releases v4.1-Flash-1017",
+          "summary": "DeepSeek published a new v4.1 Flash model, available through its API and OpenRouter. The Hacker News thread drew 780 points.",
+          "why_it_matters": "Cheap, fast models matter for AI engineering work.",
+          "importance": 4,
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "source": "Hacker News (150+ pts)",
+          "published": 1792225285
+        },
+        {
+          "title": "Replit makes OpenAI its default model over Anthropic",
+          "summary": "Replit's CEO said OpenAI replaces Anthropic as the default provider, though Claude remains available to customers.",
+          "why_it_matters": "Shows how fluid the model-provider landscape is for AI products.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "source": "TechCrunch AI",
+          "published": 1792262888
+        },
+        {
+          "title": "Websites are closing their doors to AI agents",
+          "summary": "As OpenAI, Meta and Google promote autonomous agents, sites are increasingly blocking them. Meta also removed terms language that raised scraping concerns.",
+          "why_it_matters": "A practical constraint for anyone building agents.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "The Verge AI",
+          "published": 1792242000
+        },
+        {
+          "title": "Anthropic's workforce has become less junior",
+          "summary": "Anthropic says its workforce composition has changed significantly in the past year and it spends more time in meetings.",
+          "why_it_matters": "A data point on how AI is reshaping hiring and seniority.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+          "source": "TechCrunch AI",
+          "published": 1792268479
+        },
+        {
+          "title": "Meta and Google evolve from Jio investors to AI partners",
+          "summary": "Meta's joint venture with Reliance will use Llama models for AI platforms, while Google focuses on cloud services in India.",
+          "why_it_matters": "Signals enterprise AI demand in India.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/technology/from-shareholders-to-partners-how-google-and-metas-jio-investments-evolved-into-an-ai-alliance/articleshow/135007212.cms",
+          "source": "ET Tech",
+          "published": 1792210730
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Amazon acquires DuckLabs, brings DuckDB to Aurora PostgreSQL",
+          "summary": "The acquisition keeps DuckDB open source, with co-founders continuing to lead the team under AWS. Aurora PostgreSQL gets its first DuckDB-powered feature.",
+          "why_it_matters": "Notable for backend and data engineers.",
+          "importance": 4,
+          "url": "https://www.infoq.com/news/2026/10/amazon-acquires-ducklabs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1792216800
+        },
+        {
+          "title": "AWS to run European Sovereign Cloud disconnected from global backbone",
+          "summary": "On October 24, AWS will operate the region without a connection to the global network for several hours, using EU residents and local hardware and software. Practitioners are divided on whether the test answers customer concerns.",
+          "why_it_matters": "A relevant case study in distributed systems isolation and sovereignty.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1792301400
+        },
+        {
+          "title": "Reverse Engineer Anything connects coding agents to Ghidra and IDA",
+          "summary": "The open-source project, with over 200K GitHub stars, links coding agents like Claude Code and Codex to reverse-engineering tools.",
+          "why_it_matters": "Shows an emerging agent-tooling pattern.",
+          "importance": 2,
+          "url": "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1792218480
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Urban Company board approves raising up to ₹2,500 crore",
+          "summary": "The listed home services company proposed a fundraise of up to ₹2,500 crore. Rapido was also booked by Pune Police over alleged unlicensed bike-taxi operations.",
+          "why_it_matters": "Indian startup funding and regulatory developments.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/decoding-urban-companys-%e2%82%b92500-cr-fundraise-proposal/",
+          "source": "Inc42",
+          "published": 1792251742
+        },
+        {
+          "title": "Startup FY26 numbers: Cleartrip loss widens, Ekart nearly breaks even",
+          "summary": "Cleartrip's FY26 loss widened 28% to ₹805 crore with revenue up 21%. Flipkart's Ekart cut its loss by 98% to ₹26 crore, and ixigo swung to a ₹63 crore Q2 profit.",
+          "why_it_matters": "Indicates profitability trends at Indian tech employers.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/cleartrips-fy26-loss-widens-28-yoy-to-%e2%82%b9805-cr-revenue-up-21/",
+          "source": "Inc42",
+          "published": 1792240592
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India-West Indies T20I series ends 2-2 after rain washout",
+          "summary": "The no-result ended India's 12-series home winning streak. Kishan and Dhir impressed in the final game.",
+          "why_it_matters": "A rare dent in India's home record.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1558889.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1792257927
+        },
+        {
+          "title": "Delhi Capitals name Vaas as fast-bowling coach",
+          "summary": "The IPL side earlier named Ganguly head coach and Yuvraj assistant and batting coach, and is set to bring in Mishra as spin coach.",
+          "why_it_matters": "Major IPL staff reshuffle.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1558867.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1792246220
+        },
+        {
+          "title": "Gill to play Ranji Trophy for Punjab before New Zealand ODIs",
+          "summary": "Gill wants red-ball practice before leaving for the ODI series in New Zealand in November.",
+          "why_it_matters": "Squad preparation news for India's next series.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1558865.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1792243773
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-18",
+  "generated_at": 1792302783,
+  "items_scanned": 140,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
