@@ -1,0 +1,435 @@
+{
+  "headline": "Jio's record IPO closes bidding as oil near $114 and AI-spending fears rattle markets, while a PHP flaw and eMudhra's certificate fiasco hit tech.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Cyclonic storm likely by Oct 26; heavy rain for coastal Andhra from Oct 27",
+          "summary": "IMD forecasts a cyclonic storm by October 26, moving toward the north Andhra Pradesh and south Odisha coasts. Heavy rain is expected in coastal Andhra from October 27.",
+          "why_it_matters": "Directly affects Andhra Pradesh, where you have roots.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-likely-by-october-26-heavy-rain-in-coastal-andhra-from-october-27-imd/article71612805.ece",
+          "source": "The Hindu - National",
+          "published": 1792734799
+        },
+        {
+          "title": "AP SEC extends nomination window for Kadapa, Rajampet, Mydukur, Tirupati after SC order",
+          "summary": "After the Supreme Court's intervention, nominations can be filed on October 23 and 24, 11 am to 3 pm, at designated locations and Collectorates. The court had asked the State Election Commission to decide where candidates could not file nominations.",
+          "why_it_matters": "Key Andhra Pradesh civic poll development with court oversight.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/ulb-polls-andhra-pradesh-sec-extends-nomination-window-for-kadapa-rajampet-mydukur-and-tirupati-after-sc-order/article71613049.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1792695456
+        },
+        {
+          "title": "PHP flaws trigger emergency response in India",
+          "summary": "Two critical PHP vulnerabilities led India to activate emergency measures. Banks are auditing apps, and government sites are being patched, with some taken offline. Razorpay warned merchants.",
+          "why_it_matters": "Hits fintech and backend systems directly.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/technology/php-security-flaw-india-activates-emergency-response-takes-apps-offline-amid-global-security-scramble/articleshow/135133793.cms",
+          "source": "ET Tech",
+          "published": 1792726724
+        },
+        {
+          "title": "Tirupati MP alleges NDA 'coercion' against YSRCP nominees",
+          "summary": "The Tirupati MP has sought action from the State Election Commission over alleged coercion of YSRCP nominees.",
+          "why_it_matters": "Adds to the political contest around Andhra's civic polls.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/tirupati-mp-alleges-nda-coercion-against-ysrcp-nominees-seeks-sec-action/article71612400.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1792685233
+        },
+        {
+          "title": "AP counter-intelligence busts Pakistan-linked honey-trap racket targeting naval data",
+          "summary": "Andhra Pradesh's Counter Intelligence Cell busted a digital honey-trap racket, including Indian conduits, aimed at leaking defence and naval intelligence to Pakistan's ISI.",
+          "why_it_matters": "A national security case originating from your home state.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/how-india-thwarted-pakistans-bid-to-steal-crucial-defence-data/article71612709.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1792719692
+        },
+        {
+          "title": "Telangana to host Raksha Expo from December 7",
+          "summary": "The three-day aerospace, space, defence and internal security expo will coincide with the Invest Telangana Global Summit 2026 near Hyderabad.",
+          "why_it_matters": "Signals Telangana's push on defence and aerospace investment.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-to-host-three-day-raksha-expo-from-december-7/article71612717.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1792684944
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Houthi-Saudi escalation; India probing yacht incident off Yemen",
+          "summary": "India is trying to establish facts about an incident apparently involving Indians on a yacht off Yemen. It comes as the Houthis and Saudi Arabia target each other's infrastructure.",
+          "why_it_matters": "The Gulf escalation is driving oil prices and affects Indians abroad.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/indian-embassy-seeks-facts-on-october-yacht-incident-off-yemen/article71614503.ece",
+          "source": "The Hindu - National",
+          "published": 1792731698
+        },
+        {
+          "title": "Powerful earthquake in Tibet kills 16",
+          "summary": "A powerful quake struck a mountainous, sparsely populated area of the Tibet Autonomous Region, with reports of 16 deaths.",
+          "why_it_matters": "Major natural disaster in the region.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1792732597
+        },
+        {
+          "title": "Trump says Musk restored Ukraine's Starlink access",
+          "summary": "Trump said Musk restored access to Ukraine's Starlink network, which Ukraine relies on for military uses. Musk has repeatedly denied restricting access.",
+          "why_it_matters": "Affects the Ukraine war's military communications.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1792705359
+        },
+        {
+          "title": "BBC: Sudan's RSF deliberately targeted hospitals",
+          "summary": "A BBC investigation found hospitals were deliberately targeted by RSF fighters. The UN rights chief says the attacks may amount to war crimes.",
+          "why_it_matters": "Serious humanitarian and war-crimes findings.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1792710976
+        },
+        {
+          "title": "Meta hit with $25B fine in New Mexico",
+          "summary": "Meta was fined $25B after New Mexico declined to join a multistate settlement. Meta will appeal.",
+          "why_it_matters": "A record penalty for a big tech giant.",
+          "importance": 3,
+          "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+          "source": "Ars Technica",
+          "published": 1792688671
+        },
+        {
+          "title": "India presses for UNSC reform",
+          "summary": "India's UN envoy said an organisation unable to renew its principal organ will struggle to command authority in a world far beyond 1945.",
+          "why_it_matters": "Reflects India's stance on global governance.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/organisation-founded-80-years-ago-struggling-to-deliver-peace-today-india-on-need-for-unsc-reforms/article71614651.ece",
+          "source": "The Hindu - National",
+          "published": 1792732597
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Brent at $114 as attacks on Saudi Arabia intensify",
+          "summary": "Brent is headed for a third weekly gain as attacks on Saudi Arabia raise fears of wider supply disruption. Oil marketing company shares slid up to 2%.",
+          "why_it_matters": "Oil is the main macro risk for India's inflation and markets.",
+          "importance": 5,
+          "url": "https://www.livemint.com/market/stock-market-news/bpcl-hpcl-to-iocl-omc-stocks-dip-up-to-2-as-brent-crude-price-touches-114-per-barrel-what-should-investors-do-11792728952014.html",
+          "source": "LiveMint Markets",
+          "published": 1792730666
+        },
+        {
+          "title": "Sensex falls over 1,000 pts from day's high; Nifty below 22,500",
+          "summary": "Indian equities deepened losses as oil prices soared, and broader markets also fell.",
+          "why_it_matters": "Context for your SIP portfolio's near-term swings.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-400-points-nifty-below-22500-while-small-midcap-indices-plunge-up-to-3-what-lies-ahead-for-dalal-street/articleshow/135134693.cms",
+          "source": "ET Markets",
+          "published": 1792731289
+        },
+        {
+          "title": "AI fears push global credit spreads to 17-month high",
+          "summary": "An AI stock selloff and geopolitical tensions have produced the biggest global bond-market risk-off signals in over a year. Al Jazeera notes the Nasdaq fell 2.6% amid AI-bubble debate.",
+          "why_it_matters": "Global risk-off feeds into Indian flows.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/ai-tech-fears-push-global-credit-spreads-to-17-month-high-11792723317299.html",
+          "source": "LiveMint Markets",
+          "published": 1792723316
+        },
+        {
+          "title": "Nifty IT jumps up to 3.3% on better Q2 results",
+          "summary": "IT stocks rallied after stronger September-quarter results eased worries about demand and AI disruption. Nifty IT is up 22% from its July low.",
+          "why_it_matters": "Your sector's health signals hiring sentiment.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-it-stocks-soar-tcs-infosys-hcl-tech-wipro-nifty-it-up-over-3-today-jumps-22-from-july-low-11792729456440.html",
+          "source": "LiveMint Markets",
+          "published": 1792731845
+        },
+        {
+          "title": "Swiggy hits 52-week low after Q2",
+          "summary": "Swiggy posted a ₹922 crore loss with revenue up 36% to ₹7,571 crore. Its adjusted EBITDA loss widened, and Jefferies, Nomura and Bernstein cut targets.",
+          "why_it_matters": "Bellwether for quick-commerce economics.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/swiggy-shares-tumble-over-8-after-q2-results-heres-why-jefferies-nomura-bernstein-cut-target-price/articleshow/135135738.cms",
+          "source": "ET Tech",
+          "published": 1792728200
+        },
+        {
+          "title": "Japan's core inflation tops 2% target",
+          "summary": "Japan's core inflation rose to 2.1% in September, above the BOJ target for the first time in nine months, strengthening the case for hikes.",
+          "why_it_matters": "BOJ policy shifts affect global liquidity.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japans-core-inflation-accelerates-putting-boj-rate-hikes-in-focus/articleshow/135135200.cms",
+          "source": "ET Markets",
+          "published": 1792732364
+        },
+        {
+          "title": "ICICI Bank revises service charges from Dec 1",
+          "summary": "Charges change for cash transactions beyond the free limit, demand drafts and ECS returns. Free limits are unchanged.",
+          "why_it_matters": "Practical personal-finance change.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/this-bank-to-revise-service-charges-from-1-december-check-new-demand-draft-and-cash-transaction-fees-11792721900440.html",
+          "source": "LiveMint Money",
+          "published": 1792724477
+        },
+        {
+          "title": "EPF earns interest for 3 years after retirement at 58",
+          "summary": "Interest continues until age 61, after which the account becomes inoperative.",
+          "why_it_matters": "Useful PF rule for planning.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/retired-at-58-epfo-details-how-long-your-epf-account-earns-interest-and-when-to-withdraw-your-money-explained-11792731179756.html",
+          "source": "LiveMint Money",
+          "published": 1792734988
+        },
+        {
+          "title": "Shankar Sharma expects SIPs to disappoint",
+          "summary": "He warns heavy retail flows threaten macro stability and favours fixed income, gold and real estate. Separate data shows even 10-year small-cap SIPs had a worst case of -0.13%.",
+          "why_it_matters": "A contrarian view on your core strategy, with data for balance.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/macroeconomic-stability-gquant-investech-shankar-sharma-sips-to-yield-poor-returns-fixed-income-gold-real-estate-11792660811631.html",
+          "source": "LiveMint Money",
+          "published": 1792715467
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Jio Platforms IPO final day",
+          "summary": "The ₹30,213 crore IPO closes October 23, priced ₹1,065–1,119, valuing Jio near ₹10.3 lakh crore. It was subscribed 5.57x by day 2, with retail at 1.54x. Allotment is October 26 and listing October 28.",
+          "why_it_matters": "India's largest IPO.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-day-3-gmp-at-22-issue-subscribed-over-5x-check-brokerage-views-and-key-details/articleshow/135134397.cms",
+          "source": "ET Markets",
+          "published": 1792730215
+        },
+        {
+          "title": "Paras Healthcare IPO closes",
+          "summary": "The ₹1,450 crore IPO's final day sees a muted response, with retail fully subscribed and institutional demand subdued. Listing is on October 28.",
+          "why_it_matters": "Another IPO closing alongside Jio.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/paras-healthcare-ipo-day-3-check-gmp-subscription-status-and-key-details/articleshow/135134099.cms",
+          "source": "ET Markets",
+          "published": 1792729259
+        },
+        {
+          "title": "Zetwerk lists at 5.3% premium, then slips to issue price",
+          "summary": "Shares opened at ₹159 versus the ₹151 issue price from a ₹5,012 crore IPO, then traded near the offer price.",
+          "why_it_matters": "Recent listing performance.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-eyes-manufacturing-demand-from-ai-clean-energy-as-shares-debut/articleshow/135135770.cms",
+          "source": "ET Tech",
+          "published": 1792734140
+        },
+        {
+          "title": "Tonbo Imaging lists at 66% premium",
+          "summary": "The defence tech company listed at ₹1,162 on the BSE, a 66% premium to the IPO price.",
+          "why_it_matters": "A strong debut.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/tonbo-imaging-makes-strong-market-debut-lists-at-66-premium-to-ipo-price/",
+          "source": "Inc42",
+          "published": 1792729952
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "OpenAI working on $30B raise at $1.25T valuation",
+          "summary": "OpenAI is reportedly preparing a new $30B round at a $1.25T valuation ahead of an IPO, which would make it the most valuable private company.",
+          "why_it_matters": "Shows the scale of the AI funding race.",
+          "importance": 4,
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "source": "TechCrunch AI",
+          "published": 1792706904
+        },
+        {
+          "title": "What FDE means at OpenAI",
+          "summary": "OpenAI published a piece on what forward deployed engineering means at the company.",
+          "why_it_matters": "Directly relevant to your FDE career target.",
+          "importance": 4,
+          "url": "https://openai.com/index/forward-deployed-engineering-means",
+          "source": "OpenAI News",
+          "published": 1792648800
+        },
+        {
+          "title": "OpenAI launches Decisions API",
+          "summary": "OpenAI is making its decision model widely available through a Decisions API for fast, low-cost decisions in apps.",
+          "why_it_matters": "New tooling for building AI products.",
+          "importance": 3,
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI News",
+          "published": 1792695600
+        },
+        {
+          "title": "Anthropic's Claude Duet app targets agents",
+          "summary": "Claude Duet is available via waitlist for Pro and Max users.",
+          "why_it_matters": "Signals Anthropic's agent push.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+          "source": "TechCrunch AI",
+          "published": 1792677206
+        },
+        {
+          "title": "Microsoft AI diagnostic tool beats doctors on hard cases",
+          "summary": "A Science study says Microsoft's step-by-step AI diagnoser was more than twice as accurate as general physicians on complex cases. TechCrunch notes most gains seem to come from the underlying models.",
+          "why_it_matters": "Notable AI capability claim, with caveats.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+          "source": "The Verge AI",
+          "published": 1792692000
+        },
+        {
+          "title": "Anthropic: LLMs make formal verification feasible at scale",
+          "summary": "Anthropic research argues LLMs make formal software verification feasible at much larger scale. It drew 240 points on Hacker News.",
+          "why_it_matters": "Could change how critical software is built.",
+          "importance": 3,
+          "url": "https://www.anthropic.com/research/formal-verification",
+          "source": "Hacker News (150+ pts)",
+          "published": 1792709683
+        },
+        {
+          "title": "China-aligned hackers used AI agents to breach ConnectWise customers",
+          "summary": "Microsoft blames a China-aligned actor that used AI agents to rapidly hack into thousands of ConnectWise customers.",
+          "why_it_matters": "AI-driven attacks scaling up.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+          "source": "TechCrunch AI",
+          "published": 1792687637
+        },
+        {
+          "title": "Uber puts all 30,000 employees on ChatGPT Work",
+          "summary": "Uber is expanding from a small pilot to a company-wide rollout of the enterprise agent.",
+          "why_it_matters": "Enterprise agent adoption at scale.",
+          "importance": 2,
+          "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+          "source": "TechCrunch AI",
+          "published": 1792684800
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "eMudhra exits global TLS certificate business after key incident",
+          "summary": "A flubbed key-signing ceremony compromised keys tied to eight intermediate CA certificates, and Google, Apple and Microsoft withdrew trust. The business is about 1% of revenue, its Indian signature services are unaffected, and shares are down about 40% in three sessions.",
+          "why_it_matters": "A major PKI failure involving an Indian firm.",
+          "importance": 4,
+          "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+          "source": "Hacker News (150+ pts)",
+          "published": 1792676019
+        },
+        {
+          "title": "Anthropic builds its own source control system, Scion",
+          "summary": "Git struggled at 30,000 PRs per day, so Anthropic built Scion. The Pragmatic Engineer spoke to the team.",
+          "why_it_matters": "Insight into scaling engineering infrastructure.",
+          "importance": 4,
+          "url": "https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/",
+          "source": "The Pragmatic Engineer",
+          "published": 1792680745
+        },
+        {
+          "title": "Netflix: single-tenant Titus with VM-level isolation",
+          "summary": "Netflix describes adding VM-level isolation to its Kubernetes-based multi-tenant container platform, Titus.",
+          "why_it_matters": "A good platform engineering write-up.",
+          "importance": 3,
+          "url": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
+          "source": "Netflix Tech Blog",
+          "published": 1792707552
+        },
+        {
+          "title": "Harvard study: AI code doesn't boost productivity due to bottlenecks",
+          "summary": "A study of 718 firms found AI assistants raise code volume but not completed work, partly because of added code review load.",
+          "why_it_matters": "Data on AI coding's real impact.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/jellyfish-ai-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1792677600
+        },
+        {
+          "title": "Actors for Agents: patterns for production AI",
+          "summary": "A talk treats agents as distributed systems, covering state ownership, message passing and supervision boundaries.",
+          "why_it_matters": "Matches your distributed systems and agent interests.",
+          "importance": 2,
+          "url": "https://www.infoq.com/presentations/actors-for-production-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1792666800
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "SpaceX and Tesla form committees to study merger",
+          "summary": "Musk said special committees are studying a merger of the two companies, though it is not certain.",
+          "why_it_matters": "A potentially huge tech consolidation.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/elon-musk-wants-to-merge-spacex-and-tesla-heres-what-to-know/articleshow/135133989.cms",
+          "source": "ET Tech",
+          "published": 1792728565
+        },
+        {
+          "title": "Comcast plans job cuts and more AI agents",
+          "summary": "Comcast is losing more customers and plans job cuts alongside deploying more AI agents.",
+          "why_it_matters": "Another AI-linked headcount signal.",
+          "importance": 2,
+          "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+          "source": "Ars Technica",
+          "published": 1792703229
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "Ishan Kishan ruled out of second T20I vs New Zealand",
+          "summary": "Batting coach Sitanshu Kotak said Vaibhav Sooryavanshi comes into the calculations as replacement.",
+          "why_it_matters": "Squad change in the ongoing India series.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1559676.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1792733428
+        },
+        {
+          "title": "Australia must change batting line-up after thrashing, says Cummins",
+          "summary": "After an innings defeat, Australia must consider changes for the deciding Test in Cape Town. South Africa's comeback win came despite losing two days to rain.",
+          "why_it_matters": "Sets up a decisive Test.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1559622.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1792704170
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-23",
+  "generated_at": 1792735363,
+  "items_scanned": 193,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
