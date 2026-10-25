@@ -1,0 +1,338 @@
+{
+  "headline": "A very severe cyclone is bearing down on Andhra Pradesh as Jio's mega IPO heads to listing, FIIs sell for a tenth straight week, and an AI-found PHP flaw sends the internet scrambling.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Andhra Pradesh braces for very severe cyclonic storm; landfall likely Oct 28",
+          "summary": "Landfall is likely between Bapatla and Visakhapatnam on October 28, with wind speeds up to 130 kmph. IMD has issued a red alert for 13 districts on October 27 and 28. Odisha is also stepping up preparedness, with schools to be closed and response teams on alert.",
+          "why_it_matters": "Directly affects Andhra Pradesh, with heavy rain and wind expected across coastal districts.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1792891004
+        },
+        {
+          "title": "Centre backs A.P.'s semiconductor push, approves rail links for nine ports",
+          "summary": "Ashwini Vaishnaw assured support for chip-sector research, skilling and AI, and agreed to a Vande Bharat sleeper between Visakhapatnam and Bengaluru via Tirupati. Chandrababu Naidu met Vaishnaw and Amit Shah in Delhi seeking approval for key railway projects.",
+          "why_it_matters": "Semiconductor and AI investment in Andhra Pradesh could shape local tech job prospects.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/centre-backs-aps-semiconductor-push-approves-rail-links-for-nine-ports/article71621247.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1792865781
+        },
+        {
+          "title": "Amit Shah hails 'lethal blow' to narco-cartel after multi-state operation",
+          "summary": "An operation across Assam, Mizoram and Manipur uncovered hawala transactions worth ₹100 crore. It froze 1,424 bank accounts and attached properties worth ₹17.82 crore.",
+          "why_it_matters": "A major national security and financial-crime enforcement action.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/amit-shah-hails-lethal-blow-to-international-narco-cartel-following-anti-narcotics-operation-in-assam-mizoram-and-manipur/article71622593.ece",
+          "source": "The Hindu - National",
+          "published": 1792905731
+        },
+        {
+          "title": "Telangana to unveil Aerospace and Defence Policy 2.0",
+          "summary": "CM Revanth Reddy said the new policy will come soon and that political differences will not come in the way of investment and development.",
+          "why_it_matters": "Industrial policy signals for Telangana's economy and engineering job market.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-to-unveil-new-aerospace-and-defence-policy-20-soon-says-revanth/article71621205.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1792861820
+        },
+        {
+          "title": "Hyderabad holds anti-SIR protest across age groups",
+          "summary": "Residents of all ages joined a protest in Hyderabad against the SIR electoral roll revision. Participants stressed the need to show that they are alive and on the rolls.",
+          "why_it_matters": "Electoral roll revision is a live political issue in Telangana.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/if-you-are-alive-you-must-show-it-hyderabads-anti-sir-protest-brings-together-people-of-all-age-groups/article71620709.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1792856720
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Israel heads into a tied election as Netanyahu faces mass rally",
+          "summary": "Thousands rallied against Netanyahu ahead of Tuesday's vote, and polls show him and his rivals tied. Both camps are using bots, deepfakes and data in online campaigns. Israeli forces also demolished homes in Hebron after two soldiers were killed on Friday.",
+          "why_it_matters": "The outcome will shape Middle East conflict dynamics, and oil prices are already weighing on markets.",
+          "importance": 4,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792894049
+        },
+        {
+          "title": "Violence across Europe as cost-of-living protests continue",
+          "summary": "Almost 1,000 people were arrested in France after clashes following mass protests. Police also clashed with demonstrators in Italy and Spain over living costs and public-service cuts.",
+          "why_it_matters": "Widespread unrest signals economic strain across major European economies.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792887828
+        },
+        {
+          "title": "Serbia and Bulgaria vote",
+          "summary": "In Serbia, Vucic is in a tight race against a student-led anti-corruption movement. Bulgarians vote for president under the shadow of the Ukraine war.",
+          "why_it_matters": "Key tests for populist leadership and Russia-related politics in Europe.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792903386
+        },
+        {
+          "title": "Second Ebola death in Kenya",
+          "summary": "A 65-year-old woman, a close family member of the first victim, has died. The first victim was a man who had travelled from the Democratic Republic of Congo.",
+          "why_it_matters": "Signals possible spread of an Ebola outbreak beyond DRC.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1792835213
+        },
+        {
+          "title": "Truce brokered for Russian-occupied Oleshky",
+          "summary": "The White House says Melania Trump brokered the truce, and Ukraine and Russia confirmed it. Residents of the city have been surviving on garden weeds. Separately, Ukraine says its Starlink connection is now stable after a week of limits.",
+          "why_it_matters": "A rare humanitarian pause in the Ukraine war.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1792826264
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "FIIs sell for 10th straight week; Nifty ends at 22,600",
+          "summary": "The Nifty fell 2.4% in a holiday-shortened week with an intraweek low of 22,372. Midcap 100 and Smallcap 100 dropped 5.6% and 7.3%. Rising crude, Middle East tensions and FII outflows weigh on sentiment, with the US Fed meeting ahead.",
+          "why_it_matters": "A broad drawdown that matters to a long-term index investor.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-10th-straight-week-as-markets-slide-is-the-worst-over-or-more-pain-ahead/articleshow/135165684.cms",
+          "source": "ET Markets",
+          "published": 1792829474
+        },
+        {
+          "title": "Sebi to revamp short-selling and securities lending rules",
+          "summary": "The regulator is reviewing the rules to improve liquidity and price discovery. It also plans reforms in clearing, broker compliance, custodial services and corporate bond market-making.",
+          "why_it_matters": "Market-structure changes with long-run effects on Indian capital markets.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-revamp-short-selling-securities-lending-rules/articleshow/135182788.cms",
+          "source": "ET Markets",
+          "published": 1792900703
+        },
+        {
+          "title": "Sebi orders Avadhut Sathe academy to refund ₹546 crore",
+          "summary": "Sebi ordered refunds of ₹546.17 crore plus ₹67.87 crore interest for unregistered advice, and imposed ₹11.5 crore in penalties. Refunds are due within five months.",
+          "why_it_matters": "A big enforcement action on unregistered investment advice.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/big-action-who-is-avadhut-sathe-why-sebi-ordered-avadhut-sathe-trading-academy-to-refund-rs-546-cr-what-he-did-11792848745624.html",
+          "source": "LiveMint Markets",
+          "published": 1792852867
+        },
+        {
+          "title": "Silver falls below ₹2 lakh/kg",
+          "summary": "Silver dropped below ₹2 lakh per kg for the first time since December 2025, wiping out its 2026 gains and sitting over 50% below January's record. Higher energy costs and rate-hike concerns are weighing on the metal.",
+          "why_it_matters": "Reflects the rate-hike worries hitting asset prices.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/silver-price-has-broken-below-2-lakh-for-the-first-time-since-december-2025-is-this-the-right-time-to-buy-for-returns-11792841534411.html",
+          "source": "LiveMint Markets",
+          "published": 1792843514
+        },
+        {
+          "title": "Bank Q2 results: Kotak, IDFC First, AU SFB",
+          "summary": "Kotak's consolidated PAT rose 26% to ₹5,645 crore with NII up 16%. IDFC First's profit nearly tripled to ₹1,045 crore. AU Small Finance Bank's profit rose 53% to ₹858 crore as gross NPA fell to 1.99%.",
+          "why_it_matters": "Banking earnings are a key read on Indian corporate health.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q2-results-consolidated-pat-rises-26-yoy-to-rs-5645-crore-lenders-nii-up-16/articleshow/135165924.cms",
+          "source": "ET Markets",
+          "published": 1792830277
+        },
+        {
+          "title": "New-age tech stocks lose over $11 bn in a week; Swiggy falls 24.5%",
+          "summary": "New-age tech stocks lost over $11 billion in combined market cap this week, with Swiggy leading the sell-off. Separately, Myntra reported a ₹582 crore FY26 loss.",
+          "why_it_matters": "Signals pressure on Indian consumer-tech valuations and startup hiring.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/new-age-tech-stocks-tumble-this-week-swiggy-leads-sell-off-with-24-5-fall/",
+          "source": "Inc42",
+          "published": 1792867798
+        },
+        {
+          "title": "Money changes from November 1",
+          "summary": "Pensioners must submit life certificates, audited tax filers get an extended ITR deadline, and gold buyers can check purity via six-digit HUID.",
+          "why_it_matters": "Practical deadlines for personal finances.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/money-changes-from-november-1-from-pensioner-life-certificate-to-itr-deadline-key-things-that-may-impact-your-pocket-11792832393377.html",
+          "source": "LiveMint Money",
+          "published": 1792895755
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Jio Platforms IPO: allotment today, listing October 28",
+          "summary": "The ₹30,213-crore IPO was subscribed 22.19 times, with QIBs bidding 70.55 times. Allotment is on October 26, refunds and demat credit on October 27, and listing on October 28. At the upper band, market cap is estimated at ₹10.30 lakh crore.",
+          "why_it_matters": "India's biggest IPO lists this week.",
+          "importance": 5,
+          "url": "https://www.livemint.com/market/ipo/reliancebacked-jio-platforms-ipo-focus-shifts-to-allotment-date-gmp-hints-22-listing-pop-step-by-step-guide-to-check-11792897616327.html",
+          "source": "LiveMint Markets",
+          "published": 1792902076
+        },
+        {
+          "title": "Five mainboard IPOs to raise ₹2,581 crore next week",
+          "summary": "EAAA India Alternatives leads the issues, alongside SFC Environmental Technologies, BLS Polymers, MK Sons Fine Jewels and Bombay Coated and Special Steels. Jio lists on October 28.",
+          "why_it_matters": "A busy primary-market week.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/post-jio-boost-5-ipos-to-raise-rs-2581-crore-next-week-alongside-indias-biggest-listing/articleshow/135182846.cms",
+          "source": "ET Markets",
+          "published": 1792900817
+        },
+        {
+          "title": "EAAA IPO details: ₹1,200 crore issue",
+          "summary": "The Edelweiss Alternatives-backed IPO offers exposure to private credit and real assets. It values the company at a 40.6x FY26 P/E, with fee-paying AUM growing but performance-linked earnings volatile.",
+          "why_it_matters": "Largest of the new issues next week.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/ipo/eaaa-india-alternatives-ipo-review-price-band-valuation-financials-11792899549025.html",
+          "source": "LiveMint Markets",
+          "published": 1792907886
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Moonshot launches Kimi K3.1 Pro, curbs hacking ability",
+          "summary": "The 3-trillion-parameter open-weight model has a 1-million-token context window, and weights are due by November 4. Moonshot curbed its hacking capability amid fears of AI-powered cyberattacks.",
+          "why_it_matters": "A major open-weight release, with safety tradeoffs relevant to AI engineers.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-moonshot-ai-launches-kimi-k3-1-pro-plans-full-model-weights-release-by-nov/articleshow/135162538.cms",
+          "source": "ET Tech",
+          "published": 1792818481
+        },
+        {
+          "title": "Google's Data Agent Kit reaches GA",
+          "summary": "The free kit has MCP tools and 37 open-source skills connecting coding agents to over fifteen Google Data Cloud services. Guardrails split between skills asking an agent to stop and IAM deny policies that refuse calls.",
+          "why_it_matters": "Directly relevant to agent tooling on GCP.",
+          "importance": 4,
+          "url": "https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1792830840
+        },
+        {
+          "title": "US has lost 200k media, film and arts jobs: how much is AI?",
+          "summary": "An Apricitas analysis examines the decline in creative-sector jobs and AI's role. It drew 277 points and 282 comments on Hacker News.",
+          "why_it_matters": "Evidence on AI's labour-market effects.",
+          "importance": 3,
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (150+ pts)",
+          "published": 1792883514
+        },
+        {
+          "title": "UK sets out $800 million for AI security",
+          "summary": "The biggest share goes to a biosecurity initiative, including £100 million for an AI lab detecting biological threats and £65 million for pathogen countermeasures.",
+          "why_it_matters": "Shows governments funding AI-security work.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/uk-government-sets-out-800-million-of-ai-security-funding/articleshow/135162312.cms",
+          "source": "ET Tech",
+          "published": 1792817676
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "AI-detected PHP flaws trigger global scramble",
+          "summary": "The PHP organisation and the FBI cyber division warned of significant vulnerabilities, sending agencies and companies scrambling. The PHP Foundation says it is under-funded, with one full-time staffer. A related Node2Shell/HTTP2Shell issue affects many HTTP libraries.",
+          "why_it_matters": "Wide-impact security events that backend teams may need to patch.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/what-to-know-about-the-ai-detected-security-bug-impacting-wide-swaths-of-the-internet/articleshow/135162036.cms",
+          "source": "ET Tech",
+          "published": 1792817065
+        },
+        {
+          "title": "Cloudflare reclaims 100 TB of RAM by optimizing consistent hashing",
+          "summary": "Cloudflare cut its load-balancing service's memory by over 100 TB by optimizing the Rust pingora-ketama implementation. It compacted hash-ring entries and cut hashes per backend by about 90%.",
+          "why_it_matters": "A good distributed-systems write-up.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/cloudflare-hashing-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1792829400
+        },
+        {
+          "title": "Google's Gemini 4 Argon optimizes ADK codebase in 11-hour run",
+          "summary": "An unattended run produced two accepted optimizations in Google's 200K-line Agent Development Kit. They cut session-preparation overhead by about 40% and cold import time by 21%.",
+          "why_it_matters": "A concrete example of agentic code optimization.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/google-argon-optimizes-adk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1792857600
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Flipkart under pressure over IPO, ESOPs and profits",
+          "summary": "Inc42 reports questions over Flipkart's IPO and ESOPs, large quick-commerce and food-delivery investments, and pressure to deliver profits. Flipkart-backed super.money's FY26 net loss widened to ₹263.8 crore on tripled revenue.",
+          "why_it_matters": "Affects Indian tech compensation and hiring.",
+          "importance": 3,
+          "url": "https://inc42.com/features/flipkarts-summer-of-discontent/",
+          "source": "Inc42",
+          "published": 1792906222
+        },
+        {
+          "title": "Instacart in talks for sale: The Information",
+          "summary": "Instacart shares closed about 9% higher on the report. The company has a market value of about $12 billion.",
+          "why_it_matters": "Possible tech M&A move.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/startups/instacart-in-talks-for-sale-the-information/articleshow/135162186.cms",
+          "source": "ET Tech",
+          "published": 1792817369
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India go 2-0 up as Tilak, Reddy, Dhir seal Christchurch thriller",
+          "summary": "India recovered from 70 for 5 to chase 181 after New Zealand's poor fielding reprieved four batters. Tilak Varma and Nitish Kumar Reddy, both Telugu players, starred. Santner rued dropped catches and misfields.",
+          "why_it_matters": "India lead the series, with Telugu players in the spotlight.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1559845.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1792860566
+        },
+        {
+          "title": "Pakistan eye final as England regroup after failing to defend 430",
+          "summary": "England may turn to Adil Rashid after the collapse against Sri Lanka in Pindi. Pakistan have named a 14-man Test squad for Sri Lanka, leaving out Masood, Sajid and Noman.",
+          "why_it_matters": "Shapes the tri-series and upcoming Test season.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1559852.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1792905487
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-25",
+  "generated_at": 1792908413,
+  "items_scanned": 143,
+  "failed_sources": [
+    "Indian Express - India",
+    "Moneycontrol Business",
+    "Moneycontrol IPO News",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
