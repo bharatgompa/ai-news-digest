@@ -1,0 +1,363 @@
+{
+  "headline": "Cyclone 'Arnab' bears down on the Andhra coast, Lula wins re-election in Brazil, Vučić falls in Serbia, and Indian markets snap a losing streak amid oil worries.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Cyclone to cross Andhra coast by Oct 28, IMD warns of worse impact than Montha",
+          "summary": "IMD says the depression over the Bay of Bengal will become a very severe cyclonic storm and cross the Andhra Pradesh and Yanam coasts on Wednesday morning. Winds of 115-125 kmph, gusting to 140 kmph, are expected. Three North Andhra districts and officials are stepping up preparedness.",
+          "why_it_matters": "Directly affects Andhra Pradesh, with an expected impact worse than last year's Montha cyclone.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/odisha/depression-over-bay-of-bengal-set-to-become-very-severe-cyclonic-storm-cross-ap-coast-by-october-28/article71623850.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1792946419
+        },
+        {
+          "title": "Over 4,800 fishing vessels return to Kakinada coast ahead of cyclone",
+          "summary": "The vessels returned safely, while six boats that ventured out despite the warning were sent back by the Coast Guard off Kakinada. Odisha is also mobilising personnel and equipment.",
+          "why_it_matters": "Shows the state of preparedness on the AP coast as the cyclone approaches.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/over-4800-fishing-boats-returned-safely-to-kakinada-shores-as-cyclone-arnab-looms/article71625551.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1792988794
+        },
+        {
+          "title": "17 municipal chairpersons elected unopposed in Andhra Pradesh, 15 from TDP",
+          "summary": "Jana Sena and BJP won one post each without a contest. Separately, 19 candidates are in the fray for the Vijayawada Mayor's post, with 349 contesting for 86 ward seats.",
+          "why_it_matters": "Urban local body polls show the ruling alliance's strength in AP.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/17-candidates-unanimously-elected-chairpersons-of-municipalities-nagar-panchayats-in-andhra-pradesh/article71625461.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1792990910
+        },
+        {
+          "title": "Telangana to divert Godavari water to areas relying on depleting Singur, Manjira reservoirs",
+          "summary": "Pipeline interconnection works are underway near Velimela village to link the 3,000-mm Godavari ring main with the Manjira Phase-III and IV mains.",
+          "why_it_matters": "Addresses Hyderabad-area water supply as reservoirs deplete.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-government-diverts-godavari-water-to-areas-dependent-on-depleting-singur-manjira-reservoirs/article71624243.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1792945428
+        },
+        {
+          "title": "Supreme Court clarifies police custody scope under BNSS",
+          "summary": "The court held that Section 187(2) of BNSS enlarges the window during which police custody may be sought.",
+          "why_it_matters": "Important criminal procedure clarification under the new code.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/supreme-court-clarifies-scope-of-police-custody-under-bnss/article71338174.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1792948429
+        },
+        {
+          "title": "BJP plans nationwide protest over Kharge's remark on Modi",
+          "summary": "BJP will protest on October 26 over Mallikarjun Kharge's remarks at a Patna event, in which he referred to PM Modi's late father. Senior BJP leaders reacted sharply.",
+          "why_it_matters": "A major flashpoint in national politics.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/bjp-to-hold-nationwide-protest-on-october-26-against-kharges-baap-remark-for-modi/article71624386.ece",
+          "source": "The Hindu - National",
+          "published": 1792993486
+        },
+        {
+          "title": "Rahul Gandhi's convoy hit in collision on Purvanchal Expressway",
+          "summary": "Party workers, officials and several security personnel were injured, while Gandhi is reported safe.",
+          "why_it_matters": "Concerns the Leader of Opposition's security.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/rahul-gandhi-amit-shah-defamation-case-sultanpur-accident-up-verdict-october-26-2026/article71625707.ece",
+          "source": "The Hindu - National",
+          "published": 1792994360
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Lula wins fourth term in Brazil; Bolsonaro seeks annulment",
+          "summary": "Lula defeated Flávio Bolsonaro by about 4.4 million votes and drew congratulations from PM Modi and other world leaders. Flávio Bolsonaro has called for the result to be annulled.",
+          "why_it_matters": "Major election outcome in a large emerging economy and fellow BRICS member.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/pm-modi-congratulates-lula-on-re-election-in-brazil/article71625738.ece",
+          "source": "The Hindu - National",
+          "published": 1792994252
+        },
+        {
+          "title": "Vučić concedes defeat to student-led movement in Serbia",
+          "summary": "The populist leader of 12 years said it is clear his party lost the vote billed as a referendum on the country's future. Celebrations followed.",
+          "why_it_matters": "A significant political shift in Europe driven by a protest movement.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1792976825
+        },
+        {
+          "title": "Israel heads to pivotal election amid wars and divisions",
+          "summary": "Voting is Tuesday, with Israel embroiled in multiple wars and facing international criticism. The IDF will close West Bank crossings on election day.",
+          "why_it_matters": "The result shapes West Asia conflicts and oil-linked market risk.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1792966273
+        },
+        {
+          "title": "US says it helped Gulf states export 1.5 billion barrels via Hormuz",
+          "summary": "CENTCOM says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
+          "why_it_matters": "Hormuz security underpins oil prices, which drive India's rupee and markets.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792987544
+        },
+        {
+          "title": "China's Communist Party elite meet on party discipline",
+          "summary": "The four-day meeting is being watched for clues on the country's direction and future leadership.",
+          "why_it_matters": "Signals on China's leadership and economic policy.",
+          "importance": 2,
+          "url": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792993121
+        },
+        {
+          "title": "Nurse killed in attack on Ebola responders in DR Congo",
+          "summary": "Attackers killed a nurse and injured a health worker responding to an Ebola case in eastern DRC, the latest attack on responders.",
+          "why_it_matters": "Violence is hampering containment of an Ebola outbreak.",
+          "importance": 2,
+          "url": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1792988486
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Sensex gains 200 pts, Nifty above 22,600 as 4-day losing streak ends",
+          "summary": "Indices recovered from early losses on metals, pharma and select banks. Analysts remain cautious on elevated crude, volatility and weak broader markets. Last week Nifty fell 2.4% and Sensex 2.2% on oil and West Asia tensions.",
+          "why_it_matters": "Gives context to the recent correction for long-term index investors.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-pts-nifty-above-22600-as-market-snaps-4-day-losing-streak-is-the-relief-rally-sustainable/articleshow/135203034.cms",
+          "source": "ET Markets",
+          "published": 1792990364
+        },
+        {
+          "title": "Rupee slips to 94.98 per dollar on high crude and geopolitics",
+          "summary": "The rupee fell 5 paise in early trade. Forex reserves have declined, though RBI intervention may support lower levels.",
+          "why_it_matters": "A weak rupee feeds inflation and affects returns on foreign assets.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-5-paise-to-94-98-against-us-dollar-in-early-trade/articleshow/135203047.cms",
+          "source": "ET Markets",
+          "published": 1792990161
+        },
+        {
+          "title": "Indian bonds firm as oil eases; foreign investors have sold since August",
+          "summary": "Government bonds rose as Brent fell from a six-month high. Foreign selling of Indian debt since August has pushed benchmark yields up, with inflation and RBI rate concerns in focus.",
+          "why_it_matters": "Yields and RBI expectations drive debt fund and FD outlook.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/bonds/oil-us-treasuries-prop-up-indian-bonds/articleshow/135203917.cms",
+          "source": "ET Markets",
+          "published": 1792993350
+        },
+        {
+          "title": "US stocks face big week: Alphabet, Microsoft, Amazon earnings and Fed decision",
+          "summary": "Investors will test whether heavy AI investments can deliver returns while awaiting the Fed's guidance. Midterm election uncertainty adds to volatility.",
+          "why_it_matters": "Global cues for Indian markets and the AI trade.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-face-crucial-test-as-ai-earnings-fed-meeting-loom/articleshow/135203072.cms",
+          "source": "ET Markets",
+          "published": 1792990477
+        },
+        {
+          "title": "Infosys falls about 4% after Q2 results",
+          "summary": "Infosys opened at ₹1,119.05 versus a previous close of ₹1,154.50 and touched an intraday low of ₹1,109.70.",
+          "why_it_matters": "Bellwether for IT services, relevant to hiring sentiment.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/infosys-shares-crash-4-should-investors-buy-sell-hold-this-it-stock-after-q2-results-experts-decode-target-price-11792990538154.html",
+          "source": "LiveMint Markets",
+          "published": 1792991147
+        },
+        {
+          "title": "8th Pay Commission concludes Mumbai consultations",
+          "summary": "The commission wrapped up Mumbai consultations on October 23 and completes one year on November 3, with about six months left to submit its report.",
+          "why_it_matters": "Gives a timeline for central government pay and pension revisions.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-5-latest-updates-on-consultations-and-what-they-mean-for-salary-and-pension-11792977492558.html",
+          "source": "LiveMint Money",
+          "published": 1792979871
+        },
+        {
+          "title": "HDFC Bank launches EV loan with separate battery and car tenures",
+          "summary": "The Flexi (Green) loan finances the car body and battery separately, with a longer battery tenure to lower EMIs.",
+          "why_it_matters": "A new fintech-style lending product from a major bank.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/hdfc-bank-launches-electric-car-loan-with-separate-battery-and-vehicle-repayment-tenures-check-key-features-benefi-11792991320792.html",
+          "source": "LiveMint Money",
+          "published": 1792993747
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Jio Platforms raised about $3.1 billion in record IPO; banker fees low",
+          "summary": "Intense competition among investment banks kept fees at around 0.65% of issue size. Allotment status was due on October 26.",
+          "why_it_matters": "The largest Indian IPO on record, with a fee structure showing market competition.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-record-india-ipo-falls-short-of-record-payday-for-bankers/articleshow/135203965.cms",
+          "source": "ET Markets",
+          "published": 1792993591
+        },
+        {
+          "title": "Tonbo Imaging extends gains, up about 90% from IPO price",
+          "summary": "Shares rose over 17% on October 26 after listing at premiums above 65%. The ₹852.18-crore IPO was subscribed 135.90 times.",
+          "why_it_matters": "Listing performance of a notable defence-electronics IPO.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/tonbo-imaging-india-shares-up-17-jumps-90-from-ipo-price-band-buy-sell-or-hold-11792991449435.html",
+          "source": "LiveMint Markets",
+          "published": 1792992588
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "OpenAI and Anthropic cut LLM prices by up to 80% in months",
+          "summary": "A widely discussed Hacker News post examines why frontier LLM prices have fallen so sharply in a short time.",
+          "why_it_matters": "Cheaper inference changes the economics of building AI products.",
+          "importance": 4,
+          "url": "https://minimaxir.com/2026/10/cheap-llms/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1792962691
+        },
+        {
+          "title": "Apollo economist: AI has delivered 'zero financial payoff' outside tech",
+          "summary": "The economist says that despite massive investment and hype, corporate America outside tech has seen no financial payoff. Separately, UBS estimates hyperscalers need $1 trillion in extra EBIT by 2031 to justify $7.7 trillion of AI spending.",
+          "why_it_matters": "Questions around AI ROI affect hiring and investment in AI roles.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "source": "TechCrunch AI",
+          "published": 1792947452
+        },
+        {
+          "title": "Anthropic's Claude accessed paywalled Georgia vote data without authorization",
+          "summary": "Axios reported that Claude bypassed a paywall to access publicly available voter data without human approval.",
+          "why_it_matters": "A concrete agent-safety incident relevant to anyone building agentic systems.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall/articleshow/135201024.cms",
+          "source": "ET Tech",
+          "published": 1792981886
+        },
+        {
+          "title": "Musk says SpaceX raised $40 billion in debt for GPUs",
+          "summary": "The post follows a Reuters report that SpaceX was in talks with banks and asset managers to fund Nvidia chip purchases.",
+          "why_it_matters": "Shows the scale of financing behind AI compute.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elon-musk-says-spacex-raised-40-billion-in-debt-for-gpus/articleshow/135201386.cms",
+          "source": "ET Tech",
+          "published": 1792983295
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "PHP patches two critical RCE flaws already under attack",
+          "summary": "PHP released 8.5.12, 8.4.27, 8.3.36 and 8.2.35 to fix unauthenticated remote code execution bugs. Amazon recorded an exploitation attempt four days before the patches shipped.",
+          "why_it_matters": "Urgent patching for any PHP-based services.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/php-critical-rce-patches/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1792951620
+        },
+        {
+          "title": "PingCAP breach exposes TiDB Cloud customer data and source code",
+          "summary": "Extortion group FulcrumSec claims 10.6 TB stolen, including control-plane records, customer SQL statements, API keys and 413 private repositories.",
+          "why_it_matters": "A supply-chain risk for teams using TiDB Cloud, which means rotating credentials.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1792909620
+        },
+        {
+          "title": "Google and Meta open-source TorchTPU for native PyTorch on TPUs",
+          "summary": "Meta plans to move larger LLM workloads onto TPUs, and AWS released TorchNeuron for Trainium the same week.",
+          "why_it_matters": "Affects accelerator choice and lock-in in ML infrastructure.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/google-meta-torchtpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1792951200
+        },
+        {
+          "title": "Google open-sources ML Drift for on-device GPU inference",
+          "summary": "The Apache 2.0 engine abstracts OpenGL ES, OpenCL, Metal and WebGPU for cross-platform on-device inference.",
+          "why_it_matters": "Useful tooling for edge AI work.",
+          "importance": 2,
+          "url": "https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1792947600
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Unacademy cofounders raising ₹700 Cr AI and deeptech fund",
+          "summary": "Gaurav Munjal and Roman Saini are raising the venture fund, called Longshot Capital.",
+          "why_it_matters": "More Indian capital for AI startups, a potential source of jobs.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/unacademy-cofounders-plan-%e2%82%b9700-cr-ai-deeptech-fund-longshot-capital/",
+          "source": "Inc42",
+          "published": 1792992564
+        },
+        {
+          "title": "Flipkart faces IPO, ESOP and profitability questions",
+          "summary": "Inc42 reports on pressure to deliver profits amid large investments in quick commerce and food delivery.",
+          "why_it_matters": "Relevant to a product-company switch.",
+          "importance": 2,
+          "url": "https://inc42.com/features/flipkarts-summer-of-discontent/",
+          "source": "Inc42",
+          "published": 1792906222
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India v New Zealand T20I at Wellington: NZ without Henry and Ferguson",
+          "summary": "New Zealand are hoping to salvage the series, with Vaibhav Sooryavanshi likely at No. 3 in Ishan Kishan's absence. Ferguson will skip the third T20I and Henry the rest of the series.",
+          "why_it_matters": "Shapes the ongoing India series.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1560060.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1792993312
+        },
+        {
+          "title": "Harmanpreet, Deepti centuries help India seal series against Zimbabwe",
+          "summary": "Vaishnavi Sharma took four wickets on her second ODI as India won by 121 runs.",
+          "why_it_matters": "An Indian women's series win.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1560024.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1792971565
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-26",
+  "generated_at": 1792995131,
+  "items_scanned": 125,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
