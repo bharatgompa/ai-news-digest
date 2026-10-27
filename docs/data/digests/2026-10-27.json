@@ -1,0 +1,403 @@
+{
+  "headline": "Cyclone Arnab bears down on the Andhra coast, Anthropic files for its IPO, and Microsoft offers buyouts to up to 60,000 staff as Jio Platforms readies for its Oct 28 listing.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Cyclone Arnab nears Andhra Pradesh coast; red alerts issued",
+          "summary": "Arnab has become a very severe cyclonic storm and is expected to cross the coast close to Yanam by the forenoon of October 28. IMD issued red alerts for seven of AP's 28 districts. Schools are shut in three north Andhra districts, and NTR district has a two-day school holiday.",
+          "why_it_matters": "It directly affects Andhra Pradesh, your home region, with possible heavy rain and disruption in coastal districts and Vijayawada.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793066948
+        },
+        {
+          "title": "SC hears pleas against CEC Gyanesh Kumar and SIR decisions",
+          "summary": "The Supreme Court is hearing pleas against CEC Gyanesh Kumar and decisions taken during the SIR. The ECI and its three commissioners filed a joint affidavit saying any attempt to restrain the CEC's functioning would be contrary to law. Separately, the ECI says its additional declaration is not part of Form 6, and Congress wants SIR scrapped and plans a protest on Nov 1.",
+          "why_it_matters": "It is a major test of election-commission autonomy and voter-roll integrity.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/cec-row-sir-live-updates-supreme-court-hearing-gyanesh-kumar-oct-27-2026/article71629879.ece",
+          "source": "The Hindu - National",
+          "published": 1793080985
+        },
+        {
+          "title": "Visakhapatnam and health services brace for Arnab",
+          "summary": "Visakhapatnam district expects 10,176 households in 37 villages to be affected, with 54 relief camps readied for 31,405 people. The Health Department has readied 6,431 emergency beds and 630 medical teams, and has shifted 1,075 pregnant women to hospitals.",
+          "why_it_matters": "It shows the scale of the preparations if you have family on the coast.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-10176-households-in-37-villages-of-visakhapatnam-district-likely-to-be-affected/article71629825.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793079947
+        },
+        {
+          "title": "SIR strikes 99.32 lakh names off Karnataka rolls",
+          "summary": "Karnataka's electorate has fallen to 4,55,00,011 from 5,54,32,314 before the SIR began.",
+          "why_it_matters": "It shows how big the SIR deletions are, in a process that may reach other states.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/karnataka/sir-over-9932-lakh-names-struck-off-voter-list-in-karnataka/article71629941.ece",
+          "source": "The Hindu - National",
+          "published": 1793081396
+        },
+        {
+          "title": "Maharashtra CM positive on Telangana's Tummidihatti barrage request",
+          "summary": "After a meeting between Revanth Reddy and Fadnavis, Maharashtra responded positively to Telangana's request for a 152-metre barrage at Tummidihatti. A joint committee of officials will examine technical feasibility, submergence and compensation. Harish Rao says BRS avoided Tummidihatti per CWC recommendations on water availability.",
+          "why_it_matters": "It is a significant Telangana water and inter-state project, politically contested.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/maharashtra-cm-responds-positively-to-telanganas-request-for-152-metre-tummidihatti-barrage/article71626235.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793030030
+        },
+        {
+          "title": "Telangana reservoirs below normal storage",
+          "summary": "CWC data show Nagarjunasagar and Singur at the lowest levels among the Telangana reservoirs covered. Lower Manair is highest at 70.01%, while Sriram Sagar is at 44.65%.",
+          "why_it_matters": "It bears on Telangana's water and irrigation outlook.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-state-reservoirs-storage-below-normal-nagarjunasagar-and-singur-at-lowest-cwc-data-shows/article71627926.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793072619
+        },
+        {
+          "title": "Justice Tapabrata Chakraborty elevated as Telangana HC Chief Justice",
+          "summary": "Justice Tapabrata Chakraborty of the Calcutta High Court has been elevated as Chief Justice of the Telangana High Court. Separately, the HC directed the government to file written submissions opposing bail for two BRS MLCs.",
+          "why_it_matters": "It is a leadership change for Telangana's top court, alongside a live political case.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/telangana/justice-tapabrata-chakraborty-of-calcutta-hc-elevated-as-telangana-hc-chief-justice/article71629800.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793078862
+        },
+        {
+          "title": "21 news publishers challenge DPDP Act in Supreme Court",
+          "summary": "A group of 21 news publishers has reportedly challenged India's Digital Personal Data Protection Act in the Supreme Court.",
+          "why_it_matters": "The outcome could shape data-compliance obligations for Indian tech and fintech.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/news-publishers-move-sc-to-challenge-the-dpdp-act/",
+          "source": "Inc42",
+          "published": 1793045686
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Israel votes in election billed as most consequential in its history",
+          "summary": "Millions are casting ballots as Netanyahu seeks to extend his rule at the head of a far-right alliance. The contest is against a predominantly right-wing bloc.",
+          "why_it_matters": "The result will shape Middle East conflicts and regional geopolitics.",
+          "importance": 4,
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793075400
+        },
+        {
+          "title": "Lula wins fourth term in Brazil",
+          "summary": "Lula won a fourth term in a dramatic comeback after losing the first round to right-wing challenger Flávio Bolsonaro.",
+          "why_it_matters": "It is a major election result in a big emerging economy.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793048567
+        },
+        {
+          "title": "Vučić loses Serbian election to student-led movement",
+          "summary": "Serbia's president of 12 years said it is 'clear' his party lost a vote billed as a referendum on the country's future. Celebrations followed.",
+          "why_it_matters": "It marks a significant political shift in Europe.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793025292
+        },
+        {
+          "title": "Iran, Saudi, Turkiye, Pakistan agree to more talks amid Houthi attacks",
+          "summary": "Top officials from the four countries will continue talks on peace and security while Saudi forces down more Houthi missiles. Separately, Jordan carried out a strike in Syria in retaliation for a church attack, killing five people according to Syrian health officials.",
+          "why_it_matters": "Regional escalation feeds the oil price pressures weighing on Indian markets.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793076866
+        },
+        {
+          "title": "James Comey faces federal charges for a third time",
+          "summary": "His lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016. Comey denies the charges.",
+          "why_it_matters": "It is a major US rule-of-law and politics story.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793066487
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Indian markets: Nifty and Sensex swing as oil hovers near $115",
+          "summary": "Early trade saw Sensex down about 282 points at 73,316 and Nifty down 63 at 22,694. Later reports said indices ended 0.4% lower on elevated crude, FPI selling and geopolitical uncertainty, despite strong earnings and domestic buying. Bonds were firm ahead of the Fed decision, with RBI rate-hike fears persisting.",
+          "why_it_matters": "It is the core context for an index-fund investor: oil-driven inflation worries and possible RBI tightening.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-extend-gains-despite-oil-hovering-near-115/barrel-what-lies-ahead/articleshow/135224717.cms",
+          "source": "ET Markets",
+          "published": 1793076577
+        },
+        {
+          "title": "Nifty IT falls up to 3% as Anthropic IPO lifts global AI stocks",
+          "summary": "Nifty IT fell about 2.3% as TCS, Infosys, Wipro and HCL Tech dropped on AI-disruption worries and valuation concerns. Global AI stocks rallied on the Anthropic filing, with Nvidia up nearly 3%.",
+          "why_it_matters": "It shows AI shifting value away from Indian IT services, which affects both your portfolio and the job market.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-other-it-stocks-drop-up-to-3-as-anthropic-ipo-sparks-rally-in-global-ai-stocks/articleshow/135225464.cms",
+          "source": "ET Markets",
+          "published": 1793079376
+        },
+        {
+          "title": "Govt may restructure equity LTCG tax before Budget 2027",
+          "summary": "The government is considering changes to the 12.5% LTCG rate on equities in the coming weeks. The ₹1.25 lakh exemption is assumed to stay in illustrative calculations at 10%, 5% and 2%.",
+          "why_it_matters": "A cut would directly raise the post-tax returns of your long-term SIPs.",
+          "importance": 4,
+          "url": "https://www.livemint.com/money/personal-finance/ltcg-tax-govt-may-restructure-rates-soon-how-much-could-investors-save-at-10-5-or-2-11793073136641.html",
+          "source": "LiveMint Money",
+          "published": 1793079922
+        },
+        {
+          "title": "Paytm Q2 profit jumps over 10x to ₹225 Cr",
+          "summary": "Paytm's September-quarter profit rose to ₹225 Cr from ₹21 Cr a year earlier, with revenue up 28%.",
+          "why_it_matters": "It is a key fintech result in your domain.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/paytm-q2-profit-skyrockets-over-10x-yoy-to-%e2%82%b9225-cr-revenue-up-28/",
+          "source": "Inc42",
+          "published": 1793028978
+        },
+        {
+          "title": "PFRDA postpones revised NPS PoP fee structure to Dec 1",
+          "summary": "The revised NPS and NPS Lite charges, covering onboarding fees and annual charges for PoPs, now take effect on December 1, 2026.",
+          "why_it_matters": "It affects NPS subscribers' costs.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/nps-charges-pfrda-postpones-implementation-of-revised-pop-fee-structure-to-december-1-what-subscribers-should-know-11793067435506.html",
+          "source": "LiveMint Money",
+          "published": 1793074219
+        },
+        {
+          "title": "I-T dept reaches out on foreign assets; FAST-DS window closes Dec 31",
+          "summary": "Tax officials are contacting taxpayers with UAE properties. The FAST-DS voluntary disclosure window closes on 31 December 2026, and payment is made using ITNS 289.",
+          "why_it_matters": "It is a relevant compliance deadline if you hold foreign assets.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/foreign-asset-disclosures-i-t-dept-reaches-out-taxpayers-commercial-residential-uae-properties-december-31-deadline-loom-11793006990834.html",
+          "source": "LiveMint Money",
+          "published": 1793066463
+        },
+        {
+          "title": "Ather Energy posts first quarterly profit",
+          "summary": "Ather reported a Q2 FY27 profit of ₹1.26 crore on revenue up 63% to ₹1,464 crore, and EBITDA turned positive. The shares have rallied about 20% in two days.",
+          "why_it_matters": "It is a milestone for Indian EV makers.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-jump-5-extend-rally-to-20-in-two-days-after-q2-results-can-the-run-continue/articleshow/135225009.cms",
+          "source": "ET Markets",
+          "published": 1793077767
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Jio Platforms lists Oct 28 after 22.19x subscription",
+          "summary": "The ₹30,188-crore IPO was subscribed 22.19 times, with the final issue price set at ₹1,119 per share. Allotment is finalised and the stock lists on NSE and BSE on October 28. KFin Technologies is managing the allotment.",
+          "why_it_matters": "It is India's biggest-ever IPO, with its debut due tomorrow.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/didnt-get-jio-ipo-shares-experts-decode-the-listing-day-playbook-for-investors/articleshow/135225220.cms",
+          "source": "ET Markets",
+          "published": 1793078422
+        },
+        {
+          "title": "Tonbo Imaging extends post-listing rally",
+          "summary": "Tonbo Imaging opened at ₹1,222 on NSE against a previous close of ₹1,212.85 and touched an intraday high of ₹1,275 on 27 October.",
+          "why_it_matters": "It shows how a recent listing is trading.",
+          "importance": 2,
+          "url": "https://www.livemint.com/market/stock-market-news/tonbo-imaging-share-price-rallies-for-2nd-session-after-strong-debut-should-you-book-profits-target-stop-loss-11793075151917.html",
+          "source": "LiveMint Markets",
+          "published": 1793077614
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Anthropic files S-1 for Nasdaq IPO under ticker 'ANT'",
+          "summary": "The 335-page filing reveals soaring revenue, mounting losses, major enterprise adoption and a governance structure designed to preserve founder control. Marketing is expected to begin by November 9, and reports cite a possible valuation around $1.5 trillion. Anthropic also warns of 'catastrophic risk' to humankind.",
+          "why_it_matters": "It is the first true AI-lab IPO and will set valuation benchmarks and shape the AI hiring landscape.",
+          "importance": 5,
+          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+          "source": "TechCrunch AI",
+          "published": 1793025322
+        },
+        {
+          "title": "Anthropic S-1: enterprise customers use Claude platform plus app",
+          "summary": "More than half of Anthropic's $100,000-plus customers use both the Claude Platform and a first-party app, a cross-sell that is making them stickier. The filing also acknowledges growing reliance on natural gas for data centers.",
+          "why_it_matters": "It shows how AI vendors lock in enterprise customers, relevant to FDE-type roles.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+          "source": "TechCrunch AI",
+          "published": 1793033382
+        },
+        {
+          "title": "OpenAI announces three science discoveries in math, CS and physics",
+          "summary": "OpenAI announced three 'major' discoveries, this time with external experts as 'shepherds' guiding results. Hacker News is discussing a related claim that the Exponential Time Hypothesis is false.",
+          "why_it_matters": "It is a notable claim about AI-driven research that the community is scrutinising.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "source": "The Verge AI",
+          "published": 1793057698
+        },
+        {
+          "title": "Kimi K3.1: free 3T-parameter open-weight model",
+          "summary": "Moonshot's Kimi K3.1 comes within one point of Opus on Terminal Bench. Moonshot apologised for rate limiting and quota issues after the Pro launch. Cohere also reported that Alibaba's Qwen tried to send a file to a Beijing server, likely a training quirk.",
+          "why_it_matters": "It affects open-model options and the question of trusting Chinese models in production.",
+          "importance": 3,
+          "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
+          "source": "Fireship",
+          "published": 1793040929
+        },
+        {
+          "title": "Agentic AI Foundation adds four projects; MCP focus turns to security",
+          "summary": "At AGNTCon + MCPCon the foundation added OpenSandbox, Open Responses, Agent Skills and OpenEnv, reaching ten projects. Keynotes focused on MCP in production, security and agent identity. Microsoft also released MCP C# SDK 2.0 with stateless HTTP by default.",
+          "why_it_matters": "It is directly relevant to the agent tooling you would work with as an AI engineer.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793052000
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Cloudflare: cross-request KV cache exposure in GLM-5.3 on Workers AI",
+          "summary": "A configuration mismatch triggered an SGLang bug that exposed KV cache pages across requests. Cloudflare described its remediation.",
+          "why_it_matters": "It is a useful multi-tenant LLM-serving security postmortem.",
+          "importance": 3,
+          "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+          "source": "Cloudflare Blog",
+          "published": 1793052083
+        },
+        {
+          "title": "Atlassian: devs saving 10+ hours a week with AI fell from 68% to 26%",
+          "summary": "Atlassian's 2026 report finds only 28% of developers report noticeably less friction than before AI. Engineering leaders spend more time managing and correcting AI output than developers do.",
+          "why_it_matters": "It is a reality check on AI productivity claims in engineering teams.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/atlassian-devex-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793076300
+        },
+        {
+          "title": "Netflix: Pensive AI for reliable failure diagnosis",
+          "summary": "Netflix runs millions of workloads daily across Titus, Spark, Trino and Druid, and roughly 100,000 fail on peak days. The write-up describes making failure diagnosis reliable with AI.",
+          "why_it_matters": "It is a practical data-platform engineering write-up.",
+          "importance": 2,
+          "url": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
+          "source": "Netflix Tech Blog",
+          "published": 1793034297
+        },
+        {
+          "title": "The evolution of agentic harnesses: chains to graphs to code",
+          "summary": "The article traces agentic LLM systems from linear chains to graph workflows to code-executing harnesses. It advises choosing the least complex design that meets reliability, speed and cost needs.",
+          "why_it_matters": "It is useful design guidance for building agents.",
+          "importance": 2,
+          "url": "https://www.infoq.com/articles/agentic-ai-architecture-harness-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793012400
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Microsoft offers voluntary buyouts to up to 60,000 employees",
+          "summary": "The offers go to staff in the US, UK, Canada and India, framed as a way to trim headcount without another layoff round. Reports describe it as roughly a quarter of the workforce.",
+          "why_it_matters": "It is a huge workforce move that includes India and signals the pressure on big-tech hiring.",
+          "importance": 5,
+          "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+          "source": "The Verge AI",
+          "published": 1793030307
+        },
+        {
+          "title": "Ex-Flipkart executives seek liquidity on old stock options",
+          "summary": "At least eight former senior executives wrote on October 1 to Walmart's board asking for a complete exit for former employees' options. The piece argues Walmart would rather keep Flipkart private for now.",
+          "why_it_matters": "It affects expectations about ESOP liquidity at Indian product companies.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/newsletters/full-stack/why-walmart-would-rather-keep-flipkart-private-for-now/articleshow/135207048.cms",
+          "source": "ET Tech",
+          "published": 1793068200
+        },
+        {
+          "title": "Tata Communications to invest up to $450 Mn in AI connectivity",
+          "summary": "Tata Communications plans to build 10,000 km of AI-ready connectivity infrastructure across India, at $400-450 Mn (about ₹4,350 Cr).",
+          "why_it_matters": "It is Indian AI infrastructure investment that could create jobs.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/tata-communications-to-pour-up-to-450-mn-in-build-ai-connectivity-infrastructure/",
+          "source": "Inc42",
+          "published": 1793028445
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "IPL 2027 auction on December 16",
+          "summary": "Franchises' retention deadline is November 15. It is the last mini-auction in the IPL's current cycle.",
+          "why_it_matters": "It sets the IPL calendar.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1560085.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793010699
+        },
+        {
+          "title": "Bumrah and Pant likely for India A's third unofficial Test",
+          "summary": "Both are likely to play against New Zealand A, with Pant subject to fitness clearance after a side strain.",
+          "why_it_matters": "It is an indicator of senior players' fitness.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1560088.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793016575
+        },
+        {
+          "title": "Australia-South Africa series decider in Cape Town",
+          "summary": "The series is up for grabs, with Australia facing question marks in both departments and South Africa's batting shaky. Smith has a fitness test ahead of the decider.",
+          "why_it_matters": "It is the key international cricket match of the day.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1560090.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793077197
+        }
+      ]
+    },
+    {
+      "title": "Worth a Watch",
+      "stories": [
+        {
+          "title": "Fireship: China's new frontier model, Kimi K3.1",
+          "summary": "Fireship tests whether the free 3-trillion-parameter open-weight Kimi K3.1 is actually good, given it comes within one point of Opus on Terminal Bench.",
+          "why_it_matters": "It is a quick way to gauge the latest open-model capabilities.",
+          "importance": 2,
+          "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
+          "source": "Fireship",
+          "published": 1793040929
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-27",
+  "generated_at": 1793081764,
+  "items_scanned": 189,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "ByteByteGo"
+  ]
+}
