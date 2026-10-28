@@ -1,0 +1,329 @@
+{
+  "headline": "Cyclone Arnab batters Andhra Pradesh as Jio Platforms' blockbuster debut reshuffles India's market ranks while Sensex tumbles on $115 crude.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Cyclone Arnab crosses Andhra coast, weakens to severe cyclonic storm",
+          "summary": "IMD says landfall is complete and the system is now moving over land. CM Naidu says no loss of life was reported in Andhra, though one electrocution death was reported earlier in northern districts. About 84,396 people were evacuated to 290 shelters, and Vizag saw 147.9 mm of rain.",
+          "why_it_matters": "Directly affects your home region; the cleanup and power restoration phase now begins.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece",
+          "source": "The Hindu - National",
+          "published": 1793169872
+        },
+        {
+          "title": "Telangana declares 365 mandals drought-affected, 111 severely",
+          "summary": "The assessment found kharif crop area affected in 18 of 33 districts. KTR called it a 'Congress-induced drought'; BRS plans a public meeting at Nirmal on Nov 11.",
+          "why_it_matters": "Major Telangana agrarian and political story.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-declares-365-mandals-drought-affected-of-which-111-severely-drought-affected/article71632836.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793119697
+        },
+        {
+          "title": "INDIA bloc to hold 'public impeachment' of CEC on Oct 30",
+          "summary": "21 parties will gather at Kharge's residence as a curtain raiser for the Nov 1 Ramlila Maidan rally over the 'vote chori' charge. Separately, Karnataka's SIR struck over 99.32 lakh names, leaving 4.55 crore voters.",
+          "why_it_matters": "Electoral roll revision is becoming the central national political fight.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/india-blocs-public-impeachment-of-cec-to-be-held-at-kharges-residence-on-october-30/article71634582.ece",
+          "source": "The Hindu - National",
+          "published": 1793169713
+        },
+        {
+          "title": "Naidu orders trees cleared in two hours, power restored once winds ease",
+          "summary": "The CM held a teleconference with about 32,000 officials and field staff on Wednesday morning. Schools in 16 coastal districts were closed and 609 schools were turned into relief shelters.",
+          "why_it_matters": "Shows the scale of the AP state response and the recovery timeline.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-arnab-clear-fallen-trees-within-two-hours-restore-power-once-winds-ease-naidu-tells-officials/article71634450.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793167871
+        },
+        {
+          "title": "Telangana Congress plans to mobilise 10,000 cadres for Delhi rally",
+          "summary": "The mobilisation is straining logistics, with Hyderabad–Delhi airfares reportedly rising sharply.",
+          "why_it_matters": "Telangana politics ahead of the Nov 1 Ramlila Maidan rally.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-congress-plans-to-mobilise-10000-cadres-for-delhi-rally/article71632263.ece",
+          "source": "The Hindu - National",
+          "published": 1793169859
+        },
+        {
+          "title": "SC seeks Centre's response on publishers' plea against DPDP Act",
+          "summary": "The Supreme Court sought responses from the Centre and MeitY on news publishers' challenge to the Digital Personal Data Protection Act.",
+          "why_it_matters": "Affects data-protection compliance, relevant to fintech engineering.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/news-publishers-move-sc-to-challenge-the-dpdp-act/",
+          "source": "Inc42",
+          "published": 1793103226
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Israel election: Netanyahu bloc slightly ahead but short of majority",
+          "summary": "With over half the votes counted, Netanyahu's bloc leads narrowly but lacks a majority. Arab parties are on track for record seats on roughly 80% turnout, and Netanyahu called a coalition with them 'shameful'.",
+          "why_it_matters": "The outcome shapes the Middle East conflict and oil-driven markets.",
+          "importance": 4,
+          "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793156015
+        },
+        {
+          "title": "Why India has soured on Trump ahead of US midterms",
+          "summary": "Al Jazeera analysis says New Delhi may hope midterm losses chasten the US president, seven years after Modi backed Trump.",
+          "why_it_matters": "India-US relations affect trade and IT-services outlook.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793166220
+        },
+        {
+          "title": "Ceasefire extended across Ukraine's Kherson region",
+          "summary": "The truce, originally for stranded residents of Oleshky, was extended; both sides report no breaches. Norway's and Finland's leaders also held a rare call with Putin.",
+          "why_it_matters": "Small signs of diplomatic movement in the Ukraine war.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793139068
+        },
+        {
+          "title": "West warns of famine risk in Sudan",
+          "summary": "Millions face acute hunger as conflict, drought and funding cuts worsen the crisis.",
+          "why_it_matters": "Major humanitarian emergency.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793115706
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Sensex plunges 995 points, Nifty down 1.1% as crude tops $115",
+          "summary": "Crude rose above $115 a barrel after an attack on a Saudi refinery, and investors awaited the US Fed decision.",
+          "why_it_matters": "Oil shock risks inflation and weighs on your index funds.",
+          "importance": 5,
+          "url": "https://www.livemint.com/market/stock-market-news/stock-market-crash-today-sensex-plunges-995-points-nifty-sheds-1-ahead-of-fed-decision-heres-what-spooked-dstreet-11793164032504.html",
+          "source": "LiveMint Markets",
+          "published": 1793165838
+        },
+        {
+          "title": "Weak domestic returns fuel India's overseas retail investing boom",
+          "summary": "Indian investors are shifting to global funds, particularly AI-related assets. Regulatory limits on overseas investment exist, and fund houses are launching international funds.",
+          "why_it_matters": "Context for diversification decisions in your portfolio.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/weak-domestic-returns-fuel-indias-overseas-retail-investing-boom/articleshow/135254832.cms",
+          "source": "ET Markets",
+          "published": 1793168842
+        },
+        {
+          "title": "New TDS forms under Income-tax Act 2025 from April 2026",
+          "summary": "The new Act introduces new form numbers for several tax filings and TDS certificates.",
+          "why_it_matters": "Salaried taxpayers will see changed forms.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/income-tax-act-1961-vs-2025-list-of-new-tds-forms-and-certificates-every-taxpayer-salaried-employee-needs-to-know-11793158028836.html",
+          "source": "LiveMint Money",
+          "published": 1793163863
+        },
+        {
+          "title": "Maruti Q2 profit falls 26%; brokerages cut targets",
+          "summary": "Jefferies, Nomura and Elara lowered target prices on weaker margins and financial income despite record volumes. Separately, L&T jumped 6% on strong Q2 results.",
+          "why_it_matters": "Earnings read-through for index heavyweights.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-shares-see-target-price-cuts-by-jefferies-nomura-other-brokerages-after-q2-net-profit-drops-26-yoy-whats-ahead/articleshow/135254335.cms",
+          "source": "ET Markets",
+          "published": 1793168232
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Jio Platforms lists at 21.3% premium, becomes India's No. 2 by market cap",
+          "summary": "Jio listed at ₹1,358 against the ₹1,119 issue price, valuing it at about ₹12.5 lakh crore. The ₹30,200 crore IPO drew over ₹7 lakh crore in demand. It overtook Bharti Airtel, and TCS fell out of the top five.",
+          "why_it_matters": "India's largest IPO reshapes market-cap rankings and index weights.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/no-2-on-day-1-how-jio-platforms-broke-indias-market-cap-hierarchy-on-debut-itself/articleshow/135253571.cms",
+          "source": "ET Markets",
+          "published": 1793166116
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Anthropic IPO filing details risk factors",
+          "summary": "The 93-page risk section covers scenarios like AI misuse and harm. Reports also examine Amazon's large stake from note conversions and the company's complex governance, and note investor nervousness.",
+          "why_it_matters": "A defining AI-industry event and a signal for AI job market and funding.",
+          "importance": 4,
+          "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+          "source": "Ars Technica",
+          "published": 1793136674
+        },
+        {
+          "title": "Google DeepMind unveils Genie 4 world model",
+          "summary": "Genie 4 adds audio, more realistic physics, real-time prompt steering and keeps scenes consistent for two minutes. It rolls out to developers and AI Ultra subscribers soon.",
+          "why_it_matters": "Major model launch in world simulation.",
+          "importance": 3,
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793117161
+        },
+        {
+          "title": "Frontier labs say models refuted Exponential Time Hypothesis",
+          "summary": "OpenAI announced breakthroughs in math, CS and physics; TechCrunch spoke to the MIT scientist explaining the result. Researchers criticise OpenAI's gatekeeping of findings.",
+          "why_it_matters": "Signals AI's growing research capability, though claims invite scrutiny.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+          "source": "TechCrunch AI",
+          "published": 1793120888
+        },
+        {
+          "title": "OpenAI plans to buy Google's AI chips",
+          "summary": "The Information reports OpenAI will buy Google's AI chips as firms ramp up data center spending.",
+          "why_it_matters": "Shifts in AI compute supply.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-plans-to-buy-googles-ai-chips/articleshow/135249807.cms",
+          "source": "ET Tech",
+          "published": 1793155195
+        },
+        {
+          "title": "Bank of America warns customers on sharing passwords with AI agents",
+          "summary": "The bank says customers are responsible for activity resulting from AI agents' access to their accounts.",
+          "why_it_matters": "Agent liability is a live fintech issue.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+          "source": "TechCrunch AI",
+          "published": 1793137474
+        },
+        {
+          "title": "Nearly 60% of firms yet to move AI beyond pilots",
+          "summary": "Citi Institute report finds only about 40% have reached production or scaling.",
+          "why_it_matters": "Demand for deployment-focused roles like FDE.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nearly-60-of-firms-yet-to-move-ai-beyond-pilots-as-deployment-remains-key-challenge-report/articleshow/135250951.cms",
+          "source": "ET Tech",
+          "published": 1793158559
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Anthropic migrates monorepo from Git to Scion",
+          "summary": "Scion moves repository operations server-side with content-addressed storage and tiered caches for agent and CI workloads, trading offline independence for less local data.",
+          "why_it_matters": "Good systems design write-up on infra for AI-driven development.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/anthropic-source-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793100300
+        },
+        {
+          "title": "Uber introduces Normalized Compute Units for scheduling",
+          "summary": "NCUs make CPU allocation consistent across a heterogeneous fleet for stateful workloads.",
+          "why_it_matters": "Practical distributed systems lesson.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/uber-cpu-stateful-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793102400
+        },
+        {
+          "title": "Serving LLMs at scale: KV cache advantage",
+          "summary": "Talk covers GPU utilization, KV cache memory cliffs, tiered storage and disaggregated prefill/decode.",
+          "why_it_matters": "Relevant to AI engineering role prep.",
+          "importance": 3,
+          "url": "https://www.infoq.com/presentations/llm-inference-kv-cache/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793098800
+        },
+        {
+          "title": "Critical UEFI EDK2 code-execution flaw affects most servers",
+          "summary": "The flaw lets attackers execute code early in the boot process.",
+          "why_it_matters": "Wide infrastructure security impact.",
+          "importance": 3,
+          "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+          "source": "Ars Technica",
+          "published": 1793132755
+        },
+        {
+          "title": "Python's experimental JIT to be removed",
+          "summary": "LWN reports the experimental JIT will be removed.",
+          "why_it_matters": "Python runtime direction.",
+          "importance": 2,
+          "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793099877
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Cognizant in talks to invest in Sarvam",
+          "summary": "Cognizant has held discussions to invest in Indian AI startup Sarvam.",
+          "why_it_matters": "IT services moving into AI.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/cognizant-eyes-sarvam-stake-ather-aims-for-higher-market-share/articleshow/135249122.cms",
+          "source": "ET Tech",
+          "published": 1793152517
+        },
+        {
+          "title": "Indian IT firms poised to gain from enterprise AI adoption",
+          "summary": "Anand Rathi says rising AI infrastructure costs and risks position Indian IT well.",
+          "why_it_matters": "Outlook for IT-services hiring.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/information-tech/indian-it-firms-poised-to-benefit-from-enterprise-ai-adoption-as-infrastructure-costs-rise-report/articleshow/135253790.cms",
+          "source": "ET Tech",
+          "published": 1793166672
+        },
+        {
+          "title": "Simplismart raises $14M for AI inference platform",
+          "summary": "Series B for the infra startup; other raises include Live2.ai ₹130 Cr.",
+          "why_it_matters": "Indian AI infrastructure funding.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/simplismart-bags-14-mn-to-expand-ai-inference-platform/",
+          "source": "Inc42",
+          "published": 1793102702
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India win T20I series in New Zealand",
+          "summary": "Abhishek and Sooryavanshi's openers made 132 in the first seven overs of the chase. Abhishek scored a 35-ball century earlier in the series.",
+          "why_it_matters": "Series win for the Indian team.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1560243.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793115916
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-28",
+  "generated_at": 1793170301,
+  "items_scanned": 183,
+  "failed_sources": [
+    "Indian Express - India",
+    "Moneycontrol Business",
+    "Moneycontrol IPO News",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
