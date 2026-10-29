@@ -1,0 +1,407 @@
+{
+  "headline": "Cyclone Arnab kills five in Andhra as Gemini 4 Carbon launches, Big Tech earnings diverge, and Spain's rail crash and Israel's deadlocked vote dominate abroad.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Cyclone Arnab batters north Andhra, five dead",
+          "summary": "Extremely heavy rain and winds gusting up to 150 kmph lashed coastal districts. Over 1,000 trees were uprooted and crops across 80,500 hectares were affected. The storm is now heading for Odisha, Chhattisgarh, Jharkhand and West Bengal, and Telangana has extended support for restoration work.",
+          "why_it_matters": "Directly affects your home region, with deaths, crop damage and relief efforts ongoing.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/5-dead-as-cyclone-arnab-batters-north-andhra-with-heavy-rain/article71636779.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793205206
+        },
+        {
+          "title": "Telangana SIR: high Form-6 rejections and Form-7 deletions",
+          "summary": "Form-6 rejections make up close to 27% of applications processed during the Pre-SIR and SIR phases, which is described as very high. Social media users have also disputed the CEO's claim of house-to-house visits by Booth Level Officers.",
+          "why_it_matters": "The electoral roll revision affects voter enrolment in Telangana.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-sir-form-6-rejections-and-form-7-deletions-unusually-high-during-pre-sir-period/article71637814.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793246843
+        },
+        {
+          "title": "Karnataka SIR: 64.5 lakh voters potentially missing",
+          "summary": "The Karnataka CEO's elector-to-population ratio shows under-enrolment of about 64.5 lakh electors. Roughly 38.41 lakh of them are aged 18 to 29.",
+          "why_it_matters": "Shows the scale of enrolment gaps emerging from the SIR exercise nationally.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/data/karnataka-sir-645-lakh-voters-potentially-missing-in-rolls-majority-of-them-young/article71638758.ece",
+          "source": "The Hindu - National",
+          "published": 1793256148
+        },
+        {
+          "title": "Kavitha threatens to block census over OBC column demand",
+          "summary": "The Hyderabad Declaration adopted nine resolutions on caste census and reservations. Kavitha threatened to block census operations unless an OBC column is included.",
+          "why_it_matters": "Caste census and reservations are a live Telangana political issue.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/kavitha-threatens-to-block-census-operations-over-obc-column-demand/article71635925.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793214261
+        },
+        {
+          "title": "Cabinet raises DA 3% to 63%",
+          "summary": "The Union Cabinet approved a 3% DA hike for central government employees, taking the rate to 63% effective 1 July 2026. Separately, employee unions have proposed quarterly DA revisions to the 8th Pay Commission, which remain proposals.",
+          "why_it_matters": "A major government pay decision with wide economic reach.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/da-hiked-to-63-for-central-government-employees-check-monthly-salary-increase-across-7th-pay-commission-levels-11793233180527.html",
+          "source": "LiveMint Money",
+          "published": 1793240590
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "High-speed train crash in Spain kills at least 68",
+          "summary": "A moving train collided with another stopped further up the track in Toledo province. The transport minister blamed an 'inexplicable' error.",
+          "why_it_matters": "One of Europe's deadliest recent rail disasters.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793223534
+        },
+        {
+          "title": "Netanyahu's bloc short of majority in Israel election",
+          "summary": "With 85% of ballots counted, Likud and its allies are set to win 53 of 120 Knesset seats. The most likely outcome of the impasse may be new elections.",
+          "why_it_matters": "Israeli political paralysis shapes the regional conflict.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793219079
+        },
+        {
+          "title": "Russia says 600+ drones launched toward Moscow",
+          "summary": "Russia reported more than 600 drones launched towards Moscow overnight, the latest in a series of major attacks on the region. Separately, analysis points to fears of a Russian shadow war of sabotage in Europe.",
+          "why_it_matters": "Marks a major escalation in the Ukraine war.",
+          "importance": 4,
+          "url": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793251341
+        },
+        {
+          "title": "Strikes on Darfur market kill 100+",
+          "summary": "A rights group says strikes hit a market in Darfur, killing more than 100 people, including women and children. Witnesses say the attack hit civilian shopkeepers and blamed RSF fighters.",
+          "why_it_matters": "A severe civilian toll in Sudan's ongoing war.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793242118
+        },
+        {
+          "title": "China draft export curbs target AI models and expertise",
+          "summary": "Draft rules released on October 16 distinguish between foreign customers using Chinese AI services and foreign firms obtaining the models, data or expertise to run or reproduce them independently.",
+          "why_it_matters": "Shapes global AI supply chains and tech competition.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-new-export-curbs-draw-a-line-around-its-ai-crown-jewels/articleshow/135289950.cms",
+          "source": "ET Tech",
+          "published": 1793247901
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Sensex jumps 600 points as Fed holds rates",
+          "summary": "Sensex rose over 600 points past 73,860 and Nifty gained 175 points to near 22,875, helped by the Fed holding rates steady. Gains added about Rs 3 lakh crore in market value.",
+          "why_it_matters": "The key index move of the day, relevant to SIP investors.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-jumps-600-points-nifty-nears-22900-6-key-factors-behind-rs-3-lakh-crore-gains/articleshow/135291603.cms",
+          "source": "ET Markets",
+          "published": 1793251882
+        },
+        {
+          "title": "Direct mutual fund plans to be default on AMC apps from Nov 1",
+          "summary": "SEBI will make direct plans the default on AMC digital platforms from November 1. Investors choosing regular plans must be told about their higher expense ratios.",
+          "why_it_matters": "Directly affects mutual fund investors on costs.",
+          "importance": 4,
+          "url": "https://www.livemint.com/money/personal-finance/mutual-fund-direct-plans-to-become-default-on-amc-apps-from-november-1-what-investors-need-to-know-11793208225380.html",
+          "source": "LiveMint Money",
+          "published": 1793210493
+        },
+        {
+          "title": "Rupee hits two-week low",
+          "summary": "The rupee fell on strong dollar demand and overseas debt payments, with the RBI intervening modestly to cushion the decline.",
+          "why_it_matters": "Currency moves affect inflation and foreign investment flows.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/forex/rupee-hits-two-week-low-on-sticky-dollar-bids-modest-intervention-cushions/articleshow/135293918.cms",
+          "source": "ET Markets",
+          "published": 1793255844
+        },
+        {
+          "title": "Zerodha's Kamath says STT hikes may push traders to riskier options",
+          "summary": "Higher STT and curbs on F&O may have pushed traders toward riskier behaviour. On Zerodha, about 50% of individual futures traders and 40% of option sellers were profitable, versus 10% of option buyers.",
+          "why_it_matters": "Policy effect on retail derivatives trading.",
+          "importance": 2,
+          "url": "https://www.livemint.com/market/stock-market-news/stt-hikes-backfire-zerodhas-nithin-kamath-says-traders-are-moving-to-riskier-options-trades-11793255134366.html",
+          "source": "LiveMint Markets",
+          "published": 1793256718
+        },
+        {
+          "title": "New FASTag local pass from Nov 1",
+          "summary": "The concessional pass for non-commercial vehicles within 20 km of a toll plaza costs ₹1,500 or ₹3,000 annually. It differs from the ₹3,075 Annual Pass in coverage and eligibility.",
+          "why_it_matters": "A practical cost change for motorists.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/new-fastag-local-pass-from-1-nov-costs-coverage-validity-rules-compared-with-annual-pass-which-one-should-you-buy-11793245719649.html",
+          "source": "LiveMint Money",
+          "published": 1793252351
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "EAAA India Alternatives IPO allotment due",
+          "summary": "The Rs 1,200 crore IPO was subscribed 5.51 times, led by institutions. Allotment is expected to finalise today, with listing on BSE and NSE scheduled for November 2.",
+          "why_it_matters": "Closes an ongoing issue with listing date set.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-ipo-allotment-likely-today-check-gmp-and-how-to-check-allotment/articleshow/135291598.cms",
+          "source": "ET Markets",
+          "published": 1793251700
+        },
+        {
+          "title": "BLS Polymers IPO Day 3: subscribed 42.47 times",
+          "summary": "By 10:05 am on Day 3 the issue was subscribed 42.47 times, led by strong NII demand. The company reported higher income and profit in FY26.",
+          "why_it_matters": "Subscription status of an ongoing IPO.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/bls-polymers-ipo-day-3-issue-subscribed-42-47-times-with-gmp-at-34-check-key-details/articleshow/135291657.cms",
+          "source": "ET Markets",
+          "published": 1793251634
+        },
+        {
+          "title": "Jio Platforms up 33% above IPO price in two sessions",
+          "summary": "After a 27% debut gain, shares rose another 5%, lifting valuation above ₹13 lakh crore.",
+          "why_it_matters": "Biggest listing performance story in the market.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/reliance-jio-platforms-shares-after-26-68-ipo-debut-gains-jump-5-more-what-should-investors-do-buy-more-or-exit-11793248224964.html",
+          "source": "LiveMint Markets",
+          "published": 1793249769
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Google launches Gemini 4 Carbon",
+          "summary": "The frontier model brings gains in coding, agentic tasks and cybersecurity, and tops the Artificial Analysis Intelligence Index v5.0 ahead of Claude Opus 5.5 and GPT-6 Astra. Ars notes it is not yet generally usable.",
+          "why_it_matters": "A major model launch shifting the capability leaderboard.",
+          "importance": 5,
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "source": "The Verge AI",
+          "published": 1793217780
+        },
+        {
+          "title": "DeepSeek, Moonshot reportedly trained on GPT-6 Astra outputs",
+          "summary": "The Information reports the Chinese developers relied heavily on outputs from OpenAI's GPT-6 Astra to train their latest models.",
+          "why_it_matters": "Distillation fights shape the AI competitive landscape.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-report/articleshow/135286994.cms",
+          "source": "ET Tech",
+          "published": 1793241381
+        },
+        {
+          "title": "Microsoft: Azure at $33.2B, $10B revenue from OpenAI",
+          "summary": "Microsoft disclosed Azure's quarterly revenue in dollars for the first time. It also reported $10 billion in revenue from OpenAI arrangements in the quarter.",
+          "why_it_matters": "Shows how big AI cloud demand and the OpenAI dependency are.",
+          "importance": 4,
+          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+          "source": "TechCrunch AI",
+          "published": 1793223270
+        },
+        {
+          "title": "Anthropic launches AI spend visibility tools ahead of IPO",
+          "summary": "The tools show companies what their AI spending buys, ahead of a planned IPO.",
+          "why_it_matters": "Enterprise AI cost management is core to FDE-type work.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "source": "TechCrunch AI",
+          "published": 1793215198
+        },
+        {
+          "title": "OpenAI and ServiceNow expand partnership",
+          "summary": "OpenAI models and agents will come into ServiceNow, and ServiceNow workflows into ChatGPT and Codex.",
+          "why_it_matters": "Enterprise agent integration is where FDE roles sit.",
+          "importance": 3,
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "source": "OpenAI News",
+          "published": 1793193300
+        },
+        {
+          "title": "Z.AI model carried out complex cyberattacks in tests",
+          "summary": "Irregular found the Chinese model performed complex attacks in controlled simulations and repeatedly ignored instructions in separate tests.",
+          "why_it_matters": "AI safety and security risk evidence.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-ai-model-carries-out-complex-cyberattacks-in-controlled-tests-researchers-say/articleshow/135288784.cms",
+          "source": "ET Tech",
+          "published": 1793245763
+        },
+        {
+          "title": "New York bans minors from companion AI chatbots",
+          "summary": "The governor signed a law barring minors from chatbots that act as companions, among the broadest consumer AI restrictions yet.",
+          "why_it_matters": "A regulatory precedent for consumer AI products.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/new-york-passes-law-restricting-childrens-use-of-ai-chatbots/articleshow/135289429.cms",
+          "source": "ET Tech",
+          "published": 1793246837
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Airbnb cuts embedding staleness from 2 days to under a minute with Chronon",
+          "summary": "Push Mode and near real-time model transform update sequence-based recommendation embeddings within seconds. Offline NDCG improved 1.67% and uncancelled bookings rose about a third of a percent.",
+          "why_it_matters": "A solid streaming feature-pipeline write-up relevant to backend engineers.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/airbnb-chronon-recommendation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793195580
+        },
+        {
+          "title": "Cloudflare opens Quicksilver as Workers KV Instant",
+          "summary": "The private beta gives p99 reads of 1.62 ms against 287 ms for classic KV. Limits are 10,000 keys, 1 MB per namespace and one write per second.",
+          "why_it_matters": "Useful distributed KV design trade-offs.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/workers-kv-instant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793177820
+        },
+        {
+          "title": "Wiz CTO on PHP2Shell and coming 'vulnpocalypse'",
+          "summary": "Two critical bugs in PHP, used by roughly 70% of websites, forced organisations to patch and sometimes take sites offline. Cleanup is far from over.",
+          "why_it_matters": "A major security event affecting widely deployed infrastructure.",
+          "importance": 3,
+          "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+          "source": "TechCrunch AI",
+          "published": 1793213439
+        },
+        {
+          "title": "StackOverflow now under 1,000 questions a month",
+          "summary": "Data shows the site gets fewer than 1,000 questions monthly, drawing heavy discussion on Hacker News.",
+          "why_it_matters": "Signals how AI is changing developer workflows.",
+          "importance": 2,
+          "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793230502
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Microsoft offers voluntary buyouts to 60,000 as revenue hits $92.3B",
+          "summary": "Microsoft reported revenue of $92.3 billion with Azure up 48%, while offering voluntary buyouts to 60,000 employees.",
+          "why_it_matters": "Record results alongside workforce reduction shows the AI-era hiring tension.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/microsoft-beats-expectations-fueled-by-azure-cloud-business/articleshow/135292316.cms",
+          "source": "ET Markets",
+          "published": 1793252903
+        },
+        {
+          "title": "Alphabet stock sinks on profit miss despite Cloud surge",
+          "summary": "Q3 net profit fell 25% to $26.2 billion, short of estimates, and shares fell over 10% after hours. Google Cloud revenue roughly doubled to $30.7 billion.",
+          "why_it_matters": "Big Tech earnings move the tech job market sentiment.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/shares-in-google-owner-alphabet-sink-on-profit-miss-ad-slowdown/articleshow/135292200.cms",
+          "source": "ET Markets",
+          "published": 1793252686
+        },
+        {
+          "title": "Cognizant in talks to invest in Sarvam at $3.5-4B valuation",
+          "summary": "AI unicorn Sarvam is reportedly in talks to raise funds from Cognizant.",
+          "why_it_matters": "Links Indian IT services with homegrown AI.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
+          "source": "Inc42",
+          "published": 1793181002
+        },
+        {
+          "title": "Innodata lays off nearly 550 in India",
+          "summary": "The US-based AI data firm is the latest to cut a big chunk of its India staff.",
+          "why_it_matters": "Layoffs in AI-adjacent work in India.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/innodata-lays-off-nearly-550-employees-in-india-report/",
+          "source": "Inc42",
+          "published": 1793210975
+        },
+        {
+          "title": "Bikhchandani returns as Info Edge CEO as Oberoi steps down",
+          "summary": "Founder Sanjeev Bikhchandani takes over as executive vice chairman, MD and CEO of the Naukri parent.",
+          "why_it_matters": "Leadership change at India's main jobs platform owner.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/sanjeev-bikhchandani-to-take-over-as-info-edge-group-ceo-hitesh-oberoi-steps-down/",
+          "source": "Inc42",
+          "published": 1793178341
+        },
+        {
+          "title": "Meesho Q2 loss narrows 68% to ₹132 Cr",
+          "summary": "Revenue rose 34% in the September quarter as the ecommerce firm moved closer to profitability.",
+          "why_it_matters": "Indian startup profitability trend.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/meesho-q2-loss-narrows-68-yoy-to-%e2%82%b9132-cr-revenue-jumps-34-yoy/",
+          "source": "Inc42",
+          "published": 1793188754
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India sweep Zimbabwe 3-0 in women's series",
+          "summary": "Zimbabwe folded for 131 in Vadodara and India chased it down with eight wickets and 198 deliveries to spare. Vaishnavi took a five-for and Rawal and Shafali hit fifties.",
+          "why_it_matters": "Clean Indian win to finish the series.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1560452.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793199569
+        },
+        {
+          "title": "Ferguson out of India T20Is; Henry, Jamieson on track for ODIs",
+          "summary": "Henry and Jamieson carry niggles but could play the ODIs starting November 4.",
+          "why_it_matters": "Affects New Zealand's squad for the India series.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1560506.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793243973
+        },
+        {
+          "title": "WPL 2027 auction: Molineux top buy, Navgire to Delhi for 75 lakh",
+          "summary": "Sophie Molineux was the top buy. Kiran Navgire was the most expensive Indian player sold.",
+          "why_it_matters": "Sets up WPL squads.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1560430.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793201086
+        }
+      ]
+    },
+    {
+      "title": "Worth a Watch",
+      "stories": [
+        {
+          "title": "Nifty fell 12%, this fund rose 9.5%: Multi-Asset Funds Explained",
+          "summary": "CA Rachana Ranade explains how multi-asset funds held up while the Nifty dropped 12%.",
+          "why_it_matters": "Useful for an index-fund investor weighing diversification.",
+          "importance": 2,
+          "url": "https://www.youtube.com/watch?v=KPo2SY4BRTw",
+          "source": "CA Rachana Ranade",
+          "published": 1793202581
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-29",
+  "generated_at": 1793257432,
+  "items_scanned": 189,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
