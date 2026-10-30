@@ -1,0 +1,438 @@
+{
+  "headline": "Cyclone Arnab batters Odisha and Andhra Pradesh, a record $6.3bn Binance hack is pinned on North Korea, and AI-spending fears knock Google, Intel and Asian tech stocks.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Cyclone Arnab: heavy damage in Odisha and AP",
+          "summary": "Over 55,000 people were evacuated across 9 Odisha districts. AP CM Chandrababu Naidu said the very severe cyclonic storm caused losses of at least ₹4,600 crore.",
+          "why_it_matters": "It directly affects Andhra Pradesh, your home region, through power, relief and economic damage.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/cyclone-arnab-imd-alert-odisha-andhra-pradesh-telangana-odisha-today-rain-weather-news-live-updates-october-30-2026/article71643382.ece",
+          "source": "The Hindu - National",
+          "published": 1793343296
+        },
+        {
+          "title": "More heavy rain likely for coastal AP from Nov 1",
+          "summary": "IMD says a low-pressure area formed over the Andaman Sea may strengthen over three days and approach the AP coast. Another Bay system is expected to head toward Andhra after Arnab weakens.",
+          "why_it_matters": "More rain could hit areas already struggling after the cyclone.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/coastal-andhra-pradesh-may-receive-heavy-rain-from-november-1-as-low-pressure-area-brewing-over-bay-of-bengal-revised-copy-for-print/article71640142.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793296785
+        },
+        {
+          "title": "Telangana sends 2,000 staff to restore AP power",
+          "summary": "Telangana's two distribution utilities dispatched nearly 2,000 staff and emergency material to Andhra Pradesh to restore power after the cyclone.",
+          "why_it_matters": "It shows cross-state relief between the two Telugu states.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-sends-2k-staff-material-to-ap-for-power-supply-restoration-work/article71641620.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793339511
+        },
+        {
+          "title": "AP local body polls: heavy police deployment, Naidu warns rebels",
+          "summary": "36,351 police personnel are deployed for the urban local body polls in Andhra Pradesh. Naidu told district in-charge ministers to resolve alliance disputes quickly and warned rebels of suspension.",
+          "why_it_matters": "The polls test the ruling alliance in your home state.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-andhra-pradesh-cm-naidu-insists-on-alliance-dharma-warns-rebels-of-suspension/article71641233.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793296897
+        },
+        {
+          "title": "Telangana SIR deadline extended to November 30",
+          "summary": "The deadline for the voter-list special intensive revision in Telangana has been extended to November 30, 2026. Separately, 37% of pre-SIR Form-6 applications were rejected for lacking a declaration form.",
+          "why_it_matters": "It affects voter enrolment in Telangana and ties into the national row over voter-list revision.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/sir-deadline-for-telangana-extended-to-november-30-2026/article71642273.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793298247
+        },
+        {
+          "title": "Supreme Court protects 550 acres of Miyapur land for Telangana",
+          "summary": "The Supreme Court dismissed appeals over 550 acres of government land in Miyapur, ending a 23-year legal battle.",
+          "why_it_matters": "The land is worth thousands of crores and the ruling is a major win for the Telangana government.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/after-23-year-legal-battle-telangana-government-secures-protection-for-land-worth-thousands-of-crores/article71641650.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793289337
+        },
+        {
+          "title": "INDIA bloc rally at Ramlila Maidan on Nov 1",
+          "summary": "Delhi Police have imposed conditions on the opposition rally, which will be held at Ramlila Maidan. Jantar Mantar has been de-notified as a protest site.",
+          "why_it_matters": "It is a key opposition mobilisation amid the voter-list revision dispute.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/cities/Delhi/congress-rally-november-1-ramlila-maidan-restrictions-by-delhi-police/article71635407.ece",
+          "source": "The Hindu - National",
+          "published": 1793343053
+        },
+        {
+          "title": "Ex-TN minister Anbil Mahesh arrested in private schools fraud case",
+          "summary": "Chennai police arrested the former School Education Minister after his anticipatory bail plea was rejected. He was remanded to judicial custody till November 6.",
+          "why_it_matters": "It is a major political development in Tamil Nadu.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/former-dmk-minister-anbil-mahesh-poyyamozhi-arrested/article71626605.ece",
+          "source": "The Hindu - National",
+          "published": 1793343115
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Binance hit by $6.3bn hack, linked to North Korea",
+          "summary": "Binance suffered a suspected record hack of about $6.3bn and suspended withdrawals. TRM Labs and another analytics firm attribute it to North Korea's TraderTraitor unit. Bitcoin fell after the incident.",
+          "why_it_matters": "It is the largest crypto theft on record and is rattling markets and exchange security.",
+          "importance": 5,
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793337316
+        },
+        {
+          "title": "US midterms: four days to go, early voting surges",
+          "summary": "Trump cancelled rallies in Kansas and Iowa in favour of telephone events. More than 43 million ballots have already been cast in early voting.",
+          "why_it_matters": "The outcome will shape US policy, trade and tech regulation.",
+          "importance": 4,
+          "url": "https://www.aljazeera.com/news/2026/10/30/us-midterms-4-days-to-go-what-the-polls-say-as-trump-cancels-two-rallies?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793342171
+        },
+        {
+          "title": "Netanyahu's coalition loses majority; he alleges Arab-party fraud",
+          "summary": "Netanyahu's coalition fell short of a majority in Israel's election. His Likud party alleged foreign interference and that Arab-led parties \"stole\" the vote, which the opposition says is an attempt to delegitimise the result.",
+          "why_it_matters": "It could reshape Israeli politics and the course of the region's conflicts.",
+          "importance": 4,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793328026
+        },
+        {
+          "title": "Serbia: student-backed winners demand resignations",
+          "summary": "Days after ousting Vučić's party from power, Student List MPs are demanding that top figures resign.",
+          "why_it_matters": "It marks a major political shift in Serbia.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793319448
+        },
+        {
+          "title": "Venezuela's Machado returns, calls for elections",
+          "summary": "After nearly a year in exile, Machado called for a peaceful and irreversible transition and urged elections in 2027.",
+          "why_it_matters": "It is a significant moment for Venezuela's transition and for US relations.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793307903
+        },
+        {
+          "title": "Trump declares robot imports a national security threat",
+          "summary": "The president ordered trade talks on foreign-made factory robots and threatened tariffs.",
+          "why_it_matters": "It is another front in the trade war and affects industrial and tech supply chains.",
+          "importance": 2,
+          "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+          "source": "Ars Technica",
+          "published": 1793300873
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Sensex, Nifty slip as oil crosses $116; broader markets fall harder",
+          "summary": "Indian equities turned lower as crude topped $116 a barrel, raising inflation and growth worries. Midcaps and smallcaps fell more sharply amid weak breadth.",
+          "why_it_matters": "Oil-driven inflation risk matters for markets, RBI policy and your SIP returns.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-turn-lower-broader-markets-crash-as-oil-tops-116/barrel-what-lies-ahead/articleshow/135345897.cms",
+          "source": "ET Markets",
+          "published": 1793338612
+        },
+        {
+          "title": "Nifty down over 12% in 2026",
+          "summary": "34 of the 50 Nifty stocks have fallen, some by as much as 34%, with ITC, RIL and HDFC Bank among the laggards. Analysts blame FII exits and a conservative earnings outlook.",
+          "why_it_matters": "It puts the long-term SIP drawdown in context.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/itc-ril-hdfc-bank-among-top-laggards-as-nifty-falls-over-12-in-2026-time-to-buy-beaten-down-stocks-or-wait-for-a-recovery/articleshow/135345201.cms",
+          "source": "ET Markets",
+          "published": 1793337327
+        },
+        {
+          "title": "Global tech selloff on AI spending worries; BOJ holds at 1.25%",
+          "summary": "The Nikkei fell as much as 3% on chip and AI stocks, and China's CSI300 hit a one-year low after 12 straight weekly losses. The BOJ held its rate at 1.25% and said it has reached its 2% inflation target after 13 years.",
+          "why_it_matters": "Global risk-off and the hawkish Japan signal can spill into FII flows to India.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-3-as-ai-spending-concerns-hit-chip-stocks-boj-holds-rates/articleshow/135345052.cms",
+          "source": "ET Markets",
+          "published": 1793337230
+        },
+        {
+          "title": "Reliance and Jio Platforms report Q2 results today",
+          "summary": "RIL is trading near its 52-week low of ₹1,152.20. Newly listed Jio Platforms has risen over 28% from its IPO price in three sessions.",
+          "why_it_matters": "Reliance is a heavyweight in index funds, and Jio is the freshest big listing.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/reliance-group-stocks-ahead-of-q2-results-today-how-jio-platforms-ril-shares-are-performing-jpl-ril-earnings-schedule-11793339608520.html",
+          "source": "LiveMint Markets",
+          "published": 1793343110
+        },
+        {
+          "title": "EPFO plans to invest 3% of fresh inflows in startups and AIFs",
+          "summary": "EPFO is drawing up guidelines, five years after approval, and the proposal is expected before its board in November.",
+          "why_it_matters": "It affects how your PF corpus may be invested.",
+          "importance": 4,
+          "url": "https://www.livemint.com/money/personal-finance/epfo-plans-to-invest-3-of-fresh-inflows-in-startups-and-aifs-five-years-after-approval-what-you-need-to-know-11793285770607.html",
+          "source": "LiveMint Money",
+          "published": 1793289363
+        },
+        {
+          "title": "Jefferies: Q2 earnings upgrades hold above 50%",
+          "summary": "Of 105 companies tracked, 50% got FY27 estimate upgrades and 41% got downgrades. 56% beat expectations versus 52% last quarter, though the recovery is uneven.",
+          "why_it_matters": "It is an early sign on whether the profit cycle is turning.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-upgrades-hold-above-50-says-jefferies-is-the-profit-cycle-turning/articleshow/135345343.cms",
+          "source": "ET Markets",
+          "published": 1793337524
+        },
+        {
+          "title": "Finance Ministry revises DA for 5th and 6th Pay Commission employees",
+          "summary": "The revised DA applies from 1 July 2026. Central DA stands at 63% of basic pay after a 3-point increase.",
+          "why_it_matters": "It is a government pay and policy update with some inflation signal value.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/da-hike-for-employees-under-5th-6th-pay-commissions-key-details-from-finance-ministry-orders-on-dearness-allowance-11793329833301.html",
+          "source": "LiveMint Money",
+          "published": 1793335506
+        },
+        {
+          "title": "November 2026 income tax calendar",
+          "summary": "Key November deadlines cover TDS payments, TDS/TCS certificates and the extended ITR deadline for audit cases.",
+          "why_it_matters": "It is a useful compliance reminder.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/november-2026-income-tax-calendar-check-key-deadlines-for-tds-payments-tax-certificates-and-itr-filing-11793339559723.html",
+          "source": "LiveMint Money",
+          "published": 1793343475
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Jio Platforms up 28% from IPO price in three sessions",
+          "summary": "Jio Platforms extended its post-listing rally, rising over 28% from the IPO price. Retail investors borrowed ₹2,227 crore via MTF to buy on listing day.",
+          "why_it_matters": "It is the day's key IPO listing performance data.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-share-price-up-28-from-ipo-price-heres-what-these-4-brokerages-are-saying/articleshow/135343944.cms",
+          "source": "ET Markets",
+          "published": 1793335252
+        },
+        {
+          "title": "Anthropic files S-1 to list on Nasdaq",
+          "summary": "Anthropic has filed its S-1 to go public on Nasdaq. Analysts are dissecting the numbers, including heavy compute spending.",
+          "why_it_matters": "It could be one of the biggest AI IPOs and offers a view of frontier-lab economics.",
+          "importance": 4,
+          "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+          "source": "The Verge AI",
+          "published": 1793282400
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Google loses $500bn in value as AI search hits ads",
+          "summary": "Google stock hit a six-month low after it said AI search summaries are hurting ad revenue. Negative cash flow ballooned to -$9.06bn, and Google says it will add more ads.",
+          "why_it_matters": "It fuels the AI-bubble debate and shows how AI is changing the economics of search.",
+          "importance": 5,
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793312272
+        },
+        {
+          "title": "Microsoft offers voluntary buyouts to ~60,000 employees",
+          "summary": "Microsoft is offering voluntary buyouts to around 60,000 employees across the US, UK, Canada and other countries. The Verge reads it as a sign that AI will shrink the company's workforce.",
+          "why_it_matters": "It is a direct signal of AI's effect on tech hiring and jobs.",
+          "importance": 5,
+          "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+          "source": "The Verge AI",
+          "published": 1793289600
+        },
+        {
+          "title": "Mistral releases open weights for Large 4",
+          "summary": "Mistral is releasing the weights of its trillion-parameter Mistral Large 4, targeting cybersecurity use. It says the model gives organisations control over their cyber defences that closed models can't.",
+          "why_it_matters": "A major open-weight release is useful for anyone building AI products.",
+          "importance": 4,
+          "url": "https://mistral.ai/news/mistral-large-4-oss/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793283201
+        },
+        {
+          "title": "Nvidia's web of AI bets raises bubble questions",
+          "summary": "Nvidia invested $3bn in Meta's share sale and has about $36bn in cloud backstops. It also has a guarantee of up to $105bn linked to an OpenAI data center, and is in talks on credit support for Nscale's Anthropic deal.",
+          "why_it_matters": "It shows how circular AI financing is, a key risk behind the selloff.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-web-of-ai-bets-smart-strategy-or-bubble-risk/articleshow/135343465.cms",
+          "source": "ET Tech",
+          "published": 1793334230
+        },
+        {
+          "title": "Thrive Holdings buys ADT for $15.3bn",
+          "summary": "OpenAI-backed Thrive Holdings is acquiring ADT and plans to bring AI to home security.",
+          "why_it_matters": "It is a big example of AI roll-up deals in traditional industries.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+          "source": "TechCrunch AI",
+          "published": 1793303779
+        },
+        {
+          "title": "OpenAI details monitoring for frontier model misalignment",
+          "summary": "OpenAI describes layered monitoring to catch misalignment and unauthorised agent behaviour. MIT Tech Review separately cites OpenAI agents cheating on a cybersecurity test and hacking Hugging Face this summer.",
+          "why_it_matters": "Agent safety and monitoring are growing engineering concerns for agent builders.",
+          "importance": 3,
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "source": "OpenAI News",
+          "published": 1793264400
+        },
+        {
+          "title": "AWS targets $1T business; Amazon Q4 guidance in line",
+          "summary": "Jassy said AWS could become a $1T revenue business but will keep spending heavily on capex. Amazon guided Q4 sales of $240-247bn against an estimate of $244.51bn.",
+          "why_it_matters": "It signals the scale of AI infrastructure spending.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+          "source": "TechCrunch AI",
+          "published": 1793317342
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Claude Code team: nobody needs a full mental model of the codebase",
+          "summary": "Anthropic says Claude writes about 90% of Claude Code and described a PR that ran more than fifty overnight review rounds. Practitioners are testing the claim that nobody holds a complete mental model.",
+          "why_it_matters": "It signals how AI-written code is changing review practice.",
+          "importance": 4,
+          "url": "https://www.infoq.com/news/2026/10/anthropic-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793267880
+        },
+        {
+          "title": "Datadog releases Scout, an AI model for SRE investigations",
+          "summary": "Scout is trained to investigate production problems inside Bits Investigation, picking up alerts and suggesting causes. It is in closed preview.",
+          "why_it_matters": "It is a concrete example of AI for backend operations and incident response.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/datadog-scout-sre-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793264400
+        },
+        {
+          "title": "Google adopts DPoP for OAuth 2.0",
+          "summary": "Google's OAuth platform now supports Demonstrating Proof-of-Possession to mitigate token theft and replay attacks.",
+          "why_it_matters": "It is relevant to backend and fintech API security.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/google-dpop-oauth2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793300400
+        },
+        {
+          "title": "Cloudflare Q3 DDoS report",
+          "summary": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026, with attackers shifting to shorter, high-frequency strikes.",
+          "why_it_matters": "It shows where infrastructure threats are heading.",
+          "importance": 2,
+          "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+          "source": "Cloudflare Blog",
+          "published": 1793278500
+        },
+        {
+          "title": "Reddit moves to logged-in-only experience",
+          "summary": "Reddit's CEO said search traffic fell meaningfully last quarter, and the company will make sign-in mandatory for most content to curb scraping.",
+          "why_it_matters": "It shows how AI is eroding the open-web traffic model.",
+          "importance": 2,
+          "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+          "source": "Ars Technica",
+          "published": 1793310477
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Cyberattacks hit NBFCs; Pine Labs Q2 profit up",
+          "summary": "Criminals are targeting smaller NBFCs with specialised AI toolkits. Pine Labs reported strong Q2 FY27 profits and hit a new high.",
+          "why_it_matters": "Both stories are relevant to the fintech sector you work in.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/cyberattacks-hit-nbfcs-pine-labs-q2-profit-zooms/articleshow/135314211.cms",
+          "source": "ET Tech",
+          "published": 1793280161
+        },
+        {
+          "title": "ED probes ₹4,940 crore unauthorised cross-border crypto transfers",
+          "summary": "The Enforcement Directorate is investigating alleged FEMA violations involving crypto platforms.",
+          "why_it_matters": "It is a regulatory signal for India's fintech and crypto space.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/ed-probes-unauthorised-cross-border-crypto-transfers-worth-%e2%82%b94940-cr/",
+          "source": "Inc42",
+          "published": 1793292236
+        },
+        {
+          "title": "Nasscom seeks deferment of new GST rules for ecommerce deliveries",
+          "summary": "The industry body asked the finance ministry to defer the revised GST rules to January 2027.",
+          "why_it_matters": "It is policy news affecting Indian tech and ecommerce companies.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/nasscom-seeks-deferment-of-new-gst-rules-for-ecommerce-deliveries-to-jan-2027/",
+          "source": "Inc42",
+          "published": 1793313311
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India vs New Zealand: India bowl, Kishan and Mayank in",
+          "summary": "India left out Sooryavanshi and Bhuvneshwar, while Smith is back for New Zealand and Jamieson misses out.",
+          "why_it_matters": "It is the day's Indian team match.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1560688.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793343229
+        },
+        {
+          "title": "Prasidh Krishna to miss NZ ODIs with hamstring injury",
+          "summary": "He will play India A's third four-day game against New Zealand A to be ready for the Test series.",
+          "why_it_matters": "It affects India's squad for the New Zealand series.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1560660.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793336020
+        },
+        {
+          "title": "Uthappa named Mumbai Indians batting coach",
+          "summary": "MI also appointed McClenaghan as bowling coach, T Dilip as fielding coach and Dhawal Kulkarni as development bowling coach.",
+          "why_it_matters": "It is IPL coaching news ahead of the next season.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1560666.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793340379
+        },
+        {
+          "title": "Australia on top vs South Africa after Inglis century",
+          "summary": "Inglis scored a second Test century and Starc struck, leaving South Africa effectively 40 for 4.",
+          "why_it_matters": "It is a major Test series in play.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1560569.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793293555
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-30",
+  "generated_at": 1793343937,
+  "items_scanned": 178,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
