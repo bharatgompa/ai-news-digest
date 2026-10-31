@@ -1,0 +1,455 @@
+{
+  "headline": "Tech and chip stocks slide on AI cash-burn worries as Brent hits $117 on Hormuz tensions, while Andhra Pradesh braces for a Bay of Bengal depression and civic polls.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Low pressure to become depression off Andhra Pradesh",
+          "summary": "IMD says the well-marked low pressure in the southeast Bay of Bengal is expected to concentrate into a depression off Andhra Pradesh by Saturday night. Moderate rain is likely in south coastal Andhra for three days.",
+          "why_it_matters": "Directly affects Andhra Pradesh, which has just dealt with cyclone damage.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-over-andaman-sea-intensifies-further/article71648201.ece",
+          "source": "The Hindu - National",
+          "published": 1793428403
+        },
+        {
+          "title": "INDIA bloc rally at Ramlila Maidan over SIR; Shah on UCC",
+          "summary": "The INDIA bloc holds a rally on November 1 in Delhi targeting CEC Gyanesh Kumar over the special intensive revision of voter rolls, with traffic curbs in place. Amit Shah challenged Rahul Gandhi and Akhilesh Yadav to a debate on SIR and said UCC would come in U.P. if BJP is re-elected.",
+          "why_it_matters": "The SIR row is the central national political fight right now.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/india-bloc-public-impeachment-cec-gyanesh-kumar-sir-protest-chalo-dilli-march-rahul-gandhi-live-updates-october-31-2026/article71648094.ece",
+          "source": "The Hindu - National",
+          "published": 1793429417
+        },
+        {
+          "title": "Guntur and Tenali civic polls on November 1",
+          "summary": "596 polling stations are set up for 7,75,803 voters in Guntur and Tenali. Counting is on November 3.",
+          "why_it_matters": "Key Andhra Pradesh local body elections; the surrounding coverage shows heavy security (1.05 lakh bound over, 2,200 police in Tirupati).",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/596-polling-stations-set-up-for-civic-body-polls-in-guntur-on-november-1/article71644500.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793388536
+        },
+        {
+          "title": "Naidu's response credited with limiting cyclone damage; Rs 3,000 cr drain plan",
+          "summary": "Round-the-clock monitoring and swift relief helped contain losses from the cyclone, and the CM is seeking Central assistance. Separately, AP will spend ₹3,000 crore on modernising irrigation drains in the Godavari region.",
+          "why_it_matters": "Shapes AP's recovery and state spending priorities.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/chandrababu-naidus-prompt-response-helps-minimise-cyclone-damage/article71645859.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793376627
+        },
+        {
+          "title": "Infosys opens 1.1 mn sq ft block at Pocharam, Hyderabad",
+          "summary": "The new block adds 10,000 seats, letting Infosys support an additional workforce of over 13,000 under a hybrid model. It was inaugurated by Deputy CM Bhatti and IT Minister Sridhar Babu.",
+          "why_it_matters": "A tangible hiring and capacity signal for Hyderabad's IT sector.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/infosys-opens-11-million-sqft-new-block-at-pocharam-campus-in-hyderabad/article71645905.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793373977
+        },
+        {
+          "title": "Recovery operation at Uttarakhand chopper crash site",
+          "summary": "Forest department, AAIB and DGCA teams have been dispatched to the remote crash site to recover bodies.",
+          "why_it_matters": "A major aviation accident under investigation.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-badrinath-helicopter-crash-rescue-operations-updates-october-31-2026/article71648464.ece",
+          "source": "The Hindu - National",
+          "published": 1793429227
+        },
+        {
+          "title": "AP pensions: SEC allows payments, bars new enrolments during code of conduct",
+          "summary": "The State Election Commission allowed social security pension payments to existing beneficiaries but prohibited new enrolments, increases and revisions while the Model Code of Conduct is in force.",
+          "why_it_matters": "Affects AP pension beneficiaries during the poll period.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/andhra-pradesh-pensions-state-election-commission-allows-payments-bars-new-enrolments-under-model-code-of-conduct-11793420767090.html",
+          "source": "LiveMint Money",
+          "published": 1793422821
+        },
+        {
+          "title": "Telangana extends 'Instant pension' beyond old-age category for women",
+          "summary": "The facility now covers families of persons with disabilities, toddy tappers, handloom weavers, dialysis patients and those affected by HIV and filariasis.",
+          "why_it_matters": "A Telangana welfare expansion.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-extends-instant-pension-facility-beyond-old-age-pension-category-for-women/article71648155.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793427793
+        },
+        {
+          "title": "KTR questions proposed IDBI Bank sale",
+          "summary": "BRS working president KTR asked whether IDBI Bank's valuable real estate was factored into the valuation, and why employee concerns over the disinvestment were not being addressed.",
+          "why_it_matters": "Public-sector bank disinvestment is a live policy issue.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/telangana/ktr-questions-proposed-sale-of-idbi-bank-asks-if-its-valuable-real-estate-assets-were-factored-in-valuation/article71648264.ece",
+          "source": "The Hindu - National",
+          "published": 1793429402
+        },
+        {
+          "title": "Labour Ministry notifies National Social Security Board for gig workers",
+          "summary": "The ministry has constituted the National Social Security Board to expand welfare coverage for gig and platform workers.",
+          "why_it_matters": "Policy that affects India's tech-enabled gig economy.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/labour-ministry-notifies-national-social-security-board-for-gig-platform-workers/",
+          "source": "Inc42",
+          "published": 1793361397
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Iran says four tankers on fire after hitting mines in Hormuz",
+          "summary": "Iran's Revolutionary Guard says four tankers caught fire in the Strait of Hormuz after striking mines.",
+          "why_it_matters": "Escalation in a key shipping lane drives oil prices and Indian inflation.",
+          "importance": 5,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793418948
+        },
+        {
+          "title": "US approves sale of Patriot missiles to Ukraine",
+          "summary": "The US approved a $2.1bn sale of 500 Patriot interceptors to Ukraine, among its most significant defensive arms steps since Trump took office in 2025. Patriots are the only effective weapon against Russia's ballistic missiles.",
+          "why_it_matters": "Major shift in Ukraine war support.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793407243
+        },
+        {
+          "title": "Binance hack: $6.3bn stolen, linked to North Korea",
+          "summary": "Binance is trying to recover $6.3bn in what is believed to be the largest crypto hack ever. TRM Labs and Chainalysis attribute it to North Korea's TraderTraitor group, and Wired reports it took just 20 minutes.",
+          "why_it_matters": "A record security breach with fintech and security lessons.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793394794
+        },
+        {
+          "title": "Spain train disaster clouds Sánchez re-election chances",
+          "summary": "The Spanish PM faces a succession of crises weeks before a snap general election.",
+          "why_it_matters": "A notable European election.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793425461
+        },
+        {
+          "title": "Police deployed in stand-off over Poland's top court",
+          "summary": "The government suspended two senior justices and moved to bring criminal charges against them, escalating the dispute over control of the court.",
+          "why_it_matters": "A rule-of-law crisis inside the EU.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793409103
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Brent up 14% in October to six-month high of $117.64",
+          "summary": "Fears of fresh US strikes on Iran and threats to Hormuz shipping drove crude higher. Goldman flags a possible rise to $120.",
+          "why_it_matters": "Oil at this level pressures India's inflation, rupee and fuel costs.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-soar-14-in-october-to-end-at-6-month-high-as-us-weighs-fresh-attacks-after-midterm-elections-more-upside-ahead/articleshow/135388221.cms",
+          "source": "ET Markets",
+          "published": 1793421671
+        },
+        {
+          "title": "Wall Street slides on AI cash-burn worries; chip stocks crash",
+          "summary": "The Nasdaq had its biggest drop since June and the Nasdaq 100 is heading for its third correction of 2026. Intel plunged about 30%, Reddit 29%, Sandisk 13% and AMD 12%.",
+          "why_it_matters": "Global tech weakness spills into Indian IT and market sentiment.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/wall-street-slides-as-ai-cash-burn-worries-spark-tech-selloff-11793385103163.html",
+          "source": "LiveMint Markets",
+          "published": 1793385102
+        },
+        {
+          "title": "Reliance posts record Q2 profit; Jio Platforms profit up 14%",
+          "summary": "Reliance posted a record Q2 FY27 profit of ₹29,550 crore. Jio Platforms profit rose 14% to ₹8,387 crore, with 542 million subscribers and ARPU of ₹218.8.",
+          "why_it_matters": "Index heavyweights that move Nifty and index funds.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/ril-jpl-q2-results-2026-impact-reliance-industries-jio-platforms-shares-in-focus-on-monday-2-nov-what-to-expect-11793373081405.html",
+          "source": "LiveMint Markets",
+          "published": 1793379421
+        },
+        {
+          "title": "Indian Oil Q2 profit triples to ₹21,630 cr; BoB profit up 36%",
+          "summary": "Indian Oil's profit rose on elevated pump prices and LPG subsidies. Bank of Baroda's profit rose 36% to ₹6,532 crore helped by an NSE stake sale. New India Assurance reported a ₹1,267 crore loss.",
+          "why_it_matters": "Earnings season snapshot across energy, banks and insurance.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/indian-oil-net-profit-triples-yoy-to-21630-cr-in-q2/articleshow/135387471.cms",
+          "source": "ET Markets",
+          "published": 1793419903
+        },
+        {
+          "title": "S Naren warns against chasing gold and silver after rallies",
+          "summary": "ICICI Prudential MF's S Naren noted silver's 216% surge drew record ETF inflows before a 27% correction. He argued real asset allocation means buying unpopular assets, though gold still deserves a place.",
+          "why_it_matters": "Relevant asset-allocation advice for a long-term index investor.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-why-market-veteran-s-naren-thinks-investors-are-getting-gold-silver-and-asset-allocation-all-wrong/articleshow/135391370.cms",
+          "source": "ET Markets",
+          "published": 1793428525
+        },
+        {
+          "title": "8th Pay Commission: report expected May-June 2027",
+          "summary": "The commission is tentatively expected to submit its report by May-June 2027, after which the Centre will examine the recommendations. DA may rise to 67% in January 2027 from 63%.",
+          "why_it_matters": "Timeline for central pay and pension changes.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-what-happens-after-the-commission-submits-its-report-5-key-steps-explained-11793424939877.html",
+          "source": "LiveMint Money",
+          "published": 1793426599
+        },
+        {
+          "title": "SGB 2021-22 Series VII premature redemption on Nov 2",
+          "summary": "RBI fixed the redemption price at ₹14,167 per gram, a gain of nearly 200% over the issue price.",
+          "why_it_matters": "Concrete action date for SGB holders.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/sgb-2021-22-series-vii-premature-redemption-due-on-2-november-investors-to-pocket-200-gains-check-rbi-quoted-price-11793421572024.html",
+          "source": "LiveMint Money",
+          "published": 1793424904
+        },
+        {
+          "title": "RBI may pilot polymer ₹10 and ₹20 notes from April 2027",
+          "summary": "The pilot would keep note dimensions unchanged to avoid ATM changes and assess durability and public acceptance, circulating alongside paper notes.",
+          "why_it_matters": "A currency policy change.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/new-type-of-rs-10-and-rs-20-notes-from-this-date-will-rbi-change-dimensions-or-keep-it-same-for-polymer-version-11793423318136.html",
+          "source": "LiveMint Money",
+          "published": 1793423844
+        },
+        {
+          "title": "PFRDA launches digital life certificate for UPS pensioners",
+          "summary": "UPS Jeewan Setu offers an Aadhaar-based digital life certificate via the Protean eGov App for Unified Pension Scheme pensioners.",
+          "why_it_matters": "A pension-rule change in personal finance.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/pfrda-launches-ups-jeewan-setu-digital-life-certificate-facility-how-pensioners-can-submit-form-on-protean-egov-app-11793406230786.html",
+          "source": "LiveMint Money",
+          "published": 1793415725
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Ratnadeep Retail gets Sebi nod for IPO",
+          "summary": "The Hyderabad-based retailer plans a fresh issue of up to ₹400 crore plus an offer for sale of 1.49 crore shares. Proceeds will repay borrowings and expand stores.",
+          "why_it_matters": "A Hyderabad company heading to market.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-ahead-value-fashion-retailer-ratnadeep-retail-gets-sebi-nod-to-raise-funds-through-public-issue/articleshow/135389668.cms",
+          "source": "ET Markets",
+          "published": 1793424872
+        },
+        {
+          "title": "Sebi clears Atomberg's ₹450 cr+ IPO",
+          "summary": "The regulator cleared the consumer appliances company's IPO of over ₹450 crore. OfBusiness is also described as IPO-bound.",
+          "why_it_matters": "Adds to the startup IPO pipeline.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/sebi-greenlights-atombergs-%e2%82%b9450-cr-ipo/",
+          "source": "Inc42",
+          "published": 1793358059
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Anthropic expected to get high 'junk' credit rating after IPO: FT",
+          "summary": "Per an FT report, Blackstone forecasts a high junk rating for Anthropic following its IPO, which would make raising money costlier. It is a prediction, not a final rating.",
+          "why_it_matters": "Signals financing strain at a leading AI lab.",
+          "importance": 4,
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+          "source": "TechCrunch AI",
+          "published": 1793397123
+        },
+        {
+          "title": "OpenAI cuts funding target by $10bn",
+          "summary": "Per the FT, OpenAI is now seeking $20 billion at a $1.25 trillion valuation. Foxconn separately said it is working on a new tie-up with OpenAI.",
+          "why_it_matters": "Another sign of investor caution in AI funding.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-cuts-funding-target-by-10-billion-ft/articleshow/135384941.cms",
+          "source": "ET Tech",
+          "published": 1793414112
+        },
+        {
+          "title": "Cracks emerging in the AI spending boom",
+          "summary": "Mounting debt, negative cash flow and investor skepticism are raising sustainability questions. S&P revised its outlook on Meta to negative, and Big Tech returned the smallest share of cash in 15 years.",
+          "why_it_matters": "AI-sector health shapes hiring and funding for AI roles.",
+          "importance": 4,
+          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+          "source": "TechCrunch AI",
+          "published": 1793395060
+        },
+        {
+          "title": "Mistral releases Large 4",
+          "summary": "Mistral publicly released an upgraded Large 4 after testing with governments and corporate users, targeting cybersecurity users.",
+          "why_it_matters": "A major model launch.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users/articleshow/135390933.cms",
+          "source": "ET Tech",
+          "published": 1793427220
+        },
+        {
+          "title": "OpenAI, Google, Microsoft, Anthropic back new AI-scraping opt-out standard",
+          "summary": "Publishers can use a shared policy token signal to set AI training preferences across multiple companies.",
+          "why_it_matters": "Sets industry norms for data used in AI training.",
+          "importance": 3,
+          "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+          "source": "The Verge AI",
+          "published": 1793391970
+        },
+        {
+          "title": "Google's satellite TPU runs Gemma 4 in orbit",
+          "summary": "Google booted TPUs on a satellite and had the on-board Gemma 4 model respond to a prompt with a haiku.",
+          "why_it_matters": "An early test of AI compute in space.",
+          "importance": 2,
+          "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+          "source": "TechCrunch AI",
+          "published": 1793379600
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Claude Code VS Code extension on Cursor backdoored for ~12 hours",
+          "summary": "Anthropic's extension on Cursor's marketplace was backdoored for nearly 12 hours, and it is unknown how attackers got access to the verified account.",
+          "why_it_matters": "A supply-chain attack on tools developers use daily.",
+          "importance": 4,
+          "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793344152
+        },
+        {
+          "title": "Cloudflare on eMudhra weak keys exploitation",
+          "summary": "Cloudflare says a weak key in eMudhra certificates let attackers break into unpatched connections, and it details its quick patching and evidence of attempted exploitation. Northflank was also breached.",
+          "why_it_matters": "Concerns an Indian certificate authority and internet security.",
+          "importance": 3,
+          "url": "https://blog.cloudflare.com/emudhra-patching/",
+          "source": "Cloudflare Blog",
+          "published": 1793381930
+        },
+        {
+          "title": "DoorDash cuts grocery reorder latency from 16s to 2s with LLM agents",
+          "summary": "DoorDash precomputed recurring purchase needs using batch LLM inference and deterministic validation. Shopping list views doubled and order rate rose about 34%.",
+          "why_it_matters": "A practical LLM-in-production architecture write-up.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/doordash-ai-grocery-reorder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793367060
+        },
+        {
+          "title": "Netflix treats GPU reliability as a distributed systems problem",
+          "summary": "Netflix detailed a platform using layered health checks, automated remediation and fault-tolerant training to keep GPU jobs running through hardware failures.",
+          "why_it_matters": "Relevant distributed-systems lessons for AI infrastructure.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/netflix-gpu-distributed-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793361600
+        },
+        {
+          "title": "Google's PageBreak AI agent found 500+ XSS bugs",
+          "summary": "The Gemini-based agent reports bugs only after deterministic validators reproduce the exploit.",
+          "why_it_matters": "A good agent design pattern: LLM plus deterministic validation.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793427600
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "AI isn't replacing SREs, it's deskilling them",
+          "summary": "A widely discussed Hacker News post argues AI is eroding SRE skills. InfoQ also ran a talk on missing rungs in engineering progression as AI affects junior skill development.",
+          "why_it_matters": "Bears on career strategy as AI changes engineering work.",
+          "importance": 3,
+          "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793375538
+        },
+        {
+          "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+          "summary": "Fortune reports Cisco's president gave a 27-year-old engineer unlimited AI tokens for legacy code rewrites, touching on entry-level jobs.",
+          "why_it_matters": "Shows how large firms are deploying AI in engineering work.",
+          "importance": 3,
+          "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793369300
+        },
+        {
+          "title": "Indian startups raised over $132 mn this week",
+          "summary": "Funding stayed muted in the last week of October.",
+          "why_it_matters": "A gauge of startup hiring appetite.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/",
+          "source": "Inc42",
+          "published": 1793417412
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "Auqib Nabi added to India ODI squad for New Zealand",
+          "summary": "The pacer, who debuted against West Indies in September, joins the squad for the first three ODIs of the five-match series in New Zealand. Jemimah Rodrigues, after three months of rehab, says her hamstring is fit.",
+          "why_it_matters": "Squad news for India's New Zealand tour.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1560820.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793421456
+        },
+        {
+          "title": "Phillips century, Duffy four-for topple India",
+          "summary": "India managed only 172 for 9 chasing 260.",
+          "why_it_matters": "An Indian team defeat against New Zealand.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1560744.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793417699
+        },
+        {
+          "title": "Jurel unbeaten 99 and Padikkal 80 carry India A",
+          "summary": "India A did well on day one against New Zealand A in Christchurch despite Fraser Sheat's four wickets.",
+          "why_it_matters": "Form of fringe India players.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1560823.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793428053
+        },
+        {
+          "title": "Uthappa named Mumbai Indians batting coach",
+          "summary": "MI also appointed McClenaghan as bowling coach, T Dilip as fielding coach and Dhawal Kulkarni as development bowling coach.",
+          "why_it_matters": "IPL coaching changes.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1560666.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793363266
+        }
+      ]
+    }
+  ],
+  "date": "2026-10-31",
+  "generated_at": 1793429996,
+  "items_scanned": 188,
+  "failed_sources": [
+    "Indian Express - India",
+    "Moneycontrol Business",
+    "Moneycontrol IPO News",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
