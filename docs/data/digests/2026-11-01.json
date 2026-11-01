@@ -1,0 +1,411 @@
+{
+  "headline": "Andhra Pradesh votes in tense civic polls as India's opposition rallies against the election chief, oil above $117 weighs on markets, and cost-of-living protests spread across Europe.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Andhra civic polls: clashes in Pulivendula, vehicles torched",
+          "summary": "Polling for Andhra Pradesh's urban local bodies began Sunday after 14 vehicles were set on fire in Pulivendula, Kadapa district, and TDP and YSRCP workers clashed. Turnout was 22.08% by 11 a.m. Other districts reported largely peaceful voting, with slow turnout in places such as Visakhapatnam.",
+          "why_it_matters": "This is the main Andhra Pradesh political event of the day and a test of TDP vs YSRCP strength at the local level.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-urban-local-body-elections-polling-municipalities-corporation-results-november-1-2026-live-updates/article71651965.ece",
+          "source": "The Hindu - National",
+          "published": 1793517399
+        },
+        {
+          "title": "Opposition mega rally at Ramlila Maidan against election chief",
+          "summary": "The INDIA bloc is holding a mega rally in Delhi seeking the resignation of CEC Gyanesh Kumar over the voter roll revision exercise. The exercise is feared to leave 130 million voters off the rolls. The rally featured accounts from voters who say their names were deleted.",
+          "why_it_matters": "The dispute over electoral roll integrity is a major national political fight, and Telangana is also seeing SIR deletion concerns.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793516455
+        },
+        {
+          "title": "Anantapur: Class 10 girl attacked with chainsaw in classroom",
+          "summary": "A Class 10 girl was attacked with a chainsaw in her classroom in Anantapur. The accused, a close relative, was arrested at Dharmavaram railway station within hours. Minister Nara Lokesh said she is stable after blood transfusions and was shifted to Bengaluru for treatment.",
+          "why_it_matters": "It is a shocking school-safety incident in Andhra Pradesh that has led to counselling for students.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/10th-class-girl-student-attacked-with-chainsaw-in-classroom-in-anantapur/article71649599.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793469578
+        },
+        {
+          "title": "Telangana SIR: social audit finds 23% deleted voters in Secunderabad Cantonment",
+          "summary": "A social audit tracked down deleted voters in the Secunderabad Cantonment constituency, and they make up 23% of the total.",
+          "why_it_matters": "It gives a local Telangana view of the voter roll revision controversy.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-sir-social-audit-tracks-down-23-deleted-voters-in-secunderabad-cantonment-constituency/article71650182.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793463256
+        },
+        {
+          "title": "43 women rescued in illegal egg harvesting racket in Hyderabad",
+          "summary": "Police rescued 43 women in an alleged illegal human egg harvesting racket in Hyderabad. They are examining recruitment of women across States, use of rented premises and links with fertility centres and ART banks.",
+          "why_it_matters": "It is a significant Hyderabad crime and health-regulation story.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/43-women-rescued-in-illegal-human-egg-harvesting-racket-in-hyderabad/article71650084.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793465701
+        },
+        {
+          "title": "Depression over Bay of Bengal deepens, may become severe cyclonic storm",
+          "summary": "The system has intensified into a deep depression over the Bay of Bengal. It is likely to become a severe cyclonic storm over the west-central Bay on November 2.",
+          "why_it_matters": "The Bay of Bengal system is a weather risk worth tracking for the Andhra coast.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/bay-of-bengal-deep-depression-cyclonic-storm-andhra-pradesh-november-1-2026-updates/article71652131.ece",
+          "source": "The Hindu - National",
+          "published": 1793515151
+        },
+        {
+          "title": "FSSAI suspends licences of 14 Hyderabad restaurants",
+          "summary": "FSSAI suspended the licences of 14 Hyderabad restaurants, including Shah Ghouse and Hotel Nayaab. Taj Falaknuma received a show-cause notice.",
+          "why_it_matters": "It affects well-known Hyderabad eateries and signals tighter food-safety enforcement.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/fssai-licences-suspended-of-14-hyderabad-restaurants-including-shah-ghouse-hotel-nayaab-taj-falaknuma-gets-show-cause-notice/article71650097.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793502304
+        },
+        {
+          "title": "Arunachal Indigenous groups protest India's largest planned dam",
+          "summary": "Indigenous people of Arunachal Pradesh are protesting a mega dam planned to counter China's upstream hydropower project.",
+          "why_it_matters": "The dispute pits strategic and water-security goals against local rights.",
+          "importance": 2,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/indias-largest-dam-planned-to-counter-china-faces-indigenous-revolt?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793503168
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Cost-of-living protests spread across France and Germany",
+          "summary": "More than 320,000 people demonstrated across France against rising living costs and poor public services, with clashes with police. In Germany, protests in Berlin, Hamburg and Frankfurt turned violent with shops looted. France's protests are in their third week.",
+          "why_it_matters": "Sustained unrest in Europe's two largest economies signals broad economic strain.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793482141
+        },
+        {
+          "title": "US and Iran say diplomatic end to war still possible",
+          "summary": "Foreign ministers of the US and Iran say a diplomatic end to the war is still possible.",
+          "why_it_matters": "The conflict is behind the oil price spike hitting Indian markets.",
+          "importance": 4,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793503442
+        },
+        {
+          "title": "Ebola deaths top 5,000 in DR Congo's deadliest outbreak",
+          "summary": "Government data shows more than 5,000 people have died and over 10,000 have contracted the virus in DR Congo.",
+          "why_it_matters": "It is a major public health emergency.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793459780
+        },
+        {
+          "title": "Spain train disaster clouds Sánchez's re-election chances",
+          "summary": "The Spanish PM faces a succession of crises, including a train disaster, weeks before a snap general election.",
+          "why_it_matters": "It could change the political direction of a major EU economy.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793425461
+        },
+        {
+          "title": "Vučić's defeat in Serbia mirrors Orbán's fall in Hungary",
+          "summary": "Serbian President Aleksandar Vučić's defeat in last weekend's vote was described as a carbon copy of Viktor Orbán's fall in Hungary.",
+          "why_it_matters": "It points to a shift against entrenched populist leaders in Europe.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793494506
+        },
+        {
+          "title": "Ukrainians evacuated from occupied Oleshky reunite with family",
+          "summary": "Residents of Oleshky had been without food, water and electricity, with many cooking garden weeds to survive. Evacuees crossed minefields to reach Ukraine.",
+          "why_it_matters": "It shows the humanitarian cost of the war on the front line.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793469215
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Nifty rebounds 2.59% for the week; oil above $117 a risk",
+          "summary": "Nifty rose 2.59% and Sensex 1.6% last week, led by pharma and IT. FIIs turned net buyers after a 10-week selling streak, but crude above $117 a barrel keeps experts expecting range-bound trade.",
+          "why_it_matters": "It sets the tone for index-fund investors, with oil the main risk.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-nov-2-6-week-nifty-sensex-rebound-from-losses-will-bulls-deliver-a-diwali-bonanza-outlook-11793459177658.html",
+          "source": "LiveMint Markets",
+          "published": 1793459462
+        },
+        {
+          "title": "EPF wage ceiling raised to ₹25,000, lowering some take-home pay",
+          "summary": "The mandatory EPF wage ceiling was raised from ₹15,000 to ₹25,000, so some employees saw lower October take-home pay.",
+          "why_it_matters": "It directly affects salaried employees' in-hand pay and retirement savings.",
+          "importance": 4,
+          "url": "https://www.livemint.com/money/personal-finance/got-salary-on-friday-wondering-why-is-your-in-hand-amount-lower-this-month-the-new-epf-ceiling-of-25-000-explained-11793468305190.html",
+          "source": "LiveMint Money",
+          "published": 1793470508
+        },
+        {
+          "title": "FPIs pulled out Rs 34,843 cr in October, turned buyers late",
+          "summary": "Foreign investors withdrew Rs 34,843 crore from Indian equities in October. They turned net buyers late in the month, putting in about Rs 6,300 crore, with domestic institutions providing support.",
+          "why_it_matters": "FII flows are a key driver of index direction.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-34843-cr-from-equities-in-oct-turn-net-buyers-last-week/articleshow/135419712.cms",
+          "source": "ET Markets",
+          "published": 1793514321
+        },
+        {
+          "title": "Wall Street tech sell-off on AI spending worries",
+          "summary": "Investors dumped tech stocks on heavy data-centre investment, weakening free cash flows and disappointing outlooks. US bonds rallied, sending the 10-year yield to its biggest monthly decline since 2023.",
+          "why_it_matters": "The AI capex concern affects global equity sentiment and the AI trade.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/why-did-investors-dump-technology-stocks-this-week-ai-spending-concerns-trigger-wall-street-selloff-11793468909464.html",
+          "source": "LiveMint Markets",
+          "published": 1793471842
+        },
+        {
+          "title": "EPFO to auto-settle small inactive accounts, launch WhatsApp services",
+          "summary": "On its Foundation Day, EPFO plans automatic settlement of eligible inoperative accounts with balances up to ₹1,000. It will also launch WhatsApp services for subscribers.",
+          "why_it_matters": "It makes PF access simpler for subscribers.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/explained-epfo-new-initiatives-whatsapp-services-inactive-pf-accounts-to-get-automatic-settlement-what-we-know-11793512914364.html",
+          "source": "LiveMint Money",
+          "published": 1793514391
+        },
+        {
+          "title": "Reliance posts record Q2 profit of ₹29,550 crore",
+          "summary": "Reliance reported record Q2 FY27 profit of ₹29,550 crore, up 33.8% year-on-year, on revenue up 27.8% to ₹3,62,268 crore. A recovery in oil-to-chemicals and digital growth offset weaker retail.",
+          "why_it_matters": "Reliance is a major Nifty heavyweight.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/reliance-shares-buy-sell-or-hold-after-q2-results-2026-ril-stock-up-384-in-10-yrs-brokerages-advice-to-investors-11793504303710.html",
+          "source": "LiveMint Markets",
+          "published": 1793507498
+        },
+        {
+          "title": "Binance covers 90% of losses after $6.3bn hack blamed on North Korea",
+          "summary": "The FBI blamed North Korea for the record $6.3 billion theft. Binance said it replaced 90% of the stolen assets and pledged to cover the rest.",
+          "why_it_matters": "It is a record theft with lessons for financial-system security.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793484705
+        },
+        {
+          "title": "New GST measures roll out from November 1",
+          "summary": "GST Council-approved measures roll out in phases from November 1. Eligible small online sellers can register using platform warehouses, without opening offices in every state.",
+          "why_it_matters": "It is a tax rule change that eases compliance for online businesses.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/new-gst-reforms-start-today-relief-for-online-businesses-no-need-to-open-offices-in-every-state-check-all-the-changes-11793506034259.html",
+          "source": "LiveMint Money",
+          "published": 1793506887
+        },
+        {
+          "title": "Sebi to issue FII compliance consultation paper within weeks",
+          "summary": "Sebi chairman Tuhin Kanta Pandey said the paper will explore aligning Indian norms with global standards amid heavy FII outflows.",
+          "why_it_matters": "Regulatory changes on foreign flows could shape market access and sentiment.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-release-fii-compliance-consultation-paper-within-weeks-says-chairman-tuhin-kanta-pandey/articleshow/135400429.cms",
+          "source": "ET Markets",
+          "published": 1793448389
+        },
+        {
+          "title": "IOC, BPCL, HPCL post combined Q2 profit of Rs 30,106 crore",
+          "summary": "The three state fuel retailers reported combined profit of Rs 30,106 crore, reversing a loss of Rs 18,150 crore. This came despite a petrol and diesel price freeze since May.",
+          "why_it_matters": "It shows the effect of oil prices and price controls on large PSU earnings.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms",
+          "source": "ET Markets",
+          "published": 1793515942
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "IPO market quiet this week: one small issue, 13 listings",
+          "summary": "Only one fresh issue, Vedant Poly Fabs at Rs 56.68 crore, opens for subscription, with no mainboard launches. Thirteen companies are due to list. The lull follows the Rs 30,188 crore Jio Platforms IPO, which was subscribed over 22 times.",
+          "why_it_matters": "It gives the primary-market picture for the week.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-primary-market-cools-after-jio-frenzy-but-13-listings-lined-up/articleshow/135419009.cms",
+          "source": "ET Markets",
+          "published": 1793511716
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Mistral releases Large 4, targeting cybersecurity users",
+          "summary": "Mistral publicly released Large 4, an upgrade from the version unveiled three weeks ago. It followed testing with governments and corporate users.",
+          "why_it_matters": "It is a major model launch from a leading non-US lab.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users/articleshow/135390933.cms",
+          "source": "ET Tech",
+          "published": 1793427220
+        },
+        {
+          "title": "OpenAI reportedly lowers funding target for new round",
+          "summary": "OpenAI's latest funding round is reportedly not living up to expectations, and the target has been lowered.",
+          "why_it_matters": "It adds to the AI-spending worry and could affect hiring in AI.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "source": "TechCrunch AI",
+          "published": 1793463175
+        },
+        {
+          "title": "Apple CEO: won't 'ship AI for AI's sake'",
+          "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+          "why_it_matters": "It shows how a big tech platform is approaching AI.",
+          "importance": 2,
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "source": "TechCrunch AI",
+          "published": 1793482860
+        },
+        {
+          "title": "Anthropic reportedly blocks users for work touching training larger models",
+          "summary": "A post reports that Anthropic blocks users for anything touching training larger models. It drew 311 points and 179 comments on Hacker News.",
+          "why_it_matters": "Usage-policy limits matter for engineers building on frontier APIs.",
+          "importance": 2,
+          "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793475559
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Linux TCP use-after-free, CVE-2026-98432, CVSS 9.8",
+          "summary": "A blog post details a Linux IPv4 TCP use-after-free flaw rated CVSS 9.8. It drew 467 points on Hacker News.",
+          "why_it_matters": "A critical kernel flaw matters for anyone running Linux backends.",
+          "importance": 4,
+          "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793474190
+        },
+        {
+          "title": "Google's PageBreak AI agent found 500+ XSS bugs",
+          "summary": "Google says its Gemini-based security agent has found more than 500 XSS vulnerabilities since January. It reports them only after deterministic validators reproduce the exploit.",
+          "why_it_matters": "It is a practical example of a validated agent design.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793427600
+        },
+        {
+          "title": "Jepsen tests ParticleDB 1.1.4",
+          "summary": "Jepsen published a consistency analysis of ParticleDB 1.1.4.",
+          "why_it_matters": "Jepsen reports are valuable reading on distributed-systems correctness.",
+          "importance": 3,
+          "url": "https://jepsen.io/analyses/particledb-1.1.4",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793453992
+        },
+        {
+          "title": "Spring first release candidates: Boot, Framework, Kafka and more",
+          "summary": "First release candidates arrived for Spring Boot, Framework, Data, Security, Spring AI, Spring for Apache Kafka and others.",
+          "why_it_matters": "It is directly relevant to a Java and Kafka stack.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793453400
+        },
+        {
+          "title": "Cloudflare moves post-quantum GeoKey Manager to closed beta",
+          "summary": "It uses hybrid ML-KEM-768 and X25519, replacing attribute-based encryption, with keys held only in kernel memory on verified regional servers. GA is planned for Q1 2027.",
+          "why_it_matters": "It is a real-world post-quantum design with fail-closed trade-offs.",
+          "importance": 2,
+          "url": "https://www.infoq.com/news/2026/10/cf-pq-geokey-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793476560
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "UPI hits record 25.47 billion transactions in October",
+          "summary": "UPI transactions rose 23% year-on-year to 25.47 billion, and value rose 16% to ₹31.53 lakh crore. Daily value crossed ₹1 lakh crore for the first time.",
+          "why_it_matters": "It shows the scale of the Indian payments rails that fintech engineers build on.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/festive-spending-drives-record-upi-transactions-in-october/articleshow/135420426.cms",
+          "source": "ET Tech",
+          "published": 1793516920
+        },
+        {
+          "title": "Nifty IT's 18% October rally",
+          "summary": "Nifty IT rose 18% in October, with analysts citing momentum and rotation from global AI stocks.",
+          "why_it_matters": "It signals recovering sentiment in IT services, a major employer.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-its-18-rally-may-mark-a-durable-leadership-cycle-35000-next-lkps-vatsal-bhuva/articleshow/135419140.cms",
+          "source": "ET Markets",
+          "published": 1793512557
+        },
+        {
+          "title": "Forensic audit finds external breach behind €3 Mn Capillary fraud",
+          "summary": "A KPMG forensic audit found an external breach behind the €3.04 Mn banking fraud at Capillary.",
+          "why_it_matters": "It is a security lesson for fintech engineers.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/capillary-technologies-subsidiary-hit-by-e3-mn-cyber-fraud/",
+          "source": "Inc42",
+          "published": 1793455417
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India make changes for final T20I vs New Zealand",
+          "summary": "For the dead rubber, India left out Axar Patel and Mayank Yadav and brought in Bhuvneshwar and Varun. New Zealand replaced Matt Fisher with Blair Tickner.",
+          "why_it_matters": "It is the latest India international fixture.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1560931.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793516093
+        },
+        {
+          "title": "South Africa beat Australia, take Test No. 1 ranking",
+          "summary": "Harmer took ten wickets in the match as South Africa won the decider and the series 2-1, bowling Australia out for 111 chasing 288. Australia lost top spot in the WTC standings and Test rankings.",
+          "why_it_matters": "It is a major shift in Test cricket's pecking order.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1560876.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793459347
+        },
+        {
+          "title": "Pakistan win tri-series with Fakhar's 127",
+          "summary": "Fakhar Zaman made 127 and added 149 with Baig to rescue Pakistan, who chased Kamindu Mendis' 131-powered 326.",
+          "why_it_matters": "It decides a tri-series title.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1560868.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793468105
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-01",
+  "generated_at": 1793518268,
+  "items_scanned": 142,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
