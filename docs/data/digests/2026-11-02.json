@@ -1,0 +1,299 @@
+{
+  "headline": "Cyclone Murasu bears down on the south Andhra coast near Ongole as Sebi backs LTCG relief for foreign investors and the US heads into midterms.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Cyclone Murasu to make landfall close to Ongole",
+          "summary": "Murasu has intensified into a severe cyclonic storm and is expected to cross the south Andhra coast near Ongole between 11.30 p.m. Monday and 4 a.m. on November 3. NDRF and SDRF teams are deployed in likely-affected districts. Flights at Vijayawada, Visakhapatnam and Chennai have been cancelled or hit, and Odisha has begun evacuations.",
+          "why_it_matters": "Directly affects Andhra Pradesh and Telangana, where holidays, power restoration and farm losses are already in play.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793601032
+        },
+        {
+          "title": "Opposition holds mega Delhi rally seeking chief election commissioner's resignation",
+          "summary": "Thousands gathered in Delhi demanding the CEC step down, as the INDIA bloc protests alleged SIR irregularities. Telangana CM Revanth Reddy joined the political attack on PM Modi.",
+          "why_it_matters": "The electoral roll revision dispute is a major national political flashpoint.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793516455
+        },
+        {
+          "title": "Telangana paddy farmers fear crop damage from Murasu",
+          "summary": "Soaked panicles are delaying harvest in Telangana, and higher machine costs plus extra drying and labour add to farmers' burden. Authorities have issued alerts and are supplying protective tarpaulins.",
+          "why_it_matters": "Telangana farm impact from the storm is a regional story you would not see in national coverage.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-paddy-farmers-in-telangana-fear-crop-damage-amid-high-market-prices/article71653493.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793583670
+        },
+        {
+          "title": "60.96% turnout in 91 urban local body polls in Andhra Pradesh",
+          "summary": "Of 96.89 lakh voters, 59.06 lakh cast their votes. Chimakurthy municipality in Prakasam district recorded the highest polling at 84.36%, and the GVMC report is awaited.",
+          "why_it_matters": "Local body elections in Andhra Pradesh are a gauge of state politics.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/6096-turnout-recorded-in-91-urban-local-body-polls/article71655147.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793596962
+        },
+        {
+          "title": "Oocyte racket in Telangana: police probe exploitation of 43 women",
+          "summary": "Women were reportedly paid ₹20,000 while operators made around ₹3 lakh per cycle. Police are examining possible forged consent documents, illegal commissions and the role of IVF and fertility centres in Hyderabad.",
+          "why_it_matters": "A major law-and-order and medical-ethics case in Hyderabad.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/oocyte-extraction-racket-women-paid-20000-as-operators-made-around-3-lakh-per-cycle/article71653455.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793595679
+        },
+        {
+          "title": "Two foreign nationals die in Bengaluru five-star hotel pool",
+          "summary": "The incident has raised questions about electrical safety, maintenance and emergency preparedness at pools in luxury hotels.",
+          "why_it_matters": "It is a safety story in Bengaluru, a city you may work in or travel to.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/karnataka/explainer-on-bengaluru-hotel-conrad-swimming-pool-incident/article71655524.ece",
+          "source": "The Hindu - National",
+          "published": 1793604711
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Trump makes final-weekend push before US midterms",
+          "summary": "Trump rallied in states Republicans previously won, showing how tight Tuesday's elections could be in deciding control of Congress.",
+          "why_it_matters": "US midterms will shape trade, tech and tariff policy affecting India and markets.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793592268
+        },
+        {
+          "title": "Nine killed as small jet crashes on Florida street",
+          "summary": "The crash happened near Mar-a-Lago, and Transportation Secretary Sean Duffy called it a 'horrific tragedy'. Air traffic recordings captured the crew's mayday calls on the Learjet 60.",
+          "why_it_matters": "It is the day's biggest accident story globally.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793604797
+        },
+        {
+          "title": "Binance covers 90% of losses after $6.3bn hack",
+          "summary": "The FBI says North Korea was responsible for the hack. Customers withdrew about $3.6bn, and outflows are stabilising as the exchange resumed service.",
+          "why_it_matters": "It is the largest crypto hack ever and a security story relevant to fintech engineers.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793538697
+        },
+        {
+          "title": "Cost-of-living protests turn violent in Germany and France",
+          "summary": "Shops were looted in Berlin, Hamburg and Frankfurt. In France there were hundreds of arrests on the third weekend of protests, and an attempted murder investigation began after a petrol bomb was thrown at police.",
+          "why_it_matters": "It shows rising economic unrest in Europe.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793534268
+        },
+        {
+          "title": "Israeli strikes in Gaza kill eight; Israeli forces leave Hebron",
+          "summary": "Hospitals say eight people including a child were killed in Gaza. Separately, Hebron's governor says Israeli forces withdrew after a 10-day siege.",
+          "why_it_matters": "It shows the ongoing conflict in the region.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793552792
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Sebi backs removal of LTCG tax for foreign investors",
+          "summary": "Sebi has proposed scrapping long-term capital gains tax for foreign investors. It also suggested relief for domestic mutual fund investors who sell existing holdings to reinvest in new ones.",
+          "why_it_matters": "A direct potential change for mutual fund investors like you, and for foreign flows.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-backs-removal-of-ltcg-tax-for-foreign-investors-report/articleshow/135448760.cms",
+          "source": "ET Markets",
+          "published": 1793601632
+        },
+        {
+          "title": "UPI hits record in October on festive spending",
+          "summary": "UPI volume rose 5.8% MoM to a record 25.47 bn transactions, worth Rs 31.53 lakh crore, up 16% YoY.",
+          "why_it_matters": "Core payments infrastructure for Indian fintech.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/technology/festive-spending-drives-record-upi-transactions-in-october/articleshow/135420426.cms",
+          "source": "ET Tech",
+          "published": 1793516920
+        },
+        {
+          "title": "India bonds surge as oil cools on US-Iran deal hopes",
+          "summary": "Government bonds improved as crude fell. Lower oil eases inflation and fiscal worries, and the RBI may adjust its rate plans accordingly.",
+          "why_it_matters": "Oil and rate expectations drive inflation and RBI policy.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-surge-as-oil-cools-on-us-iran-deal-hopes/articleshow/135448296.cms",
+          "source": "ET Markets",
+          "published": 1793600524
+        },
+        {
+          "title": "India manufacturing PMI eases to 54.7 in October",
+          "summary": "The HSBC PMI fell from 55.1 in September on softer output and new orders growth. It remains above the long-run average and the 50 neutral mark.",
+          "why_it_matters": "It is a gauge of economic momentum.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/business/Industry/indias-manufacturing-sector-activity-growth-eases-in-october-on-softer-rise-in-output-new-orders/article71655680.ece",
+          "source": "The Hindu - National",
+          "published": 1793604123
+        },
+        {
+          "title": "Dixon Technologies jumps 11% as Q2 revenue rises 47%",
+          "summary": "Revenue was Rs 21,794 crore, but net profit fell 48.7% to Rs 343.7 crore and EBITDA margin shrank to 3.1% from 7.1%.",
+          "why_it_matters": "A big Q2 mover with a mixed profit picture.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-technologies-shares-gain-11-after-q2-revenue-jumps-47-yoy/articleshow/135449583.cms",
+          "source": "ET Markets",
+          "published": 1793603716
+        },
+        {
+          "title": "BOJ signals December rate hike",
+          "summary": "The Bank of Japan strengthened signals of a December hike as inflation stays above target, though the path beyond 1.5% is unclear.",
+          "why_it_matters": "Japanese rate moves affect global liquidity and flows.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boj-signals-december-rate-hike-but-path-beyond-1-5-remains-uncertain/articleshow/135447724.cms",
+          "source": "ET Markets",
+          "published": 1793599675
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "GAIL board approves IPO of subsidiary GAIL Gas",
+          "summary": "GAIL's board gave in-principle approval to list GAIL Gas via an IPO. GAIL also reported Q2 net profit up over 8% to Rs 4,650 crore.",
+          "why_it_matters": "It is a possible upcoming IPO from a PSU.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/gail-shares-jump-4-as-q2-net-profit-rises-over-8-to-rs-4650-crore-revenue-grows-17/articleshow/135447997.cms",
+          "source": "ET Markets",
+          "published": 1793600337
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Magnificent Seven debt rises 45% to $578 billion on AI spending",
+          "summary": "SBI Research says combined debt of the seven largest US tech firms reached $578 billion by mid-2026, raising concerns over financial risks of AI infrastructure.",
+          "why_it_matters": "It shows how financially stretched the AI buildout is, which affects hiring and funding.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-debt-surge-pushes-magnificent-seven-borrowing-to-usd-578-billion-up-45-sbi-research/articleshow/135443806.cms",
+          "source": "ET Tech",
+          "published": 1793590138
+        },
+        {
+          "title": "Lightspeed's Mohapatras: AI agents break the web ad model",
+          "summary": "ET Tech interviews Lightspeed's Harsha and Hemant Mohapatra on how AI agents undermine web advertising.",
+          "why_it_matters": "It gives an investor view on where agent-driven products are headed.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agents-break-web-ad-model-lightspeeds-harsha-hemant-mohapatra-corner-office-conversation/videoshow/135447929.cms",
+          "source": "ET Tech",
+          "published": 1793599730
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "AWS capacity largely sold out through 2027",
+          "summary": "Andy Jassy says committed capacity is largely sold out through 2027, with part of 2028 allocated, while headroom is reserved for On Demand, EC2 and Bedrock. Practitioners report difficulty getting On Demand EC2 capacity.",
+          "why_it_matters": "Cloud capacity constraints affect infrastructure planning for backend teams.",
+          "importance": 4,
+          "url": "https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793520180
+        },
+        {
+          "title": "The AI cost of JavaScript frameworks",
+          "summary": "A Nolan Lawson post on how JavaScript frameworks affect AI-assisted development drew 347 points on Hacker News.",
+          "why_it_matters": "It is relevant to AI-assisted coding workflows.",
+          "importance": 2,
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793513179
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Apple's new CEO John Ternus faces first earnings test",
+          "summary": "Ternus took over from Tim Cook in September and has overseen Apple's first foldable phone. Investors will watch iPhone demand, Services growth and the effect of surging memory costs.",
+          "why_it_matters": "A big-tech earnings milestone under new leadership.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/apples-new-ceo-john-ternus-to-face-first-earnings-test-as-memory-costs-surge/articleshow/135446055.cms",
+          "source": "ET Tech",
+          "published": 1793595810
+        },
+        {
+          "title": "CBI extradites Mahadev betting app promoter from Oman",
+          "summary": "Sourabh Chandrakar, a promoter of the Mahadev Online Book platform, has been extradited.",
+          "why_it_matters": "A significant enforcement action in India's online betting scene.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/cbi-extradites-mahadev-betting-app-promoter-sourabh-chandrakar-from-oman/",
+          "source": "Inc42",
+          "published": 1793597468
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India win T20I series 3-2 in New Zealand",
+          "summary": "Gambhir praised India's ruthlessness, including chasing 226 and hunting down 199 in under 14 overs.",
+          "why_it_matters": "It is the Indian team's latest series result.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1560984.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793548484
+        },
+        {
+          "title": "Ravindra and Chapman ruled out of India ODIs",
+          "summary": "New Zealand have included Seifert for the entire ODI series, with Nicholls and Foxcroft added for different parts.",
+          "why_it_matters": "It shapes the upcoming ODI series against India.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1561050.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793582804
+        },
+        {
+          "title": "New Zealand A in front against India A despite Siraj and Mukesh hauls",
+          "summary": "Boyle and Foxcroft added 205 for the fourth wicket after New Zealand were 13 for 3.",
+          "why_it_matters": "It is India A's tour match ahead of the senior series.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1560923.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793559275
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-02",
+  "generated_at": 1793605282,
+  "items_scanned": 123,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
