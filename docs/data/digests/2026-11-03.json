@@ -1,0 +1,372 @@
+{
+  "headline": "Cyclone Murasu hits Andhra Pradesh as civic poll counting begins, while Anthropic's IPO filing and US strikes on Iran frame a tense global day.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Severe Cyclone Murasu makes landfall near Ongole, Andhra Pradesh",
+          "summary": "The cyclone made landfall near Ongole/Kothapatnam in Prakasam district with winds of 100-110 kmph, gusting to 120 kmph. IMD expects it to weaken by noon, but heavy rain will continue over south coastal AP. Red alerts are in place for Tirupati, Nandyal and Palnadu, and at least 19 domestic flights were cancelled at Vijayawada, Tirupati and Visakhapatnam. No power disruptions were reported, and NDRF/SDRF teams were deployed.",
+          "why_it_matters": "It directly affects Andhra Pradesh, your home region, with flooding, travel and power risks.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/severe-cyclone-murasu-landfall-on-november-3-2026/article71658293.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793685613
+        },
+        {
+          "title": "Andhra Pradesh civic polls: counting under way in 92 urban local bodies",
+          "summary": "TDP has taken an early lead as counting proceeds, with results expected through the day. The High Court cleared the Pulivendula count, while rain and missing keys delayed counting in places.",
+          "why_it_matters": "It is an early read on the political mood in AP under the Naidu government.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-election-results-2026-live-updates/article71659328.ece",
+          "source": "The Hindu - National",
+          "published": 1793691726
+        },
+        {
+          "title": "Amit Shah backs SIR, claims 3 crore 'illegal infiltrators' among deleted voters",
+          "summary": "Amit Shah defended the Special Intensive Revision of electoral rolls, alleging 3 crore illegal infiltrators were identified among 13 crore deleted voters. Telangana minister Ponnam Prabhakar asked the BJP to reveal how many foreign nationals the SIR identified. In Telangana, address-change applications clashing with enumeration forms are leading to voter deletions.",
+          "why_it_matters": "The SIR is a contested electoral-roll exercise now affecting Telangana voters directly.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/telangana/amit-shah-backs-sir-alleges-three-crore-illegal-infiltrators-identified-in-13-crore-deleted-voters/article71656858.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793650699
+        },
+        {
+          "title": "HYDRAA demolishes encroachments in Fox Sagar lake FTL",
+          "summary": "HYDRAA removed encroachments in the lake's full tank level, demolishing the compound wall of a farmhouse belonging to family members of former minister Malla Reddy at Dulapally.",
+          "why_it_matters": "It shows continuing lake-encroachment enforcement in Hyderabad, including against politically connected owners.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/hydraa-removes-encroachments-in-fox-sagar-lake-ftl/article71657835.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793688964
+        },
+        {
+          "title": "Indian seafarer killed in attack on ship near Oman",
+          "summary": "MEA said the seafarer, from Gujarat, died and 13 others were rescued. India reiterated its call for immediate de-escalation in the region.",
+          "why_it_matters": "The US-Iran conflict is now costing Indian lives at sea and threatening shipping routes.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/india-seafarer-killed-in-attack-on-ship-near-oman-mea-west-asia-conflict/article71659910.ece",
+          "source": "The Hindu - National",
+          "published": 1793691299
+        },
+        {
+          "title": "Centre raises DA by 3% to 63% ahead of Diwali",
+          "summary": "The Union Cabinet raised dearness allowance for central government employees and pensioners from 60% to 63% of basic pay, effective 1 July. Several states have announced their own hikes.",
+          "why_it_matters": "It is a notable pay and pension decision affecting millions of households.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/da-hike-full-list-states-dearness-allowance-diwali-2026-tamil-nadu-madhya-pradesh-himachal-rajasthan-chhattisgarh-kerala-11793641891420.html",
+          "source": "LiveMint Money",
+          "published": 1793672541
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "US strikes Iran's Qeshm Island ahead of midterms",
+          "summary": "US officials described the strikes as limited and defensive. The US-Iran conflict continues to disrupt the region, including attacks on shipping near Oman.",
+          "why_it_matters": "Escalation in the Gulf affects oil prices, Indian seafarers and markets.",
+          "importance": 5,
+          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793677148
+        },
+        {
+          "title": "US midterm elections: results expected from 23:00 GMT, final count may take days",
+          "summary": "Polls begin closing Tuesday, but final results may take days. The Supreme Court rejected Trump's request to stop California from counting disputed votes.",
+          "why_it_matters": "Congressional control could shape US tariffs, foreign policy and oil, with knock-on effects for India.",
+          "importance": 4,
+          "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793690841
+        },
+        {
+          "title": "Russian bombing kills 29 at Ukraine aid centre",
+          "summary": "Kyiv says at least nine 3,000kg aerial bombs hit a southern Ukrainian village. Separately, fighting resumed in Kherson after the war's longest ceasefire, a six-day truce, and thousands of European troops will rehearse a post-peace deployment.",
+          "why_it_matters": "The war shows no sign of ending despite the truce.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793690652
+        },
+        {
+          "title": "Australia's High Court hears challenge to under-16 social media ban",
+          "summary": "Reddit and the Digital Freedom Project argue the world-first ban is unconstitutional, calling it a profound restriction on political debate.",
+          "why_it_matters": "It is the first legal test of a policy other countries are watching.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/3/australias-high-court-hears-bid-to-overturn-under-16s-social-media-ban?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793689160
+        },
+        {
+          "title": "North Korea denies role in record $6.3bn Binance hack",
+          "summary": "US agencies and analysts blame Pyongyang. Binance is reopening withdrawals for more assets, and SBI is investigating a suspected leak of about 3,900 customer records.",
+          "why_it_matters": "It signals rising cyber risk to financial institutions, relevant to fintech work.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793686949
+        },
+        {
+          "title": "Gaza killings continue; Israel's election inconclusive",
+          "summary": "Israeli forces killed four more Palestinians in Gaza, with nearly 1,600 killed since the October ceasefire. Israel's inconclusive election leaves political deadlock.",
+          "why_it_matters": "The ceasefire is fraying while Israeli politics is unsettled.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/3/israeli-forces-kill-four-in-gaza-as-fifth-palestinian-dies-of-wounds?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793682154
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Nomura: record FII selling may have peaked",
+          "summary": "FIIs sold about $8.8 billion since September 15, though the pace has moderated. Nomura notes its BSE 200+ universe posted 34% YoY profit growth, beating consensus by 18%. Capital market stocks also rallied on LTCG tax relief hopes.",
+          "why_it_matters": "It points to a possible turn in market sentiment for index investors.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/record-breaking-fii-selling-may-have-peaked-says-nomura-why-the-nifty-target-could-rise/articleshow/135484003.cms",
+          "source": "ET Markets",
+          "published": 1793684640
+        },
+        {
+          "title": "After RBI's October repo hike, FD rates and borrowing costs in focus",
+          "summary": "Following the October 2026 repo rate hike, FD rates are being compared across PSU and private banks. Commentary expects further repo hikes and higher loan costs.",
+          "why_it_matters": "A rate-hiking cycle affects loans, FDs and debt fund returns.",
+          "importance": 4,
+          "url": "https://www.livemint.com/money/personal-finance/fd-interest-rates-after-rbi-repo-rate-hike-nov-2026-public-or-private-which-banks-give-highest-fixed-deposit-returns-11793672005504.html",
+          "source": "LiveMint Money",
+          "published": 1793676764
+        },
+        {
+          "title": "Reliance slips after 11.6% surge on record Q2 profit",
+          "summary": "RIL fell 1.3% in intraday trade after its biggest single-day rally since 2020. Q2FY27 profit was a record ₹29,550 crore, up 33.8%.",
+          "why_it_matters": "Reliance is a heavy index weight and moves Nifty.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/reliance-shares-after-massive-12-surge-mukesh-ambanis-ril-stock-slips-from-biggest-single-day-rally-since-2020-buy-11793684679227.html",
+          "source": "LiveMint Markets",
+          "published": 1793687652
+        },
+        {
+          "title": "HDFC Bank gains 3% after quarterly results",
+          "summary": "Profit rose 4.7% YoY with higher net interest income and better asset quality, though margins declined. The stock is down 27% over one year.",
+          "why_it_matters": "HDFC Bank is the largest index constituent.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-gains-3-today-heres-why-is-the-worst-over-after-a-27-one-year-fall-what-experts-say-11793688821749.html",
+          "source": "LiveMint Markets",
+          "published": 1793691395
+        },
+        {
+          "title": "RBI eases EDF rules for service exporters and freelancers",
+          "summary": "RBI simplified export declaration compliance for resident individual service exporters and set a ₹10 lakh threshold for other exporters.",
+          "why_it_matters": "It is relevant if you freelance or earn foreign income.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/rbi-amends-edf-rules-for-service-exporters-freelancers-under-fema-10-lakh-threshold-relief-for-resident-individuals-11793665732487.html",
+          "source": "LiveMint Money",
+          "published": 1793672282
+        },
+        {
+          "title": "Gold and silver fall ahead of Diwali",
+          "summary": "MCX gold dropped Rs 1,400 per 10 gram and silver Rs 4,300/kg as oil prices and rate-hike fears weighed.",
+          "why_it_matters": "It reflects inflation and rate worries just before the Dhanteras buying season.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-prices-fall-rs-1400/10-gram-silver-tanks-rs-4300/kg-ahead-of-diwali-while-rate-hike-bets-linger-what-should-you-do/articleshow/135484139.cms",
+          "source": "ET Markets",
+          "published": 1793684859
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "BLS Polymers lists at 65% premium",
+          "summary": "Shares debuted on NSE at ₹248 against the ₹150 issue price after the IPO was subscribed 241.22 times. Fresh issue proceeds fund Goa plant expansion and working capital.",
+          "why_it_matters": "It is the day's key IPO listing data point.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/blockbuster-ipo-debut-of-bls-polymers-3-times-premium-as-compared-to-jio-platforms-all-details-for-investors-here-11793682497404.html",
+          "source": "LiveMint Markets",
+          "published": 1793684100
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Anthropic reports 1,100% revenue surge ahead of IPO",
+          "summary": "Its filing shows more than 1,100% quarterly revenue growth and about $895 billion in spending commitments, mostly compute, with $70 billion due before September 2027. It also plans to sell $3.5 billion of shares to Japanese investors. The listing is later this month.",
+          "why_it_matters": "The largest AI lab IPO signals the scale of AI capex and demand.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-says-revenue-surged-1100-ahead-of-ipo/articleshow/135479762.cms",
+          "source": "ET Tech",
+          "published": 1793674473
+        },
+        {
+          "title": "Anthropic warns it is close to recursive self-improvement capability",
+          "summary": "Anthropic says it is very near RSI, where AI trains itself and capabilities accelerate sharply.",
+          "why_it_matters": "It signals how fast frontier capability is moving for AI-career planning.",
+          "importance": 4,
+          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+          "source": "TechCrunch AI",
+          "published": 1793657690
+        },
+        {
+          "title": "India becomes ChatGPT's largest market",
+          "summary": "India is now ChatGPT's largest market by weekly active users, with its base doubling since January 2026. Google's Dreambeans also expanded to 13 Indian languages.",
+          "why_it_matters": "It shows strong Indian demand for AI products and implies AI-engineer opportunities.",
+          "importance": 4,
+          "url": "https://inc42.com/buzz/india-becomes-chatgpts-largest-market-globally-user-base-doubles-since-january/",
+          "source": "Inc42",
+          "published": 1793686193
+        },
+        {
+          "title": "AI borrowing strains global bond markets",
+          "summary": "Alphabet, Meta, Amazon and Microsoft are expected to issue more debt, possibly lifting European yields. Regulators flagged leverage risks from AI investment, and Blackstone expects more tech fundraising.",
+          "why_it_matters": "AI capex financing risk could affect markets and tech hiring.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/global-markets-were-already-fragile-big-ai-bets-could-break-them/articleshow/135483686.cms",
+          "source": "ET Tech",
+          "published": 1793683588
+        },
+        {
+          "title": "Stop counting tokens, start counting what ships",
+          "summary": "Agentic coding tasks can use 10 to 50 times more tokens than a basic chat prompt, raising cost questions for teams.",
+          "why_it_matters": "Cost and ROI of agents are central to AI engineering work.",
+          "importance": 2,
+          "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+          "source": "MIT Technology Review AI",
+          "published": 1793625032
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Uber builds MCP Gateway for 800+ servers and 5,000+ tools",
+          "summary": "The gateway standardizes how AI agents discover and invoke internal services, with automated API discovery, access controls, sensitive data redaction and response filtering.",
+          "why_it_matters": "It is a practical reference architecture for enterprise agent infrastructure.",
+          "importance": 4,
+          "url": "https://www.infoq.com/news/2026/11/uber-mcp-gateway-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793627580
+        },
+        {
+          "title": "Cloudflare cuts DNS build memory by 85%",
+          "summary": "A new planner picks the smallest safe build, cutting full builds by 40%, peak memory by 85% and halving build delay.",
+          "why_it_matters": "It is a useful distributed-systems optimization write-up.",
+          "importance": 3,
+          "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+          "source": "Cloudflare Blog",
+          "published": 1793628000
+        },
+        {
+          "title": "Scaling Git at OpenAI",
+          "summary": "OpenAI published a write-up on scaling Git for its engineering needs, which drew 184 points on Hacker News.",
+          "why_it_matters": "It offers lessons on large-scale developer infrastructure.",
+          "importance": 3,
+          "url": "https://openai.com/index/scaling-git-at-openai/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793663276
+        },
+        {
+          "title": "Ubuntu LTS kernels still unpatched for Linux 0day RCE after ~3 weeks",
+          "summary": "A report says Ubuntu has not released a patch for a critical kernel remote code execution flaw in nearly three weeks.",
+          "why_it_matters": "It matters if you run Ubuntu on GCP or elsewhere.",
+          "importance": 3,
+          "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793644778
+        },
+        {
+          "title": "Google and Meta open-source TorchTPU",
+          "summary": "TorchTPU gives PyTorch a native backend on Google TPUs, supporting eager and compiled execution with minimal code changes.",
+          "why_it_matters": "It affects GCP-based ML workflows.",
+          "importance": 2,
+          "url": "https://www.infoq.com/news/2026/11/torchtpu-native-pythorch-tpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793638800
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Apple beats estimates but AI costs weigh on margins",
+          "summary": "Apple posted a revenue record for July-September on iPhone and services, but higher memory costs and Siri AI ramp costs will drag margins. India also set a record quarter for Apple.",
+          "why_it_matters": "It shows how AI costs are hitting even the biggest tech firms.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/apple-beats-sales-and-profit-expectations-but-ai-costs-weigh-on-holiday-sales/articleshow/135479561.cms",
+          "source": "ET Tech",
+          "published": 1793674159
+        },
+        {
+          "title": "Squarespace lays off 19% of staff",
+          "summary": "The website builder cited a broader restructuring of the organization.",
+          "why_it_matters": "It is another sign of continued tech layoffs.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+          "source": "TechCrunch AI",
+          "published": 1793647559
+        },
+        {
+          "title": "KKR, Singtel and Tatas prepare to sell STT GDC India",
+          "summary": "The major Indian data centre platform is being put up for sale.",
+          "why_it_matters": "It reflects investor interest in India's AI-driven data centre buildout.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/stt-globals-india-biz-on-the-block-micro-occasions-power-qcomm/articleshow/135463594.cms",
+          "source": "ET Tech",
+          "published": 1793626989
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India and New Zealand turn to ODIs at Eden Park",
+          "summary": "Captain Shubman Gill said he would have preferred ODIs first to field a full-strength squad. Devon Conway is out of the opening ODI with concussion, and Rishabh Pant faces a fitness assessment before joining the tour.",
+          "why_it_matters": "The ODIs serve as World Cup preparation for India.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1561179.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793690765
+        },
+        {
+          "title": "IPL 2027 retention deadline moved to November 17",
+          "summary": "The deadline was earlier November 15.",
+          "why_it_matters": "It sets the timeline for IPL squad decisions.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1561149.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793634068
+        },
+        {
+          "title": "Jaiswal 155* and Rathod 100* power India A to draw",
+          "summary": "The pair added an unbroken 247-run partnership after early wickets, and Harshit Rana was picked for India A's Rising Stars Asia Cup squad.",
+          "why_it_matters": "It shows form among India's selection contenders.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1561174.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793681633
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-03",
+  "generated_at": 1793692502,
+  "items_scanned": 183,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
