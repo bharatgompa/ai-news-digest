@@ -1,0 +1,462 @@
+{
+  "headline": "Democrats sweep US midterms and rattle global markets, while Andhra Pradesh civic polls favour the NDA and Cyclone Murasu floods the Telugu states.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "TDP breaches YSRCP bastion Pulivendula in Andhra civic polls",
+          "summary": "TDP's Geetha Kumari won the Pulivendula municipal chairperson seat by 13,875 votes, defeating Y.S. Jagan Mohan Reddy's aunt Prameelamma. The seat had been a YSRCP stronghold for four decades.",
+          "why_it_matters": "A symbolic blow to YSRCP in the reader's home region.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-tdp-breachesysrcps-fortress-of-pulivendula-after-four-decades/article71661996.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793734002
+        },
+        {
+          "title": "Jana Sena's Vangaveeti Radhakrishna elected Vijayawada Mayor",
+          "summary": "Radhakrishna won the mayoral race by 1,30,912 votes. Counting was delayed about five hours by heavy rain, and the NDA won four municipalities in NTR district. Jana Sena also swept Konaseema and Kakinada and won Pithapuram.",
+          "why_it_matters": "The Andhra civic results show the NDA alliance, with Jana Sena strong, dominating local politics.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/vijayawada-civic-poll-result-jana-senas-vangaveeti-radhakrishna-elected-mayor/article71664223.ece",
+          "source": "The Hindu - National",
+          "published": 1793776623
+        },
+        {
+          "title": "Cyclone Murasu: Prakasam Barrage gates opened, heavy rain in Telangana",
+          "summary": "All 70 gates of Prakasam Barrage were opened, releasing 71,000 cusecs into the Krishna after heavy rain in NTR district. Bhadradri and Khammam in Telangana saw extremely heavy overnight rain, and Eluru district schools are closed Nov 4-5.",
+          "why_it_matters": "Direct weather impact on both Telugu states.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-murasu-all-70-gates-of-prakasam-barrage-opened-71000-cusecs-released-into-krishna/article71663867.ece",
+          "source": "The Hindu - National",
+          "published": 1793774827
+        },
+        {
+          "title": "NDA leads urban body polls across Guntur, Palnadu, Bapatla",
+          "summary": "TDP won 118 wards and led in 21 more, while Jana Sena secured 26 wards across the three districts. In Vizianagaram the alliance also scored big, though a rebel won Nellimarla.",
+          "why_it_matters": "Confirms the statewide pattern of NDA dominance in AP local bodies.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-leads-in-urban-local-body-polls-in-guntur-palnadu-bapatla-districts/article71661662.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793726221
+        },
+        {
+          "title": "Telangana groundwater drops as rain deficit grows",
+          "summary": "Telangana received 628 mm of rain against a normal 831 mm. 22 districts recorded deficits of 20-50%, with groundwater lowest in Vikarabad and the Hyderabad periphery.",
+          "why_it_matters": "Water stress affects Hyderabad and the state's farming.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-groundwater-levels-drop-further-in-a-month-as-rain-deficit-soars/article71663854.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793771613
+        },
+        {
+          "title": "Union Cabinet to take up critical mineral processing capex and storage VGF",
+          "summary": "The Cabinet will discuss capex support for critical mineral processing, with about 30% support previously reported, and viability gap funding for grid-scale renewable energy storage.",
+          "why_it_matters": "Major industrial and energy policy decisions are coming.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/business/union-cabinet-discussion-capex-support-for-critical-mineral-processing-vgf-re-grid-scale-storage-system/article71664202.ece",
+          "source": "The Hindu - National",
+          "published": 1793774829
+        },
+        {
+          "title": "ECI still insisting on Form 6 for deleted voters in Delhi SIR",
+          "summary": "Petitioners made an urgent mention in the Supreme Court, which on Oct 28 held that the ECI erred in forcing deleted existing voters to apply as new voters under Form 6.",
+          "why_it_matters": "Electoral roll revision is a live national legal and political issue, also being debated in Telangana.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/eci-still-insisting-on-form-6-for-excluded-voters-in-delhi-sir-petitioners-make-urgent-mentioning-in-supreme-court/article71664356.ece",
+          "source": "The Hindu - National",
+          "published": 1793776410
+        },
+        {
+          "title": "Andhra Pradesh makes 360-hour internships mandatory for UG students",
+          "summary": "Internships will be built into the final-year curriculum of three- and four-year UG programmes, with priority for stipend-based placements via the Institute-Industry Connect portal.",
+          "why_it_matters": "A notable change to AP's education and early-career pipeline.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-makes-360-hour-semester-internships-mandatory-for-ug-students/article71661491.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793733887
+        },
+        {
+          "title": "Delhi Police defends 60-day prohibitory orders in Supreme Court",
+          "summary": "Delhi Police told the court that six orders were passed ex-parte around Aug 20 to prevent unrest, a month after violence at the July 20 protests. One of them imposes prohibitions from Sept 26 to Nov 24.",
+          "why_it_matters": "Raises questions on protest rights and policing.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/delhi-police-says-prohibitive-orders-60-days-passed-ex-parte-to-prevent-unrest-supreme-court/article71664425.ece",
+          "source": "The Hindu - National",
+          "published": 1793776847
+        },
+        {
+          "title": "Odisha landslide rescue halted",
+          "summary": "Rescue at a landslide-hit Kandhamal village was suspended after experts said remains could lie under nearly 30 feet of debris. Families are preparing final rituals.",
+          "why_it_matters": "A major disaster toll in India.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/odisha/rescue-operation-at-landslide-hit-south-odisha-village-halted-families-prepare-for-final-rituals/article71664440.ece",
+          "source": "The Hindu - National",
+          "published": 1793776599
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Democrats win US House majority in midterms",
+          "summary": "Democrats gained the House majority and flipped Senate seats in Texas, Iowa and South Carolina. Democrats also won the Ohio and Georgia governorships, while Republicans held Florida.",
+          "why_it_matters": "It shifts US policy, trade and tech regulation for Trump's last two years.",
+          "importance": 5,
+          "url": "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793774086
+        },
+        {
+          "title": "Iran's IRGC says four tankers destroyed by mines in Hormuz",
+          "summary": "The IRGC says the vessels hit sea mines while trying to cross a prohibited route in the Strait of Hormuz.",
+          "why_it_matters": "Threatens oil supply and shipping, which matters for India's inflation and markets.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793776628
+        },
+        {
+          "title": "Binance says fake job interviews used in $6.3bn hack; North Korea denies",
+          "summary": "Binance says an engineer was approached on a legitimate job platform and lured into bogus interviews. North Korea fired missiles and denied involvement in the theft.",
+          "why_it_matters": "Fake job interviews are a real attack vector for engineers who are job hunting.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793722769
+        },
+        {
+          "title": "Spanish transport minister resigns after train crash",
+          "summary": "The resignation follows a collision south of Madrid that killed at least 69 people.",
+          "why_it_matters": "A major accident with political fallout in Europe.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793745959
+        },
+        {
+          "title": "South Africa votes in local elections",
+          "summary": "Polls suggest the ANC could fall below 40% as voters weigh failing services.",
+          "why_it_matters": "A test of a major emerging-market government.",
+          "importance": 2,
+          "url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793775426
+        },
+        {
+          "title": "Delhi air quality worsens before Diwali",
+          "summary": "Delhi's AQI stood at 377, 'very poor', as firework restrictions came into force.",
+          "why_it_matters": "A recurring public-health issue during the festive season.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793775029
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Democratic win rattles global markets",
+          "summary": "Tech and AI stocks sold off on worries over regulation and data centre investment, and Asian chipmakers in Korea and Taiwan led losses. Treasury yields fell, with the 10-year near 4.90%, while solar stocks rose and crypto dipped.",
+          "why_it_matters": "Sets the global tone for Indian markets and AI-linked stocks.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto/articleshow/135527407.cms",
+          "source": "ET Markets",
+          "published": 1793774055
+        },
+        {
+          "title": "Oil slide lifts Indian bonds",
+          "summary": "Indian government bonds rallied as crude fell on hopes of Middle East peace after the US midterms. Yields softened as traders priced in a delay to rate hikes.",
+          "why_it_matters": "Affects the rate outlook and inflation, which matter for SIP investors.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/bonds/oil-slide-treasury-strength-boost-indian-bonds/articleshow/135527698.cms",
+          "source": "ET Markets",
+          "published": 1793774046
+        },
+        {
+          "title": "India's dollar hedging falls to eight-month low after RBI curbs",
+          "summary": "Indian companies cut dollar purchases used to hedge rupee weakness, suggesting the RBI's crackdown on speculative bets is working.",
+          "why_it_matters": "A sign of the RBI's currency management.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/indias-dollar-hedging-slumps-as-rbi-cracks-down-on-speculation-11793767845635.html",
+          "source": "LiveMint Markets",
+          "published": 1793767845
+        },
+        {
+          "title": "SBI Research seeks level playing field for deposits amid LTCG debate",
+          "summary": "SBI Research proposed tax relief on savings account interest to make deposits more attractive as debate grows on equity LTCG relief.",
+          "why_it_matters": "A possible tax change for investors and savers.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/equity-ltcg-tax-relief-buzz-sbi-wants-level-playing-field-for-bank-deposits-key-points-for-fd-savings-account-holders-11793768615792.html",
+          "source": "LiveMint Money",
+          "published": 1793772497
+        },
+        {
+          "title": "PFRDA revises NPS scheme naming rules from 1 December",
+          "summary": "Category codes are removed from MSF scheme names, risk categories must be disclosed separately, and PoPs must follow new display rules during onboarding.",
+          "why_it_matters": "A regulatory change for NPS subscribers.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/pfrda-revises-msf-naming-rules-clarifies-how-pops-must-display-pension-fund-schemes-key-nps-changes-from-1-december-11793751722428.html",
+          "source": "LiveMint Money",
+          "published": 1793758043
+        },
+        {
+          "title": "Gold and silver correct before Diwali",
+          "summary": "Gold and silver have fallen sharply from record highs, and retail prices declined in India on Nov 4 ahead of Dhanteras.",
+          "why_it_matters": "Relevant for festive gold buyers and portfolio allocation.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-and-silver-prices-correct-ahead-of-diwali-buying-opportunity-or-a-trap/articleshow/135527505.cms",
+          "source": "ET Markets",
+          "published": 1793773810
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Razorpay gets SEBI nod for IPO of about ₹5,000-6,000 crore",
+          "summary": "Fintech firm Razorpay received SEBI approval for its proposed IPO of about ₹5,000-6,000 crore, per sources.",
+          "why_it_matters": "A big fintech listing, directly relevant to your sector.",
+          "importance": 4,
+          "url": "https://inc42.com/buzz/razorpay-gets-sebi-nod-for-%e2%82%b96000-cr-ipo/",
+          "source": "Inc42",
+          "published": 1793770693
+        },
+        {
+          "title": "BLS Polymers lists at 65% premium",
+          "summary": "The issue was subscribed 241 times and listed at a 65% premium, then rose about 6% further on Wednesday.",
+          "why_it_matters": "A recent listing outcome.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/bls-polymers-shares-rally-6-after-strong-stock-market-debut/articleshow/135526812.cms",
+          "source": "ET Markets",
+          "published": 1793772752
+        },
+        {
+          "title": "SFC Environmental lists, rises 12%",
+          "summary": "The stock opened at ₹448.80 on NSE and hit an intraday high of ₹478.40.",
+          "why_it_matters": "A recent listing outcome.",
+          "importance": 2,
+          "url": "https://www.livemint.com/market/stock-market-news/after-positive-ipo-listing-sfc-environmental-tech-shares-jump-12-more-steam-left-or-book-profits-experts-weigh-in-11793769727090.html",
+          "source": "LiveMint Markets",
+          "published": 1793771919
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Google disables Search in schools that reject its AI",
+          "summary": "K-12 accounts at schools that decline Gemini and other AI features will lose Google Search entirely, as AI is integrated into search.",
+          "why_it_matters": "Shows how aggressively AI is being bundled into core products.",
+          "importance": 3,
+          "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+          "source": "The Verge AI",
+          "published": 1793725204
+        },
+        {
+          "title": "AI inference startup Fal doubles valuation to $16B",
+          "summary": "Fal raised $1.3 billion in a round led by Bessemer.",
+          "why_it_matters": "Signals strong funding in AI inference infrastructure.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "source": "TechCrunch AI",
+          "published": 1793734483
+        },
+        {
+          "title": "Palantir's US commercial revenue passes government revenue",
+          "summary": "For the first time, Palantir's US commercial revenue exceeded its US government revenue.",
+          "why_it_matters": "Enterprise AI deployment is growing, which is relevant to FDE-style roles.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+          "source": "TechCrunch AI",
+          "published": 1793739955
+        },
+        {
+          "title": "Anthropic's compute margins are getting worse",
+          "summary": "TechCrunch reports Anthropic's compute margins are worsening when they should be improving.",
+          "why_it_matters": "The economics of frontier AI shape the industry and hiring.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+          "source": "TechCrunch AI",
+          "published": 1793725621
+        },
+        {
+          "title": "ChatGPT search volume at 20% of Google's",
+          "summary": "OpenAI says queries run through ChatGPT now equal 20% of Google's volume.",
+          "why_it_matters": "A measure of how AI is shifting search.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+          "source": "The Verge AI",
+          "published": 1793730642
+        },
+        {
+          "title": "DSCI proposes liability framework for AI agents",
+          "summary": "The Data Security Council of India proposed an industry framework to determine liability when autonomous AI agents cause harm.",
+          "why_it_matters": "Emerging Indian governance around agents.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/dsci-floats-framework-to-determine-liability-for-harm-caused-by-ai-agents/",
+          "source": "Inc42",
+          "published": 1793765697
+        },
+        {
+          "title": "IndiaAI Mission's indigenous models target offline and secure use",
+          "summary": "Three models are aimed at offline mobile access and secure use in defence, cybersecurity and banking. Soket Labs and ZenteiQ also launched models.",
+          "why_it_matters": "Indian AI ecosystem progress.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indiaai-missions-three-indigenous-ai-models-target-offline-mobile-access-secure-use-in-critical-sectors/articleshow/135524432.cms",
+          "source": "ET Tech",
+          "published": 1793768549
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Postman auto-installs AI plugins and tries to share API data",
+          "summary": "A GitHub issue alleges Postman silently auto-installs AI plugins and attempts to share all API data. It has 1,187 points on Hacker News.",
+          "why_it_matters": "A security and privacy concern for a common backend tool.",
+          "importance": 4,
+          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793726557
+        },
+        {
+          "title": "C++26 disapproved",
+          "summary": "A blog post examines C++26 failing its draft international standard vote and asks how C++ survives.",
+          "why_it_matters": "Relevant to your C++ work.",
+          "importance": 3,
+          "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793752402
+        },
+        {
+          "title": "LinkedIn uses OpenTelemetry to trace member journey to backend",
+          "summary": "LinkedIn built an OpenTelemetry-based platform connecting iOS, Android and web actions to backend services.",
+          "why_it_matters": "A practical observability write-up for backend engineers.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/linkedin-opentelemetry-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793707200
+        },
+        {
+          "title": "The Internals of PostgreSQL",
+          "summary": "A detailed online guide to PostgreSQL internals hit 236 points on Hacker News.",
+          "why_it_matters": "Useful reference for backend interview prep.",
+          "importance": 2,
+          "url": "https://www.interdb.jp/pg/index.html",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793742666
+        },
+        {
+          "title": "Google dismantles botnet on 1.3 million Android TV boxes",
+          "summary": "Google cut ties with the company behind the botnet campaign.",
+          "why_it_matters": "A significant security story.",
+          "importance": 2,
+          "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+          "source": "Ars Technica",
+          "published": 1793725701
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Canva cuts 22% of staff",
+          "summary": "Canva will cut 1,271 jobs, about 22% of its workforce, after growth slowed for the first time in a decade.",
+          "why_it_matters": "Another major tech layoff showing a tighter market.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/technology/canva-to-cut-about-22-of-staff-as-growth-slowdown-triggers-restructuring/articleshow/135519054.cms",
+          "source": "ET Tech",
+          "published": 1793759418
+        },
+        {
+          "title": "Meta raises $15B in bonds; Oracle plans $20B",
+          "summary": "Meta sold $15 billion in a five-part bond deal, and Oracle plans to raise $20 billion via bonds and stock for AI capacity.",
+          "why_it_matters": "Shows the scale of debt-funded AI infrastructure spending.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/meta-raises-15-billion-in-five-part-us-bond-sale/articleshow/135522649.cms",
+          "source": "ET Tech",
+          "published": 1793765786
+        },
+        {
+          "title": "AMD takes $1B charge on OpenAI and Meta chip deals",
+          "summary": "AMD agreed to sell up to $60 billion of AI chips to Meta over five years, with warrants for up to 10% of AMD. It booked a $1 billion quarterly charge tied to the Meta and OpenAI deals.",
+          "why_it_matters": "Reveals how AI chip deals are structured.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge/articleshow/135519119.cms",
+          "source": "ET Tech",
+          "published": 1793759579
+        },
+        {
+          "title": "Indian startup funding: EloElo $80M, Giva $103M, Peppermint ₹100 Cr",
+          "summary": "EloElo raised $80 million, with NBCUniversal among investors. Giva raised about $100 million and Peppermint Robotics ₹100 crore.",
+          "why_it_matters": "Indian startup funding signals.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/eloelo-group-bags-80-mn-to-take-its-microdrama-biz-global/",
+          "source": "Inc42",
+          "published": 1793769328
+        },
+        {
+          "title": "Freshworks swings to profit",
+          "summary": "Freshworks reported a Q3 net profit of $18.3 million with revenue up 14% to $245 million.",
+          "why_it_matters": "A key Indian-origin SaaS company reports profit.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/freshworks-swings-to-18-mn-profit-in-q3-revenue-rises-14-yoy-to-245-mn/",
+          "source": "Inc42",
+          "published": 1793772978
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India bowl first in NZ ODI; Nabi and Kamboj in",
+          "summary": "India opted to bowl in the first ODI against New Zealand, with Auqib Nabi and Anshul Kamboj picked. Tim Seifert returned for NZ.",
+          "why_it_matters": "Start of the ODI series as India prepare for the World Cup.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1561335.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793770883
+        },
+        {
+          "title": "Gill would have preferred ODIs before T20Is",
+          "summary": "India captain Shubman Gill said playing ODIs first would have allowed a full-strength squad to prepare for the World Cup.",
+          "why_it_matters": "Insight into India's priorities.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1561177.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793696190
+        },
+        {
+          "title": "West Indies eye series win in Dhaka Test",
+          "summary": "West Indies lead after winning the first Test by eight wickets, and Mushfiqur Rahim is expected back for Bangladesh.",
+          "why_it_matters": "A live international series.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1561367.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793774698
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-04",
+  "generated_at": 1793777392,
+  "items_scanned": 182,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
