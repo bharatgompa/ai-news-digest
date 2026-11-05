@@ -1,0 +1,372 @@
+{
+  "headline": "Trump's party loses Congress in US midterms, lifting Indian markets, while NDA sweeps Andhra local polls and Telangana battles Cyclone Murasu floods.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "NDA sweeps Andhra Pradesh local body polls",
+          "summary": "NDA won the local body elections decisively, with analysts seeing no sign of anti-incumbency. TDP swept the Tirupati, Kadapa, Nellore and Ongole corporations, and YSRCP won just one ward each in Kadapa and Nellore.",
+          "why_it_matters": "A major signal on the state of AP politics, though alliance rifts remain to be sorted out.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/what-ndas-clean-sweep-in-local-body-polls-means-for-andhra-pradesh-politics/article71665693.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793855929
+        },
+        {
+          "title": "Telangana rescuers missing after boats capsize in Peddacheruvu",
+          "summary": "Two inflatable boats carrying 11 personnel capsized in the swollen rivulet while rescuing five stranded fishermen. Eight rescuers have been saved, and the search continues for three others.",
+          "why_it_matters": "A serious Telangana incident from the Cyclone Murasu rains.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-peddacheruvu-rescue-personnel-saved-search-operation-november-5-2026/article71668467.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793848440
+        },
+        {
+          "title": "Cyclone Murasu lashes Bhadradri, Telangana",
+          "summary": "Extremely heavy rains hit Bhadradri Kothagudem, with mandals such as Aswaropet and Dammapeta badly affected. In AP, ZPTC/MPTC elections in Agency mandals were postponed because of the rains.",
+          "why_it_matters": "Direct impact on Telangana and AP, including on the conduct of polls.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/telangana/cyclone-murasu-impact-on-telangana-extremely-heavy-overnight-rain-in-bhadradri-and-khammam/article71664340.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793860913
+        },
+        {
+          "title": "SC refuses to move Tirupati ghee adulteration case out of AP",
+          "summary": "The Supreme Court declined to transfer the case. CBI and ED probes found a ₹250 crore scam involving 68 lakh kg of fake ghee supplied to TTD between 2019 and 2024.",
+          "why_it_matters": "A high-profile AP case will continue in the state.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-transfer-tirupathi-ghee-adulteration-case-out-of-andhra-pradesh/article71668973.ece",
+          "source": "The Hindu - National",
+          "published": 1793863397
+        },
+        {
+          "title": "Centre weighs withdrawing safe harbour for Meta, Google, X",
+          "summary": "Per a report, the Centre is exploring removing safe harbour protection from platforms such as Facebook, Instagram, YouTube and X. Separately, Delhi Police registered an FIR over alleged child abuse material links on Meta platforms.",
+          "why_it_matters": "It could change platform liability rules and affect Indian tech compliance and engineering.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/centre-weighs-withdrawing-safe-harbour-for-meta-google-x-report/",
+          "source": "Inc42",
+          "published": 1793858154
+        },
+        {
+          "title": "Supreme Court bars illegal detention, seeks affidavits",
+          "summary": "The court sought affidavits on Metro curbs and alleged violations of its October 9 order, with lawyers citing the Emergency.",
+          "why_it_matters": "A significant civil liberties matter before the top court.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/sc-mandates-free-movement-no-illegal-detentions-subject-to-public-order/article71571202.ece",
+          "source": "The Hindu - National",
+          "published": 1793863955
+        },
+        {
+          "title": "Cabinet clears ₹2,814 cr lithium and nickel processing scheme",
+          "summary": "The Union Cabinet approved a scheme to set up processing capacity for critical minerals. The aim is to cut import dependence.",
+          "why_it_matters": "Industrial policy for EV and battery supply chains.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/cabinet-clears-%e2%82%b92814-cr-scheme-to-boost-lithium-nickel-processing/",
+          "source": "Inc42",
+          "published": 1793822537
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Democrats take Congress; Trump blames Iran war fallout",
+          "summary": "Democrats can now pass legislation, but Trump retains his veto. Vance bluntly blamed the Iran war for the defeat, Trump acknowledged the conflict's role, and Iran's chief negotiator said Americans voted 'no to war'.",
+          "why_it_matters": "It reshapes US policy on Iran, Ukraine, trade and tech, with global ripple effects.",
+          "importance": 5,
+          "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793815287
+        },
+        {
+          "title": "Ukraine says Russian double-tap strike killed at least 40",
+          "summary": "Kyiv says at least 40 people died in Monday's attack on a village and 30 may still be under rubble. Zelenskyy hopes the new Democratic Congress will bring more US help.",
+          "why_it_matters": "The war continues, and US politics may shift support.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793832523
+        },
+        {
+          "title": "South Korea eyes wider anti-piracy patrols near Hormuz",
+          "summary": "Seoul proposes extending its Cheonghae unit's patrols toward waters near Oman's Duqm amid US pressure over the Iran war.",
+          "why_it_matters": "It shows the Gulf conflict pulling in more countries, with consequences for oil and shipping.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793864687
+        },
+        {
+          "title": "Joshua Wong jailed for 10 years in Hong Kong",
+          "summary": "The 30-year-old pro-democracy activist is among hundreds detained under the national security law.",
+          "why_it_matters": "A landmark moment for Hong Kong's civil liberties.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793860525
+        },
+        {
+          "title": "Paraguay's Ueno Bank shut over solvency crisis",
+          "summary": "The bank was closed overnight, and protests have erupted as depositors face losses.",
+          "why_it_matters": "A bank failure with a large share of the population's savings affected.",
+          "importance": 2,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793851905
+        },
+        {
+          "title": "Israel's president begins consultations after election deadlock",
+          "summary": "Herzog warned parties that not every promise can be kept if they want to avoid another election.",
+          "why_it_matters": "Political instability in Israel during a regional war.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793809101
+        },
+        {
+          "title": "Typhoons batter East Asia as El Niño heats Pacific",
+          "summary": "Countries used to typhoons have seen unusually wild weather in recent months.",
+          "why_it_matters": "Climate-linked disasters continue to escalate.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793833967
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Indian financials lead rally after US midterms",
+          "summary": "Nifty Financial Services rose nearly 3% and Bank Nifty 2.2% as foreign investors returned and crude fell. Bond yields eased in India and overseas, and the rupee opened at a two-week high.",
+          "why_it_matters": "Explains the market move and the macro tailwinds, though analysts warn the rupee may weaken later.",
+          "importance": 5,
+          "url": "https://www.livemint.com/market/stock-market-news/us-midterm-election-results-lift-banking-financial-stocks-sbi-cards-bajaj-finance-axis-icici-bank-surge-up-to-6-11793856386492.html",
+          "source": "LiveMint Markets",
+          "published": 1793857915
+        },
+        {
+          "title": "Weakest Samvat in 15 years as Samvat 2083 begins",
+          "summary": "Sensex and Nifty fell nearly 8% in the Samvat year. Analysts cite earnings growth and better valuations as supports but warn of persistent global uncertainty.",
+          "why_it_matters": "Useful context for a long-term index investor.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/worst-samvat-in-15-years-sensex-nifty-crash-up-to-8-can-investors-expect-a-bull-run-in-samvat-2083-what-experts-say-11793860986454.html",
+          "source": "LiveMint Markets",
+          "published": 1793863807
+        },
+        {
+          "title": "Gold up 14-15% since last Dhanteras",
+          "summary": "Gold rose over 1% on Thursday ahead of Dhanteras on November 6. Prices have risen nearly 14-15% in a year.",
+          "why_it_matters": "Context for gold as an asset and for festive buying.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/dhanteras-2026-bought-gold-last-year-see-how-much-your-10-gram-investment-is-worth-today-despite-recent-dips-11793856543601.html",
+          "source": "LiveMint Money",
+          "published": 1793860016
+        },
+        {
+          "title": "GPF balance may not go to nominee, says Centre",
+          "summary": "The Centre's October 29 clarification explains Rule 33 on who gets a deceased employee's GPF balance.",
+          "why_it_matters": "A relevant rule for provident fund and family finances.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/nominee-may-not-get-the-gpf-money-what-govt-rules-say-on-a-deceased-employee-s-balance-11793849207654.html",
+          "source": "LiveMint Money",
+          "published": 1793854726
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Sitaram Denims files IPO papers with Sebi",
+          "summary": "The IPO combines a fresh issue and an offer for sale by promoters. Proceeds will go to debt repayment, working capital and a new garment facility in Bhilwara.",
+          "why_it_matters": "A pipeline filing, with no dates or price band yet.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sitaram-denims-india-files-ipo-papers-with-sebi/articleshow/135563144.cms",
+          "source": "ET Markets",
+          "published": 1793862120
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Data centers lost the midterms",
+          "summary": "Voters backed candidates favouring data center moratoriums and ballot measures, and 76% of Election Day voters polled by NBC held a view the item truncates. Texas, the fastest-growing US data center market, flipped to Democrats.",
+          "why_it_matters": "It threatens the AI infrastructure buildout that underpins AI job growth.",
+          "importance": 4,
+          "url": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+          "source": "The Verge AI",
+          "published": 1793808339
+        },
+        {
+          "title": "OpenAI acquires Pierre to expand Codex",
+          "summary": "OpenAI is buying Pierre Computer Company, developer of open-source coding tools, to strengthen Codex in building and reviewing software. Meta also acquired Conductor, a startup for deploying teams of coding agents.",
+          "why_it_matters": "Big labs are consolidating AI coding-agent tooling.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-to-acquire-developer-tools-firm-pierre-to-expand-codex-capabilities/articleshow/135556193.cms",
+          "source": "ET Tech",
+          "published": 1793845655
+        },
+        {
+          "title": "OpenAI is ready to IPO in 2027, Brockman says",
+          "summary": "Greg Brockman said most revenue now comes from enterprise sales.",
+          "why_it_matters": "The enterprise-heavy mix is where Forward Deployed Engineer demand sits.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-ready-to-ipo-in-2027-now-counts-majority-of-sales-from-enterprises-greg-brockman-says/articleshow/135556244.cms",
+          "source": "ET Tech",
+          "published": 1793845806
+        },
+        {
+          "title": "Kimi K3.1 Pro weights released",
+          "summary": "Moonshot AI published the model weights on Hugging Face. A separate open-weight model, Ripple-65B, is pitched as US state of the art for agentic coding.",
+          "why_it_matters": "Open models keep pushing capability for self-hosted agent work.",
+          "importance": 3,
+          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793806230
+        },
+        {
+          "title": "Uber: only four rides booked via AI agents last quarter",
+          "summary": "Third-party AI agents arranged four rides in Q3, and about 500 Uber Eats orders.",
+          "why_it_matters": "A reality check on agentic commerce adoption.",
+          "importance": 3,
+          "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+          "source": "The Verge AI",
+          "published": 1793807925
+        },
+        {
+          "title": "Apple cuts employee AI usage budgets",
+          "summary": "Bloomberg reports Apple reduced budgets for internal AI use, including for engineering teams, as part of cost control.",
+          "why_it_matters": "A signal on AI tooling costs inside big tech.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/apple-cuts-employee-ai-budgets-in-cost-control-push/articleshow/135556165.cms",
+          "source": "ET Tech",
+          "published": 1793845553
+        },
+        {
+          "title": "Google defaults AI off for schoolchildren after backlash",
+          "summary": "Google will switch off AI tools for students by default after criticism of pushing features onto schools.",
+          "why_it_matters": "Shows rising regulatory and political pressure on AI deployment.",
+          "importance": 2,
+          "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+          "source": "TechCrunch AI",
+          "published": 1793809042
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Inkitt builds one-shot PR creator with resumable agent orchestration",
+          "summary": "The event-driven orchestrator persists workflow state, runs short-lived agent containers, bounds retries and enforces permissions. Human review remains before merge.",
+          "why_it_matters": "A practical design pattern for production agent systems.",
+          "importance": 4,
+          "url": "https://www.infoq.com/news/2026/11/inkitt-one-shot-pr-creator-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793802960
+        },
+        {
+          "title": "Docker urges isolation and governance for AI agent security",
+          "summary": "Docker's guide lists five risks when agents browse, run code and call tools, arguing conventional app security is insufficient.",
+          "why_it_matters": "Relevant to building secure agent systems.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/docker-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793782800
+        },
+        {
+          "title": "Go gets a new JSON API",
+          "summary": "The Go team published a post on a new JSON API (jsonv2).",
+          "why_it_matters": "A notable standard library change for backend work.",
+          "importance": 3,
+          "url": "https://go.dev/blog/jsonv2",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793814731
+        },
+        {
+          "title": "Binance hackers planned heist for months",
+          "summary": "Techniques included laptop infections, compromised internal tooling and fake job interviews.",
+          "why_it_matters": "A useful case study in social engineering and supply-chain attacks, especially for fintech.",
+          "importance": 3,
+          "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
+          "source": "Ars Technica",
+          "published": 1793808363
+        },
+        {
+          "title": "I4C warns banks and fintechs of AI-led cyberattacks",
+          "summary": "India's cyber crime centre cautioned banks, NBFCs and fintech startups about growing AI-driven attacks.",
+          "why_it_matters": "Directly relevant to fintech engineering.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/cybersecurity-agency-i4c-warns-banks-fintechs-against-ai-led-cyberattacks/",
+          "source": "Inc42",
+          "published": 1793818786
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "PhysicsWallah Q2 profit more than doubles",
+          "summary": "Net profit rose to ₹143.63 crore and revenue grew 18% to ₹1,242.26 crore, with shares up 10%. Other results: Shiprocket turned profitable and Amagi's profit rose nearly 30x.",
+          "why_it_matters": "Indian tech companies are turning profitable post-IPO.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/physicswallah-shares-jump-10-after-q2-profit-more-than-doubles-buy-sell-or-hold-what-brokerages-say-11793853896099.html",
+          "source": "LiveMint Markets",
+          "published": 1793855829
+        },
+        {
+          "title": "Google to invest $15 bn in Malaysia data centres",
+          "summary": "The investment runs over 2027-2028 and expands on a $2 billion plan from 2024.",
+          "why_it_matters": "Shows continuing AI infrastructure capex despite political pushback.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/technology/google-unveils-15-billion-data-centre-investment-in-malaysia/articleshow/135559941.cms",
+          "source": "ET Tech",
+          "published": 1793855579
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "Kohli and quicks give India 1-0 lead in Auckland",
+          "summary": "India's seamers were relentless against New Zealand, backed by excellent fielding and captaincy.",
+          "why_it_matters": "The Indian team's result in the current series.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1561390.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793811671
+        },
+        {
+          "title": "Afghanistan face Zimbabwe in Test with WTC spot on horizon",
+          "summary": "Antum Naqvi is set to debut for Zimbabwe, who are led by Brian Bennett in Ngarava's absence.",
+          "why_it_matters": "A WTC-relevant Test.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1561389.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793846305
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-05",
+  "generated_at": 1793865311,
+  "items_scanned": 184,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
