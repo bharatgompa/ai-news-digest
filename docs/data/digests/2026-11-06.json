@@ -1,0 +1,462 @@
+{
+  "headline": "Democratic midterm wins trigger a global AI and chip sell-off while Indian equities extend a seven-session rally; OpenAI ships GPT-6 Cyber.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "AP High Court to hear PIL on corruption cases involving CM Naidu on Nov 10",
+          "summary": "The PIL seeks transfer of cases involving Chandrababu Naidu to the CBI. The counsel argued that complainants are government officials who have not challenged the closure reports.",
+          "why_it_matters": "A major Andhra Pradesh political and legal development.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/hc-to-hear-pil-on-corruption-cases-involving-andhra-cm-chandrababu-naidu-on-nov-10/article71671115.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793903859
+        },
+        {
+          "title": "Telangana: Kaleshwaram barrage restoration to begin in December",
+          "summary": "The CM directed officials to start restoration works in December, with final approvals due by month-end. Estimated cost is ₹4,193 crore.",
+          "why_it_matters": "Big Telangana infrastructure and public-finance decision.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/telangana/cm-directs-officials-to-begin-kaleshwaram-barrage-restoration-works-in-december/article71670959.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793905327
+        },
+        {
+          "title": "India flags Chinese-linked AI tools in hacking campaign against financial firms",
+          "summary": "India's cybersecurity agency named the group behind AI-driven attacks on financial firms and identified its tools, at least two linked to China.",
+          "why_it_matters": "Directly relevant to fintech security.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/india-flags-chinese-linked-ai-tools-in-hacking-campaign-against-financial-firms/articleshow/135566096.cms",
+          "source": "ET Tech",
+          "published": 1793868200
+        },
+        {
+          "title": "AP ZPTC/MPTC local polls pass peacefully amid cyclone rain",
+          "summary": "Turnout was 82.51% in Visakhapatnam and a provisional 59.98% in ASR district. Kakinada farmers voted late after saving crops from cyclone damage, and boats ferried voters in Konaseema. Polling was peaceful in 44 Naxal-hit areas.",
+          "why_it_matters": "Grassroots electoral test in Andhra Pradesh.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/zptc-mptc-polls-peaceful-in-asr-visakhapatnam-turnout-8251-in-visakhapatnam-provisional-5998-in-asr/article71671173.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793904557
+        },
+        {
+          "title": "Telangana to launch family insurance scheme on Nov 19",
+          "summary": "The state government will launch the scheme on November 19. Deepavali celebrations are planned in 2.25 lakh Indiramma houses.",
+          "why_it_matters": "New welfare scheme in your home state.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/telangana-government-to-launch-family-insurance-scheme-on-november-19/article71671295.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1793901623
+        },
+        {
+          "title": "Bodies of five Tamil Nadu fishermen found near Kothapatnam, AP",
+          "summary": "Their boat sank 2 km off the shore. The Coast Guard is searching for four others still missing.",
+          "why_it_matters": "Cyclone-season tragedy on the Andhra coast.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/bodies-of-four-fishermen-from-tn-found-near-kothapatnam-beach-in-ap/article71670219.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793905839
+        },
+        {
+          "title": "AP steps up Ebola surveillance at airports and ports",
+          "summary": "Medical teams are stationed at three airports and three ports to screen passengers arriving from Ebola-affected countries.",
+          "why_it_matters": "Public-health precaution in Andhra Pradesh.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/amid-rising-concerns-over-ebola-ap-steps-up-surveillance-at-airports/article71670600.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1793942016
+        },
+        {
+          "title": "SC settles Himachal power dispute: 11,973 MU from Punjab and Haryana over 20 years",
+          "summary": "The Supreme Court ruled that Punjab and Haryana will supply Himachal Pradesh with 11,973 million units of electricity over 20 years, settling a decades-old dispute.",
+          "why_it_matters": "A significant inter-state resolution by the Supreme Court.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/himachal-to-get-11973-mu-electricity-from-punjab-haryana-as-sc-settles-decades-old-energy-dispute/article71673278.ece",
+          "source": "The Hindu - National",
+          "published": 1793950450
+        },
+        {
+          "title": "Bombay HC: SIR Form 8 must be decided, deletion without hearing denies vote",
+          "summary": "The court ordered the Election Commission to restore six names and set aside the rejection of their Form 8 applications.",
+          "why_it_matters": "Sets a precedent on voter-roll revisions.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/form-8-must-be-decided-during-sir-deletion-without-hearing-denies-vote-bombay-hc/article71673138.ece",
+          "source": "The Hindu - National",
+          "published": 1793950908
+        },
+        {
+          "title": "First India-Sri Lanka ODI moved from Delhi to Visakhapatnam",
+          "summary": "The match was shifted after a DDCA request, citing potential weather disruption and proposed stadium renovation work.",
+          "why_it_matters": "An India international comes to Andhra Pradesh.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1561575.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793887268
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Democrats win House and Senate; AI and data centres a theme",
+          "summary": "Democrats took control of both chambers in the US midterms. Results are being read as a repudiation of tech industry data-centre plans.",
+          "why_it_matters": "Shifts US policy on tech, trade and energy.",
+          "importance": 5,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+          "source": "The Verge AI",
+          "published": 1793901112
+        },
+        {
+          "title": "Iran exempts India, China, Qatar, Iraq from Hormuz restrictions",
+          "summary": "Tehran says ships from four countries can cross Hormuz freely, though analysts say the deals carry political risks.",
+          "why_it_matters": "Affects India's oil supply and the rupee.",
+          "importance": 4,
+          "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793945184
+        },
+        {
+          "title": "White House denies Hegseth and Rubio are leaving after election losses",
+          "summary": "There are calls to replace Pete Hegseth, who also faces a possible impeachment vote. Rubio is rumoured to be eyeing a presidential run.",
+          "why_it_matters": "Signals instability in the US cabinet.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793930937
+        },
+        {
+          "title": "Israel: Herzog to name candidate to form government on Sunday",
+          "summary": "A majority of Israeli lawmakers endorsed Eisenkot over Netanyahu.",
+          "why_it_matters": "Potential change in Israeli leadership.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793948982
+        },
+        {
+          "title": "Lebanese brace for possible new Israeli escalation",
+          "summary": "Lebanese who lived through two Israeli escalations are stocking up and packing bags.",
+          "why_it_matters": "Signals rising regional tension.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1793950204
+        },
+        {
+          "title": "Paraguay President Peña resigns after bank collapse",
+          "summary": "The resignation follows a bank collapse and a lower-house vote to pursue an impeachment trial.",
+          "why_it_matters": "Major political shock in Latin America.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793900440
+        },
+        {
+          "title": "French cost-of-living protests surge as unions join strikes",
+          "summary": "The interior ministry estimates 600,000 people protested across France; unions say the number was far higher.",
+          "why_it_matters": "Signals cost-of-living unrest in a major economy.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793901593
+        },
+        {
+          "title": "Melania Trump hosts Russian and Ukrainian officials, credited in ceasefire",
+          "summary": "All sides credited the US first lady with a key but unspecified role in the Ukraine truce.",
+          "why_it_matters": "Ukraine truce developments.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793905688
+        },
+        {
+          "title": "California governor commutes sentences of all 548 death row inmates",
+          "summary": "California historically had the largest death row population in the US.",
+          "why_it_matters": "Landmark criminal-justice action.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1793920173
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Sensex, Nifty extend rally to seven sessions, ~9% gain",
+          "summary": "Indian equities rose on better sentiment after the US midterms, falling crude and renewed foreign buying, outweighing the global tech sell-off. Sensex rose 0.9% and Nifty 0.7% on Friday.",
+          "why_it_matters": "Key market backdrop for SIP investors.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/us-midterm-results-impact-rs-4-lk-cr-added-sensex-soars-2700-pts-nifty-up-3-in-2-days-strategy-and-stocks-to-buy-11793941921903.html",
+          "source": "LiveMint Markets",
+          "published": 1793944124
+        },
+        {
+          "title": "AI and semiconductor sell-off hits global markets after midterms",
+          "summary": "Asian and Western tech stocks fell sharply as the Democratic sweep fueled fears of curbs on AI.",
+          "why_it_matters": "Global risk-off driver in tech.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/how-us-midterm-election-results-ai-sell-off-impacted-us-stock-market-nikkei-225-kospi-taiwan-and-china-data-details-11793943446082.html",
+          "source": "LiveMint Markets",
+          "published": 1793949356
+        },
+        {
+          "title": "Indian bonds top Asian performers as oil and Treasury yields fall",
+          "summary": "The benchmark yield fell about 22 bps this week, and foreign inflows hit a high since July.",
+          "why_it_matters": "Easing yields and oil support rupee and rates outlook.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-emerge-as-top-asian-performers-as-oil-treasury-yields-decline/articleshow/135597789.cms",
+          "source": "ET Markets",
+          "published": 1793948591
+        },
+        {
+          "title": "Rupee slips 9 paise to 94.50 vs dollar",
+          "summary": "The rupee weakened on a firm dollar and higher crude in early trade.",
+          "why_it_matters": "Currency pressure affects inflation and imports.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-9-paise-to-94-50-against-us-dollar-in-early-trade/articleshow/135597848.cms",
+          "source": "ET Markets",
+          "published": 1793948665
+        },
+        {
+          "title": "Micron falls 17% as AI chip selloff deepens",
+          "summary": "Concerns over AI infrastructure spending and a reported pause in Taiwan facility construction drove the drop.",
+          "why_it_matters": "Gauge of AI-hardware sentiment.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/micron-stock-tanks-17-as-ai-chip-selloff-deepens-whats-next/slideshow/135595811.cms",
+          "source": "ET Markets",
+          "published": 1793943879
+        },
+        {
+          "title": "Diwali Muhurat Trading on Nov 8, start of Samvat 2083",
+          "summary": "The main equity session runs 2:20 pm to 3:30 pm on Sunday.",
+          "why_it_matters": "Key market calendar date.",
+          "importance": 2,
+          "url": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-samvat-2083-date-timings-history-settlement-rules-more-top-10-things-for-investors-11793949250215.html",
+          "source": "LiveMint Markets",
+          "published": 1793950351
+        },
+        {
+          "title": "Titan Q2 profit more than doubles to ₹2,393 crore",
+          "summary": "Revenue grew 23.54% to ₹20,337 crore on studded jewellery demand, and shares rose over 3%.",
+          "why_it_matters": "Bellwether consumer result.",
+          "importance": 2,
+          "url": "https://www.livemint.com/market/stock-market-news/titan-shines-3-on-dhanteras-2026-after-2x-profit-noel-tatas-exit-news-from-board-adds-to-spotlight-outlook-target-11793949103558.html",
+          "source": "LiveMint Markets",
+          "published": 1793951627
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Maxwell Engineering lists at 90% premium; other SME issues debut",
+          "summary": "Maxwell Engineering, HGS (India), Vectras Enprocon and Johnsoncab Electricals raised about ₹201 crore combined. Maxwell and HGS surged, while Vectras was lackluster.",
+          "why_it_matters": "Latest listing performance data.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/maxwell-engineering-shares-list-at-90-premium-heres-how-hgs-other-2-sme-issues-debuted/articleshow/135594255.cms",
+          "source": "ET Markets",
+          "published": 1793941431
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "OpenAI launches GPT-6 Cyber, rated 'Critical' for cybersecurity",
+          "summary": "The model finds and fixes exploitable vulnerabilities and is limited to vetted customers. OpenAI says it went out of bounds less than 1% of the time in testing.",
+          "why_it_matters": "Major model launch with agentic security use.",
+          "importance": 5,
+          "url": "https://openai.com/index/introducing-gpt-6-cyber",
+          "source": "OpenAI News",
+          "published": 1793869200
+        },
+        {
+          "title": "Anthropic may cut IPO valuation from $1.5T target",
+          "summary": "The WSJ reports investors balk after the tech sell-off, with one saying valuation could land near $1 trillion.",
+          "why_it_matters": "Indicates AI funding sentiment.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-may-need-to-cut-ipo-ambitions-as-investors-balk-report/articleshow/135590866.cms",
+          "source": "ET Tech",
+          "published": 1793932480
+        },
+        {
+          "title": "OpenAI's Brockman says IPO-ready in 2027",
+          "summary": "He said OpenAI is gaining in enterprise markets where Anthropic had already made inroads.",
+          "why_it_matters": "Shows AI-lab competition.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+          "source": "TechCrunch AI",
+          "published": 1793901747
+        },
+        {
+          "title": "OpenAI drops NDAs for data centre projects after midterm backlash",
+          "summary": "OpenAI committed to not using NDAs with public officials. Meta also warned that political opposition could slow AI expansion.",
+          "why_it_matters": "Political pressure on AI infrastructure.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+          "source": "The Verge AI",
+          "published": 1793925476
+        },
+        {
+          "title": "Perplexity launches always-on 'Teammates' agents",
+          "summary": "The agents take multiple roles in a workspace and pull in projects, skills and memory from Perplexity tools.",
+          "why_it_matters": "Agent products are competing.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+          "source": "The Verge AI",
+          "published": 1793917610
+        },
+        {
+          "title": "Claude gets Personal Finance tool via Plaid",
+          "summary": "Users can connect bank and card accounts and ask about their spending.",
+          "why_it_matters": "Fintech meets LLM agents.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+          "source": "The Verge AI",
+          "published": 1793901600
+        },
+        {
+          "title": "Cashfree launches 'Checkout for Agents'",
+          "summary": "The tool lets AI agents process customer payments.",
+          "why_it_matters": "Agentic payments in Indian fintech.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/cashfree-launches-checkout-for-agents-to-enable-ai-led-payments/",
+          "source": "Inc42",
+          "published": 1793944855
+        },
+        {
+          "title": "Palo Alto in talks to buy AI agent security startup Clutch for ~$500M",
+          "summary": "Clutch was last valued at $85 million.",
+          "why_it_matters": "Agent security is a hot area.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+          "source": "TechCrunch AI",
+          "published": 1793946512
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Claude Code sends your email address to websites, GitHub issue says",
+          "summary": "The issue drew 968 points and 315 comments on Hacker News.",
+          "why_it_matters": "Privacy concern in a tool developers use.",
+          "importance": 3,
+          "url": "https://github.com/anthropics/claude-code/issues/107757",
+          "source": "Hacker News (150+ pts)",
+          "published": 1793917035
+        },
+        {
+          "title": "'*sshole' vulnerability allows SSH access to Linux devices",
+          "summary": "Certain Alpine configurations are affected; other distros may be too.",
+          "why_it_matters": "Infrastructure security issue.",
+          "importance": 3,
+          "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+          "source": "Ars Technica",
+          "published": 1793920176
+        },
+        {
+          "title": "Google Cloud API Gateway adds streaming support in preview",
+          "summary": "It targets real-time apps, streaming model responses and multi-step agent workflows.",
+          "why_it_matters": "Relevant to GCP backend work.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793894400
+        },
+        {
+          "title": "Zero Trust agent systems: moving defenses to the tool layer",
+          "summary": "Talk covers scoped workload identities, prompt-injection mitigation and kill switches.",
+          "why_it_matters": "Practical guidance for production agents.",
+          "importance": 2,
+          "url": "https://www.infoq.com/presentations/zero-trust-ai-agents-production-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1793876400
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "GCCs ramp up hiring for AI, data, cybersecurity; talent shortage persists",
+          "summary": "A Quess Corp report says GCCs are directing more tech recruitment to specialists who can deploy AI, manage data and secure systems.",
+          "why_it_matters": "Signals demand for your target skills.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/information-tech/gccs-ramp-up-hiring-for-ai-data-cybersecurity-professionals-face-talent-shortage-report/articleshow/135575072.cms",
+          "source": "ET Tech",
+          "published": 1793884336
+        },
+        {
+          "title": "SoftBank credit risk hits 4-year high on AI fears",
+          "summary": "The cost of insuring SoftBank against default rose to its highest in four years.",
+          "why_it_matters": "Shows stress in AI financing.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/softbank-credit-risk-jumps-to-4-year-high-as-ai-fears-roil-market/articleshow/135592268.cms",
+          "source": "ET Tech",
+          "published": 1793936276
+        },
+        {
+          "title": "Moneyview Q2 profit up 5x to ₹201 crore",
+          "summary": "Revenue rose 41%.",
+          "why_it_matters": "Indian fintech profitability.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/moneyview-q2-profit-jumps-5x-yoy-to-%e2%82%b9201-cr-revenue-up-41/",
+          "source": "Inc42",
+          "published": 1793880595
+        },
+        {
+          "title": "Shiprocket posts first profit",
+          "summary": "It earned ₹60 lakh versus a ₹20.29 crore loss a year earlier.",
+          "why_it_matters": "Indian startup profitability milestone.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/technology/shiprocket-posts-maiden-profit-on-strong-core-business-growth/articleshow/135570333.cms",
+          "source": "ET Tech",
+          "published": 1793876316
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "Conway out of ODI series vs India; second ODI in Wellington",
+          "summary": "Kelly is called in, and rain threatens the match as NZ trail 1-0.",
+          "why_it_matters": "India series update.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1561595.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793928760
+        },
+        {
+          "title": "Hasan Mahmud takes six as West Indies fold for 356 in Sylhet",
+          "summary": "West Indies slipped from 264 for 4 on the second afternoon of the second Test.",
+          "why_it_matters": "Test series update.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1561628.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1793949504
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-06",
+  "generated_at": 1793951729,
+  "items_scanned": 189,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
