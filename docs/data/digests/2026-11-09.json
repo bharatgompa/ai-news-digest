@@ -1,0 +1,325 @@
+{
+  "headline": "Nvidia's board probes CEO Jensen Huang over a suspected Chinese spy, NDA sweeps Andhra Pradesh rural polls, and Delhi and Hyderabad choke on post-Diwali smog.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "NDA sweeps Andhra Pradesh rural local body polls",
+          "summary": "The NDA won 499 ZPTC and 5,861 MPTC seats, a heavy defeat for YSRCP. The State Election Commission has scheduled Gram Panchayat polls in three phases on Nov 26, Nov 29 and Dec 2, with notifications on Nov 13, 16 and 19.",
+          "why_it_matters": "It shows where Andhra Pradesh's political balance stands, and Gram Panchayat polls follow within weeks.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/nda-seals-ysrcps-fate-in-rural-local-body-polls-by-winning-499-zptc-and-5861-mptc-seats/article71681314.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794193051
+        },
+        {
+          "title": "Hyderabad AQI stays hazardous after Deepavali",
+          "summary": "Hyderabad's air quality deteriorated overnight, with PM2.5 reaching 392 µg/m³ at 9:30 pm and the AQI averaging 509. Separate reports describe fires at firecracker shops and godowns, and many eye injuries, nearly half of them in children.",
+          "why_it_matters": "It directly affects health and daily life in your home region.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/telangana/air-of-deepavali-celebrations-lingers-in-hyderabad-with-aqi-remaining-at-hazardous-levels/article71681358.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794205094
+        },
+        {
+          "title": "Delhi air quality row: AAP alleges data fraud, BJP blames Punjab stubble",
+          "summary": "AAP alleged data fraud after air quality data went missing at several Delhi monitoring stations. The BJP hit back, pointing to a Punjab stubble 'conspiracy'. Punjab recorded 1,152 farm fires in a day, its biggest single-day jump this season.",
+          "why_it_matters": "It is a recurring pollution and governance fight, and it is happening alongside severe smog in the capital.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-pollution-aap-slams-delhi-govt-for-alleged-air-quality-data-manipulation/article71681459.ece",
+          "source": "The Hindu - National",
+          "published": 1794210411
+        },
+        {
+          "title": "Revanth sets target of one crore women millionaires by 2034",
+          "summary": "Telangana CM Revanth Reddy promised greater economic opportunities for SHG members and called women's empowerment central to his government's policies. Separately, he marked Deepavali with an Indiramma house beneficiary; 2.21 lakh houses are complete under the scheme.",
+          "why_it_matters": "It signals Telangana's welfare priorities and the progress of its housing scheme.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/revanth-sets-target-of-making-one-crore-women-millionaires-by-2034/article71680974.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794143354
+        },
+        {
+          "title": "Andhra Pradesh plans overhaul of postgraduate education across 28 universities",
+          "summary": "The proposed reforms aim to move beyond exam-oriented degrees towards interdisciplinary learning, industry exposure, research and emerging technologies.",
+          "why_it_matters": "It could change how graduates in Andhra Pradesh are trained for tech and industry jobs.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-plans-major-overhaul-of-postgraduate-education-across-28-universities/article71681649.ece",
+          "source": "The Hindu - National",
+          "published": 1794210264
+        },
+        {
+          "title": "Andhra Pradesh's monsoon: two cyclones, about ₹6,500 cr damage",
+          "summary": "Andhra Pradesh swung from drought to deluge, with two back-to-back cyclones causing an estimated ₹6,500 crore in damage and at least 17 deaths. Farmers in the Godavari belt face at least two years of recovery.",
+          "why_it_matters": "It sums up the season's heavy toll on the state's agriculture.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/photos/news-in-frames-many-twists-in-the-monsoons-tale/article71680539.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794119604
+        },
+        {
+          "title": "Revised MRPs for 1,364 anti-cancer formulations take effect",
+          "summary": "85 companies have reported revised MRPs for 1,364 formulations across 121 drugs. The Ministry says consumers will save ₹3,540 crore a year.",
+          "why_it_matters": "It is a significant cut in the cost of cancer drugs.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/sci-tech/health/revised-mrps-of-1364-anti-cancer-formulations-come-into-effect-consumers-to-save-3540-croreyear/article71681795.ece",
+          "source": "The Hindu - National",
+          "published": 1794210275
+        },
+        {
+          "title": "Fourth police 'encounter' in West Bengal since BJP took power",
+          "summary": "A man accused of raping and murdering his 13-year-old niece was killed in an exchange of fire in Raiganj. CM Suvendu defended the police's right to retaliate in self-defence.",
+          "why_it_matters": "It raises rule-of-law questions about a pattern of killings by police.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/west-bengal/rape-murder-accused-killed-in-police-encounter-raiganj-west-bengal/article71681373.ece",
+          "source": "The Hindu - National",
+          "published": 1794210681
+        },
+        {
+          "title": "Three killed in mini truck crash on Hyderabad ORR",
+          "summary": "A mini truck rammed a stationary tipper on Hyderabad's Outer Ring Road, killing three people. The occupants were returning from a tree-planting programme in the Shamshabad-Muchintal area.",
+          "why_it_matters": "A fatal road accident on a major Hyderabad corridor.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/telangana/three-killed-as-mini-truck-rams-stationary-tipper-on-hyderabads-orr/article71681718.ece",
+          "source": "The Hindu - National",
+          "published": 1794210363
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Houthis hit Aramco Tower in Riyadh",
+          "summary": "BBC Verify authenticated footage showing damage to the Aramco Tower in Riyadh's central financial district as the Houthis launched fresh strikes.",
+          "why_it_matters": "It is an escalation that touches Gulf energy and markets, against the backdrop of the US-Israeli war on Iran.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794173856
+        },
+        {
+          "title": "Seafarers caught in the US-Israeli war on Iran",
+          "summary": "The International Maritime Organization has recorded at least 25 seafarer deaths since the conflict began on Feb 28.",
+          "why_it_matters": "It shows the war's ongoing toll on shipping, which feeds into oil prices and trade.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1794208046
+        },
+        {
+          "title": "Krakow shooting suspect dies in hospital",
+          "summary": "At least six people were killed in the shooting in central Krakow, and the bodies of three of the suspect's family members were found at his home. The suspect was shot by police and died in hospital.",
+          "why_it_matters": "It is a rare mass shooting in a European city centre.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794209169
+        },
+        {
+          "title": "Train collision near Giza kills seven",
+          "summary": "Two trains travelling in the same direction collided outside Giza, killing seven and injuring more than 100. Several carriages derailed.",
+          "why_it_matters": "It is a major rail disaster.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794167882
+        },
+        {
+          "title": "Hasina seeks passport, plans December return to Bangladesh",
+          "summary": "Ousted PM Sheikh Hasina, who has lived in India for two years, has promised to return to Bangladesh in December.",
+          "why_it_matters": "It affects India-Bangladesh relations and Bangladeshi politics.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1794208329
+        },
+        {
+          "title": "Iran executes three men over January protests",
+          "summary": "Iran executed three men for 'armed unrest' linked to anti-government protests earlier this year.",
+          "why_it_matters": "It is a sign of continued repression in Iran during wartime.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794145070
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Global markets: key themes for the week",
+          "summary": "Investors are weighing an AI-led tech selloff, US inflation data, oil prices and geopolitical risks. China's data, European growth indicators and the COP31 climate summit will also shape sentiment.",
+          "why_it_matters": "It frames the week for your index funds.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-5-key-themes-to-watch-this-week/slideshow/135673587.cms",
+          "source": "ET Markets",
+          "published": 1794204858
+        },
+        {
+          "title": "Short-dated Indian bonds may underperform on rate hikes",
+          "summary": "The piece says recent rate hikes and tight liquidity are reshaping the bond market, with the RBI expected to raise rates significantly in coming months. Short-term yields are expected to rise, flattening the yield curve.",
+          "why_it_matters": "Expected RBI tightening matters for debt fund returns and loan costs.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze/articleshow/135669996.cms",
+          "source": "ET Markets",
+          "published": 1794196392
+        },
+        {
+          "title": "Indian bonds drift with oil; inflation data in focus",
+          "summary": "Government bonds moved little as oil stabilised, with a ₹290.5 billion auction due. India's October inflation report is due Thursday, and 10-year yields are expected between 7.10% and 7.30%.",
+          "why_it_matters": "Thursday's CPI print is the next big macro data point for rates.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-with-oil-inflation-data-in-focus/articleshow/135674915.cms",
+          "source": "ET Markets",
+          "published": 1794209601
+        },
+        {
+          "title": "What the global AI rout means for India",
+          "summary": "Of 84 leading private AI companies identified by Goldman Sachs in October, only seven focus on models, training or AI integration. India has few model builders, and the rout could make them harder to fund.",
+          "why_it_matters": "It affects AI funding and the Indian AI startup landscape.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/india-ai-trade-global-shares-it-firms-data-centre-11794200311059.html",
+          "source": "LiveMint Markets",
+          "published": 1794204474
+        },
+        {
+          "title": "Citi sees Nifty at 28,000 by end-2027",
+          "summary": "Citi Research cites strong earnings prospects and falling oil prices. Foreign portfolio inflows have also supported sentiment.",
+          "why_it_matters": "It is a brokerage view relevant to long-term equity investors.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/citi-bullish-on-indian-equities-sees-nifty-at-28000-by-end-2027/articleshow/135671094.cms",
+          "source": "ET Markets",
+          "published": 1794199545
+        },
+        {
+          "title": "8th Pay Commission: report expected May-June 2027",
+          "summary": "The commission has completed one year of its 18-month term. If revised pay applies from Jan 1, 2026, a Level 6 employee at ₹44,900 basic could see about ₹5.14 lakh in 12-month arrears at a 2.57 fitment factor.",
+          "why_it_matters": "It sets the timeline for central pay revisions.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-44-900-basic-pay-could-mean-5-14-lakh-in-arrears-at-2-57-fitment-factor-11794187378924.html",
+          "source": "LiveMint Money",
+          "published": 1794190576
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Nvidia investigates CEO Jensen Huang over relationship with suspected Chinese spy",
+          "summary": "Nvidia's board launched an independent investigation into Huang's relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security. Huang sent staff a memo admitting the affair and apologising. The stock fell about 4% in overnight trade, and Yale's Jeffrey Sonnenfeld puts his chances of staying as CEO at roughly 50-50.",
+          "why_it_matters": "It is a governance and security shock at the company that anchors AI hardware, and it hit tech stocks.",
+          "importance": 5,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+          "source": "The Verge AI",
+          "published": 1794169359
+        },
+        {
+          "title": "Goldman Sachs pulling Claude Code from bankers and traders",
+          "summary": "A report that drew 734 points on Hacker News says Goldman Sachs is withdrawing Claude Code from its bankers and traders.",
+          "why_it_matters": "It shows how regulated finance firms are handling AI coding tools, relevant to fintech engineers.",
+          "importance": 3,
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794161767
+        },
+        {
+          "title": "Apple pushes to make Siri more agentic",
+          "summary": "Per Bloomberg's Mark Gurman, CEO John Ternus is pressing Craig Federighi to speed up the Siri roadmap and deliver an AI agent that can compete with OpenAI and Meta offerings.",
+          "why_it_matters": "It shows the agent race spreading to consumer platforms.",
+          "importance": 2,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+          "source": "The Verge AI",
+          "published": 1794165499
+        },
+        {
+          "title": "IT firms with low capital needs may gain as investors focus on AI monetisation",
+          "summary": "An Anand Rathi report says investors are increasingly differentiating between firms funding AI infrastructure and those earning returns from enterprise adoption.",
+          "why_it_matters": "It bears on Indian IT services and the AI-led job market.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/tech/information-tech/it-firms-with-lower-capital-requirements-may-gain-as-investors-shift-focus-to-ai-monetisation-report/articleshow/135669532.cms",
+          "source": "ET Tech",
+          "published": 1794194266
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Cloudflare scales D1 control plane to millions of databases",
+          "summary": "Cloudflare redesigned its D1 serverless SQL control plane to avoid centralised bottlenecks. It uses retries, idempotency and eventual consistency.",
+          "why_it_matters": "It is a useful distributed-systems design write-up.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/cloudflare-d1-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794119640
+        },
+        {
+          "title": "Pinterest replaces journey clustering with a fine-tuned 4B Qwen3 LLM",
+          "summary": "Pinterest moved user-journey inference from a multi-stage clustering pipeline to a fine-tuned 4-billion-parameter model. It reports a 1.1% rise in email click-through and 1.3% higher push opens.",
+          "why_it_matters": "It is a concrete example of a small fine-tuned LLM replacing a classical pipeline in production.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/pinterest-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794209100
+        },
+        {
+          "title": "Outlook.com rejecting email from domains without DMARC",
+          "summary": "A post that drew 370 points on Hacker News reports that Outlook.com is rejecting mail from domains lacking DMARC.",
+          "why_it_matters": "It has practical impact on anyone running mail infrastructure.",
+          "importance": 2,
+          "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794165632
+        },
+        {
+          "title": "Entire launches a Git forge for coding agents",
+          "summary": "Entire argues the pull request model is poorly suited to AI agents that generate, review and iterate on code at high speed.",
+          "why_it_matters": "It points to how developer workflows may change with agents.",
+          "importance": 2,
+          "url": "https://www.infoq.com/news/2026/11/entire-git-forge-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794135600
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "Indian coaching staff to split after the third ODI",
+          "summary": "Batting coach Sitanshu Kotak and bowling coach Morne Morkel will join the Test squad. Gautam Gambhir and Sairaj Bahutule will stay with the ODI side.",
+          "why_it_matters": "It signals preparations for the Test series while the New Zealand ODIs continue.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1561929.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794209126
+        },
+        {
+          "title": "New Zealand's home ODI streak under threat in Hamilton",
+          "summary": "New Zealand have won 11 consecutive home ODI series since losing to India in 2019. Rain could affect the third ODI in Hamilton, and Lockie Ferguson is out of the fourth and fifth ODIs with a calf tear.",
+          "why_it_matters": "It sets up the pivotal stage of India's ODI series.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1561956.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794207575
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-09",
+  "generated_at": 1794211051,
+  "items_scanned": 121,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "ByteByteGo"
+  ]
+}
