@@ -1,0 +1,462 @@
+{
+  "headline": "Nvidia's CEO scandal rattles AI markets while Anthropic eyes a $1.4T IPO, Google ships Gemini 4 Carbon, and Andhra Pradesh readies for the CII summit in Visakhapatnam.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "CII Partnership Summit opens in Visakhapatnam on Nov 12",
+          "summary": "Over 3,800 delegates from 59 countries are expected at the two-day summit, with more than 160 MoUs lined up. Amit Shah will address the inaugural session, and Visakhapatnam is being spruced up for the event.",
+          "why_it_matters": "A major investment event in Andhra Pradesh, your home region, with potential industry and jobs impact.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-partnership-summit-begins-in-visakhapatnam-on-november-12-amit-shah-to-address-inaugural-session/article71688259.ece",
+          "source": "The Hindu - National",
+          "published": 1794381854
+        },
+        {
+          "title": "Andhra Pradesh Cabinet clears investment policies for AI, electronics, renewables",
+          "summary": "The Cabinet cleared policy frameworks to attract investment in AI, electronics and renewable energy. It also cleared a proposed ₹31,387-crore green integrated AI data centre by AM Intelligence at Amanam in Visakhapatnam district.",
+          "why_it_matters": "Large AI data centre and policy push in AP could shape tech jobs in the state.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-cabinet-clears-policy-frameworks-to-attract-investments-in-ai-electronics-renewable-energy/article71686342.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794345591
+        },
+        {
+          "title": "Telangana to host Bharat Summit on Nov 13-14",
+          "summary": "Leaders and policymakers from 70 countries are expected. Congress has invited Kharge, Rahul Gandhi and Priyanka Gandhi, according to Salman Khurshid.",
+          "why_it_matters": "A major international political event in Telangana.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana-to-host-bharat-summit-on-november-13-and-14/article71686906.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794330154
+        },
+        {
+          "title": "Telangana inspects 27 ART centres in illegal oocyte collection probe",
+          "summary": "Notices were issued to seven hospitals. The investigation also covers women, doctors, IVF centres and intermediaries allegedly involved.",
+          "why_it_matters": "Significant healthcare enforcement story in Telangana.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/illegal-oocyte-collection-racket-27-art-centres-inspected-across-telangana-notices-issued-to-seven-hospitals/article71688627.ece",
+          "source": "The Hindu - National",
+          "published": 1794381744
+        },
+        {
+          "title": "Telangana CM directs officials to bolster Supreme Court case on Krishna waters",
+          "summary": "The Chief Minister asked officials to strengthen arguments in the Supreme Court on the Krishna water dispute.",
+          "why_it_matters": "The river-water dispute is a long-running issue between Telugu states.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/cm-directs-officials-to-strengthen-arguments-in-supreme-court-on-krishna-waters/article71687230.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794330270
+        },
+        {
+          "title": "Cyclone-hit Prakasam villages still without power",
+          "summary": "Villagers travel to urban centres to charge phones at ₹10 per charge and struggle to get drinking water and generator fuel.",
+          "why_it_matters": "Ongoing relief shortfall in Andhra Pradesh.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-hit-villages-in-prakasam-district-remain-without-electricity/article71686952.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794330614
+        },
+        {
+          "title": "Hijack threat note found on Kolkata-Mumbai Air India flight",
+          "summary": "Passengers were deboarded and the aircraft was moved to an isolation bay.",
+          "why_it_matters": "A significant aviation security incident.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/hijack-threat-note-found-in-kolkata-mumbai-air-india-flight-aircraft-taken-to-isolation-bay/article71688677.ece",
+          "source": "The Hindu - National",
+          "published": 1794382825
+        },
+        {
+          "title": "Delhi SIR: BJP BLAs' deletion applications concentrated in Mustafabad",
+          "summary": "796 Form 7 applications against Muslims, filed by 20 BJP BLAs, were concentrated on 25 polling booths. BJP says it did not direct the filings.",
+          "why_it_matters": "Raises questions about electoral roll integrity.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/cities/Delhi/delhi-sir-why-bjp-blas-voter-deletion-applications-in-mustafabad-focused-on-three-neighbourhoods/article71685998.ece",
+          "source": "The Hindu - National",
+          "published": 1794381524
+        },
+        {
+          "title": "Low pressure likely over Andaman Sea around Nov 13",
+          "summary": "Squally weather with gusts up to 60 kmph is likely over the Andaman Sea and Southeast Bay of Bengal on Nov 14-15.",
+          "why_it_matters": "Could affect the AP coast weather after the recent cyclone.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-likely-over-andaman-sea-around-november-13/article71686782.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794373720
+        },
+        {
+          "title": "Andhra Pradesh weighs making father's name optional in official documents",
+          "summary": "A state consultation calls for child-friendly policy so children of single parents, divorced couples and orphans are not denied education, ID or welfare.",
+          "why_it_matters": "Possible policy change in your home state.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-weighs-making-fathers-name-optional-in-official-documents/article71685940.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794333048
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Israel's new Knesset sworn in; Eisenkot gets first shot at forming government",
+          "summary": "Gadi Eisenkot, Netanyahu's main rival, has first chance to build a coalition. Bennett heckled caretaker PM Netanyahu at the opening session.",
+          "why_it_matters": "Netanyahu's hold on power is under real threat.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794330196
+        },
+        {
+          "title": "Chinese university bought Nvidia H200 chips despite US ban",
+          "summary": "Records show a Chinese university acquired restricted H200 AI chips. It adds to scrutiny of export controls.",
+          "why_it_matters": "Ties into the Nvidia-China controversy hitting markets.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1794381988
+        },
+        {
+          "title": "US says three Iran-backed suspects plotted attacks including RAF Fairford incident",
+          "summary": "The US Justice Department charged three men over a string of plots including an incident near the UK airbase used by US forces.",
+          "why_it_matters": "Escalation in Iran-linked threats against Western targets.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794358880
+        },
+        {
+          "title": "Russia, Ukraine exchange strikes as Abu Dhabi talks continue",
+          "summary": "Strikes were reported on both sides and Baltic states issued drone alerts while US-mediated talks go on.",
+          "why_it_matters": "The war continues despite diplomacy.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1794371687
+        },
+        {
+          "title": "DR Congo Ebola outbreak passes 11,000 cases, 5,387 deaths",
+          "summary": "Authorities struggle to contain the country's largest outbreak due to delayed detection and conflict.",
+          "why_it_matters": "A major ongoing public health crisis.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1794372258
+        },
+        {
+          "title": "Violence in Bangladesh as Hasina supporters protest",
+          "summary": "Supporters of the ousted PM, who is in exile in India, demand her return.",
+          "why_it_matters": "Affects India-Bangladesh relations.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794338802
+        },
+        {
+          "title": "US House blocks bid to impeach Hegseth for now",
+          "summary": "Democrats can try again next year.",
+          "why_it_matters": "US political signal after the midterms.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794367602
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Nvidia sell-off deepens ahead of Nov 17 earnings",
+          "summary": "Shares fell nearly 10% amid the leadership controversy, tech sell-offs and price-target cuts. Shareholders have sued Huang and the company, with about $420bn lost in two days.",
+          "why_it_matters": "A bellwether for the AI trade and global index sentiment.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-sell-off-deepens-spy-scandal-price-target-cuts-put-ai-giant-under-pressure/slideshow/135728557.cms",
+          "source": "ET Markets",
+          "published": 1794379200
+        },
+        {
+          "title": "US AI sell-off: how exposed are Indian AI-linked stocks?",
+          "summary": "Explainer on data centre plays and IT services exposure to a global AI downturn.",
+          "why_it_matters": "Relevant to the IT-heavy index funds in your SIPs.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/india-ai-stocks-selloff-us-tech-stocks-ai-sell-off-11794370178196.html",
+          "source": "LiveMint Markets",
+          "published": 1794377620
+        },
+        {
+          "title": "India bonds slip as US Treasury yields jump",
+          "summary": "Hotter US inflation and hawkish policy signals outweighed lower crude oil prices.",
+          "why_it_matters": "Higher US yields can reduce foreign appetite for Indian debt.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slip-as-treasury-rout-offsets-oil-slide/articleshow/135727127.cms",
+          "source": "ET Markets",
+          "published": 1794375550
+        },
+        {
+          "title": "Rupee edges up 7 paise to 93.70 per dollar",
+          "summary": "Supported by foreign inflows, easing crude and improving geopolitical sentiment. It is among Asia's best performers in FY27.",
+          "why_it_matters": "Currency and macro backdrop for Indian investors.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-7-paise-to-93-70-against-us-dollar-in-early-trade/articleshow/135726644.cms",
+          "source": "ET Markets",
+          "published": 1794374204
+        },
+        {
+          "title": "CoreWeave jumps after Q3 beat",
+          "summary": "Revenue was $3.66bn versus $1.37bn a year earlier, with a $132.5bn backlog and raised 2026 guidance, despite debt concerns.",
+          "why_it_matters": "Shows AI infrastructure demand still strong amid doubts.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-stock-jumps-after-earnings-7-things-driving-the-ai-cloud-companys-rally/slideshow/135729203.cms",
+          "source": "ET Markets",
+          "published": 1794380476
+        },
+        {
+          "title": "Amex to restore reward points after deduction complaints",
+          "summary": "Cardholders reported losing thousands or lakhs of points, with some balances going negative. Amex confirmed restoration, though questions remain.",
+          "why_it_matters": "Useful if you hold credit cards in India.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/amex-credit-card-reward-points-deducted-restored-november-2026-11794376350635.html",
+          "source": "LiveMint Money",
+          "published": 1794382971
+        },
+        {
+          "title": "8th Pay Commission: timeline for salary hike",
+          "summary": "The commission has until May 2027 to submit recommendations, with a possible 1 January 2026 effective date.",
+          "why_it_matters": "Broad policy story on government pay.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-will-central-government-employees-get-salary-hike-in-2027-what-1-january-2026-effective-date-means-11794360983589.html",
+          "source": "LiveMint Money",
+          "published": 1794363879
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Anthropic IPO targets up to $1.4 trillion valuation",
+          "summary": "The price is expected at $70-$78 per share, per the New York Times. Each of the seven co-founders plans to sell shares worth about $250M at the midpoint while retaining control.",
+          "why_it_matters": "One of the biggest IPOs ever, in the AI sector you're targeting.",
+          "importance": 5,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+          "source": "The Verge AI",
+          "published": 1794319614
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Google releases Gemini 4 Carbon with agent 'swarm' feature",
+          "summary": "Google rolled out Carbon to the public after a two-week preview with cybersecurity defenders. It claims it is its strongest model and competitive with Anthropic and OpenAI, aimed at multi-step tasks like software development.",
+          "why_it_matters": "A major frontier model launch with agentic capabilities.",
+          "importance": 5,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+          "source": "The Verge AI",
+          "published": 1794326400
+        },
+        {
+          "title": "Anthropic launches Claude office tools: Sheets, Whiteboards, Data and Meetings",
+          "summary": "Claude gets spreadsheets, whiteboards, dashboards, and a Google Meet integration that drafts plans and tasks live.",
+          "why_it_matters": "Signals AI labs moving into enterprise workflows.",
+          "importance": 4,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+          "source": "The Verge AI",
+          "published": 1794331800
+        },
+        {
+          "title": "OpenAI launches Businesses in ChatGPT with verified Business Agents",
+          "summary": "Beta lets companies claim profiles and track engagement. Verified agents for US e-commerce firms help with comparison shopping.",
+          "why_it_matters": "Agentic commerce is an emerging area for AI engineers.",
+          "importance": 3,
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "OpenAI News",
+          "published": 1794304800
+        },
+        {
+          "title": "New York AI safety law takes effect",
+          "summary": "Major developers like OpenAI and Anthropic must register, disclose safety practices and report critical incidents or face fines.",
+          "why_it_matters": "Regulation shaping how AI companies operate.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+          "source": "TechCrunch AI",
+          "published": 1794343933
+        },
+        {
+          "title": "TSMC to invest up to $1bn each in Anthropic and OpenAI",
+          "summary": "The foundry approved investments of up to $1 billion in the two AI companies.",
+          "why_it_matters": "Shows chip supply and AI labs tightening ties.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tsmc-to-invest-up-to-usd-1-billion-in-anthropic-openai/articleshow/135726655.cms",
+          "source": "ET Tech",
+          "published": 1794373989
+        },
+        {
+          "title": "Grok Build coding agent exposed confidential data",
+          "summary": "A researcher found 35,000 Grok Build apps open to anyone, some belonging to SpaceXSI.",
+          "why_it_matters": "A cautionary tale for security in AI coding agents.",
+          "importance": 3,
+          "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+          "source": "Ars Technica",
+          "published": 1794345179
+        },
+        {
+          "title": "OpenAI and Upwork research on AI's effect on freelance work",
+          "summary": "Demand is shifting, new skill combinations are emerging, and AI projects have larger budgets and more hours.",
+          "why_it_matters": "Relevant to AI's effect on jobs and skills.",
+          "importance": 3,
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "source": "OpenAI News",
+          "published": 1794294000
+        },
+        {
+          "title": "Google unveils two new specialized TPUs",
+          "summary": "The chips target confidential model training and higher memory capacity.",
+          "why_it_matters": "Infrastructure shifts behind AI workloads.",
+          "importance": 2,
+          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+          "source": "TechCrunch AI",
+          "published": 1794326048
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Google: technical debt causes 'agent distraction' in coding agents",
+          "summary": "Stale TODOs, obsolete bug references and outdated specs derail coding agents into unrequested side-quests.",
+          "why_it_matters": "Practical insight for working with AI coding agents.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/google-agent-distraction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794333600
+        },
+        {
+          "title": "Walmart's multi-agent LLM batch forecasting across 4,700 stores",
+          "summary": "Uses MCP grounding and loop agents, cutting inference costs from $100k+ to $10k per month by moving from PTUs to pay-as-you-go.",
+          "why_it_matters": "A real production LLM architecture write-up.",
+          "importance": 3,
+          "url": "https://www.infoq.com/presentations/scaling-multi-agent-llm-batch/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794308400
+        },
+        {
+          "title": "Pinterest and Intel extend gProfiler",
+          "summary": "The open-source continuous profiler gets extended for production visibility across internet-scale fleets.",
+          "why_it_matters": "Relevant to backend performance engineering.",
+          "importance": 2,
+          "url": "https://www.infoq.com/news/2026/11/pinterest-intel-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794312000
+        },
+        {
+          "title": "Google Cloud spend caps reach GA",
+          "summary": "Caps pause new usage once a monthly budget is hit, and cover only the Gemini API, the Agent Platform, Cloud Run and Cloud Run functions. Overages during enforcement delays are still billed.",
+          "why_it_matters": "Useful for GCP users.",
+          "importance": 2,
+          "url": "https://www.infoq.com/news/2026/11/google-cloud-spend-caps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794299940
+        },
+        {
+          "title": "Tracking Anthropic-discovered vulnerabilities",
+          "summary": "VulnCheck's November update tracks vulnerabilities discovered by Anthropic, with 388 points on Hacker News.",
+          "why_it_matters": "AI-driven vulnerability discovery affects security practice.",
+          "importance": 2,
+          "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794349076
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Alleged spy plot targeting Jensen Huang raises questions about Nvidia's future",
+          "summary": "The affair allegations around Huang bring reputational risk, successor uncertainty and scrutiny from shareholders and officials. The controversy dominated Web Summit.",
+          "why_it_matters": "Governance shock at the central company of the AI boom.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alleged-spy-plot-targeting-ceo-jensen-huang-raises-questions-about-nvidias-future/articleshow/135723546.cms",
+          "source": "ET Tech",
+          "published": 1794365437
+        },
+        {
+          "title": "Kissht raises ₹832 Cr via preferential issue",
+          "summary": "OnEMI Technology Solutions completed the issue, adding 24 new investors.",
+          "why_it_matters": "Fintech funding news.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
+          "source": "Inc42",
+          "published": 1794379612
+        },
+        {
+          "title": "ShareChat parent FY26 loss widens 79% to ₹1,978 Cr",
+          "summary": "Revenue inched past ₹1,000 Cr.",
+          "why_it_matters": "Indian startup financial health.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/sharechat-parent-mohalla-techs-fy26-loss-widens-79-to-%e2%82%b91978-cr-revenue-inches-past-%e2%82%b91000-cr-mark/",
+          "source": "Inc42",
+          "published": 1794316002
+        },
+        {
+          "title": "GoKwik non-compete clause puts vested ESOPs at risk",
+          "summary": "ESOP liquidity and terms are a growing issue in Indian startups.",
+          "why_it_matters": "Relevant when evaluating product-company offers.",
+          "importance": 2,
+          "url": "https://inc42.com/features/gokwiks-golden-handcuffs-non-compete-clause-puts-vested-esops-in-jeopardy/",
+          "source": "Inc42",
+          "published": 1794360650
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "MI and PBKS complete Hardik Pandya-Arshdeep Singh swap",
+          "summary": "Hardik moves to PBKS for ₹18 crore, up from ₹16.35 crore, while Arshdeep joins MI at his existing ₹18 crore fee.",
+          "why_it_matters": "Major IPL 2027 trade.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1562157.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794381082
+        },
+        {
+          "title": "Ravindra, Conway named in NZ squad for India Tests",
+          "summary": "Conway, Ravindra and Blundell are recovering from injuries and aim to be fit for the first Test in Wellington.",
+          "why_it_matters": "Squad news for India's upcoming series.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1562161.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794369002
+        },
+        {
+          "title": "Pakistan lead Sri Lanka in Rawalpindi Test",
+          "summary": "Sri Lanka are 320 behind with seven wickets in hand after two days. The second Test was moved to Rawalpindi due to Lahore smog.",
+          "why_it_matters": "Ongoing international series.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1562100.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794312831
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-11",
+  "generated_at": 1794383096,
+  "items_scanned": 193,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
