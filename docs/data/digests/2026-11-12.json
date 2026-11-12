@@ -1,0 +1,420 @@
+{
+  "headline": "Nvidia's board weighs ousting Jensen Huang as AI-infrastructure money keeps flowing, while Andhra Pradesh courts investors at the Vizag CII summit and India lead the NZ T20 series.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Pawan Kalyan and Lokesh pitch Andhra Pradesh at 31st CII Partnership Summit, Vizag",
+          "summary": "Deputy CM Pawan Kalyan pitched Andhra Pradesh as a trusted global hub, while Minister Lokesh urged corporates to move their primary headquarters to the state, not just set up factories. He cited talent, ports and the new Bhogapuram International Airport.",
+          "why_it_matters": "Direct signal of AP's industrial push and the kind of employers and jobs that may emerge in your home state.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/cities/Visakhapatnam/pawan-kalyan-pitches-andhra-pradesh-as-trusted-global-hub-lokesh-unveils-red-carpet-framework-at-31st-vizag-cii-summit/article71692595.ece",
+          "source": "The Hindu - National",
+          "published": 1794469541
+        },
+        {
+          "title": "Reliance data centre at Bhogapuram expected to draw ~₹1 lakh crore",
+          "summary": "The government has approved Reliance Industries' data centre at Bhogapuram, with nearly ₹1 lakh crore of investment expected. Officials say the nearby airport will help Vizianagaram attract more investment.",
+          "why_it_matters": "Large AI and data-centre infrastructure in AP could create engineering demand in the region.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cii-partnership-summit-vizianagaram-likely-to-attract-more-investments-due-to-bhogapuram-airport-officials-say/article71692154.ece",
+          "source": "The Hindu - National",
+          "published": 1794470456
+        },
+        {
+          "title": "Naidu pitches UAE and Japanese delegations on investment",
+          "summary": "CM Naidu invited the UAE to invest in food, maritime and aerospace. He discussed skilling, critical minerals, steel and green energy with Japan's ambassador. Separately he asked WIPO to set up an Academy in AP and urged Singapore to focus on an integrated model township.",
+          "why_it_matters": "Shows the breadth of AP's investment and innovation agenda at the summit.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-partnership-summit-andhra-cm-naidu-makes-investment-pitch-before-uae-japanese-delegations/article71690390.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794423754
+        },
+        {
+          "title": "Hyderabad fertility centres under scrutiny over illegal egg harvesting",
+          "summary": "Police have made several arrests, including people who rented premises and liaised with fertility centres. The health department has issued notices to 13 of 44 identified ART centres. Another report says 27 centres have been inspected, with notices to seven hospitals.",
+          "why_it_matters": "A major ongoing Telangana law-and-health enforcement story.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/why-are-fertility-centres-in-hyderabad-in-crosshairs-over-human-egg-harvesting-explained/article71692345.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794468088
+        },
+        {
+          "title": "Revanth Reddy says first phase of Musi rejuvenation to begin shortly",
+          "summary": "Telangana CM Revanth Reddy inaugurated Thammidikunta Lake and said the first phase of Musi rejuvenation will begin soon. He called for a 'lake economy' around the lake.",
+          "why_it_matters": "A flagship Hyderabad urban project with local impact.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/first-phase-of-musi-rejuvenation-to-begin-shortly-says-telangana-cm-revath/article71690889.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794465602
+        },
+        {
+          "title": "Telangana's cold nights to ease; northeast monsoon deficit near 70%",
+          "summary": "Easterly winds are set to end cold nights, with the rest of winter likely mild. The northeast monsoon has delivered only 3 cm against a normal of about 11 cm by December. A Bay of Bengal depression is likely by November 15, per IMD.",
+          "why_it_matters": "A deep rainfall deficit affects Telugu states' farming and water supply; Chittoor mango growers already fear lower 2027 yields.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/easterly-winds-set-to-end-telanganas-cold-nights/article71689660.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794463420
+        },
+        {
+          "title": "India blocked 129 betting sites on basis of fake high court orders",
+          "summary": "The government ordered ISPs to block 129 betting websites based on fraudulent high court orders. The Rajasthan and Allahabad High Courts confirmed the orders were not in their records, and investigations have begun.",
+          "why_it_matters": "Raises serious questions about the integrity of legal and blocking processes.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/india-blocked-129-betting-websites-on-basis-of-fake-high-court-orders-report/articleshow/135742055.cms",
+          "source": "ET Tech",
+          "published": 1794391542
+        },
+        {
+          "title": "Owaisi names Chandrashekhar Azad as UP CM face of new front",
+          "summary": "AIMIM chief Owaisi named Azad as the Chief Minister face of the Samajik Parivartan Morcha in Uttar Pradesh. Azad said he is open to SP, Congress or others joining to stop the BJP.",
+          "why_it_matters": "An early signal of UP's 2027 political alignments.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/uttar-pradesh/owaisi-azad-alliance-for-uttar-pradesh-elections/article71692358.ece",
+          "source": "The Hindu - National",
+          "published": 1794469888
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Russia-Ukraine talks on post-war security end without breakthrough",
+          "summary": "Talks in Abu Dhabi centred on Europe's security framework. US envoys are due to meet Putin and Zelensky on Thursday.",
+          "why_it_matters": "Central to the trajectory of Europe's biggest war.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794420298
+        },
+        {
+          "title": "Ukraine's power supply near critical after Russian strikes",
+          "summary": "Parts of Ukraine get only a few hours of electricity a day as Russian strikes continue and cold sets in.",
+          "why_it_matters": "Humanitarian stakes rise heading into winter.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794470373
+        },
+        {
+          "title": "Iran open to deal if US avoids 'excessive demands'",
+          "summary": "Iran's chief negotiator Ghalibaf said Tehran is open to a deal if Washington refrains from creating distrust and excessive demands.",
+          "why_it_matters": "The Iran conflict feeds directly into oil prices and Indian markets.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1794469085
+        },
+        {
+          "title": "Spain's first general strike in 14 years sees clashes in Barcelona",
+          "summary": "Tens of thousands joined the strike called by the main unions over housing and cost of living. Protesters clashed with police in Barcelona.",
+          "why_it_matters": "Housing affordability unrest is spreading in Europe's major economies.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794434857
+        },
+        {
+          "title": "Israeli strike on Gaza's Nasser Hospital kills at least five",
+          "summary": "The strike hit the surgery department and injured at least 20 people, per Gaza civil defence.",
+          "why_it_matters": "Continued civilian toll in Gaza.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794463925
+        },
+        {
+          "title": "Indonesia's vice-president Gibran resigns",
+          "summary": "Gibran Rakabuming Raka resigned amid a dispute over his eligibility and questions about his overseas education. It comes as a rift grows between President Prabowo and predecessor Joko Widodo.",
+          "why_it_matters": "Signals instability in the ruling alliance of a major emerging economy.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794415087
+        },
+        {
+          "title": "Democrat Scott Colom wins Mississippi Senate race",
+          "summary": "Colom becomes the first Black person from Mississippi elected to the US Senate in over 140 years.",
+          "why_it_matters": "A historic result with US political implications.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794456030
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "SIP stoppage ratio hits 116% in October",
+          "summary": "AMFI data shows 5.9 million SIPs were discontinued or completed, and net equity inflows fell 14% month-on-month to ₹32,924 crore.",
+          "why_it_matters": "As a long-term SIP investor, it shows retail fatigue, a point to stay disciplined.",
+          "importance": 4,
+          "url": "https://www.livemint.com/money/personal-finance/mutual-fund-sip-returns-disappointing-should-you-stop-continue-or-switch-funds-11794413656372.html",
+          "source": "LiveMint Money",
+          "published": 1794444337
+        },
+        {
+          "title": "FIIs turn net buyers of Indian equities in November",
+          "summary": "Foreign institutional investors unexpectedly became net buyers this month. Jefferies listed 11 likely beneficiaries, including Reliance, HDFC Bank and Axis Bank.",
+          "why_it_matters": "A flow reversal that can drive index direction.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-are-back-jefferies-lists-11-stocks-that-can-be-the-biggest-beneficiaries/slideshow/135758277.cms",
+          "source": "ET Markets",
+          "published": 1794462896
+        },
+        {
+          "title": "Indian bonds steady ahead of CPI as US yields climb",
+          "summary": "Government bonds were stable, with lower oil offset by rising US Treasury yields. Traders await inflation data and a big bond auction on Friday, while RBI policy expectations hinge on the numbers.",
+          "why_it_matters": "Inflation and rate expectations shape debt and equity returns.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-as-us-debt-rout-saps-oil-relief-before-cpi/articleshow/135758028.cms",
+          "source": "ET Markets",
+          "published": 1794464218
+        },
+        {
+          "title": "RBI consolidates domestic money transfer rules",
+          "summary": "Limits stay at ₹5,000 per transaction via BCs/ATMs and ₹10,000 for cash payouts, with KYC norms applying.",
+          "why_it_matters": "A personal-finance rule clarification.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/no-bank-account-check-how-much-cash-you-can-send-or-receive-through-atm-neft-under-rbi-domestic-money-transfer-rules-11794442718991.html",
+          "source": "LiveMint Money",
+          "published": 1794450590
+        },
+        {
+          "title": "Bajaj Finance launches ₹11,700 crore QIP",
+          "summary": "Shares rose 3.4% on the QIP launch and are up 16% in a month.",
+          "why_it_matters": "A large capital raise by a Nifty heavyweight.",
+          "importance": 2,
+          "url": "https://www.livemint.com/market/stock-market-news/16-up-in-a-month-bajaj-finance-shares-climb-3-4-on-11-700-crore-qip-launch-check-floor-price-discount-returns-11794460718743.html",
+          "source": "LiveMint Markets",
+          "published": 1794463690
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Anthropic IPO targets up to $64.4 billion at $70-78 a share",
+          "summary": "Anthropic is gearing up for a mega-listing and aims for early index inclusion. Analysts expect an initial surge as with SpaceX, with employees allowed to sell some shares on day one.",
+          "why_it_matters": "A landmark AI listing affecting the valuation of the whole sector.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-spacex-to-anthropic-markets-have-a-new-playbook-for-mega-share-debuts/articleshow/135756798.cms",
+          "source": "ET Markets",
+          "published": 1794461733
+        },
+        {
+          "title": "Cult.fit faces trademark challenge ahead of IPO",
+          "summary": "The Madras High Court has issued a notice over the CULT trademark ahead of Cult.fit's proposed listing.",
+          "why_it_matters": "A legal hurdle for an upcoming Indian IPO.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/ipo-bound-cult-fit-faces-fresh-legal-challenge-over-cult-trademark/",
+          "source": "Inc42",
+          "published": 1794393609
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Nvidia board reportedly preparing to oust CEO Jensen Huang",
+          "summary": "WSJ reports the board is preparing to dismiss Huang after a second alleged affair, days after he admitted an affair with a woman alleged to be a Chinese spy. Nvidia is working with an outside firm to identify candidates and weighing an interim chief. The FBI is reportedly investigating and House Republicans want him to testify.",
+          "why_it_matters": "Leadership upheaval at the company underpinning AI compute could shake the whole sector; Nvidia stock fell 13% in five days.",
+          "importance": 5,
+          "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+          "source": "The Verge AI",
+          "published": 1794437076
+        },
+        {
+          "title": "OpenAI quarterly revenue reportedly tops $10B",
+          "summary": "Revenue crossed $10 billion, almost 50% above the $6.7 billion of the prior quarter.",
+          "why_it_matters": "Shows demand for AI is still compounding.",
+          "importance": 4,
+          "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+          "source": "TechCrunch AI",
+          "published": 1794413684
+        },
+        {
+          "title": "TSMC to invest $1B in Anthropic and OpenAI",
+          "summary": "The move is another example of the AI boom's circular financing as the AI trade wobbles.",
+          "why_it_matters": "Highlights financing dependencies in the AI ecosystem.",
+          "importance": 3,
+          "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+          "source": "Ars Technica",
+          "published": 1794421000
+        },
+        {
+          "title": "CoreWeave leans on prepayments and shorter contracts to fund growth",
+          "summary": "Q3 earnings show the firm asking customers to pay upfront and borrowing against contracts. Strong results also lifted AI power stocks like Bloom Energy by 13%.",
+          "why_it_matters": "A view into how AI infrastructure is being financed.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+          "source": "TechCrunch AI",
+          "published": 1794426840
+        },
+        {
+          "title": "United bans AI agents from booking flights",
+          "summary": "United cites privacy and regulatory concerns and says few people have tried using agents to book so far.",
+          "why_it_matters": "Relevant to anyone building agentic products against real-world platforms.",
+          "importance": 3,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+          "source": "The Verge AI",
+          "published": 1794434061
+        },
+        {
+          "title": "Google DeepMind formally verifies key parts of Signal",
+          "summary": "The four-week project suggests AI could make formal verification far more practical.",
+          "why_it_matters": "An AI use in correctness-critical engineering.",
+          "importance": 3,
+          "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+          "source": "Ars Technica",
+          "published": 1794406137
+        },
+        {
+          "title": "Many announced AI data centres may never get built",
+          "summary": "Local opposition, permitting delays and power shortages are slowing the boom, and many announced projects may never materialise.",
+          "why_it_matters": "Tempers expectations for AI infrastructure buildout.",
+          "importance": 2,
+          "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+          "source": "TechCrunch AI",
+          "published": 1794428115
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Critical RCE vulnerability in Apache HTTP Server",
+          "summary": "Wiz published details of a critical remote code execution flaw in Apache HTTP Server, CVE-2026-119618.",
+          "why_it_matters": "Widely deployed server software; check your patching.",
+          "importance": 4,
+          "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794449471
+        },
+        {
+          "title": "GitHub Agentic Workflows generally available",
+          "summary": "Coding agents run in GitHub Actions with read-only defaults and separately scoped write jobs. Protections don't cover direct write permissions or custom jobs.",
+          "why_it_matters": "Agent tooling that you may use or evaluate.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/github-agentic-workflows-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794416400
+        },
+        {
+          "title": "Cloudflare explains choosing QuePaxa consensus algorithm",
+          "summary": "Cloudflare is building an experimental consensus service on QuePaxa, a never-before-deployed algorithm, and explains how it works and why.",
+          "why_it_matters": "A good distributed-systems read.",
+          "importance": 3,
+          "url": "https://blog.cloudflare.com/choosing-quepaxa/",
+          "source": "Cloudflare Blog",
+          "published": 1794407086
+        },
+        {
+          "title": "A false smoke alarm nearly drowned Jane Street's only NYC datacenter",
+          "summary": "An engineering write-up on an incident where a false smoke alarm threatened the firm's single NYC datacenter.",
+          "why_it_matters": "Incident post-mortem relevant to fintech reliability.",
+          "importance": 3,
+          "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794415124
+        },
+        {
+          "title": "JioHotstar benchmarks knowledge bases for AI coding agents",
+          "summary": "Six code-retrieval approaches were evaluated; structural search did well on concrete tasks and semantic retrieval on ambiguous ones.",
+          "why_it_matters": "An Indian engineering team's practical agent-tooling findings.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/jiohotstar-codingagent-retrieval/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794407280
+        },
+        {
+          "title": "AWS emulator built with autonomous AI agent",
+          "summary": "Amazon published an AWS emulator, with a write-up on how an autonomous AI agent built it.",
+          "why_it_matters": "Useful for local cloud development and agent-built software.",
+          "importance": 3,
+          "url": "https://github.com/aws/aws-emulator",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794421298
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Gaurav Munjal to step down as Unacademy CEO",
+          "summary": "Two months after upGrad acquired Unacademy, cofounder Munjal is stepping down as CEO after a decade.",
+          "why_it_matters": "Indian edtech consolidation.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/after-a-decade-long-stint-gaurav-munjal-to-step-down-as-unacademy-ceo/",
+          "source": "Inc42",
+          "published": 1794406475
+        },
+        {
+          "title": "Kissht raises ₹832 crore via preferential issue",
+          "summary": "OnEMI Technology Solutions completed the issue, adding 24 new investors to its cap table.",
+          "why_it_matters": "Funding activity in Indian fintech.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
+          "source": "Inc42",
+          "published": 1794379612
+        },
+        {
+          "title": "Meta loses longtime infrastructure head Santosh Janardhan",
+          "summary": "Janardhan, who joined in 2009, is stepping down.",
+          "why_it_matters": "A senior leadership change at Meta's infrastructure org.",
+          "importance": 2,
+          "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+          "source": "TechCrunch AI",
+          "published": 1794427921
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India can seal five-match series in Mount Maunganui",
+          "summary": "India could take the series on Friday with a win, while New Zealand look to avoid defeat.",
+          "why_it_matters": "A series decider for the Indian team.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1562289.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794463077
+        },
+        {
+          "title": "Brett Randell called up to NZ ODI squad for final two games against India",
+          "summary": "Randell joins after taking five wickets in five balls in first-class cricket.",
+          "why_it_matters": "Squad change for the India series.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1562287.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794463928
+        },
+        {
+          "title": "WTC expansion to all 12 Full Members hits roadblocks at ICC",
+          "summary": "A plan to include all 12 Full Member teams in the next cycle faces hurdles ahead of the ICC meeting.",
+          "why_it_matters": "Shapes the future of Test cricket.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1562299.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794468744
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-12",
+  "generated_at": 1794471562,
+  "items_scanned": 181,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
