@@ -1,0 +1,453 @@
+{
+  "headline": "Nvidia CEO Jensen Huang resigns amid scandal while Google ships Gemini 4 Hydrogen, Anthropic's IPO draws heavy demand, and India's CPI breaches 6%.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Andhra to bring Investment Protection Act; CII summit to sign 303 MoUs",
+          "summary": "Chief Minister Naidu said Andhra Pradesh will bring in an Investment Protection Act to ease doing business. 303 MoUs worth ₹9.89 lakh crore will be signed at the CII Partnership Summit.",
+          "why_it_matters": "Large investment push in your home state that could shape job creation in AP.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-to-bring-in-investment-protection-act-to-ease-doing-business-says-naidu/article71693742.ece",
+          "source": "The Hindu - National",
+          "published": 1794555142
+        },
+        {
+          "title": "ReNew to invest ₹80,000 crore in AP green data centre and solar manufacturing",
+          "summary": "At the Vizag CII Summit, ReNew announced a ₹67,000-crore green hyperscale data centre in Anakapalli, ₹11,000 crore for polysilicon and silicon facilities, and ₹1,500 crore for magnet manufacturing.",
+          "why_it_matters": "A hyperscale data centre in AP is directly relevant to cloud and infra tech jobs in the region.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/vizag-cii-summit-renew-to-invest-80000-crore-in-green-data-centre-solar-manufacturing-in-andhra-pradesh/article71694053.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794506403
+        },
+        {
+          "title": "Central team to visit Murasu cyclone-hit AP districts",
+          "summary": "A central team will inspect Palnadu, Bapatla, Eluru and East Godavari. Twin cyclones hit the AP coast within a week, hurting fisherfolk and coconut and casuarina growers.",
+          "why_it_matters": "Significant disaster impact in coastal Andhra, with relief decisions pending.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/central-team-to-visit-districts-affected-by-murasu-cyclone/article71693913.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794507106
+        },
+        {
+          "title": "Low-pressure area over Bay of Bengal may become depression by Nov 15",
+          "summary": "A low-pressure area formed over the Andaman Sea region and is likely to intensify into a depression by November 15, per the IMD.",
+          "why_it_matters": "Possible further weather impact on the AP coast after the recent cyclones.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/low-pressure-area-forms-over-southeast-bay-of-bengal-likely-to-intensify-into-depression-by-november-15/article71696703.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794552546
+        },
+        {
+          "title": "Bharat Summit begins in Hyderabad; Rahul Gandhi to attend valedictory",
+          "summary": "The gathering is the first major international meeting of progressive leaders after recent electoral outcomes in Brazil, Hungary and Serbia. Rahul Gandhi will join the valedictory session.",
+          "why_it_matters": "Hyderabad hosting a major international political event.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/bharat-summit-takes-off-in-hyderabad-today-rahul-gandhi-to-participate-in-valedictory/article71694796.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794556175
+        },
+        {
+          "title": "Four PRTS corridors proposed in Hyderabad",
+          "summary": "The Telangana CM said the proposed network aims to improve connectivity between key government, commercial and public destinations, with the first phase to be completed within a year.",
+          "why_it_matters": "Potential change to Hyderabad commuting.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/four-prts-corridors-proposed-in-hyderabad-first-phase-to-be-completed-within-a-year/article71695201.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794540292
+        },
+        {
+          "title": "Gig workers call strike and rally in Hyderabad on Nov 14",
+          "summary": "The TGPWU has called a strike and major rally, and has invited Rahul Gandhi to join.",
+          "why_it_matters": "Gig-worker labour issues are getting political attention in Telangana.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/gig-and-platform-workers-plan-major-rally/article71693845.ece",
+          "source": "The Hindu - National",
+          "published": 1794555170
+        },
+        {
+          "title": "Over 1,800 trees felled for Cherlapally station access road, species misidentified",
+          "summary": "Field inspection reveals serious irregularities in how trees were identified and marked in the permission copy for the road to Cherlapally Railway Station.",
+          "why_it_matters": "Raises questions on environmental compliance in Hyderabad projects.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/trees-misidentified-misjudged-wrongly-marked-and-felled-to-facilitate-civil-projects-in-hyderabad/article71690560.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794553102
+        },
+        {
+          "title": "MHA extends ban on Zakir Naik's IRF for five more years",
+          "summary": "The Home Ministry declared the Islamic Research Foundation unlawful for another five years, the third extension since the 2016 ban.",
+          "why_it_matters": "A national security and policy decision.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/mha-declares-zakir-naiks-islamic-research-foundation-unlawful-for-another-five-years/article71696626.ece",
+          "source": "The Hindu - National",
+          "published": 1794554735
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Ukrainian drone hits Russian warship in Gulf of Finland",
+          "summary": "The attack is thought to be the first time Ukrainian drones have struck a Russian ship in an open stretch of the Baltic Sea.",
+          "why_it_matters": "Marks a geographic escalation in the Russia-Ukraine war.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794514156
+        },
+        {
+          "title": "Zelensky welcomes US bringing Europe into peace talks",
+          "summary": "Zelensky says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+          "why_it_matters": "Shapes the negotiating format of the Russia-Ukraine war.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794535295
+        },
+        {
+          "title": "Israeli strike on Gaza's Nasser hospital kills six",
+          "summary": "Witnesses say a missile hit a building housing surgical wards and ICUs at the largest hospital in southern Gaza, according to the health ministry.",
+          "why_it_matters": "Continued humanitarian toll in Gaza.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794502452
+        },
+        {
+          "title": "US records 483,200 deportations in 2026",
+          "summary": "ICE reported a record number of deportations and arrests, and Democrats are preparing to investigate its tactics.",
+          "why_it_matters": "Affects the US immigration climate, relevant for Indians eyeing US work.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1794552395
+        },
+        {
+          "title": "Democrat Scott Colom wins Mississippi Senate seat",
+          "summary": "Colom becomes Mississippi's first black senator since the 19th century in a state Trump won by 22 points, extending a string of Democratic Senate wins.",
+          "why_it_matters": "Signals the shifting US political mood after the midterms.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794488215
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "India CPI crosses RBI's 6% limit at 6.09% in October",
+          "summary": "Retail inflation rose to 6.09%, above the RBI's upper tolerance limit, and food inflation climbed to 8.51%. Onion, garlic and lemon prices rose sharply.",
+          "why_it_matters": "Inflation above the tolerance band shapes RBI policy and your real returns.",
+          "importance": 5,
+          "url": "https://www.livemint.com/money/personal-finance/list-which-everyday-expenses-are-hitting-your-pocket-harder-as-cpi-crosses-6-food-inflation-nears-9-in-oct-2026-11794553476062.html",
+          "source": "LiveMint Money",
+          "published": 1794556242
+        },
+        {
+          "title": "Indian bonds under pressure; RBI expected to hike again in December",
+          "summary": "Government bond yields rose before a major auction as inflation climbed in India and the US. The RBI is expected to raise rates again in early December.",
+          "why_it_matters": "Rate hikes affect loan EMIs, debt fund returns and equity valuations.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-under-pressure-before-debt-supply-hot-inflation-prints-pinch-further/articleshow/135789760.cms",
+          "source": "ET Markets",
+          "published": 1794545164
+        },
+        {
+          "title": "MSCI rejig to bring inflows to Indian stocks from Nov 30",
+          "summary": "MSCI's index changes are expected to lift India's weight in the Emerging Markets Index. Coforge and LIC may attract inflows while PI Industries may see outflows.",
+          "why_it_matters": "Index changes drive passive flows that move large-cap stocks.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/msci-rejig-which-stocks-may-see-the-biggest-inflows-amp-outflows/slideshow/135792280.cms",
+          "source": "ET Markets",
+          "published": 1794549972
+        },
+        {
+          "title": "Nvidia's P/E falls to 14-year low after Huang exit",
+          "summary": "Following a steep fall from its October 6 record high, Nvidia trades at about 12 times expected earnings, though CEO exit and AI worries cloud the picture.",
+          "why_it_matters": "Nvidia's slide is dragging sentiment across AI-linked global markets.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-pe-falls-to-14-year-low-but-ceo-exit-and-ai-worries-cloud-the-bargain/articleshow/135788986.cms",
+          "source": "ET Tech",
+          "published": 1794543017
+        },
+        {
+          "title": "Tesla-SpaceX merger talks reportedly advance",
+          "summary": "Musk is reportedly eyeing a December announcement for a deal valued at over $3.5 trillion that would combine AI, robotics, auto and aerospace businesses.",
+          "why_it_matters": "A potentially huge corporate combination.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-spacex-merger-musk-eyes-december-deal-announcement/slideshow/135793745.cms",
+          "source": "ET Markets",
+          "published": 1794552787
+        },
+        {
+          "title": "NSE shares cross ₹2,000 for first time after listing",
+          "summary": "NSE shares hit a new peak of ₹2,007.60 on the BSE, crossing ₹2,000 for the first time since the IPO listing.",
+          "why_it_matters": "A milestone for the newly listed exchange.",
+          "importance": 2,
+          "url": "https://www.livemint.com/market/stock-market-news/after-ipo-listing-nse-shares-hit-rs-2-000-mark-for-the-first-time-buy-sell-or-hold-what-stock-market-experts-say-11794550519441.html",
+          "source": "LiveMint Markets",
+          "published": 1794552853
+        },
+        {
+          "title": "EPFO: file October ECR and deposit contributions by Nov 15",
+          "summary": "Employers must file the October 2026 ECR and deposit EPF contributions by November 15 to avoid interest and penalties.",
+          "why_it_matters": "Routine PF deadline relevant to salaried employees.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/epfo-alert-employers-must-file-october-2026-ecr-and-deposit-epf-contributions-by-november-15-11794552497573.html",
+          "source": "LiveMint Money",
+          "published": 1794555675
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Anthropic IPO: price range $70-78, up to $64.4B raise, oversubscribed ~6x",
+          "summary": "Anthropic launched its roadshow to sell 825 million Class A shares on Nasdaq under ticker 'ANT' at $70 to $78 each, targeting up to $64.4 billion. Bloomberg reports demand is nearly six times the shares on offer.",
+          "why_it_matters": "One of the largest IPOs ever, from the AI lab behind Claude, and relevant to your AI career path.",
+          "importance": 5,
+          "url": "https://www.livemint.com/market/stock-market-news/mega-ai-anthropic-ipo-details-share-price-band-valuation-listing-date-all-you-need-to-know-about-the-upcoming-issue-11794552663877.html",
+          "source": "LiveMint Markets",
+          "published": 1794555716
+        },
+        {
+          "title": "Anthropic IPO tax rules for Indian investors",
+          "summary": "Indian investors face 20% TCS on eligible LRS remittances above ₹10 lakh, Indian capital gains tax, US dividend withholding tax and foreign asset disclosure.",
+          "why_it_matters": "Explains the tax mechanics if you ever invest in US listings.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/anthropic-ipo-if-you-get-shares-how-will-your-investment-be-taxed-in-india-and-us-check-tcs-capital-gains-tax-rules-11794539662542.html",
+          "source": "LiveMint Money",
+          "published": 1794545872
+        },
+        {
+          "title": "Carlsberg India prepares $600M IPO",
+          "summary": "Carlsberg is starting a roadshow for an offer of sale of 86.42 million shares, around a 15% stake, at a $4 billion valuation. The launch could come as early as January 2027.",
+          "why_it_matters": "A sizeable upcoming Indian IPO.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-said-to-start-road-show-for-600-million-india-ipo/articleshow/135790402.cms",
+          "source": "ET Markets",
+          "published": 1794546915
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Google launches Gemini 4 Hydrogen",
+          "summary": "Gemini 4 Hydrogen completes tasks 2.5x faster than Gemini 3.8 Flash, has four reasoning levels and targets coding and agentic workflows. It is rolling out in Search, the Gemini app and more, and is also integrated into Google Antigravity.",
+          "why_it_matters": "A major model launch aimed at agentic and coding use, directly relevant to AI engineering work.",
+          "importance": 5,
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794506508
+        },
+        {
+          "title": "Jensen Huang resigns as Nvidia CEO after affair revelations",
+          "summary": "Huang quit after a board investigation into multiple affairs, including with an alleged Chinese spy. Congressional Democrats have launched an investigation and he has been summoned to testify.",
+          "why_it_matters": "Leadership upheaval at the company underpinning AI compute, with national security and market implications.",
+          "importance": 5,
+          "url": "https://inc42.com/buzz/jensen-huang-resigns-as-ceo-of-chipmaker-nvidia/",
+          "source": "Inc42",
+          "published": 1794493342
+        },
+        {
+          "title": "Huang's exit raises questions on Nvidia's open-source AI support",
+          "summary": "The resignation puts Nvidia's commitment to open-weight models, its Hugging Face acquisition and its stance against restrictions in question. Hugging Face's CEO vowed to keep fighting for open source AI.",
+          "why_it_matters": "Open-weight model availability affects the tooling you may build on.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+          "source": "TechCrunch AI",
+          "published": 1794508763
+        },
+        {
+          "title": "India is ChatGPT's biggest market, says OpenAI India chief",
+          "summary": "ET interviews OpenAI's India head on the country becoming ChatGPT's largest market.",
+          "why_it_matters": "Signals strong demand for AI skills and roles in India.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/india-becomes-chatgpts-biggest-market-openais-india-chief-corner-office-conversation/videoshow/135764629.cms",
+          "source": "ET Tech",
+          "published": 1794477998
+        },
+        {
+          "title": "United Airlines blocks AI agents from booking flights",
+          "summary": "The airline says it will not let customers use AI agents to book flights or manage reservations, citing cybersecurity risks.",
+          "why_it_matters": "An early example of businesses resisting agent access, relevant to agent product design.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+          "source": "TechCrunch AI",
+          "published": 1794503878
+        },
+        {
+          "title": "Nvidia privately confirmed chip tracking is technically possible",
+          "summary": "Nvidia told Rep. Bill Foster that anti-smuggling measures under the Chip Security Act were technically feasible, while an industry group called them potentially infeasible.",
+          "why_it_matters": "Shapes export controls and AI chip supply.",
+          "importance": 2,
+          "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+          "source": "MIT Technology Review AI",
+          "published": 1794514584
+        },
+        {
+          "title": "Amplitude ships product improvements in 1-2 days with OpenAI agents",
+          "summary": "Amplitude's product agent Wave, built mainly on OpenAI models, identifies what to build, helps teams ship via coding agents and measures impact.",
+          "why_it_matters": "A real-world agent deployment case study.",
+          "importance": 2,
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "source": "OpenAI News",
+          "published": 1794513600
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Microsoft 365 outage hits Outlook and Teams globally",
+          "summary": "Around 130,000 Downdetector reports were logged for Outlook just after 1 pm, with users unable to send or receive email. Reports later fell from the peak.",
+          "why_it_matters": "A major outage and a useful reliability case study.",
+          "importance": 3,
+          "url": "https://status.cloud.microsoft/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794507648
+        },
+        {
+          "title": "LinkedIn replaces Argo CD with custom GitOps engine",
+          "summary": "LinkedIn's engine deploys across over 250 Kubernetes clusters, supporting more than 4,000 services and over 100,000 deployments weekly.",
+          "why_it_matters": "Large-scale deployment engineering lessons.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/kubernetes-argocd-linkedin/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794474000
+        },
+        {
+          "title": "Google open-sources TPU Sync C++ library for KV cache transfer",
+          "summary": "The native C++ library moves KV cache blocks and model weights between TPU HBM, host DRAM, storage and the network.",
+          "why_it_matters": "Relevant to C++ and LLM inference infrastructure.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/google-tpu-sync/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794477960
+        },
+        {
+          "title": "22-year-old Postgres type-confusion bug turned into RCE (CVE-2026-6460)",
+          "summary": "A write-up details how a long-standing PostgreSQL type-confusion primitive was exploited into remote code execution.",
+          "why_it_matters": "Security-relevant for anyone running Postgres backends.",
+          "importance": 3,
+          "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794507742
+        },
+        {
+          "title": "incident.io cuts AI spend from $4,500 to $1,600 per dev per month",
+          "summary": "The Pragmatic Engineer reports the startup slashed AI spending per developer between August and now.",
+          "why_it_matters": "Real data on AI coding tool costs.",
+          "importance": 3,
+          "url": "https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/",
+          "source": "The Pragmatic Engineer",
+          "published": 1794510011
+        },
+        {
+          "title": "Rust 1.100 released",
+          "summary": "The Rust team published release 1.100.0.",
+          "why_it_matters": "Milestone release for a systems language alternative to C++.",
+          "importance": 2,
+          "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794508745
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Karnataka HC rejects Razorpay cofounders' plea to quash SFIO case",
+          "summary": "The court refused to quash the case against Harshil Mathur and Shashank Kumar.",
+          "why_it_matters": "A major fintech name faces regulatory scrutiny.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/karnataka-hc-rejects-razorpay-cofounders-plea-to-quash-sfio-case/",
+          "source": "Inc42",
+          "published": 1794551959
+        },
+        {
+          "title": "Zupee laid off entire workforce",
+          "summary": "Inc42 reports the gaming startup has laid off all staff, and its AI pivot was a smokescreen for shutdown.",
+          "why_it_matters": "Stark startup-failure and layoff signal.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/why-zupees-ai-pivot-was-a-smokescreen-for-its-shutdown/",
+          "source": "Inc42",
+          "published": 1794498684
+        },
+        {
+          "title": "NPCI unveils MDR-funded scheme to boost UPI among small merchants",
+          "summary": "The new scheme aims to expand UPI acceptance among small merchants.",
+          "why_it_matters": "Fintech policy affecting payments infrastructure.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/npci-unveils-new-mdr-funded-scheme-to-promote-upi-among-small-merchants/",
+          "source": "Inc42",
+          "published": 1794495669
+        },
+        {
+          "title": "'Every role in IT is getting its AI-powered version'",
+          "summary": "The Hindu's Telangana coverage features a discussion on AI reshaping IT roles.",
+          "why_it_matters": "Relevant to your career shift toward AI roles.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/every-role-in-it-is-getting-its-ai-powered-version/article71694371.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794532757
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "Cummins rejects Khawaja's ball-tampering claims as 'utter nonsense'",
+          "summary": "The Australia captain said Khawaja's suggestion that the entire 2018 Cape Town XI knew about sandpaper use is 100% wrong.",
+          "why_it_matters": "The biggest cricket controversy of the day.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1562419.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794554615
+        },
+        {
+          "title": "ICC proposes greater control over T20 franchise leagues",
+          "summary": "If the review group's recommendations pass, leagues like ILT20 and MLC could be severely affected.",
+          "why_it_matters": "Could reshape the franchise cricket landscape, including IPL-adjacent leagues.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1562388.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794491406
+        },
+        {
+          "title": "India set up U-19 Asia Cup final against Pakistan",
+          "summary": "India eased past Afghanistan in the semi-final in Al Amerat to reach the final against Pakistan.",
+          "why_it_matters": "An India-Pakistan final.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1562389.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794496496
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-13",
+  "generated_at": 1794556557,
+  "items_scanned": 188,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
