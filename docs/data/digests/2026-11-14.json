@@ -1,0 +1,451 @@
+{
+  "headline": "Nvidia's turmoil after Jensen Huang's exit rattles markets and AI funding, while Microsoft's outage and a US ground stop expose infrastructure fragility and Trump, Xi and Putin plan a summit.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Andhra Pradesh secures ₹9.88 lakh crore investment commitments at CII Summit in Vizag",
+          "summary": "The AP government says it will implement an Investment Protection Act with retrospective effect from 2024, according to CM Naidu. Union Minister Gadkari said the ₹32,000 crore, 195-km Amaravati Outer Ring Road will soon get Cabinet approval.",
+          "why_it_matters": "Large investment pledges and infrastructure approvals shape AP's job market and economy.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-secures-988-lakh-crore-investment-commitments-at-cii-partnership-summit-in-vizag/article71699029.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794599108
+        },
+        {
+          "title": "IBM Quantum System to be installed at Amaravati Quantum Valley on Feb 3, 2027",
+          "summary": "An IBM Quantum System is en route from the US for installation at Amaravati Quantum Valley. Local labs Amaravati 1Q and 1S are already producing homegrown results.",
+          "why_it_matters": "A deep-tech push in AP could create new engineering opportunities in your home region.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/inside-amaravatis-pioneering-leap-to-quantum-frontier/article71692735.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794628134
+        },
+        {
+          "title": "Rahul Gandhi promises social security for gig workers in Telangana",
+          "summary": "He promised every gig worker ₹5 lakh accident insurance and ₹10 lakh health insurance, funded partly by a 1% contribution on every transaction. A rally is planned in Madhapur, with traffic restrictions in place.",
+          "why_it_matters": "It signals Telangana's political direction on gig-economy regulation, which affects platform and fintech companies.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-promises-social-security-insurance-cover-for-gig-workers-in-telangana/article71701082.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794640554
+        },
+        {
+          "title": "Low pressure over Bay of Bengal likely to become cyclonic storm around Nov 16",
+          "summary": "A low pressure area has formed over the Bay of Bengal and is expected to intensify into a cyclonic storm around November 16. Coastal Andhra Pradesh is covered in this regional report.",
+          "why_it_matters": "A cyclone could affect coastal AP and nearby areas this weekend.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/low-pressure-area-forms-over-bay-of-bengal-likely-to-intensify-into-cyclonic-storm-around-november-16/article71699272.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794594057
+        },
+        {
+          "title": "Centre sanctions fresh infrastructure along China border in Arunachal",
+          "summary": "The move comes as tension persists despite three high-level India-China border talks since July 2026.",
+          "why_it_matters": "It shows India's strategic posture on the China frontier.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/why-has-centre-sanctioned-fresh-infrastructure-along-the-china-border-in-arunachal-pradesh-explained/article71700782.ece",
+          "source": "The Hindu - National",
+          "published": 1794640983
+        },
+        {
+          "title": "CBI searches in 6 states in Mahadev betting app case",
+          "summary": "Searches in Delhi, Mumbai, Nagpur, Amritsar, Bhopal, Raipur and other places targeted the platform's panel operators and led to recovery of digital devices and documents.",
+          "why_it_matters": "It is a major ongoing financial-crime probe.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/mahadev-betting-app-case-cbi-searches-in-6-states-lead-to-recovery-of-digital-devices-key-documents/article71701007.ece",
+          "source": "The Hindu - National",
+          "published": 1794641135
+        },
+        {
+          "title": "One killed as lorry rams MLC Teenmar Mallanna's convoy in Yadadri-Bhongir",
+          "summary": "One person died and four were injured in the collision in Telangana.",
+          "why_it_matters": "It involves a Telangana political figure.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/telangana/one-killed-four-injured-as-lorry-rams-into-mlc-teenmar-mallannas-convoy-in-yadadri-bhongir-district/article71699346.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794590472
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Trump, Xi and Putin to hold first three-way summit in China",
+          "summary": "The White House says the meeting will be on the sidelines of APEC next week. Trump plans to discuss the Iran war and nuclear arms reduction.",
+          "why_it_matters": "It is an unprecedented great-power meeting that could shift security and trade dynamics.",
+          "importance": 5,
+          "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1794632158
+        },
+        {
+          "title": "US lifts longest ground stop since 9/11, blamed on obsolete equipment",
+          "summary": "The FAA lifted its nationwide ground stop after about 4.5 hours, and officials say old equipment overloading was the cause, not a cyber-attack or a Microsoft outage. More than 1.5 million passengers faced disruption.",
+          "why_it_matters": "It shows how legacy systems can cause large-scale failures, a lesson for system design.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794627921
+        },
+        {
+          "title": "Putin ups demands for peace with Ukraine",
+          "summary": "BBC's Steve Rosenberg says Moscow sees European security now featuring in talks as a victory. Al Jazeera's analysis argues Russia's leverage over Ukraine is growing after the Abu Dhabi talks.",
+          "why_it_matters": "It indicates the direction of the Ukraine war negotiations.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794588031
+        },
+        {
+          "title": "ASEAN leaders meet as Trump's Asia trip highlights trade disruption",
+          "summary": "The summit coincides with Trump's Asia trip, which includes a meeting with Xi.",
+          "why_it_matters": "Trade disruption affects supply chains and Indian exports.",
+          "importance": 2,
+          "url": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1794638894
+        },
+        {
+          "title": "Scientists warn 1.5°C threshold could arrive by 2029",
+          "summary": "Researchers say climate action has stalled for five years as fossil fuel development keeps growing.",
+          "why_it_matters": "It is a significant update on the climate outlook.",
+          "importance": 2,
+          "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
+          "source": "Ars Technica",
+          "published": 1794580155
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Nvidia suffers worst week since April 2025 after Huang exit",
+          "summary": "Shares fell 13% in a week after CEO Jensen Huang's ouster, and analysts have downgraded the stock. Wall Street slid as Nvidia uncertainty dragged tech shares lower.",
+          "why_it_matters": "Nvidia's weight in global indices means it affects index-fund portfolios.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-has-worst-week-since-trump-tariff-selloff-as-huang-exits/articleshow/135822623.cms",
+          "source": "ET Markets",
+          "published": 1794630530
+        },
+        {
+          "title": "Rate-hike bets push gold toward worst week in four months",
+          "summary": "Expectations of rate hikes are weighing on gold, while oil is set for a second weekly decline on signs of supply surplus. Bitcoin has also seen large liquidations.",
+          "why_it_matters": "Rate-hike expectations influence global flows and Indian debt and equity markets.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/ratehike-bets-keep-gold-on-track-for-worst-week-in-four-months-11794598496469.html",
+          "source": "LiveMint Markets",
+          "published": 1794598496
+        },
+        {
+          "title": "Axis MF expects 50-75 bps more rate hikes, favours short-duration debt",
+          "summary": "Axis Mutual Fund favours high-quality corporate bonds of 3-5 year maturities and short-duration strategies. It sees scope to add duration selectively as yields become more attractive.",
+          "why_it_matters": "It is relevant to debt allocation in a rising-rate environment.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/shortduration-vs-long-duration-debt-mutual-funds-where-should-you-invest-as-interest-rates-are-expected-to-rise-now-11794590041347.html",
+          "source": "LiveMint Money",
+          "published": 1794593582
+        },
+        {
+          "title": "AI tops worries about the financial system in Fed survey",
+          "summary": "87% of respondents cited AI as a key risk, with debt tied to AI infrastructure investment rising sharply.",
+          "why_it_matters": "It flags systemic risk tied to the AI boom.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-rockets-to-top-of-worries-about-financial-system-in-latest-fed-survey/articleshow/135821841.cms",
+          "source": "ET Markets",
+          "published": 1794628522
+        },
+        {
+          "title": "Goldman sees S&P 500 at 8,700 next year",
+          "summary": "Goldman expects slower global earnings growth in 2027 but remains optimistic on valuations, while bracing for more volatility.",
+          "why_it_matters": "It frames the global equity outlook for long-term investors.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-sees-sp-500-rising-to-8700-next-year-despite-slower-earnings-growth/articleshow/135821647.cms",
+          "source": "ET Markets",
+          "published": 1794627667
+        },
+        {
+          "title": "ICICI Bank credit card changes from Nov 25",
+          "summary": "Six changes run from Nov 25 to Dec 15, including revised DCC and replacement fees, Priority Pass charges and discontinued insurance coverage.",
+          "why_it_matters": "It matters if you hold an affected ICICI card.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/icici-bank-credit-card-alert-6-important-changes-to-be-introduced-starting-from-25-november-check-affected-cards-11794625042136.html",
+          "source": "LiveMint Money",
+          "published": 1794628470
+        },
+        {
+          "title": "8th Pay Commission: unions seek revisions every 5 years",
+          "summary": "Employee and pensioner bodies want salary and pension revisions every five years instead of 10. Unions have proposed fitment factors of 3.61, 3.833 and 4.38.",
+          "why_it_matters": "It shapes government pay policy and economy-wide wage trends.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/personal-finance/8th-pay-commission-will-central-government-salaries-and-pensions-be-revised-every-5-years-what-employee-unions-demand-11794632936929.html",
+          "source": "LiveMint Money",
+          "published": 1794634193
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Anthropic IPO roadshow under way, $64 billion deal to price next Wednesday",
+          "summary": "The roadshow runs through next Wednesday, with meetings in New York, Boston and San Francisco, and pricing expected then. Reports cite a valuation of up to $1.4 trillion.",
+          "why_it_matters": "It is a landmark AI listing and a test for AI sentiment.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/investors-flock-to-anthropic-ipo-but-question-durability-of-ai-lead/articleshow/135820893.cms",
+          "source": "ET Tech",
+          "published": 1794624221
+        },
+        {
+          "title": "Razorpay gets SEBI nod for ₹6,000 crore IPO",
+          "summary": "The fintech major received SEBI's approval for its IPO.",
+          "why_it_matters": "It is a big listing in the Indian fintech space.",
+          "importance": 4,
+          "url": "https://inc42.com/buzz/razorpay-gets-sebi-nod-for-%e2%82%b96000-cr-ipo/",
+          "source": "Inc42",
+          "published": 1794599713
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Jensen Huang resigns from Nvidia: timeline and fallout",
+          "summary": "Huang resigned following an affair scandal, and Nvidia's board is reportedly considering Arm CEO Rene Haas as a successor. Treasury Secretary Bessent has blamed Commerce for failing to ban chip exports to a firm with suspected China links.",
+          "why_it_matters": "Leadership change at the central AI hardware company has implications for supply, policy and startup funding.",
+          "importance": 5,
+          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "source": "TechCrunch AI",
+          "published": 1794585480
+        },
+        {
+          "title": "Huang's departure expected to shrink AI startup funding",
+          "summary": "Nvidia poured tens of billions into AI startups, and founders and VCs now expect smaller checks and lower valuations.",
+          "why_it_matters": "It could affect AI startup hiring and job opportunities.",
+          "importance": 4,
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "source": "TechCrunch AI",
+          "published": 1794609780
+        },
+        {
+          "title": "OpenAI launches ChatGPT Wallet for agents",
+          "summary": "The wallet lets agents in ChatGPT Work, Codex and dots complete purchases with user approval. It starts with a limited US rollout for Pro subscribers.",
+          "why_it_matters": "Agentic commerce is a key area for AI engineers.",
+          "importance": 4,
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI News",
+          "published": 1794582000
+        },
+        {
+          "title": "LangChain hits $3B valuation",
+          "summary": "LangChain claims 7,000 customers for its model-agnostic agent management tool LangSmith.",
+          "why_it_matters": "It validates demand for agent tooling.",
+          "importance": 4,
+          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "source": "TechCrunch AI",
+          "published": 1794598677
+        },
+        {
+          "title": "Banned Nvidia chips behind China's most powerful AI models",
+          "summary": "New research says top Chinese AI models were trained on export-banned Nvidia chips, and about $3 billion in Chinese AI projects are now at risk.",
+          "why_it_matters": "It raises US-China tech policy risk.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "source": "TechCrunch AI",
+          "published": 1794595230
+        },
+        {
+          "title": "Amazon's World Product Graph plan",
+          "summary": "Per Reuters, Amazon plans to compile data on virtually every product for sale, including ones it doesn't stock, partly to counter AI shopping agents.",
+          "why_it_matters": "It points to competition over data for agentic commerce.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amazons-plan-to-own-the-worlds-product-data-and-fight-ai-shopping-agents/articleshow/135800426.cms",
+          "source": "ET Tech",
+          "published": 1794567890
+        },
+        {
+          "title": "Anthropic's Claude Duet consumer agent reviewed",
+          "summary": "Duet is Anthropic's AI agent aimed at non-coders.",
+          "why_it_matters": "It shows how consumer agents are evolving.",
+          "importance": 2,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+          "source": "The Verge AI",
+          "published": 1794578400
+        },
+        {
+          "title": "OpenAI board member warns AI takeover could be months away",
+          "summary": "The researcher traces a path from AI reward hacking to potential human extinction.",
+          "why_it_matters": "It is a notable safety debate within a leading lab.",
+          "importance": 2,
+          "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+          "source": "Ars Technica",
+          "published": 1794590745
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Microsoft outage hits Outlook, Teams and Copilot; services restored",
+          "summary": "Microsoft says services are fully restored after a day-long global outage. Experts say it may be worse than the Amazon or CrowdStrike outages, and Indian enterprises were also affected.",
+          "why_it_matters": "It is a case study in single-provider dependency and resilience.",
+          "importance": 4,
+          "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+          "source": "Ars Technica",
+          "published": 1794583613
+        },
+        {
+          "title": "Netflix builds knowledge graph for AI-driven observability",
+          "summary": "Netflix is developing an ontology-driven knowledge graph to speed production investigations and give AI agents shared operational context.",
+          "why_it_matters": "It is practical for backend and SRE work with agents.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/netflix-ai-driven-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794571200
+        },
+        {
+          "title": "Google open-sources AQuA to diagnose production AI agent failures",
+          "summary": "AQuA analyzes production agent sessions, verifies recurring failure patterns and traces root causes. In a 32-session replay, seat selection bypasses dropped from 15 sessions to two.",
+          "why_it_matters": "Agent observability is a core skill for forward-deployed roles.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/google-ambient-agent-prod/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794577980
+        },
+        {
+          "title": "DocumentDB 1.0 reaches general availability",
+          "summary": "The MIT-licensed document database is built on PostgreSQL and compatible with the MongoDB wire protocol.",
+          "why_it_matters": "It is a new option in the database landscape.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794638220
+        },
+        {
+          "title": "Cloudflare introduces Spend Management",
+          "summary": "It adds opt-in spending caps for Workers and Durable Objects, and the post explains the metering pipeline behind runtime decisions.",
+          "why_it_matters": "The metering pipeline design write-up is relevant to distributed systems work.",
+          "importance": 2,
+          "url": "https://blog.cloudflare.com/spend-management/",
+          "source": "Cloudflare Blog",
+          "published": 1794578400
+        },
+        {
+          "title": "Windows 0-day 'SignDrop' gives local users System rights",
+          "summary": "A disgruntled researcher released the exploit publicly.",
+          "why_it_matters": "It is an unpatched privilege escalation risk.",
+          "importance": 2,
+          "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+          "source": "Ars Technica",
+          "published": 1794587192
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "SoftBank sells Meesho shares worth ₹1,885 crore",
+          "summary": "An SoftBank affiliate sold 7.64 crore shares in a block deal at an average ₹246.75 per share.",
+          "why_it_matters": "It shows investor exit activity in Indian tech.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/softbank-further-trims-india-exposure-offloads-meesho-shares-worth-rs-1885-crore/articleshow/135821247.cms",
+          "source": "ET Tech",
+          "published": 1794625817
+        },
+        {
+          "title": "Paytm gets RBI in-principle nod to revive wallet business",
+          "summary": "Paytm Payments Services Ltd received in-principle authorisation from the RBI.",
+          "why_it_matters": "It is a regulatory development for the fintech sector.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/paytm-set-to-revive-wallet-business-with-rbi-in-principle-nod/",
+          "source": "Inc42",
+          "published": 1794570404
+        },
+        {
+          "title": "Indian startups raised over $25 million this week",
+          "summary": "Funding activity lost steam this week.",
+          "why_it_matters": "It signals a weak funding environment for hiring.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/",
+          "source": "Inc42",
+          "published": 1794627014
+        },
+        {
+          "title": "MeitY reviews data collection by quick-help platforms for physical AI training",
+          "summary": "The ministry sought details from platforms including Pronto, Snabbit and Urban Company.",
+          "why_it_matters": "It is an early Indian regulatory move on AI training data.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/meity-reviews-house-help-platforms-data-collection-process-for-physical-ai-training/",
+          "source": "Inc42",
+          "published": 1794569814
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India eye first away ODI series win under Gambhir against New Zealand",
+          "summary": "New Zealand are trying to avoid a first home ODI series defeat in seven years. Gurnoor Brar replaces Kuldeep Yadav in India's Test squad.",
+          "why_it_matters": "It is the key Indian team series this week.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1562570.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794631288
+        },
+        {
+          "title": "Pakistan ask India to field in Under-19 Asia Cup final",
+          "summary": "India are without leading wicket-taker Ishan Sood, who has a back niggle, and have brought in Chigurupati Venkata.",
+          "why_it_matters": "It is an Indian team final.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1562576.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794633059
+        },
+        {
+          "title": "Vaibhav Sooryavanshi becomes youngest captain in men's T20 history",
+          "summary": "He broke the record held by Croatia's Zach Vukusic, who captained at 17 years and 311 days.",
+          "why_it_matters": "It marks a milestone for a young Indian player.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1562583.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794636269
+        }
+      ]
+    },
+    {
+      "title": "Worth a Watch",
+      "stories": [
+        {
+          "title": "Jonathan Blow – If AI solved coding, why is my software still the same?",
+          "summary": "A talk that drew a lively Hacker News discussion with 250 points and 257 comments.",
+          "why_it_matters": "It offers a skeptical take relevant to someone moving into AI engineering.",
+          "importance": 3,
+          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794582524
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-14",
+  "generated_at": 1794641800,
+  "items_scanned": 178,
+  "failed_sources": [
+    "Indian Express - India",
+    "Moneycontrol Business",
+    "Moneycontrol IPO News",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
