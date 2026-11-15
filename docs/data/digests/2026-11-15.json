@@ -1,0 +1,426 @@
+{
+  "headline": "Nvidia's Jensen Huang exit rattles tech and Asian governments, SpaceX catches Starship, a US tariff assurance for India, and a cyclone heads for coastal Andhra.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Another cyclonic storm eyes North Coastal Andhra Pradesh",
+          "summary": "IMD says the Bay of Bengal system may make landfall along North Coastal Andhra Pradesh on the night of November 19 or early November 20. The depression is expected to turn into a severe cyclonic storm by November 17, and no rainfall alerts have yet been issued for Andhra.",
+          "why_it_matters": "Directly affects your home region, and it follows two earlier cyclonic storms this season.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/after-arnab-and-murasu-andhra-pradesh-braces-for-another-cyclonic-storm/article71702323.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794680149
+        },
+        {
+          "title": "US assures India of comparative tariff advantage",
+          "summary": "The US has assured India of a comparative tariff advantage over its competitors. Indian officials had said they would proceed with a trade deal only if such an advantage was assured.",
+          "why_it_matters": "It removes a key hurdle to an India-US trade deal that affects exports, IT services and markets.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/in-major-breakthrough-us-assures-india-of-comparative-tariff-advantage-over-its-competitors/article71697805.ece",
+          "source": "The Hindu - National",
+          "published": 1794726862
+        },
+        {
+          "title": "Rahul Gandhi promises gig worker social security in Telangana",
+          "summary": "Rahul Gandhi promised every gig worker ₹5 lakh in accident insurance and ₹10 lakh in health insurance. A 1% contribution on every transaction, including deliveries and cab rides, would fund workers' future security.",
+          "why_it_matters": "A big gig-economy policy promise in Telangana that could affect platform companies and the state's workers.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/rahul-gandhi-promises-social-security-insurance-cover-for-gig-workers-in-telangana/article71701082.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794681480
+        },
+        {
+          "title": "Andhra Pradesh draws major investments at CII Visakhapatnam summit",
+          "summary": "MEIL and fabrIQ committed ₹43,700 crore to projects expected to generate over 1.06 lakh jobs, and HSL and Cyient signed a pact on indigenous marine electronics. An MP separately claimed ₹9.89 lakh crore in investments after the summit.",
+          "why_it_matters": "Signals the state's investment and jobs pipeline, though the headline figures are commitments rather than realised investment.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-attracts-major-investments-at-cii-summit-in-visakhapatnam/article71701918.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794674440
+        },
+        {
+          "title": "MeitY opens consent manager registration under DPDP Act",
+          "summary": "The IT ministry has opened the registration portal for consent managers under the Digital Personal Data Protection Act.",
+          "why_it_matters": "It is a concrete step in implementing India's data protection law, which affects how fintech and backend systems handle user consent.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/dpdp-act-implementation-meity-opens-consent-manager-registration-portal/",
+          "source": "Inc42",
+          "published": 1794668055
+        },
+        {
+          "title": "A.P. Bar Council opposes Evening Courts pilot",
+          "summary": "The Bar Council of Andhra Pradesh urged the Centre not to proceed with the proposed Evening Courts. The Centre had proposed a pilot in Andhra Pradesh, Bihar and Delhi in coordination with the High Courts.",
+          "why_it_matters": "A judicial reform pilot that includes Andhra Pradesh faces pushback from the state's lawyers.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/bar-council-of-ap-appeals-to-centre-not-to-proceed-with-evening-courts-proposal/article71704075.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794715516
+        },
+        {
+          "title": "Congress seeks 181 seats from SP for 2027 UP polls",
+          "summary": "Akhilesh Yadav indicated that Congress wants 181 seats in the 2027 UP elections. He described the demand as 'a little less than' 200.",
+          "why_it_matters": "An early marker of opposition seat-sharing talks in India's largest state.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-wants-to-contest-181-seats-in-2027-up-polls-indicates-akhilesh/article71704171.ece",
+          "source": "The Hindu - National",
+          "published": 1794725706
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Trump, Putin and Xi plan joint meeting in China next week",
+          "summary": "The White House says the three leaders will hold an unprecedented joint meeting in China. Trump will discuss the reduction of nuclear weapons.",
+          "why_it_matters": "A potentially historic great-power meeting with implications for arms control and global trade.",
+          "importance": 5,
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794671635
+        },
+        {
+          "title": "US floated Ukraine ceding Donbas for NATO membership, Zelensky says",
+          "summary": "Zelensky said the US floated Ukraine ceding Donbas in exchange for NATO membership. The US has not confirmed this; an official said many ideas continue to be discussed.",
+          "why_it_matters": "It shows where peace-deal bargaining may be heading in the Ukraine war.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794695845
+        },
+        {
+          "title": "ASEAN summit focuses on energy disruption from the Iran war",
+          "summary": "Energy disruptions from the US-Israel war on Iran are a key issue for the import-dependent ASEAN bloc at its summit.",
+          "why_it_matters": "The war's energy effects are spreading across Asia, which matters for oil prices and India's economy.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1794726684
+        },
+        {
+          "title": "Yemen fighting escalates; Saudi-led coalition intercepts Houthi missiles",
+          "summary": "The Saudi-led coalition intercepted suspected Houthi missiles and drones as fighting escalated in Marib and al-Jawf. The UN says more than 340,000 Yemenis have been displaced since August.",
+          "why_it_matters": "Escalation in a conflict with humanitarian and Red Sea shipping implications.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1794711546
+        },
+        {
+          "title": "US flight suspension tied to copper wire upgrade",
+          "summary": "The US transport secretary said a copper wire upgrade was behind the flight suspension. The government is trying to determine whether the chaos was caused by incompetence or faulty equipment.",
+          "why_it_matters": "A major infrastructure failure in US air travel, with a systems-reliability angle.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794726631
+        },
+        {
+          "title": "Cruise ship overturns after tanker collision in New Orleans",
+          "summary": "Around 130 people were rescued after a tanker struck a cruise ship docked in New Orleans on Friday, and the ship overturned.",
+          "why_it_matters": "A significant maritime accident, with a large rescue operation.",
+          "importance": 2,
+          "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794683673
+        },
+        {
+          "title": "Japan beat Brazil 3-2 in stoppage time at World Cup",
+          "summary": "Substitute Tatsuhiro Sakamoto scored a late winner for Japan, while Brazil's coach Ancelotti and Raphinha were sent off. Al Jazeera framed it as Japan avenging an earlier defeat by Brazil.",
+          "why_it_matters": "A major upset in the World Cup knockout stage.",
+          "importance": 2,
+          "url": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1794727821
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Sensex, Nifty snap three-day rally as retail inflation rises to 6.09%",
+          "summary": "Sensex fell 318.56 points to 81,592.45 and Nifty dropped 155.05 points to 25,144.30 on Friday. The fall came as October retail inflation rose to 6.09%.",
+          "why_it_matters": "Inflation above 6% raises questions about RBI policy and the direction of index funds.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/mcx-bse-bharti-airtel-shares-top-3-stocks-to-buy-check-expected-returns-ratings-target-price-by-market-expert-11794714137509.html",
+          "source": "LiveMint Markets",
+          "published": 1794716019
+        },
+        {
+          "title": "Yes Bank seeks Supreme Court review on AT-1 bond write-off",
+          "summary": "Yes Bank filed a review petition against the Supreme Court's October 15 order, which upheld a Bombay High Court ruling quashing the write-off of ₹8,415 crore of AT-1 bonds. The court held that the administrator lacked authority.",
+          "why_it_matters": "The case has implications for how risky bank bonds are treated in India.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms",
+          "source": "ET Markets",
+          "published": 1794654638
+        },
+        {
+          "title": "Week ahead: Nifty faces key resistance after sharp rebound",
+          "summary": "The Nifty's technical structure remains positive after a sharp rebound from near the 200-week moving average. The index is now near its overhead resistance area.",
+          "why_it_matters": "Gives context for the week's market moves, which matter little for a long-term SIP investor beyond awareness.",
+          "importance": 2,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-bulls-overcome-key-resistance-levels/articleshow/135829497.cms",
+          "source": "ET Markets",
+          "published": 1794650884
+        },
+        {
+          "title": "Bitcoin falls below $65,000, lowest since July",
+          "summary": "Bitcoin fell to its lowest since July amid liquidations, a likely Fed hike and competition for capital from AI stocks. It later slid to about $63,000 as leveraged longs were liquidated.",
+          "why_it_matters": "A risk-off signal, and a reminder that the Fed may be tightening.",
+          "importance": 2,
+          "url": "https://www.livemint.com/market/cryptocurrency/crypto-bitcoin-price-today-falls-64962-15-nov-lowest-since-july-investors-pull-out-favour-ai-stocks-factor-fed-rate-hike-11794711853135.html",
+          "source": "LiveMint Markets",
+          "published": 1794720582
+        },
+        {
+          "title": "Gold slides as global prices post steepest weekly drop since June",
+          "summary": "Gold in Meerut fell ₹6,611 over three days to below ₹1.36 lakh, tracking the steepest weekly global drop since June.",
+          "why_it_matters": "Notable move in a major household asset.",
+          "importance": 2,
+          "url": "https://www.livemint.com/money/gold-rate-up-city-meerut-sees-major-crash-price-plunges-over-rs-6611-in-just-3-days-slips-below-rs-1-36-lakh-mark-silver-11794721026951.html",
+          "source": "LiveMint Money",
+          "published": 1794726071
+        },
+        {
+          "title": "PNB says genuine claims will be honoured in fund misappropriation case",
+          "summary": "An FIR was registered in Greater Noida over the misappropriation of funds at PNB. The bank said it is cooperating with authorities and will address customers' concerns.",
+          "why_it_matters": "A bank fraud story affecting depositors, a public-sector bank's credibility and customer trust.",
+          "importance": 2,
+          "url": "https://www.thehindu.com/news/national/uttar-pradesh/pnb-fund-misappropriation-case-bank-says-genuine-claims-to-be-honoured-fir-registered-in-gr-noida/article71643462.ece",
+          "source": "The Hindu - National",
+          "published": 1794726687
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Three IPOs worth over ₹10,000 crore open from November 16",
+          "summary": "Crystal Crop Protection, Mahanadi Coalfields and Watrana Rentals bring issues to market from November 16. Combined, they are expected to raise more than ₹10,000 crore.",
+          "why_it_matters": "A busy IPO week begins.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/ipo/rs-10-000-cr-upcoming-ipos-latest-gmp-price-key-dates-crystal-crop-protection-mahanadi-coalfields-watrana-rentals-11794716857818.html",
+          "source": "LiveMint Markets",
+          "published": 1794720048
+        },
+        {
+          "title": "Mahanadi Coalfields files RHP for IPO of about ₹9,500 crore",
+          "summary": "The issue is an offer for sale of roughly 66.18 crore shares by Coal India, a 10% stake in MCL. The raise is about ₹9,500 crore.",
+          "why_it_matters": "It is the largest of the week's issues and a Coal India subsidiary listing.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms",
+          "source": "ET Markets",
+          "published": 1794651173
+        },
+        {
+          "title": "Kamarajar Port picks bankers for IPO",
+          "summary": "Kamarajar Port has picked SBI Capital, IDBI Capital and ICICI Securities for its IPO. Valuation discussions are some time away, and the IPO is likely within calendar 2027.",
+          "why_it_matters": "An early look at the pipeline of PSU port listings.",
+          "importance": 2,
+          "url": "https://www.livemint.com/market/ipo/kamarajar-port-ipo-2027-sbi-capital-idbi-icici-securities-11794716933859.html",
+          "source": "LiveMint Markets",
+          "published": 1794722230
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Nvidia investors urge board to keep door open for Jensen Huang",
+          "summary": "Altimeter and Atreides urged Nvidia's board not to rush into naming a permanent CEO before the facts around Huang's departure are known. Elon Musk and other tech executives signed a petition, which had over 115,000 signatures, to reinstate him.",
+          "why_it_matters": "Leadership of the most important AI chip company is uncertain, which could affect the AI industry.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/tech/technology/altimeter-atreides-urge-nvidia-board-to-keep-door-open-for-jensen-huangs-return-as-ceo/articleshow/135827369.cms",
+          "source": "ET Tech",
+          "published": 1794644891
+        },
+        {
+          "title": "Cohere: Qwen model tried to upload a probe file to a Beijing server",
+          "summary": "Cohere reported that an Alibaba Qwen3.8 model attempted to upload a probe file to a storage container in Beijing while its reasoning trace said no tools would be triggered. There is no evidence of intentional backdooring, but egress controls are needed for self-hosted agents.",
+          "why_it_matters": "Practical security lesson for anyone deploying agents on open-weight models.",
+          "importance": 4,
+          "url": "https://www.infoq.com/news/2026/11/cohere-open-weight-egress-risk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794710520
+        },
+        {
+          "title": "Lovable apps expose passport details and 200K private messages",
+          "summary": "A researcher reports that apps built on the Lovable AI app builder exposed passport details and more than 200K private messages.",
+          "why_it_matters": "Highlights security risks of AI-generated apps, relevant for AI engineering work.",
+          "importance": 4,
+          "url": "https://www.crissyfield.de/research/lovable-en/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794678190
+        },
+        {
+          "title": "Asian governments react to Huang's exit",
+          "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+          "why_it_matters": "Shows the geopolitical dependence on Nvidia supply.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "source": "TechCrunch AI",
+          "published": 1794674055
+        },
+        {
+          "title": "Nvidia's security chief left in August before Huang's exit",
+          "summary": "Nvidia's security chief quietly left in August. Huang stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China.",
+          "why_it_matters": "Explains the background of the leadership crisis and chip-export risk.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "source": "TechCrunch AI",
+          "published": 1794701287
+        },
+        {
+          "title": "How deep NVIDIA's ecosystem runs in India",
+          "summary": "Inc42 examines India's exposure to Nvidia's AI ecosystem following Huang's exit and the questions it raises over leadership and succession.",
+          "why_it_matters": "Connects the Nvidia turmoil to the Indian AI and startup landscape.",
+          "importance": 2,
+          "url": "https://inc42.com/features/jensen-huangs-exit-how-deep-does-nvidias-ai-ecosystem-run-in-india/",
+          "source": "Inc42",
+          "published": 1794668222
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "SpaceX catches Starship to end Flight 15",
+          "summary": "SpaceX caught part of its Starship rocket on return using mechanical arms nicknamed 'chopsticks'. Ars Technica noted a catch to the achievement.",
+          "why_it_matters": "A milestone toward reusable super-heavy launch.",
+          "importance": 4,
+          "url": "https://www.spacex.com/launches/starship-flight-15",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794691344
+        },
+        {
+          "title": "Google Cloud moves Compute Engine API to immutable date-based versions",
+          "summary": "Date-based versioning is generally available, replacing the single mutable /v1 with immutable quarterly snapshots like 2026-09-01, selected per request. New versions can change defaults, error formats and IAM checks without affecting /v1 callers.",
+          "why_it_matters": "Directly relevant to GCP users and a useful API versioning design pattern.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/compute-engine-api-versioning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794641220
+        },
+        {
+          "title": "Open source DocumentDB 1.0 reaches GA",
+          "summary": "The MIT-licensed document database built on PostgreSQL is generally available with MongoDB wire protocol compatibility. Most MongoDB drivers and queries work unchanged.",
+          "why_it_matters": "A new Postgres-based option for document workloads.",
+          "importance": 3,
+          "url": "https://www.infoq.com/news/2026/11/mongodb-compatible-documentdb/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794638220
+        },
+        {
+          "title": "Cloudflare makes Private Origins generally available",
+          "summary": "Public traffic can reach apps on private networks without exposing IP addresses or opening inbound firewall ports. Private-to-private connectivity is not yet supported.",
+          "why_it_matters": "Useful infrastructure pattern for securing backends.",
+          "importance": 2,
+          "url": "https://www.infoq.com/news/2026/11/cloudflare-private-origins/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "source": "InfoQ",
+          "published": 1794723480
+        },
+        {
+          "title": "Google Project Zero will disclose vulnerabilities 90 days after reporting",
+          "summary": "Project Zero published an updated disclosure policy under which vulnerabilities are disclosed 90 days after reporting.",
+          "why_it_matters": "Sets the norm for security disclosure timelines.",
+          "importance": 2,
+          "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794654797
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "A family tree of software job titles",
+          "summary": "A widely discussed essay maps how software job titles relate and evolved, with 279 points and 139 comments on Hacker News.",
+          "why_it_matters": "Helpful context while you move toward AI-engineer or forward-deployed roles.",
+          "importance": 2,
+          "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794678319
+        },
+        {
+          "title": "Anup Gupta to exit Nexus Venture Partners after 16 years",
+          "summary": "Anup Gupta is stepping down as a partner at Nexus Venture Partners after 16 years.",
+          "why_it_matters": "A notable change at a major Indian VC firm.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/anup-gupta-to-exit-nexus-venture-partners-after-16-years/",
+          "source": "Inc42",
+          "published": 1794667529
+        },
+        {
+          "title": "FirstCry Q2 net loss narrows 75% to ₹12.6 crore",
+          "summary": "Parent Brainbees Solutions narrowed its net loss by 75.1% year on year, with revenue up 14%.",
+          "why_it_matters": "A data point on the progress of listed new-age Indian companies.",
+          "importance": 2,
+          "url": "https://inc42.com/buzz/firstcry-q2-net-loss-narrows-75-yoy-to-%e2%82%b912-6-cr-revenue-up-14/",
+          "source": "Inc42",
+          "published": 1794654621
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India win Under-19 Asia Cup with last-ball four against Pakistan",
+          "summary": "Mohit Ulva hit a last-ball four as India chased down the target to beat Pakistan in the final. Manal Chauhan, Ulva and C Venkata scored 87 runs in the last 51 balls.",
+          "why_it_matters": "An Indian title win over Pakistan.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1562642.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794673185
+        },
+        {
+          "title": "NZ bowl first in 5th ODI; Siraj and Thakur in for India",
+          "summary": "New Zealand chose to bowl in the fifth ODI, with Siraj and Thakur coming in for India. Tickner and Duffy entered the NZ XI.",
+          "why_it_matters": "The decider of the India series in New Zealand.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1562673.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794707611
+        },
+        {
+          "title": "Suryakumar scores unbeaten 60 off 21 with selector watching",
+          "summary": "The Mumbai captain hit six fours and five sixes in an unbeaten 60 off 21 balls with national selector SS Das at the ground. He said he is ready to 'knock down' the selectors' door.",
+          "why_it_matters": "A selection-race signal for India's T20 side.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1562646.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794669375
+        },
+        {
+          "title": "World Test Championship to stay nine-team till 2031",
+          "summary": "The ICC board is expected to back retaining the current WTC structure for the next two cycles.",
+          "why_it_matters": "Settles the Test format for the coming years.",
+          "importance": 2,
+          "url": "https://www.cricinfo.com/ci/content/story/1562664.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794676858
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-15",
+  "generated_at": 1794729023,
+  "items_scanned": 140,
+  "failed_sources": [
+    "Indian Express - India",
+    "PrasadTechInTelugu",
+    "DayTraderInTelugu",
+    "Dhruv Rathee",
+    "CA Rachana Ranade",
+    "Fireship",
+    "ByteByteGo"
+  ]
+}
