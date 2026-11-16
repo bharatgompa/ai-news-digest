@@ -23,6 +23,10 @@ interests: |
     listing performance). Report facts only — no "should you apply" verdicts or grey-market hype.
   - Cricket: Indian team results and squads, major series and tournaments (international and IPL).
 
+  Be selective: this is a short daily briefing, not a firehose. Quality and relevance beat coverage.
+  Technical engineering write-ups and AI-industry chatter should only appear when they are genuinely
+  big news, not just interesting to developers.
+
   Skip: celebrity/entertainment gossip, clickbait, day-trading tips, individual stock "buy" calls,
   crypto shilling, minor product updates, and duplicated coverage of the same story.
 
@@ -79,4 +83,4 @@ settings:
   lookback_hours: 26        # a little over a day, so a late cron run doesn't miss items
   max_items_per_feed: 12    # keeps busy news feeds from crowding out the rest
   max_items_total: 250      # hard cap on what we send to the LLM
-  digest_size: 25           # how many stories end up in the digest
+  digest_size: 15           # max stories in the digest (Claude may pick fewer on a slow day)
