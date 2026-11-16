@@ -1,53 +1,26 @@
 {
-  "headline": "Cyclone Akvan heads for the Andhra coast, Nvidia's leadership crisis deepens, and Alibaba launches Qwen4-Max.",
+  "headline": "Cyclone Akvan heads for the Andhra coast, Nvidia's CEO drama shakes the AI industry, and a third US aircraft carrier reaches the Middle East.",
   "sections": [
     {
       "title": "India",
       "stories": [
         {
-          "title": "Cyclone Akvan to hit Andhra Pradesh around Nov 19-20",
-          "summary": "A depression over the Bay of Bengal is expected to become a severe cyclonic storm. IMD says it will cross the Andhra coast between Nellore and Tuni by November 20 noon. Fishermen have been told to stay ashore, and Odisha has ordered early evacuation of vulnerable areas. It would be the third cyclone to hit the state within a month.",
-          "why_it_matters": "Directly affects coastal Andhra Pradesh, with heavy rain and 40-50 kmph winds expected on Nov 18-20.",
+          "title": "Cyclone Akvan to hit Andhra Pradesh coast on November 20",
+          "summary": "The weather department says Cyclone Akvan will cross the Andhra coast between Nellore and Tuni by noon on November 20. Chief Minister Naidu reviewed preparations, and 173 fishing boats have not yet returned.",
+          "why_it_matters": "Coastal Andhra faces heavy rain and wind, and farmers are being told to harvest and move crops to safety.",
           "importance": 5,
-          "url": "https://www.thehindu.com/news/national/depression-to-turn-severe-cyclonic-storm-over-bay-of-bengal-by-november-17/article71704137.ece",
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-hit-andhra-on-november-20-naidu-reviews-preparedness-173-fishing-boats-yet-to-return/article71707396.ece",
           "source": "The Hindu - National",
-          "published": 1794813340
+          "published": 1794825242
         },
         {
-          "title": "Revanth urges Modi to expedite Telangana irrigation clearances",
-          "summary": "Chief Minister Revanth Reddy asked the PM to speed up approvals for Telangana irrigation projects. He sought Maharashtra's approval for the Tummidihatti project and ₹5,000 crore under SASCI, and invited the PM to the Khelo India Youth Games. Minister Uttam separately said central nods are delaying several state projects.",
-          "why_it_matters": "Centre-state friction over irrigation funding and clearances is a key Telangana policy story.",
-          "importance": 3,
-          "url": "https://www.thehindu.com/news/national/telangana/revanth-urges-modi-to-expedite-clearances-for-telangana-irrigation-projects/article71705336.ece",
-          "source": "The Hindu - Telangana",
-          "published": 1794756020
-        },
-        {
-          "title": "Andhra NCD survey: 59.63 lakh hypertension and 48.95 lakh diabetes cases",
-          "summary": "A non-communicable disease survey in Andhra Pradesh found 59.63 lakh people with hypertension and 48.95 lakh with diabetes. About 34 lakh people have both conditions.",
-          "why_it_matters": "It shows the state's public-health burden, and the scale is relevant to your home region.",
-          "importance": 3,
-          "url": "https://www.thehindu.com/news/national/andhra-pradesh/ncd-40-survey-1223-lakh-new-hypertension-1158-lakh-diabetes-cases-identified-in-population-aged-above-18-in-andhra/article71705063.ece",
+          "title": "Cyclone Akvan may bring heavy rain to Telangana from November 19 to 21",
+          "summary": "Four Telangana districts are under an orange alert for heavy to very heavy rain on November 20. The effects may begin on Thursday, November 19.",
+          "why_it_matters": "Heavy rain could disrupt travel and daily life across Telangana.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/telangana/cyclone-akvan-may-bring-rains-to-telangana-between-november-19-and-21/article71707448.ece",
           "source": "The Hindu - National",
-          "published": 1794814608
-        },
-        {
-          "title": "SIO activists detained before Israel-T-Hub event in Hyderabad",
-          "summary": "Activists were detained in a pre-dawn swoop ahead of an event involving an Israeli delegation and T-Hub. The collaboration did not appear on T-Hub's schedule, though tech websites reported it.",
-          "why_it_matters": "Hyderabad's startup hub is drawing political controversy over its international tie-ups.",
-          "importance": 2,
-          "url": "https://www.thehindu.com/news/cities/Hyderabad/sio-activists-detained-in-pre-dawn-swoop-before-israel-t-hub-event-in-hyderabad/article71706635.ece",
-          "source": "The Hindu - Telangana",
-          "published": 1794809010
-        },
-        {
-          "title": "Supreme Court seeks status reports on NDPS special courts",
-          "summary": "The court asked the Centre and states for status reports on setting up special courts for NDPS Act cases. The Centre admitted not much progress has been made on the court's recent orders.",
-          "why_it_matters": "It signals judicial pressure on a long-running court-capacity problem.",
-          "importance": 2,
-          "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-states-to-file-status-reports-on-setting-up-of-special-courts-to-hear-ndps-act-cases/article71707052.ece",
-          "source": "The Hindu - National",
-          "published": 1794815104
+          "published": 1794825387
         }
       ]
     },
@@ -55,40 +28,22 @@
       "title": "World",
       "stories": [
         {
-          "title": "Congress moves to tighten AI chip export rules after Nvidia spy scandal",
-          "summary": "Lawmakers from both parties back new measures restricting AI chip exports and want Jensen Huang and other Nvidia leaders to testify. Megaspeed says the executive linked to Huang left the firm in August 2025. The scandal has raised questions over whether advanced chips reached China.",
-          "why_it_matters": "Export controls can reshape AI hardware supply and the global AI industry.",
+          "title": "Third US aircraft carrier arrives in the Middle East amid Iran tensions",
+          "summary": "The USS Theodore Roosevelt has joined two other US carriers in the region. Reports ask whether the US-Iran war could resume.",
+          "why_it_matters": "A renewed war could push up oil prices and hurt global markets.",
           "importance": 4,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-          "source": "The Verge AI",
-          "published": 1794770143
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1794821496
         },
         {
-          "title": "Houthis gain ground on Red Sea coast as Yemeni forces retreat",
-          "summary": "Saudi-backed forces say they are pulling troops from the Bab al-Mandab Strait to defend the interim capital Aden. This leaves the Houthis in control of a key area on the Red Sea waterway.",
-          "why_it_matters": "The Red Sea is a critical shipping route, so the shift affects trade and security.",
+          "title": "Russia stalls Ukraine peace talks and proposes separate non-attack deals with European countries",
+          "summary": "Russia has offered non-aggression pacts to individual nations, a move that could weaken NATO's shared defence promise. Peace talks on Ukraine remain stuck.",
+          "why_it_matters": "It signals the Ukraine war is not ending soon and that Europe's security alliance is under pressure.",
           "importance": 3,
-          "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC World",
-          "published": 1794813803
-        },
-        {
-          "title": "ASEAN and China fail to agree South China Sea code",
-          "summary": "Southeast Asian leaders fell short of agreeing a code of conduct with China. They also denounced violence in Myanmar and extended the ban on its leader attending summits.",
-          "why_it_matters": "Maritime disputes in the region remain unresolved, with trade implications.",
-          "importance": 2,
-          "url": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss",
+          "url": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
           "source": "Al Jazeera",
-          "published": 1794797195
-        },
-        {
-          "title": "Fire in Phuket's Patong kills at least 11",
-          "summary": "A shophouse fire in the Thai tourist town killed at least 11 and injured 16. Authorities have ruled out arson and are investigating the cause.",
-          "why_it_matters": "A major tragedy in a popular destination for Indian travellers.",
-          "importance": 2,
-          "url": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
-          "source": "Al Jazeera",
-          "published": 1794814968
+          "published": 1794823391
         }
       ]
     },
@@ -96,49 +51,22 @@
       "title": "Markets & Money",
       "stories": [
         {
-          "title": "Tata Motors PV falls over 8% on ₹5,531 crore quarterly loss",
-          "summary": "The company reported a September-quarter consolidated loss of ₹5,531 crore despite revenue up 34%. Exceptional costs totalled ₹6,738 crore. The stock is down 27% in 2026 and was a Nifty laggard.",
-          "why_it_matters": "It is a heavyweight index constituent, so it drags on index funds.",
+          "title": "Rupee strengthens as foreign money flows into Indian shares",
+          "summary": "The rupee closed 0.3% higher at 93.92 to the dollar. Foreign investors put nearly $10 billion into Indian shares in November, and the Nifty 50 rose 0.6%.",
+          "why_it_matters": "Steady foreign inflows support the market where your SIP money is invested.",
           "importance": 3,
-          "url": "https://www.livemint.com/market/stock-market-news/tata-motors-pv-shares-crash-what-led-to-auto-stock-8-ramming-nifty-laggard-down-27-in-2026-buy-sell-or-hold-11794801946841.html",
-          "source": "LiveMint Markets",
-          "published": 1794802839
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-volatility-ebbs-as-equity-inflows-blunt-global-headwinds/articleshow/135883543.cms",
+          "source": "ET Markets",
+          "published": 1794824355
         },
         {
-          "title": "Gold and silver slide to multi-month lows",
-          "summary": "MCX gold and silver fell on expectations of a US Fed rate hike, a stronger dollar and higher Treasury yields. Silver hit a one-year low. Analysts say wedding demand and central bank buying may limit gold's downside.",
-          "why_it_matters": "Signals that global rate expectations are tightening, which affects Indian markets too.",
+          "title": "Sebi may let foreign investors hold bigger stakes before extra disclosure rules apply",
+          "summary": "Sebi, India's market regulator, is considering raising the ownership limit for foreign portfolio investors from 10% to 25%. A consultation paper will be released soon.",
+          "why_it_matters": "Easier rules could attract more foreign money into Indian markets.",
           "importance": 3,
-          "url": "https://www.livemint.com/market/commodities/mcx-gold-silver-prices-drop-what-led-to-rates-slide-multi-month-lows-ahead-of-wedding-season-details-for-investors-11794801621038.html",
-          "source": "LiveMint Markets",
-          "published": 1794803179
-        },
-        {
-          "title": "Goldman sees 'sizeable surplus' in oil market in 2027",
-          "summary": "Goldman Sachs expects a sizeable oil surplus next year that would drag prices lower, though supply risks remain.",
-          "why_it_matters": "Lower oil is favourable for India's inflation and import bill.",
-          "importance": 3,
-          "url": "https://www.livemint.com/market/goldman-sachs-predicts-sizeable-surplus-for-oil-market-in-2027-11794801634263.html",
-          "source": "LiveMint Markets",
-          "published": 1794801633
-        },
-        {
-          "title": "Kaynes Technology hits 20% lower circuit; Amber falls 8%",
-          "summary": "Kaynes' Q2 net profit fell 61.6% year on year, with rising debt and auditor observations adding to concerns. Amber Enterprises fell 8.4% in sympathy as electronics-manufacturing sentiment soured.",
-          "why_it_matters": "It shows contagion risk in the electronics manufacturing theme.",
-          "importance": 2,
-          "url": "https://www.livemint.com/market/stock-market-news/why-kaynes-technology-shares-crashed-20-to-52-week-low-stock-down-54-in-a-year-what-stock-market-experts-say-11794807033272.html",
-          "source": "LiveMint Markets",
-          "published": 1794810480
-        },
-        {
-          "title": "CBDT extends tax audit report and ITR deadlines by 21 days",
-          "summary": "The deadlines for corporate taxpayers' audit reports and returns for AY 2026-27 were extended by 21 days.",
-          "why_it_matters": "A tax compliance change, though it mainly affects businesses.",
-          "importance": 2,
-          "url": "https://www.livemint.com/money/personal-finance/itr-update-extended-deadline-filing-tax-audit-report-this-week-21-november-due-date-taxpayers-eligible-corporates-ay27-11794801731405.html",
-          "source": "LiveMint Money",
-          "published": 1794806066
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-may-propose-raising-fpi-beneficial-ownership-threshold-to-25-plans-consultation-paper/articleshow/135883637.cms",
+          "source": "ET Markets",
+          "published": 1794824472
         }
       ]
     },
@@ -146,13 +74,13 @@
       "title": "IPOs",
       "stories": [
         {
-          "title": "Mahanadi Coalfields IPO: price band ₹129–136, ₹8,981 crore offer",
-          "summary": "Coal India subsidiary Mahanadi Coalfields set a price band of ₹129–136 per share for an ₹8,981-crore offer for sale. A retail lot is 110 shares, costing ₹14,960 at the upper band.",
-          "why_it_matters": "It is a large public sector IPO in the market now.",
-          "importance": 3,
-          "url": "https://www.livemint.com/market/ipo/coal-india-s-mahanadi-coalfields-ipo-expected-profit-calculator-on-gmp-what-retail-hni-investors-can-gain-on-listing-11794806101034.html",
+          "title": "Mahanadi Coalfields IPO opens November 19",
+          "summary": "Coal India is selling shares in its subsidiary Mahanadi Coalfields in an ₹8,981-crore offer. The price band is ₹129 to ₹136 per share, and one retail lot of 110 shares costs ₹14,960.",
+          "why_it_matters": "It is a large public issue from a government-owned coal company.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/mahanadi-coalfields-ipo-dividend-king-in-the-making-what-top-official-says-about-coal-india-arms-post-listing-payouts-11794818788482.html",
           "source": "LiveMint Markets",
-          "published": 1794808148
+          "published": 1794823228
         }
       ]
     },
@@ -160,81 +88,22 @@
       "title": "AI",
       "stories": [
         {
-          "title": "Alibaba launches Qwen4-Max flagship model",
-          "summary": "Alibaba unveiled Qwen4-Max, saying it improves handling of complex professional and scientific work along with protections against safety risks. The launch drew 402 points on Hacker News.",
-          "why_it_matters": "A major model release from a leading open-weight lab, relevant for AI engineering work.",
-          "importance": 4,
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-unveils-new-flagship-ai-model-with-safety-upgrades/articleshow/135874755.cms",
-          "source": "ET Tech",
-          "published": 1794808155
-        },
-        {
-          "title": "Nvidia leadership crisis: Jensen Huang resigns, may seek return",
-          "summary": "Huang resigned as CEO after a scandal involving a suspected Chinese spy and questions over chips reaching China. There are rumours he may seek a path back. Commentators ask whether the turmoil hurts the wider AI industry given how much of the economy rides on Nvidia.",
-          "why_it_matters": "Nvidia is the core of AI infrastructure, and its leadership shake-up affects the whole AI ecosystem, including India.",
-          "importance": 4,
+          "title": "Nvidia in turmoil after CEO Jensen Huang resigns over spy scandal",
+          "summary": "Nvidia's co-founder Jensen Huang has resigned as CEO after a scandal involving a suspected Chinese spy, and there are rumours he may try to return. US lawmakers from both parties want tighter limits on exporting AI chips and want Nvidia's leaders to testify.",
+          "why_it_matters": "Nvidia is central to the AI boom, so its leadership crisis affects the whole tech industry and markets.",
+          "importance": 5,
           "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
           "source": "The Verge AI",
           "published": 1794747600
         },
         {
-          "title": "Anthropic details AI-powered code review for Claude Code",
-          "summary": "Anthropic described layered automated verification, AI reviews and risk-based human approval used on the Claude Code codebase. The aim is to cut manual review time without raising regressions or incidents.",
-          "why_it_matters": "A practical template for engineers working with coding agents.",
+          "title": "Alibaba launches new flagship AI model Qwen4-Max",
+          "summary": "China's Alibaba unveiled Qwen4-Max, saying it handles complex professional and scientific work better and has stronger safety protections. It was among the most discussed items on Hacker News.",
+          "why_it_matters": "It shows Chinese AI models keeping pace with the best from the US.",
           "importance": 3,
-          "url": "https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-          "source": "InfoQ",
-          "published": 1794736500
-        },
-        {
-          "title": "Uber's framework for governing AI agents",
-          "summary": "Uber says traditional identity and API controls fall short for agents that reason over external content and act. Its framework checks whether an action fits the user's request, the agent's purpose, its permissions and the context.",
-          "why_it_matters": "Agent security patterns are directly relevant to forward-deployed and AI-engineer roles.",
-          "importance": 3,
-          "url": "https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-          "source": "InfoQ",
-          "published": 1794772800
-        }
-      ]
-    },
-    {
-      "title": "Tech & Engineering",
-      "stories": [
-        {
-          "title": "Microsoft 365 outage linked to chlorine poisoning of 15 hotel guests",
-          "summary": "A German report ties an outage to a chlorine gas incident that poisoned 15 hotel guests. The story drew 505 points on Hacker News.",
-          "why_it_matters": "A vivid example of cascading failures from cloud dependency.",
-          "importance": 3,
-          "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-          "source": "Hacker News (150+ pts)",
-          "published": 1794767770
-        },
-        {
-          "title": "Universal XSS found in uBlock Origin's element picker",
-          "summary": "A researcher disclosed a universal XSS in uBlock Origin that can be triggered via the website-driven element picker.",
-          "why_it_matters": "A security finding in a widely used browser extension.",
-          "importance": 2,
-          "url": "https://iter.ca/post/ubo-uxss/",
-          "source": "Hacker News (150+ pts)",
-          "published": 1794794688
-        },
-        {
-          "title": "ULA's Vulcan rocket fails during launch",
-          "summary": "It was the first total mission failure in United Launch Alliance's 20-year history. It is a blow to competitors of SpaceX.",
-          "why_it_matters": "It shifts the launch market's competitive balance.",
-          "importance": 2,
-          "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
-          "source": "Ars Technica",
-          "published": 1794784314
-        },
-        {
-          "title": "Cloudflare makes Private Origins generally available",
-          "summary": "Application Services for Private Origins lets public traffic reach apps on private networks without exposing IPs or opening inbound firewall ports. Private-to-private connectivity is not yet supported.",
-          "why_it_matters": "Useful for backend and cloud infrastructure design.",
-          "importance": 2,
-          "url": "https://www.infoq.com/news/2026/11/cloudflare-private-origins/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-          "source": "InfoQ",
-          "published": 1794723480
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/alibaba-unveils-new-flagship-ai-model-with-safety-upgrades/articleshow/135874755.cms",
+          "source": "ET Tech",
+          "published": 1794808155
         }
       ]
     },
@@ -242,40 +111,13 @@
       "title": "Tech Industry & Jobs",
       "stories": [
         {
-          "title": "Bharat Semi raises $24M seed for AI sensors",
-          "summary": "The Bengaluru semiconductor startup raised $24M (around ₹215 crore) to build programmable smart sensors for physical AI. It has design wins with companies including General Atomics.",
-          "why_it_matters": "A sign of growing deep-tech funding in India.",
-          "importance": 3,
-          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-          "source": "TechCrunch AI",
-          "published": 1794785400
-        },
-        {
-          "title": "SBI data breach: FIR over alleged theft of 3.75 lakh records",
-          "summary": "Police in CBD-Belapur registered an FIR on November 12 over the alleged theft of 3.75 lakh bank records.",
-          "why_it_matters": "It is relevant to fintech security and to demand for security skills.",
-          "importance": 3,
-          "url": "https://inc42.com/buzz/sbi-flags-exposure-of-3897-customer-records-on-dark-web/",
-          "source": "Inc42",
-          "published": 1794812572
-        },
-        {
-          "title": "DPDP rules may lift demand for cybersecurity talent",
-          "summary": "A report says implementation of the DPDP Rules should create fresh demand for cybersecurity professionals and managed security services as firms strengthen data protection.",
-          "why_it_matters": "A hiring trend that could matter in fintech.",
-          "importance": 2,
-          "url": "https://economictimes.indiatimes.com/tech/internet/dpdp-rules-may-boost-demand-for-cybersecurity-professionals-and-security-services-report/articleshow/135874969.cms",
+          "title": "IBM CEO says AI could replace 10-20% of jobs in a decade",
+          "summary": "IBM's CEO Arvind Krishna said call-centre and back-office (BPO) work will likely see the biggest cuts. IBM also plans to invest $3 billion a year in India.",
+          "why_it_matters": "It is a direct warning about job changes in India's outsourcing industry, along with a sign of continued big-tech investment here.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/technology/ibm-investing-3-billion-annually-in-india-plans-10-billion-global-quantum-push-ceo/articleshow/135884070.cms",
           "source": "ET Tech",
-          "published": 1794809571
-        },
-        {
-          "title": "Urban Company shareholders approve ₹2,500 crore fundraise",
-          "summary": "Shareholders approved a proposal to raise up to ₹2,500 crore.",
-          "why_it_matters": "It shows capital activity among listed Indian tech companies.",
-          "importance": 2,
-          "url": "https://inc42.com/buzz/urban-company-board-clears-plans-to-raise-up-to-%e2%82%b92500-cr/",
-          "source": "Inc42",
-          "published": 1794808671
+          "published": 1794825025
         }
       ]
     },
@@ -283,45 +125,21 @@
       "title": "Cricket",
       "stories": [
         {
-          "title": "Jay Shah re-elected ICC chairman",
-          "summary": "Jay Shah was re-elected for a second term as ICC chairman and was the only name in the running.",
-          "why_it_matters": "It confirms Indian leadership of world cricket's governing body.",
+          "title": "Jay Shah re-elected ICC chairman for a second term",
+          "summary": "The former BCCI secretary was the only candidate in the running for the role.",
+          "why_it_matters": "India's cricket administrators keep control of the sport's global governing body.",
           "importance": 3,
           "url": "https://www.cricinfo.com/ci/content/story/1562819.html?ex_cid=OTC-RSS",
           "source": "ESPNcricinfo",
           "published": 1794808474
-        },
-        {
-          "title": "Bangladesh recover to 327/6 against South Africa after Rabada's five-for",
-          "summary": "Rabada took the first five Bangladesh wickets in Johannesburg, reducing them to 121 for 5. Hridoy and Litton then added 206 to finish the day on 327 for 6.",
-          "why_it_matters": "It is the major Test action of the day.",
-          "importance": 2,
-          "url": "https://www.cricinfo.com/ci/content/story/1562759.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
-          "published": 1794759866
-        },
-        {
-          "title": "ICC scraps Super Six from 2027 World Cup Qualifier",
-          "summary": "The ICC also detailed the qualification process for the 2028 men's and women's T20 World Cups. Bangladesh and the USA will host the LA28 qualifying tournaments.",
-          "why_it_matters": "It sets the road to T20 cricket's Olympic debut.",
-          "importance": 2,
-          "url": "https://www.cricinfo.com/ci/content/story/1562804.html?ex_cid=OTC-RSS",
-          "source": "ESPNcricinfo",
-          "published": 1794766506
         }
       ]
     }
   ],
   "date": "2026-11-16",
-  "generated_at": 1794815912,
-  "items_scanned": 141,
+  "generated_at": 1794826422,
+  "items_scanned": 159,
   "failed_sources": [
-    "Indian Express - India",
-    "PrasadTechInTelugu",
-    "DayTraderInTelugu",
-    "Dhruv Rathee",
-    "CA Rachana Ranade",
-    "Fireship",
-    "ByteByteGo"
+    "Indian Express - India"
   ]
 }
