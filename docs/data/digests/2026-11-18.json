@@ -1,0 +1,185 @@
+{
+  "headline": "Nvidia's board refuses to bring back Jensen Huang as Anthropic's giant IPO nears, while Cyclone Akvan heads for the Andhra coast.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Cyclone Akvan likely to hit Andhra coast on November 20 as a severe storm",
+          "summary": "The storm is now a severe cyclonic storm and may cross the coast between Nellore and Visakhapatnam on November 20. Forecasters now say it is unlikely to strengthen further than that.",
+          "why_it_matters": "Coastal Andhra could see heavy rain, power cuts and flooding, so the reader's family there should be prepared.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/akvan-strengthens-into-severe-cyclonic-storm-but-further-intensification-not-likely/article71714428.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794981309
+        },
+        {
+          "title": "Andhra readies 24 disaster response teams for Cyclone Akvan",
+          "summary": "The state has kept 13 teams from the national disaster force and 11 from its own state force ready. Emergency numbers are 112, 1070 and 18004250101.",
+          "why_it_matters": "Useful contact numbers if anyone you know is in the cyclone's path.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-keeps-13-ndrf-and-11-sdrf-teams-ready-for-cyclone-akvan/article71714707.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1794985890
+        },
+        {
+          "title": "Indian sailor missing after attacks on a ship in the Strait of Hormuz",
+          "summary": "India's foreign ministry says 21 of the 24 Indians aboard the gas tanker MT Tara Gas have been evacuated safely. One Indian is missing.",
+          "why_it_matters": "Shows the risk to Indian crews on a key oil and gas shipping route.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/indian-national-missing-after-attacks-on-commercial-vessel-in-strait-of-hormuz/article71714331.ece",
+          "source": "The Hindu - National",
+          "published": 1794989778
+        },
+        {
+          "title": "Over 400 citizens ask Telangana CM to postpone global investment summit due to drought",
+          "summary": "Environmentalists, scientists and academics object to assigning one government officer to each summit delegate. They say officials should work on drought relief instead.",
+          "why_it_matters": "It puts pressure on a major Telangana government investment event.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/over-400-citizens-urge-cm-to-postpone-invest-telangana-global-summit-citing-drought/article71712667.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1794985051
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Ukraine hits Crimean Bridge, partly collapsing it",
+          "summary": "Ukraine says it spent weeks planning a missile and drone attack on the key bridge linking Russia to Crimea. Russia has meanwhile struck bridges in Kyiv.",
+          "why_it_matters": "The bridge is a major Russian supply route, so this could shift the war.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794950675
+        },
+        {
+          "title": "Xi pitches free trade at APEC as Trump disrupts global trade",
+          "summary": "China's president said Beijing wants a stable and predictable setting for global companies. Xi and Putin also called for a world not led by the West.",
+          "why_it_matters": "Trade tensions among big powers affect Indian exports and prices.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/18/xis-pitch-for-free-trade-amid-trumps-global-trade-disruptions?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1794989118
+        },
+        {
+          "title": "US loses measles elimination status after 26 years",
+          "summary": "States have reported over 5,400 cases and 10 deaths. It is the first time since the early 1990s that measles has caused deaths at this level.",
+          "why_it_matters": "A sign of falling vaccination rates in a rich country.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1794949440
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Foreign investors pour record $9.6 billion into Indian stocks in November",
+          "summary": "After months of selling, foreign funds are buying back as company earnings improve and crude oil prices ease. Crude is down more than 20% since its October peak.",
+          "why_it_matters": "Strong foreign buying supports the market where your SIPs are invested.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-money-rushes-back-into-indian-stocks-at-record-pace/articleshow/135950745.cms",
+          "source": "ET Markets",
+          "published": 1794980183
+        },
+        {
+          "title": "Government weighs cutting tax on share trades and raising it on derivatives",
+          "summary": "Proposals include halving the transaction tax on regular share trades and taxing derivatives more. A cut in long-term capital gains tax is also being considered for Budget 2027.",
+          "why_it_matters": "Tax changes on investments could affect long-term investors' returns.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/govt-weighs-tax-tweaks-to-boost-stock-trading-curb-derivatives/articleshow/135953824.cms",
+          "source": "ET Markets",
+          "published": 1794986698
+        },
+        {
+          "title": "Gold falls sharply to near a 14-month low",
+          "summary": "24-carat gold dropped ₹2,880 to ₹1,31,960 per 10 grams on Wednesday. Silver also fell.",
+          "why_it_matters": "Cheaper gold helps wedding buyers, though jeweller shares fell on fears people will wait.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/gold-rate-today-hyderabad-coimbatore-chennai-bangalore-18-november-check-mcx-22-carat-prices-city-wise-list-here-11794978754083.html",
+          "source": "LiveMint Money",
+          "published": 1794980118
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Nvidia refuses to bring back Jensen Huang as CEO, but reports strong sales",
+          "summary": "Nvidia's board said it will not reinstate Huang after his resignation over an affair with a woman US agencies are investigating over alleged Chinese ties. Colette Kress is interim CEO and expects revenue to rise 75% in fiscal 2028.",
+          "why_it_matters": "The world's most important AI chip company is in turmoil, with US probes and a hearing before Congress on December 1.",
+          "importance": 5,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-rejects-jensen-huangs-offer-to-return-as-ceo-despite-pressure-from-silicon-valley/articleshow/135945875.cms",
+          "source": "ET Tech",
+          "published": 1794968845
+        },
+        {
+          "title": "Anthropic's IPO could raise over $60 billion",
+          "summary": "The maker of the Claude chatbot is selling shares to the public, with an IPO that could value it at up to $1.6 trillion. Amazon and Google would together own nearly 30%.",
+          "why_it_matters": "It could be one of the biggest listings ever and a test of the AI boom.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-forges-ahead-with-its-ipo-even-as-ai-fears-mount-and-markets-wobble/articleshow/135946525.cms",
+          "source": "ET Tech",
+          "published": 1794970241
+        },
+        {
+          "title": "OpenAI launches GPT-6.2 Astra and Sol",
+          "summary": "The two new models aim to do better at professional work and coding at lower cost. They are available in ChatGPT, Codex and the API.",
+          "why_it_matters": "Cheaper and better AI tools affect how engineers build products.",
+          "importance": 3,
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "source": "OpenAI News",
+          "published": 1794937500
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Serious security flaw found in Java; US and South Korea urge updates",
+          "summary": "A flaw in OpenJDK, nicknamed Java4Shell, can let attackers run code when Base64 data is processed. US and South Korean authorities told users to install updates urgently.",
+          "why_it_matters": "You work with Java, so check whether your services need patching.",
+          "importance": 4,
+          "url": "https://calif.io/java4shell/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1794949888
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "IPL teams release Starc, Head and Bethell before the 2027 auction",
+          "summary": "Franchises have announced their released and retained players ahead of the auction on December 16. Travis Head has also said he will skip IPL 2027.",
+          "why_it_matters": "It sets up next season's squads.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1562958.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794982774
+        },
+        {
+          "title": "India begin new Test era in Wellington against top-ranked New Zealand",
+          "summary": "India are fourth in the World Test Championship table, well behind New Zealand. A place in the final is the big goal.",
+          "why_it_matters": "India face a tough start to a new chapter.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1563027.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1794977775
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-18",
+  "generated_at": 1794990731,
+  "items_scanned": 188,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
