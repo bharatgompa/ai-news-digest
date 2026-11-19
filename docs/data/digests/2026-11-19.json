@@ -1,0 +1,190 @@
+{
+  "headline": "Anthropic's record $1.5 trillion IPO, a Trump-Putin-Xi summit, and Cyclone Akvan nearing Andhra and Odisha dominate the day.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Cyclone Akvan to miss most of Andhra, but north coast stays on red alert",
+          "summary": "The storm is now expected to hit land near Gopalpur in Odisha, so most Andhra districts moved from red to orange alert. Srikakulam, Vizianagaram and Parvathipuram remain on red alert, and over a lakh people have been moved to safety in Odisha.",
+          "why_it_matters": "If you or family live on the north Andhra or Odisha coast, expect heavy weather and follow official warnings.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-to-spare-most-of-andhra-red-alert-remains-for-srikakulam-vizianagaram-parvathipuram/article71719063.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1795074233
+        },
+        {
+          "title": "Bus from Bengaluru to Hyderabad overturns in Anantapur, at least 40 hurt",
+          "summary": "A private bus overturned near Raptadu, and police suspect the driver fell asleep at the wheel. The driver ran from the scene.",
+          "why_it_matters": "It is a reminder of the risk on the busy overnight bus route many Telugu families use.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/at-least-40-injured-as-bengaluru-hyderabad-private-bus-overturns-near-raptadu-in-anantapur/article71718877.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1795073703
+        },
+        {
+          "title": "Hyderabad doctor cuts cost of a rare disease drug from ₹9 crore to ₹2.5 lakh",
+          "summary": "Seven children with a rare genetic disorder will get a year's supply of the medicine free on November 30. The doctor's version of the drug costs about ₹2.5 lakh per child for a year.",
+          "why_it_matters": "It shows rare-disease treatment can be made affordable in India.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-doctor-brings-down-rare-disease-drug-cost-by-65-lakh-seven-children-to-get-free-treatment/article71718621.ece",
+          "source": "The Hindu - National",
+          "published": 1795077069
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Trump meets Putin and Xi as rare three-way talks begin",
+          "summary": "At the APEC summit, Trump met Putin and Xi separately, calling both a friend, before three-way talks between the US, Russia and China.",
+          "why_it_matters": "Decisions by these three powers affect wars, trade and nuclear risk worldwide.",
+          "importance": 4,
+          "url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1795077130
+        },
+        {
+          "title": "Kuwait says it repelled an Iranian attack after US strike on an Iranian island",
+          "summary": "Kuwait said it stopped Iran's first attack in two months, and Bahrain also reported being attacked. This followed a US air strike on Iran's Qeshm island.",
+          "why_it_matters": "Fighting in the Gulf can push up oil prices, which affects India.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795007088
+        },
+        {
+          "title": "Ukraine hits the Crimean Bridge again using relay drones",
+          "summary": "Russia says traffic on the bridge to occupied Crimea was halted after another attack. Ukraine reportedly used its own relay drones to get around Starlink limits.",
+          "why_it_matters": "It hits an important Russian supply route and shows how the war is changing.",
+          "importance": 3,
+          "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+          "source": "Ars Technica",
+          "published": 1795043439
+        },
+        {
+          "title": "Myanmar faces a UN court verdict on genocide against the Rohingya",
+          "summary": "The UN's top court is set to rule on the Rohingya massacres. No country has ever been found guilty of genocide by an international court.",
+          "why_it_matters": "A guilty verdict would be a historic first in international law.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795043046
+        },
+        {
+          "title": "Israel launches a rare ground operation in Gaza beyond the Yellow Line",
+          "summary": "Israel says it is destroying a militant tunnel, while Hamas calls it a serious ceasefire violation.",
+          "why_it_matters": "It puts the fragile Gaza ceasefire at risk.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795041296
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Paytm falls 7% as fees on UPI payments for shops may be delayed again",
+          "summary": "Reports say the plan to charge shops a fee on some UPI payments may slip beyond the 2027 state elections. Paytm, Pine Labs and MobiKwik shares all fell.",
+          "why_it_matters": "UPI stays free for now, but payment companies lose a hoped-for source of income.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/paytm-share-price-crash-payment-stock-slides-7-on-upi-mdr-rollout-delay-pine-labs-one-mobikwik-systems-also-tumble-11795062771594.html",
+          "source": "LiveMint Markets",
+          "published": 1795064239
+        },
+        {
+          "title": "Gold hits a 14-month low as silver and copper also fall",
+          "summary": "Prices fell for a fourth day, hurt by a stronger US dollar and rising US bond yields. Indian gold is near 14-month lows just as the wedding season begins on November 20.",
+          "why_it_matters": "Cheaper gold helps families buying for weddings.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/gold-hits-14-month-low-why-are-silver-and-copper-prices-falling-too-experts-explain-what-investors-should-do-now-11795063390311.html",
+          "source": "LiveMint Money",
+          "published": 1795071266
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Anthropic raises $81.3 billion in the biggest IPO ever, valued at $1.5 trillion",
+          "summary": "The maker of the Claude AI chatbot priced its shares at $83 each, above the expected range. It now tops SpaceX as the largest IPO, when a company first sells shares to the public.",
+          "why_it_matters": "It signals how much money is flowing into AI companies.",
+          "importance": 5,
+          "url": "https://www.aljazeera.com/news/2026/11/19/charting-the-worlds-biggest-ipos-as-anthropic-overtakes-spacex?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1795073768
+        },
+        {
+          "title": "Mutual funds took 53% of Mahanadi Coalfields IPO's anchor portion",
+          "summary": "Mutual funds got 53.04% of the shares set aside for big early investors, across 29 schemes. Nippon India Small Cap Fund received the largest share.",
+          "why_it_matters": "Index and mutual fund investors may indirectly own shares of this Coal India subsidiary.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/mutual-funds-received-53-of-mahanadi-coalfields-ipo-anchor-book-which-schemes-will-own-coal-india-subsidiary-shares-11795071487832.html",
+          "source": "LiveMint Money",
+          "published": 1795075136
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Microsoft CEO explains why he offered 60,000 staff buyouts",
+          "summary": "Satya Nadella says he offered the buyouts in October to avoid another big layoff, and that the reason is AI.",
+          "why_it_matters": "It shows how AI is reshaping tech jobs.",
+          "importance": 4,
+          "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+          "source": "TechCrunch AI",
+          "published": 1795048976
+        },
+        {
+          "title": "Google launches Gemini 4 Neon, its new AI model",
+          "summary": "Google announced the model, and early users say it looks like a rival to the top models from competitors.",
+          "why_it_matters": "New leading AI models change the tools engineers build with.",
+          "importance": 3,
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+          "source": "Hacker News (150+ pts)",
+          "published": 1795037647
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Nvidia's CEO Jensen Huang has been ousted, drawing pushback from Musk and Ackman",
+          "summary": "Nvidia dismissed Huang after reports on his personal affairs, including one with an alleged Chinese spy. Musk and investor Bill Ackman say the decision was rushed, and Nvidia has stopped selling AI chips to China.",
+          "why_it_matters": "A shake-up at the world's key AI chip maker affects the whole tech industry.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-prices-its-ipo-at-83-per-share-valuing-the-ai-giant-at-1-5-trillion/articleshow/135975275.cms",
+          "source": "ET Tech",
+          "published": 1795053305
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "First Test: New Zealand recover to 243 for 5 against India",
+          "summary": "Bumrah took three early wickets and left New Zealand at 70 for 5, but Nicholls scored a century and Phillips reached 94 not out. India left out Siraj and Jadeja and chose to bowl first.",
+          "why_it_matters": "The opening Test of the series is evenly poised after a strong Kiwi recovery.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1563189.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1795073095
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-19",
+  "generated_at": 1795078022,
+  "items_scanned": 191,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
