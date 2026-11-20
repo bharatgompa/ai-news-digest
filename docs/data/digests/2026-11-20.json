@@ -1,0 +1,140 @@
+{
+  "headline": "Anthropic's record stock market debut, a Trump-Xi-Putin meeting, a Rohingya genocide ruling and a sharp gold sell-off lead the day.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Cyclone Akvan hits Odisha coast; heavy rain and train cancellations in Andhra Pradesh",
+          "summary": "Cyclone Akvan began making landfall on Odisha's coast with rough seas and strong winds, and the process may take seven to eight hours. In Srikakulam, Andhra Pradesh, Ichchapuram got 184.6 mm of rain in 24 hours and low-lying areas are flooded.",
+          "why_it_matters": "Floods and cancelled trains affect travel and daily life across coastal Andhra Pradesh and Odisha.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/cyclone-akvan-landfall-andhra-pradesh-odisha-imd-alert-live-updates-november-20-2026/article71722871.ece",
+          "source": "The Hindu - National",
+          "published": 1795161708
+        },
+        {
+          "title": "Rahul Gandhi says India is a 'side player' after Trump-Xi-Putin meeting",
+          "summary": "Rahul Gandhi said India is only a side player in the Iran war and that a compromised PM can never sit at the table of the three big powers. He also expressed surprise at Pakistan's role as a negotiator.",
+          "why_it_matters": "It shows how India's place in world diplomacy is becoming a political fight at home.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/congress-leader-rahul-gandhi-on-xi-trump-putin-trilateral-meeting/article71723024.ece",
+          "source": "The Hindu - National",
+          "published": 1795162138
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Trump, Putin and Xi issue 'peace declaration' after first three-way meeting",
+          "summary": "The presidents of the US, Russia and China met together for the first time and released a joint peace declaration. They have met one-on-one before but never all three.",
+          "why_it_matters": "A deal among these three powers could shape wars, trade and oil prices worldwide.",
+          "importance": 5,
+          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795109902
+        },
+        {
+          "title": "UN's top court rules Myanmar committed genocide against Rohingya",
+          "summary": "The International Court of Justice ruled that Myanmar's army committed genocide in its 2017 crackdown, which killed thousands. The case was brought by The Gambia.",
+          "why_it_matters": "It is a landmark legal verdict, though whether refugees can return home is still unclear.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795118822
+        },
+        {
+          "title": "European leaders say they are ready for talks with Russia on ending Ukraine war",
+          "summary": "At a summit in Berlin, Ukraine's European allies said they have a united negotiating position. They are ready to talk to Russia about ending the war.",
+          "why_it_matters": "It signals a possible shift toward negotiations in Europe's biggest war.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795135824
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Gold and silver prices crash as US rate-hike fears grow",
+          "summary": "Gold fell by about Rs 6,000 per 10 grams and is below Rs 1.25 lakh, with silver down Rs 9,900 per kg. Gold is heading for its worst weekly fall since March, and gold ETFs dropped up to 7.5%. The causes are a stronger US dollar, rising US bond yields and expected US interest rate hikes.",
+          "why_it_matters": "If you hold gold, gold ETFs or gold-loan or jewellery company shares, your holdings are losing value fast.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-20th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136011549.cms",
+          "source": "ET Markets",
+          "published": 1795145260
+        },
+        {
+          "title": "Rupee crosses 93 per dollar, strongest since April",
+          "summary": "The rupee broke past 93 to the US dollar for the first time since April, helped by over $12 billion of foreign money flowing into Indian shares in November. It opened Friday at 93.15.",
+          "why_it_matters": "A stronger rupee makes imports like oil and foreign travel a bit cheaper.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-past-93-vs-usd-as-portfolio-inflows-bear-retreat-fuel-rally/articleshow/136014185.cms",
+          "source": "ET Markets",
+          "published": 1795151333
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Anthropic lists on the stock market at about $1.5 trillion value, shares jump 17%",
+          "summary": "Anthropic, maker of the Claude chatbot, began trading on Nasdaq after pricing its shares at $83 and closed its first day at $97.17, up 17%. It is the first purely AI company to be listed, and its seven founders cashed out nearly $2 billion.",
+          "why_it_matters": "It is a test of how much investors will pay for AI and could shape AI funding and jobs.",
+          "importance": 5,
+          "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795131231
+        },
+        {
+          "title": "California investigates Nvidia over chips possibly reaching China after CEO's exit",
+          "summary": "California's attorney general has issued a legal demand to Nvidia asking whether its advanced chips or confidential information went to China, and whether it misled investors. This follows CEO Jensen Huang's resignation after an affair. Nvidia's stock is down nearly 40% from its peak.",
+          "why_it_matters": "It adds pressure on the world's key AI chip company, which matters for AI costs and markets.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795129470
+        }
+      ]
+    },
+    {
+      "title": "Tech & Engineering",
+      "stories": [
+        {
+          "title": "Serious security flaw found in OpenSSL, widely used internet encryption software",
+          "summary": "A buffer overflow bug rated 9.8 out of 10 for severity was reported in OpenSSL, software used by a large share of websites and servers to keep connections secure.",
+          "why_it_matters": "Backend teams will likely need to patch servers using OpenSSL.",
+          "importance": 3,
+          "url": "https://github.com/openssl/openssl/pull/33652",
+          "source": "Hacker News (150+ pts)",
+          "published": 1795140069
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India openers lead after New Zealand make 368 in Test",
+          "summary": "After New Zealand were bowled out for 368, Yashasvi Jaiswal made 85 and KL Rahul is 52 not out in a 130-run opening stand for India.",
+          "why_it_matters": "It puts India in a strong position in the Test.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1563296.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1795156079
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-20",
+  "generated_at": 1795163513,
+  "items_scanned": 187,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
