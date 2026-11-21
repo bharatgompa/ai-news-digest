@@ -1,0 +1,162 @@
+{
+  "headline": "A global tech and AI stock rout hits markets and gold, while an Anthropic researcher claims AI helped prove the Riemann hypothesis.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Supreme Court lets bike taxis keep running in Karnataka",
+          "summary": "The Supreme Court dismissed the challenge to a Karnataka High Court order that allows bike taxis, a relief for Rapido and Uber. Karnataka's transport minister says the state will follow the order but may add rules and limits instead of a full ban.",
+          "why_it_matters": "Bike taxis stay available for commuters and gig riders, though new state rules could still limit them.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/supreme-court-upholds-karnataka-hc-order-allowing-bike-taxis/",
+          "source": "Inc42",
+          "published": 1795179853
+        },
+        {
+          "title": "Supreme Court stops move of 135-year-old Central Secretariat Library",
+          "summary": "The court halted shifting of the library's books, which date back to 1702, and will examine the government's plan to move it permanently to a new building in Delhi. It told the government that heritage is not just old buildings but also books.",
+          "why_it_matters": "It tests how far the Central Vista rebuilding project can go over heritage concerns.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/sc-pulls-up-centre-over-relocation-of-heritage-library-halts-shifting-of-books/article71708194.ece",
+          "source": "The Hindu - National",
+          "published": 1795247947
+        },
+        {
+          "title": "Indian man gets over 19 years in US for plot to kill Sikh separatist leader",
+          "summary": "Nikhil Gupta pleaded guilty in February to murder-for-hire and related charges over a plot to assassinate a US-based Sikh separatist leader. A US court has now sentenced him to more than 19 years.",
+          "why_it_matters": "The case keeps India-US relations under pressure over the alleged plot.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795202869
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Trump threatens tax or ban on US firms building AI data centres abroad",
+          "summary": "Trump said American companies will not be allowed to build data centres outside the US and promised a 'tremendous tax'. He gave little detail, and his own team was reportedly hearing about it for the first time.",
+          "why_it_matters": "It could reshape where tech giants spend billions on AI, including in countries like India.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795208052
+        },
+        {
+          "title": "Zelensky calls Putin a 'killer' after Trump calls him a friend",
+          "summary": "Earlier this week Trump greeted Putin ahead of a meeting in China and said they have a 'great relationship'. Ukraine's president hit back sharply.",
+          "why_it_matters": "It shows the gap between the US and Ukraine over how to deal with Russia.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795248625
+        },
+        {
+          "title": "COP31 climate talks stuck over fossil fuels",
+          "summary": "Nearly 200 countries are deadlocked over a new global climate agreement, with fossil fuels the main sticking point.",
+          "why_it_matters": "Without a deal, global climate action stays slow.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795246265
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "US stocks have their worst week since 2020 as AI fears spread",
+          "summary": "The Nasdaq 100 fell 5.6% this week and the S&P 500 is now in a correction, meaning down at least 10% from its peak. Worries centre on slowing data-centre building, tighter funding for AI projects and weaker tech earnings. Europe also had its worst week in over a year.",
+          "why_it_matters": "Global sell-offs like this can spill into Indian markets and your index fund values.",
+          "importance": 5,
+          "url": "https://www.livemint.com/market/stock-market-news/us-stock-markets-nasdaq-100-5-6-pc-worst-week-since-covid-2020-s-p-500-3-7-pc-correction-investors-sell-off-ai-tech-11795223650589.html",
+          "source": "LiveMint Markets",
+          "published": 1795225003
+        },
+        {
+          "title": "Gold and silver slump further",
+          "summary": "Gold fell for a fifth day, its worst week since March, after the US Federal Reserve hinted at more interest rate hikes and AI stocks sold off. Indian reports say gold is down about 37% and silver about 65% from January peaks.",
+          "why_it_matters": "Anyone who bought gold or silver recently, including at Diwali, is sitting on sharp losses.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-11795214360197.html",
+          "source": "LiveMint Markets",
+          "published": 1795214359
+        },
+        {
+          "title": "Bitcoin falls below $60,000, a two-year low",
+          "summary": "The overall crypto market value dropped 7.58% to $1.95 trillion.",
+          "why_it_matters": "It adds to the risk-off mood across global markets.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/cryptocurrency/bitcoin-crashes-to-over-two-year-low-below-60-000-level-what-do-experts-expect-from-crypto-markets-going-ahead-11795234024656.html",
+          "source": "LiveMint Markets",
+          "published": 1795239717
+        },
+        {
+          "title": "Jefferies' Chris Wood raises India weighting again",
+          "summary": "The strategist lifted India to 15% of his Asia portfolio, moving one point from Taiwan, after a two-point rise earlier this month. Nifty and Sensex have risen four sessions in a row.",
+          "why_it_matters": "It suggests some global investors see India as a safer bet while tech sells off.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/greed-fear-report-jefferies-chris-wood-hikes-india-exposure-for-2nd-time-in-3-weeks-cuts-taiwan-new-allocations-11795235087351.html",
+          "source": "LiveMint Markets",
+          "published": 1795248548
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Anthropic mathematician claims AI-assisted proof of the Riemann hypothesis",
+          "summary": "Levent Alpöge says he used Claude to prove the Riemann hypothesis, a famous maths problem unsolved for 167 years. Verification will take time, and a competing human solution has also appeared.",
+          "why_it_matters": "If it holds up, it would be a landmark for what AI can do in science.",
+          "importance": 4,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+          "source": "The Verge AI",
+          "published": 1795192453
+        },
+        {
+          "title": "Anthropic lists on Nasdaq at a $1.75 trillion value",
+          "summary": "The Claude maker ended its first day of trading worth $1.75 trillion, though its shares then slid in the wider tech sell-off. Indian retail investors rushed to buy.",
+          "why_it_matters": "It marks a milestone for the AI industry just as doubts about AI valuations grow.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-ipo-caps-explosive-growth-period-for-ai-startup-filled-with-contradictions/articleshow/136017308.cms",
+          "source": "ET Tech",
+          "published": 1795158228
+        },
+        {
+          "title": "US regulator probes Nvidia's accounting",
+          "summary": "The US Securities and Exchange Commission is reportedly investigating Nvidia's revenue reporting changes. This comes as Nvidia deals with other legal issues, and its shares fell about 14%.",
+          "why_it_matters": "It adds to pressure on the biggest AI chip company.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/technology/nvidias-accounting-is-a-focus-of-us-sec-investigation-sources-say/articleshow/136043101.cms",
+          "source": "ET Tech",
+          "published": 1795221583
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "A week of major tech outages",
+          "summary": "Outlook went down for days, the US had a nationwide flight ground stop for only the second time in 25 years, and some banks and iCloud also failed. The US is due to announce the root cause of the flight stoppage soon.",
+          "why_it_matters": "It shows how fragile the systems behind daily life and banking can be.",
+          "importance": 3,
+          "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+          "source": "The Verge AI",
+          "published": 1795183619
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-21",
+  "generated_at": 1795248984,
+  "items_scanned": 176,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
