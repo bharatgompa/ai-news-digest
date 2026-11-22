@@ -1,0 +1,135 @@
+{
+  "headline": "Gold and silver slump, Wall Street and Bitcoin fall, India's Nifty rallies, and India pile up a huge lead against New Zealand in the Test.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Andhra Pradesh local elections start November 26, police focus on 1,500 villages",
+          "summary": "The State Election Commission has announced three rounds of village council voting on November 26, 29 and December 2. Police are concentrating on 1,500 panchayats in Chittoor, Annamayya and Sri Sathya Sai districts.",
+          "why_it_matters": "These local polls will test the ruling NDA alliance's grip across Andhra Pradesh.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-focus-on-1500-panchayats-in-chittoor-annamayya-sri-sathya-sai-districts-ahead-of-polls/article71728086.ece",
+          "source": "The Hindu - National",
+          "published": 1795329576
+        },
+        {
+          "title": "GST investigators search Vijayawada and Hyderabad over China-linked gaming money",
+          "summary": "The tax intelligence agency DGGI searched locations in Vijayawada and Hyderabad's Banjara Hills. It is probing about ₹1 lakh crore in gaming transactions linked to China.",
+          "why_it_matters": "It points to a large online gaming tax and money trail touching both Telugu states.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/dggi-probes-%e2%82%b91-lakh-cr-china-linked-gaming-transactions/",
+          "source": "Inc42",
+          "published": 1795269996
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "COP31 climate talks run into second day of overtime",
+          "summary": "The UN climate summit in Turkey has overshot its deadline as countries argue over fossil fuels. A new draft deal and a last-minute proposal from the summit president are being considered to avoid collapse.",
+          "why_it_matters": "The outcome sets how seriously the world's countries commit to cutting fossil fuel use.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795330446
+        },
+        {
+          "title": "Ukraine defends Crimean Bridge strikes; Russia-bound ship hit by drone",
+          "summary": "Zelensky called the strikes on the Crimean Bridge a fair response to 109 Russian air attacks on Ukrainian bridges. Finland says Ukraine likely sent the drone that hit a Russia-bound ship in the Gulf of Finland.",
+          "why_it_matters": "The war is spreading to new places, including waters near NATO countries.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795267058
+        },
+        {
+          "title": "Mexican cartel boss on FBI's most wanted list arrested after shoot-out",
+          "summary": "Fausto Isidro Meza Flores, known as 'El Chapo Isidro', was caught after a gun fight with authorities. He is accused of drug trafficking and torture.",
+          "why_it_matters": "It is a major arrest in the fight against Mexican drug cartels.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795310703
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Gold down 31% and silver down 64% from January highs",
+          "summary": "Gold fell for a fifth straight day, its worst week since March, as the US may raise interest rates and the dollar strengthens. A sell-off in AI-linked shares has also hurt prices; in India gold hit a 14-month low of ₹1,21,949 per 10 grams.",
+          "why_it_matters": "Anyone holding gold or gold funds has seen a big drop in value.",
+          "importance": 4,
+          "url": "https://www.livemint.com/money/personal-finance/gold-crashes-31-silver-plunges-64-how-a-10-lakh-investment-has-shrunk-since-january-peak-what-lies-ahead-11795324704458.html",
+          "source": "LiveMint Money",
+          "published": 1795327053
+        },
+        {
+          "title": "Wall Street in correction, Goldman warns of more selling; Bitcoin at two-year low",
+          "summary": "The S&P 500, the main US share index, has entered a correction, and Goldman Sachs warns big automated investors could sell more. Bitcoin also fell to its lowest level in two years as investors move away from risky assets.",
+          "why_it_matters": "Global weakness can spill into Indian markets and foreign investor flows.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/wall-street-sell-off-is-the-worst-over-goldman-sachs-warns-of-fresh-selling-wave-flags-3-recovery-triggers-11795316021375.html",
+          "source": "LiveMint Markets",
+          "published": 1795318433
+        },
+        {
+          "title": "Nifty gains 2.6% in a week; banks hit record high",
+          "summary": "The Nifty rose 656 points last week helped by strong foreign investor buying. Nifty Bank hit a record 64,485 on November 20 and is up about 16% this month.",
+          "why_it_matters": "It is good news for index-fund and SIP investors, though analysts advise caution after a sharp run.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-eyes-26200-as-rally-strengthens-6-sectors-signal-outperformance/articleshow/136050218.cms",
+          "source": "ET Markets",
+          "published": 1795253945
+        },
+        {
+          "title": "EPFO plans monthly withdrawals for retired PF members",
+          "summary": "The proposed plan would let retiring PF members take their savings out monthly, quarterly or half-yearly. A minister has described it as a gift for workers.",
+          "why_it_matters": "It could give retirees a steady income instead of a lump sum.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/epfo-how-swp-will-ensure-regular-income-for-you-even-after-retirement-pm-modi-s-minister-explains-gift-for-workers-11795327800743.html",
+          "source": "LiveMint Money",
+          "published": 1795329146
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Anthropic shares fall 9% after stock market debut",
+          "summary": "Shares of Anthropic, the company behind the Claude AI assistant, fell about 9% after it began trading. Its value is roughly 40 times its yearly sales, which worries investors about AI prices.",
+          "why_it_matters": "It shows investors are getting cautious about the AI boom that is shaping tech jobs.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
+          "source": "ET Markets",
+          "published": 1795318215
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India build huge lead against New Zealand in Wellington Test",
+          "summary": "India declared at 720 for 9, leading by 352 runs, and quickly took two New Zealand wickets. KL Rahul scored a century and every one of India's top five made at least fifty.",
+          "why_it_matters": "India are in a strong position to go 1-0 up in the series.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1563584.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1795330020
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-22",
+  "generated_at": 1795334329,
+  "items_scanned": 140,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
