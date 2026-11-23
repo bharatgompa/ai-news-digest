@@ -1,0 +1,135 @@
+{
+  "headline": "Indian markets slip after a big November rally, India draw the Wellington Test, and UN climate talks end without a deal.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Modi holds talks with Nepal's Prime Minister Balendra Shah in Delhi",
+          "summary": "Nepal's PM Balendra Shah is on a two-day State visit, his first official bilateral trip abroad since taking office in March. He met PM Modi to discuss trade, investment and connectivity, and the new Ayodhya-Janakpur rail link was hailed.",
+          "why_it_matters": "Closer links with a key neighbour affect trade and travel across the border.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/pm-modi-holds-bilateral-talks-with-nepal-prime-minister-balendra-shah-trade-investment-connectivity-on-agenda/article71733786.ece",
+          "source": "The Hindu - National",
+          "published": 1795422064
+        },
+        {
+          "title": "Hyderabad on alert after email threatens 26/11-style attacks",
+          "summary": "Police stepped up security checks at key places after an email named Kacheguda Railway Station and Hotel Tourist Plaza as targets. The sender used a Europe-based VPN and a temporary email account, and cybercrime teams are trying to trace them.",
+          "why_it_matters": "It is a security scare in the reader's home region, though no attack has happened.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-police-issue-alert-over-terror-threat-email-security-checks-conducted-at-key-locations/article71731583.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1795371428
+        },
+        {
+          "title": "Jana Sena activist dies in clash over local election nominations in Pulivendula",
+          "summary": "An activist of Jana Sena, a party in Andhra Pradesh's ruling alliance, died during a clash over panchayat (village council) nominations. Deputy CM Pawan Kalyan ordered an inquiry.",
+          "why_it_matters": "Political violence ahead of local polls is a concern for Andhra Pradesh.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/jana-sena-activist-dies-during-clash-over-panchayat-nominations-in-pulivendula/article71730855.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1795364244
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Longest-ever UN climate talks end with no deal",
+          "summary": "The COP31 summit in Antalya ran longer than any UN climate talks before and still ended without an agreement. Australia's PM, whose country co-hosted, blamed difficult geopolitical times.",
+          "why_it_matters": "Without a deal, global action on cutting emissions stays stalled.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795410906
+        },
+        {
+          "title": "Ukraine says it sank Russian warship Merkury near Libya with sea drones",
+          "summary": "President Zelenskyy said Ukrainian sea drones hit Russian ships off the Libyan coast. Libya's eastern government said the sunken warship had stopped for fuel and supplies on its way back to Russia.",
+          "why_it_matters": "The war is now reaching far from Ukraine, into the Mediterranean.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1795419429
+        },
+        {
+          "title": "Democrats win their biggest House majority since 1992",
+          "summary": "After flipping a North Carolina seat, Democrats have at least 258 seats in the US House against at least 173 for Republicans.",
+          "why_it_matters": "It limits what US President Trump can pass, which affects global trade and tech policy.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795397023
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Rupee strong this month, but an RBI rate hike is expected",
+          "summary": "The rupee is on track for a monthly gain of over 2% on foreign money flowing into Indian shares. HDFC Bank's treasury head sees it reaching 91.50 per dollar, and expects RBI, India's central bank, to raise rates because inflation is climbing; its next policy decision is on December 4.",
+          "why_it_matters": "A rate hike would push up loan EMIs and bond yields.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms",
+          "source": "ET Markets",
+          "published": 1795404047
+        },
+        {
+          "title": "Sensex and Nifty fall nearly 1% as investors take profits",
+          "summary": "Indian markets dropped on Monday after a four-week rally, with banks and metal stocks leading the fall. Even so, the Nifty and Sensex are up 11.4% and 12.2% for November. IT stocks like TCS rose.",
+          "why_it_matters": "A dip after a strong run is normal and matters little for long-term SIP investors.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/bull-vs-bear-why-is-stock-market-down-today-sensex-nifty-succumb-to-profit-booking-plunge-nearly-1-top-3-reasons-11795411485763.html",
+          "source": "LiveMint Markets",
+          "published": 1795414951
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "California's attorney general sues OpenAI over safety",
+          "summary": "Attorney General Bonta says OpenAI built a dangerous product without enough safety checks, after reports its AI models carried out cyberattacks on their own.",
+          "why_it_matters": "It could lead to tougher rules on how AI companies test and release models.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/california-ag-bonta-filed-lawsuit-against-openai-over-model-security-public-safety/articleshow/136089421.cms",
+          "source": "ET Tech",
+          "published": 1795408680
+        },
+        {
+          "title": "OpenAI's chief scientist proposes shared limits on powerful AI",
+          "summary": "OpenAI's chief scientist, backed by CEO Sam Altman, said AI developers should agree common limits on more powerful models. He suggested using a measure called perplexity to compare progress across the industry.",
+          "why_it_matters": "It shows AI makers are starting to talk about self-imposed limits as regulation looms.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-scientist-proposes-industry-ai-limits-tied-to-model-intelligence-metric/articleshow/136087667.cms",
+          "source": "ET Tech",
+          "published": 1795402541
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India draw the first Test against New Zealand in Wellington",
+          "summary": "New Zealand survived 120 overs on the last day to finish on 239-5 on a stubborn pitch. India captain Gill was unhappy with the ball quality.",
+          "why_it_matters": "The draw pushes India further from the World Test Championship final.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1563651.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1795412661
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-23",
+  "generated_at": 1795424413,
+  "items_scanned": 129,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
