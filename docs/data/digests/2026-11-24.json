@@ -1,0 +1,208 @@
+{
+  "headline": "Nvidia's Jensen Huang returns as CEO and markets surge, while India's Sensex has its worst day in four months and Ukraine's strike on a Russian ship in Libya widens the war.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Tamil Nadu BJP chief arrested as Thirupparankundram hill lamp row peaks on festival day",
+          "summary": "Tamil Nadu's BJP chief was arrested at Thirupparankundram near Madurai on Karthigai Deepam day, with tight security in place. A court allowed the lamp to be lit on the hillock just once, and a review petition is still pending.",
+          "why_it_matters": "A religious dispute backed by court orders is turning into a major law-and-order and political flashpoint in the south.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
+          "source": "The Hindu - National",
+          "published": 1795517052
+        },
+        {
+          "title": "Nine killed in three road accidents in Andhra Pradesh",
+          "summary": "Five pilgrims returning from the Srimukhalingam temple died when their SUV hit a parked lorry near Bhogapuram. Two Ayyappa devotees and others died in separate accidents.",
+          "why_it_matters": "Highway crashes involving parked lorries keep killing travellers on the NH-16 route in coastal Andhra.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/nine-killed-in-three-road-accidents-in-andhra-five-of-them-near-bhogapuram/article71737536.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1795513150
+        },
+        {
+          "title": "Supreme Court strikes down Uttar Pradesh pension laws that denied credit for early temporary service",
+          "summary": "The court struck down UP's 2021 and 2025 pension laws. Eligible employees can now count earlier daily-wage, temporary and work-charged service towards qualifying for a pension.",
+          "why_it_matters": "It could secure pensions for many retired government workers who started in temporary jobs.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/supreme-court-strikes-down-up-s-2021-2025-pension-laws-what-does-it-mean-for-retired-employees-legal-heirs-11795511615720.html",
+          "source": "LiveMint Money",
+          "published": 1795512387
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Ukraine sinks Russian warship at a port in Libya",
+          "summary": "Ukraine struck and sank a Russian battleship at a port in Libya, far from the front lines. Russia also hit the Ukrainian city of Zaporizhzhia, killing two people.",
+          "why_it_matters": "The war is spreading to new regions, which raises the risk of wider conflict.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795466915
+        },
+        {
+          "title": "Reports say Russia may put a nuclear weapon in orbit; NATO vows to defend",
+          "summary": "German media reported Russia may launch a satellite carrying a nuclear warhead within weeks. The head of NATO, the Western military alliance, said it will defend against space threats.",
+          "why_it_matters": "A nuclear blast in space could knock out thousands of satellites that phones, GPS and banking rely on.",
+          "importance": 4,
+          "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
+          "source": "Ars Technica",
+          "published": 1795462110
+        },
+        {
+          "title": "UN climate talks COP31 end with no deal",
+          "summary": "The climate summit in Turkey closed without an agreement for the first time since 2009. Countries split over fossil fuels and climate funding.",
+          "why_it_matters": "It weakens global action on climate, which hits countries like India hard through heat and floods.",
+          "importance": 3,
+          "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+          "source": "Ars Technica",
+          "published": 1795447406
+        },
+        {
+          "title": "Sheikh Hasina says she will return to Bangladesh on 16 December",
+          "summary": "Bangladesh's ousted former prime minister set a return date for the first time. Bangladesh's government says she can only come back through extradition.",
+          "why_it_matters": "It could stir up tension in India's neighbour, where she has lived in exile.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795501381
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Wall Street and Asia jump as Nvidia brings back Jensen Huang",
+          "summary": "Nvidia shares jumped 31% after Huang was reinstated as CEO, lifting the US Nasdaq 100 by 6.5% and Asian markets by over 4%. Nvidia added more than $1 trillion in value.",
+          "why_it_matters": "One company's leadership swing moved global markets, and the AI-driven rally affects funds that hold such shares.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-wall-street-soars-on-huangs-return-to-nvidia-treasury-yields-rise/articleshow/136116751.cms",
+          "source": "ET Markets",
+          "published": 1795481673
+        },
+        {
+          "title": "Sensex has its worst day in over four months before a holiday",
+          "summary": "22 of the 30 Sensex stocks fell, and the Nifty dropped below 25,350, with banks and metals leading losses. Indian markets were closed on Tuesday.",
+          "why_it_matters": "A sharp one-day drop after a strong November, though SIP investors are best served by staying the course.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/of-30-sensex-stocks-22-closed-in-the-red-these-8-shares-defied-stock-market-crash-full-list-of-22-red-and-8-green-11795496983398.html",
+          "source": "LiveMint Markets",
+          "published": 1795500469
+        },
+        {
+          "title": "Indian markets gain nearly 11% in November on record foreign inflows",
+          "summary": "The Sensex rose nearly 11% in November, adding about Rs 34.6 lakh crore for investors. Foreign investors put in over Rs 1 lakh crore, helped by lower oil prices and good company results.",
+          "why_it_matters": "It is a strong month for index-fund investors, though a revival of AI shares abroad could pull foreign money away.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/investors-mint-rs-34-61-lakh-cr-in-november-as-markets-rally-nearly-11/articleshow/136123662.cms",
+          "source": "ET Markets",
+          "published": 1795507126
+        },
+        {
+          "title": "RBI proposes a 'stop switch' to block digital payment fraud",
+          "summary": "RBI, India's central bank, proposed safeguards including an account-wide 'Stop' option against electronic payment fraud.",
+          "why_it_matters": "It could give ordinary UPI and bank users a quick way to freeze their account when scammed.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/rbi-proposes-stop-switch-to-block-digital-payment-frauds/",
+          "source": "Inc42",
+          "published": 1795449079
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "Mahanadi Coalfields IPO: allotment due 25 November, listing 27 November",
+          "summary": "The Rs 8,981 crore IPO, where the company first sells shares to the public, was subscribed 1.52 times. Allotment is expected on 25 November and listing on 27 November.",
+          "why_it_matters": "Applicants can check allotment status online through KFin Technologies, NSE or BSE.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/ipo/coal-indias-mahanadi-coalfields-ipo-allotment-likely-nov-25-heres-how-to-check-status-online-on-bse-nse-kfin-tech-11795494163132.html",
+          "source": "LiveMint Markets",
+          "published": 1795496418
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Nvidia brings back Jensen Huang as CEO after scandal; Trump says he pushed for it",
+          "summary": "Huang resigned on November 12 after reports of affairs, including with a businesswoman alleged to be a Chinese spy. The board reinstated him after President Trump said he spoke to the board, and Huang is due to testify before the US Senate next week.",
+          "why_it_matters": "Leadership of the world's key AI chip maker is now tied up with politics and legal risks.",
+          "importance": 5,
+          "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+          "source": "TechCrunch AI",
+          "published": 1795446241
+        },
+        {
+          "title": "Amazon buys Decart's AI optimisation technology in a reported $7.5 billion deal",
+          "summary": "Amazon is acquiring the technology and research team of Decart, which makes AI run more efficiently on chips. It is preparing to sell its own Trainium AI chips.",
+          "why_it_matters": "Big tech is buying AI talent rather than building it, which shapes where AI jobs go.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "source": "TechCrunch AI",
+          "published": 1795454063
+        },
+        {
+          "title": "Anthropic launches Claude Ship so AI agents can review and approve code changes",
+          "summary": "Claude Ship lets AI review, fix and approve code changes based on rules set by a team.",
+          "why_it_matters": "It shifts routine code review work from engineers to AI agents.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "source": "TechCrunch AI",
+          "published": 1795471550
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Google Cloud confirms about 30 job cuts in India",
+          "summary": "Google Cloud said it cut about 30 roles in India last week and denied rumours of wider layoffs.",
+          "why_it_matters": "It is a small cut, but a sign of job nervousness in tech.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/google-cloud-confirms-around-30-job-cuts-in-india-rejects-wider-layoff-rumours/",
+          "source": "Inc42",
+          "published": 1795505353
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "Priyansh Arya hits 181 in a T20 match, second-highest ever",
+          "summary": "Delhi captain Priyansh Arya smashed 181 with 19 sixes against Tamil Nadu in the Syed Mushtaq Ali Trophy.",
+          "why_it_matters": "A record-level innings that will get him noticed by IPL teams.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1563756.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1795510622
+        },
+        {
+          "title": "New Zealand change Test squad before second Test against India on 27 November",
+          "summary": "Fisher replaces injured Tickner for the second Test in Christchurch.",
+          "why_it_matters": "It sets up the next match of the series.",
+          "importance": 3,
+          "url": "https://www.cricinfo.com/ci/content/story/1563732.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1795491251
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-24",
+  "generated_at": 1795517666,
+  "items_scanned": 191,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
