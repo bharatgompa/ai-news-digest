@@ -1,0 +1,185 @@
+{
+  "headline": "Sensex jumps over 1,500 points and the rupee hits an eight-month high, while Nvidia's CEO drama and a sharp gold fall dominate the day.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Supreme Court cancels order for CBI and ED probes into complaint against Rahul Gandhi",
+          "summary": "The Supreme Court set aside an Allahabad High Court order that had asked the CBI and ED to look into a disproportionate-assets complaint against Congress leader Rahul Gandhi. It told the High Court to make him a party to the case.",
+          "why_it_matters": "It removes a major legal threat to a top opposition leader for now.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/supreme-court-sets-aside-allahabad-high-court-order-for-cbi-ed-enquiries-into-da-complaint-against-rahul-gandhi/article71741683.ece",
+          "source": "The Hindu - National",
+          "published": 1795598985
+        },
+        {
+          "title": "Tension over Thirupparankundram hill lamp row continues in Madurai",
+          "summary": "Devotees were barred from the hill for a second day with heavy security. The Madurai Collector said the temple board did not authorise the team that tried to light the lamp.",
+          "why_it_matters": "A court-sanctioned religious practice is turning into a law-and-order issue in Tamil Nadu.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-deepathoon-lighting-2026-live-updates-november-24-tamil-nadu/article71737406.ece",
+          "source": "The Hindu - National",
+          "published": 1795599756
+        },
+        {
+          "title": "Andhra Pradesh to deploy over 46,000 police for local body polls on November 26",
+          "summary": "Andhra's police chief said over 46,000 personnel will be on duty for panchayat and civic polls. Known troublemakers have been bound over to keep the peace.",
+          "why_it_matters": "Local elections in your home state are close, with security a key concern.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/over-46000-police-personnel-to-be-deployed-for-panchayat-and-civic-polls-in-andhra-on-november-26/article71739371.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1795586957
+        },
+        {
+          "title": "Six Andhra fishermen still missing off Odisha coast",
+          "summary": "A boat with six fishermen from Subbampeta in Kakinada district went missing off Paradip after setting sail on November 4. The search has reached Bangladesh and Myanmar waters, and the state has asked the Centre for help.",
+          "why_it_matters": "Families in coastal Andhra are waiting on news of six men missing for weeks.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/seven-andhra-fishermen-safe-search-for-six-missing-off-odisha-reaches-bangladesh-myanmar-waters/article71741233.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1795594894
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Huawei found guilty of stealing US trade secrets",
+          "summary": "A New York jury found Huawei guilty of stealing American trade secrets after a months-long trial. It cleared the company of racketeering charges.",
+          "why_it_matters": "It adds to the US-China tech fight that shapes chip and telecom supply worldwide.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795575567
+        },
+        {
+          "title": "Israeli strike kills Hamas internal security chief in Gaza",
+          "summary": "Naeem Abu Nahel, who had held the post for two months, died in an Israeli air strike. Seven Palestinians were reportedly killed in strikes on Tuesday.",
+          "why_it_matters": "Violence in Gaza continues despite ceasefire efforts.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795534553
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Sensex surges over 1,500 points, Nifty above 25,750, as bank stocks rebound",
+          "summary": "Indian stocks rallied strongly, led by banks, with HDFC Bank up about 4% and Bank Nifty up over 2%. Foreign investors have returned, putting in about $13 billion over 14 sessions after two months of selling.",
+          "why_it_matters": "A strong recovery lifts the value of long-term index fund and SIP holdings.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026/liveblog/136145716.cms",
+          "source": "ET Markets",
+          "published": 1795570912
+        },
+        {
+          "title": "Rupee climbs to eight-month high of 92.29 per dollar",
+          "summary": "The rupee gained 56 paise as oil fell below $90 a barrel and foreign money flowed into Indian shares. The RBI's policy decision is coming up.",
+          "why_it_matters": "A stronger rupee eases import costs such as fuel and helps inflation.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/forex/rupee-jumps-23-paise-to-92-62-against-us-dollar-in-early-trade/articleshow/136147947.cms",
+          "source": "ET Markets",
+          "published": 1795581022
+        },
+        {
+          "title": "Gold and silver fall sharply in November",
+          "summary": "Gold is down about 13% and silver about 20% this month on a stronger dollar and higher US interest rates. Retail gold sells around ₹1.22 lakh per 10 grams in Andhra Pradesh.",
+          "why_it_matters": "Falling gold hurts holders but may help wedding-season buyers.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/commodities/mcx-rates-gold-crashes-13-silver-plunges-20-in-nov-2026-is-worst-over-what-should-precious-metals-investors-do-11795589063705.html",
+          "source": "LiveMint Markets",
+          "published": 1795592932
+        },
+        {
+          "title": "Gold price fall triggers extra-security demands on gold loans",
+          "summary": "Banks and finance companies are asking some borrowers for more collateral or part repayment because pledged gold no longer meets RBI loan limits. Defaults have risen and more auctions are expected.",
+          "why_it_matters": "Anyone with a gold loan could face a sudden call to pay up.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/sharp-drop-in-gold-prices-triggers-margin-calls-on-loans-by-banks-and-nbfcs-what-customers-should-know-about-ltv-11795587073208.html",
+          "source": "LiveMint Money",
+          "published": 1795587949
+        },
+        {
+          "title": "RBI proposes switches to control UPI and card payments",
+          "summary": "Draft RBI rules would let users turn off UPI and other payment channels, set transaction and daily limits, and switch cards on or off.",
+          "why_it_matters": "It gives ordinary people more protection against online fraud.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/rbi-proposes-digital-payment-safeguards-explained-how-customers-can-control-upi-switch-off-cards-set-payment-limits-11795565937515.html",
+          "source": "LiveMint Money",
+          "published": 1795570178
+        },
+        {
+          "title": "APL Apollo Tubes falls 15% after Tata Steel deals",
+          "summary": "Tata Steel is buying a stake in APL Apollo Tubes for about ₹5,825 crore, while APL Apollo plans a ₹28,000 crore purchase of Tata Steel's tubes businesses. Brokerages downgraded APL Apollo on debt and valuation concerns, and the stock hit its lower limit.",
+          "why_it_matters": "It is one of the day's biggest corporate deals in Indian steel.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/why-apl-apollo-tubes-shares-crashed-15-today-to-plunge-at-52-week-low-downgrade-from-brokerages-after-tata-steel-deal-11795579639211.html",
+          "source": "LiveMint Markets",
+          "published": 1795582555
+        }
+      ]
+    },
+    {
+      "title": "IPOs",
+      "stories": [
+        {
+          "title": "SEBI moves to curb publication of IPO grey market premiums",
+          "summary": "The markets regulator wants to stop the publishing and circulation of grey market premium figures for upcoming IPOs. It says they do not show expected returns.",
+          "why_it_matters": "It targets unofficial price hype that misleads small investors.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/gmp-not-indicator-of-expected-returns-sebi-seeks-to-curb-ipo-gmp-circulation/",
+          "source": "Inc42",
+          "published": 1795526141
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Flipkart CEO Kalyan Krishnamurthy to step down",
+          "summary": "Flipkart's CEO is leaving in the coming weeks after being asked to go, and Balaji Thiagarajan will lead in the interim.",
+          "why_it_matters": "A leadership change at one of India's biggest tech employers.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/kalyan-krishnamurthy-to-exit-flipkart-after-nearly-a-decade-at-the-helm/",
+          "source": "Inc42",
+          "published": 1795592382
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "Nvidia's Jensen Huang returns as CEO after 11 days and denies Trump got him rehired",
+          "summary": "Huang apologised to staff in his first all-hands meeting back and said it is 'not true' that Trump got him his job back. Trump had said the return would not have happened without his intervention.",
+          "why_it_matters": "It raises questions about politics and governance at the world's key AI chip maker.",
+          "importance": 4,
+          "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+          "source": "The Verge AI",
+          "published": 1795550523
+        },
+        {
+          "title": "Anthropic shares fall below IPO price",
+          "summary": "Anthropic's stock has dropped below the price at which it first sold shares to the public.",
+          "why_it_matters": "It could put pressure on valuations of AI startups, which affects hiring and funding.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "source": "TechCrunch AI",
+          "published": 1795545042
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-25",
+  "generated_at": 1795600268,
+  "items_scanned": 180,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
