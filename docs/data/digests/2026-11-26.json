@@ -1,0 +1,162 @@
+{
+  "headline": "US threatens new tariffs on India and others as oil climbs and the rupee slips, while Andhra Pradesh votes in local elections.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Andhra Pradesh votes in local body and village elections",
+          "summary": "Polling is under way in 23 urban local bodies and 3,240 village councils in Andhra Pradesh. About 25 lakh voters can vote and counting is set for November 30.",
+          "why_it_matters": "These elections decide local governance in your home state.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/urban-local-bodies-polls-andhra-pradesh-tdp-ysrcp-live-updates-november-26-2026/article71745216.ece",
+          "source": "The Hindu - National",
+          "published": 1795684231
+        },
+        {
+          "title": "Rice prices nearly double in Nellore, officials tell traders to cap stocks",
+          "summary": "Sona Masoori rice has climbed to ₹100-120 a kg in Nellore district. Officials warned traders of legal action and stock seizure if they break the rules, and ordered them to display government-fixed maximum prices.",
+          "why_it_matters": "A staple food getting this expensive hits household budgets directly.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/rice-prices-soar-in-nellore-district-traders-told-to-limit-stocks-register-on-portal/article71743206.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1795627373
+        },
+        {
+          "title": "Andhra Pradesh to sell cheaper rice, tur dal and palm oil at 500 centres",
+          "summary": "CM Naidu ordered Dharani sales expanded to 500 centres. From the first week of December, tur dal will sell at ₹100 a kg and palm oil at ₹125 a litre at fair price shops.",
+          "why_it_matters": "It offers some relief as food prices rise.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/cm-naidu-orders-expansion-of-dharani-rice-sales-to-500-centres-in-andhra-pradesh/article71743399.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1795627034
+        },
+        {
+          "title": "Tata Trusts to go to court against Chandrasekaran's reappointment",
+          "summary": "Tata Trusts decided to challenge N. Chandrasekaran's reappointment in the Bombay High Court. They call it illegal because it breaks the company's Articles of Association.",
+          "why_it_matters": "A fight at the top of one of India's biggest business groups could affect the company's leadership.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/business/Industry/tata-trusts-to-move-high-court-against-reappointment-of-n-chandrasekaran-as-executive-chairman-of-tata-sons/article71745407.ece",
+          "source": "The Hindu - National",
+          "published": 1795682945
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "US announces new tariffs on many countries including China and the EU",
+          "summary": "The US said new import taxes will hit many of its biggest trading partners, including China and the EU. Another report says the US proposed 25% tariffs on imports from India, which India rejected.",
+          "why_it_matters": "Tariffs can raise prices and hurt Indian exporters.",
+          "importance": 5,
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795666258
+        },
+        {
+          "title": "UK-EU treaty text has a 10-year exit clause",
+          "summary": "The new UK-EU treaty can be ended after 10 years, the BBC understands. The full text and enabling legislation are due to be published.",
+          "why_it_matters": "It shapes trade and travel ties between Britain and Europe.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795678804
+        },
+        {
+          "title": "Fuel tanker crash causes fire on Cairo highway, 31 dead",
+          "summary": "A tanker reportedly overturned on a busy ring road in Egypt's capital and caught fire. Thirty-one people died and 21 were injured.",
+          "why_it_matters": "It is one of the deadliest road disasters of the day.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795645086
+        },
+        {
+          "title": "DR Congo Ebola cases pass 12,000",
+          "summary": "The country's worst Ebola outbreak is growing, and fighting in the east has displaced health workers and civilians. This makes it harder to contain.",
+          "why_it_matters": "Conflict hampering the response raises the risk of wider spread.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/26/dr-congo-ebola-cases-surpass-12000-as-fighting-disrupts-response-in-east?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1795678890
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Indian bonds fall as oil tops $95 and RBI flags food inflation",
+          "summary": "Brent crude rose above $95 a barrel, and RBI, India's central bank, warned of food price pressures. Investors are watching its policy decision on December 4, with a rate hike expected by some.",
+          "why_it_matters": "Higher interest rates would affect loan EMIs and fixed deposit rates.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136179562.cms",
+          "source": "ET Markets",
+          "published": 1795670412
+        },
+        {
+          "title": "Rupee drops to 92.40 against the dollar",
+          "summary": "The rupee fell 20 paise on higher oil prices and the proposed US tariffs. India says it remains committed to finalising a trade deal.",
+          "why_it_matters": "A weaker rupee makes imports, fuel and foreign travel costlier.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-20-paise-to-92-40-against-us-dollar-in-early-trade/articleshow/136179591.cms",
+          "source": "ET Markets",
+          "published": 1795670676
+        },
+        {
+          "title": "PF withdrawals via UPI likely by December-end",
+          "summary": "EPFO, which manages provident fund savings, is preparing to let members withdraw money through UPI. The minimum amount would be ₹1,000.",
+          "why_it_matters": "It could make getting your PF money faster and simpler.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/epfo-update-you-can-withdraw-1-000-from-your-pf-account-through-upi-launch-likely-by-december-end-2026-key-details-11795665296203.html",
+          "source": "LiveMint Money",
+          "published": 1795673096
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "US regulator approves SpaceX plan for up to 1 million AI satellites",
+          "summary": "The FCC authorised SpaceX to launch up to 1 million satellites carrying AI chips under its Starmind plan. That would raise the number of satellites in orbit about 50-fold.",
+          "why_it_matters": "It is a big bet on moving AI computing into space.",
+          "importance": 3,
+          "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+          "source": "Ars Technica",
+          "published": 1795630958
+        },
+        {
+          "title": "Nvidia reportedly halts chip shipments to Southeast Asia",
+          "summary": "The Financial Times reports Nvidia will not allow server makers to ship orders to Malaysia, Singapore, Thailand and Indonesia. A separate report says its top chips are reaching US firms owned by Chinese companies.",
+          "why_it_matters": "It shows how tightly AI chip supply is being controlled and how export rules are being tested.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-halts-chip-shipments-to-southeast-asia-ft-reports/articleshow/136180352.cms",
+          "source": "ET Tech",
+          "published": 1795672699
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "Flipkart CEO Kalyan Krishnamurthy ousted by Walmart",
+          "summary": "His decade-long run as head of the Flipkart group ended abruptly after parent Walmart asked him to go. The same roundup says PhonePe is reviving its IPO plans.",
+          "why_it_matters": "A leadership change at India's top e-commerce firm matters for the startup scene.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/flipkart-ceo-ousted-phonepe-revives-ipo-more/",
+          "source": "Inc42",
+          "published": 1795660225
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-26",
+  "generated_at": 1795685432,
+  "items_scanned": 177,
+  "failed_sources": [
+    "Indian Express - India"
+  ]
+}
