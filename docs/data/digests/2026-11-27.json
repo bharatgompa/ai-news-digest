@@ -1,0 +1,151 @@
+{
+  "headline": "India's Cabinet backs a women's quota and delimitation push while markets slide on inflation and rate fears, and AI job-cut worries grow.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Cabinet clears women's quota and a 50% rise in seats for states",
+          "summary": "India's Cabinet has cleared a delimitation push that includes a women's quota and a 50% increase in seats for states. Opposition parties are now deciding where they stand, and the DMK says its position is unchanged.",
+          "why_it_matters": "Redrawing seats changes how much say each state, including Andhra Pradesh and Telangana, has in Parliament.",
+          "importance": 5,
+          "url": "https://indianexpress.com/article/india/women-reservation-delimitation-gets-cabinet-approval-10980995/",
+          "source": "Indian Express - India",
+          "published": 1795770126
+        },
+        {
+          "title": "Suspected Jaish-e-Mohammed operative arrested in Vadodara",
+          "summary": "Gujarat's anti-terror squad says it caught a man linked to the Jaish-e-Mohammed terror group who planned to attack an Indian Air Force station. Police recovered an assault rifle, 23 live cartridges and a group flag.",
+          "why_it_matters": "It shows a real terror plot against a military site was disrupted.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/suspected-jem-operative-held-in-vadodara-planned-to-attack-iaf-station-says-ats/article71749977.ece",
+          "source": "The Hindu - National",
+          "published": 1795770607
+        },
+        {
+          "title": "Left parties demand a judicial probe into Andhra Pradesh local body polls",
+          "summary": "CPI(M) alleges violence against opposition candidates and polling booth capture in several places. The Left parties also want Chief Election Commissioner Gyanesh Kumar to resign.",
+          "why_it_matters": "It questions how fair the recent local elections in Andhra Pradesh were.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/left-parties-demand-judicial-probe-into-local-body-polls-cec-gyanesh-kumars-resignation/article71746405.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1795759213
+        },
+        {
+          "title": "Failed crops leave Telangana farmers deep in debt",
+          "summary": "A drought linked to El Niño, a weather pattern that brings poor rain, has ruined this season's kharif crops in Telangana. Farmers face loan repayments with little support, and experts warn water scarcity could last beyond this season.",
+          "why_it_matters": "It points to rising rural distress in Telangana.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/droughts-bitter-harvest-of-debt/article71748155.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1795739388
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Two Italians killed in strike in Kuwait; Iran denies blame",
+          "summary": "Two Italian technicians working for German firm Rheinmetall died in a strike in Kuwait, Italy's foreign ministry said. Iran says it was not responsible.",
+          "why_it_matters": "The Middle East conflict is spreading and now affects oil supply and prices.",
+          "importance": 4,
+          "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795727873
+        },
+        {
+          "title": "New Zealand's ruling coalition falls one seat short of a majority",
+          "summary": "The National Party-led bloc did not win enough seats to govern outright. Prime Minister Luxon must now bargain with a centrist kingmaker.",
+          "why_it_matters": "It leaves New Zealand's next government uncertain.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795750095
+        },
+        {
+          "title": "Zelensky criticises Trump's 'strange' friendship with Putin",
+          "summary": "In a BBC interview, Ukraine's president said the US is not pushing Russia hard enough in peace talks.",
+          "why_it_matters": "It shows peace talks to end the war are stuck.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795770468
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Sensex falls 900 points, Nifty near 25,600",
+          "summary": "Indian stocks dropped on a weaker rupee, renewed inflation fears and talk of a US interest rate hike. Hotter US inflation data raised the chance of a December hike, and higher oil prices added to the worry.",
+          "why_it_matters": "It dents SIP and index fund values in the short term.",
+          "importance": 4,
+          "url": "https://www.livemint.com/market/stock-market-news/why-is-indian-stock-market-falling-today-nifty-down-to-near-25-700-sensex-crashes-700-points-top-3-reasons-explained-11795761327368.html",
+          "source": "LiveMint Markets",
+          "published": 1795763046
+        },
+        {
+          "title": "Gold and silver crashed in November, then bounced back",
+          "summary": "On India's futures market gold fell about 13% in November and silver nearly 20%, helped by a stronger US dollar and expected tighter US policy. Both rebounded on Friday, with silver hitting a 6% upper limit.",
+          "why_it_matters": "Gold prices are swinging sharply, which matters to anyone holding or buying gold.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/commodities/gold-vs-silver-precious-metals-prices-crashed-and-rebounded-which-of-them-could-deliver-better-returns-in-2027-11795767982019.html",
+          "source": "LiveMint Markets",
+          "published": 1795769654
+        }
+      ]
+    },
+    {
+      "title": "AI",
+      "stories": [
+        {
+          "title": "JP Morgan: AI could put 24 million knowledge-worker jobs at risk in five years",
+          "summary": "A JP Morgan Wealth Management report says AI could displace about 24 million office-style jobs worldwide over five years in one illustrative scenario.",
+          "why_it_matters": "It bears directly on how safe and in-demand different tech and office jobs will be.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-may-put-24-million-knowledge-worker-jobs-at-risk-globally-over-five-years-jp-morgan/articleshow/136207360.cms",
+          "source": "ET Tech",
+          "published": 1795746546
+        },
+        {
+          "title": "Nvidia pauses chip server shipments to four Southeast Asian countries",
+          "summary": "Nvidia told manufacturers to stop shipping servers to Malaysia, Singapore, Thailand and Indonesia. The US is tightening efforts to keep AI chips out of China.",
+          "why_it_matters": "Chip export curbs are reshaping who can build AI.",
+          "importance": 3,
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "source": "TechCrunch AI",
+          "published": 1795723434
+        }
+      ]
+    },
+    {
+      "title": "Tech Industry & Jobs",
+      "stories": [
+        {
+          "title": "SAP weighs cutting at least 10,000 jobs in AI restructuring",
+          "summary": "The software giant is considering cutting at least 9% of its global workforce, according to people familiar with the talks. The number is not final and could change after labour negotiations.",
+          "why_it_matters": "It is another big sign of companies cutting jobs while shifting to AI.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/tech/technology/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring/articleshow/136207524.cms",
+          "source": "ET Tech",
+          "published": 1795747475
+        },
+        {
+          "title": "Swiggy Instamart lays off about 340 employees",
+          "summary": "Swiggy's quick-delivery arm is cutting around 340 corporate and support staff as part of a restructuring.",
+          "why_it_matters": "Indian startup layoffs continue.",
+          "importance": 3,
+          "url": "https://inc42.com/buzz/swiggy-instamart-lays-off-340-employees-amid-organisational-restructuring/",
+          "source": "Inc42",
+          "published": 1795760931
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-27",
+  "generated_at": 1795772414,
+  "items_scanned": 166,
+  "failed_sources": []
+}
