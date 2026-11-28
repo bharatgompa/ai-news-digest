@@ -1,0 +1,141 @@
+{
+  "headline": "India's Parliament takes up a bill to redraw seats, opposition rallies against it, and India trail New Zealand in the Test.",
+  "sections": [
+    {
+      "title": "India",
+      "stories": [
+        {
+          "title": "Opposition parties meet to plan response to the seat-redrawing bill",
+          "summary": "INDIA bloc leaders met at Congress chief Kharge's home before a special Parliament sitting on Monday, where the government will bring a constitutional amendment bill on delimitation (redrawing how many seats each region gets). Kharge called it dangerous to democracy, though the DMK has said it will support the Centre's proposal.",
+          "why_it_matters": "It could change how much say each state, including the southern ones, has in Parliament.",
+          "importance": 5,
+          "url": "https://www.thehindu.com/news/national/parliaments-special-sitting-india-bloc-floor-leaders-deliberate-joint-strategy/article71753841.ece",
+          "source": "The Hindu - National",
+          "published": 1795854503
+        },
+        {
+          "title": "Chandrababu Naidu urges opposition to back delimitation and women's quota bills",
+          "summary": "The Andhra Pradesh Chief Minister called it a historic chance and asked that the women's quota bill pass unanimously. He says a 50% rise in Lok Sabha seats will protect southern states' interests.",
+          "why_it_matters": "It shows how Andhra Pradesh's government sees the seat-redrawing plan.",
+          "importance": 4,
+          "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-appeals-to-opposition-parties-to-support-delimitation-womens-quota-bills/article71751855.ece",
+          "source": "The Hindu - Andhra Pradesh",
+          "published": 1795801024
+        },
+        {
+          "title": "Thirupparankundram temple lamp-lighting set under heavy security after Supreme Court rebuke",
+          "summary": "The Supreme Court said officials wilfully disobeyed its orders by not lighting the Karthigai Deepam lamp at the disputed pillar. Central forces have taken over security, and former High Court judges appointed as receivers are overseeing the ritual.",
+          "why_it_matters": "It is a rare case of the top court calling out government officials for ignoring its orders.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/thiruparankundram-deepam-issue-supreme-court-contempt-tamil-nadu-karthigai-deepam-deepathoon-row-live-updates-november-28-2026/article71753437.ece",
+          "source": "The Hindu - National",
+          "published": 1795853883
+        },
+        {
+          "title": "Two senior Oasis Fertility executives arrested in egg-donation racket in Hyderabad",
+          "summary": "Police allege women were recruited from several states and given unauthorised medical procedures. Transactions of ₹487.82 crore passed through the company's bank account in eight months.",
+          "why_it_matters": "It is a big health and legal scandal in Telangana involving women's safety.",
+          "importance": 3,
+          "url": "https://www.thehindu.com/news/national/telangana/oocyte-racket-two-senior-oasis-fertility-executives-held-487-crore-transactions-under-scanner/article71753824.ece",
+          "source": "The Hindu - Telangana",
+          "published": 1795851942
+        }
+      ]
+    },
+    {
+      "title": "World",
+      "stories": [
+        {
+          "title": "Zelensky calls Trump-Putin friendship 'strange', says US not pushing Russia enough",
+          "summary": "In a BBC interview, Ukraine's president voiced frustration with the US. He says it is not pressing Russia hard enough in talks to end the war.",
+          "why_it_matters": "It shows peace efforts in Ukraine are still stuck.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795802440
+        },
+        {
+          "title": "Spain heads to a snap election",
+          "summary": "Prime Minister Pedro Sánchez is making his final pitch to voters while polls are against him. The result could affect upcoming elections in France and Italy.",
+          "why_it_matters": "It could shift the political direction of a major European country.",
+          "importance": 3,
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "published": 1795816553
+        },
+        {
+          "title": "At least six students killed in blast beside school in Afghanistan",
+          "summary": "The blast happened in Kunar province, and officials say the numbers are preliminary and could change.",
+          "why_it_matters": "It is another deadly attack on children in a conflict-hit region.",
+          "importance": 3,
+          "url": "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+          "source": "Al Jazeera",
+          "published": 1795851729
+        }
+      ]
+    },
+    {
+      "title": "Markets & Money",
+      "stories": [
+        {
+          "title": "Bond market expects RBI to raise interest rates by 0.25 points",
+          "summary": "Analysts predict India's central bank will raise rates by 25 basis points (a quarter of a percentage point) at its next policy review. Persistent inflation and global tensions are keeping bond investors cautious.",
+          "why_it_matters": "Higher rates can push up loan EMIs and affect your debt fund returns.",
+          "importance": 4,
+          "url": "https://economictimes.indiatimes.com/markets/bonds/bond-market-to-stay-cautious-ahead-of-rbi-policy-equirus/articleshow/136240295.cms",
+          "source": "ET Markets",
+          "published": 1795846438
+        },
+        {
+          "title": "Nifty ends the week lower, snapping a four-week winning run",
+          "summary": "The Nifty closed at 25,607.20, down 193.40 points (0.75%) for the week.",
+          "why_it_matters": "It is a small dip for index-fund investors after a month of gains.",
+          "importance": 3,
+          "url": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-on-monday-30-nov-choice-brokings-kkunal-v-recommends-three-shares-for-next-week-target-stop-loss-11795851548679.html",
+          "source": "LiveMint Markets",
+          "published": 1795854872
+        },
+        {
+          "title": "Gold bounces back from a 15-month low but US rate-hike fears remain",
+          "summary": "Gold is set for its first weekly rise in three weeks, up about 3%, as bargain buyers stepped in. Analysts warn further US interest rate hikes could limit gains.",
+          "why_it_matters": "Gold is down about 30% from its January peak, which matters for gold holders and gold-loan borrowers.",
+          "importance": 3,
+          "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/articleshow/136237788.cms",
+          "source": "ET Markets",
+          "published": 1795837956
+        },
+        {
+          "title": "RBI sets rules for banks to freeze accounts linked to cyber fraud",
+          "summary": "New rules set timelines for holding debits, asking customers to explain, and referring cases to police. They also cover how customers can complain.",
+          "why_it_matters": "If your account gets flagged you will know how long it can be frozen and how to respond.",
+          "importance": 3,
+          "url": "https://www.livemint.com/money/personal-finance/rbi-issues-new-rules-for-banks-to-freeze-suspicious-accounts-linked-to-cyber-fraud-money-mules-7-key-points-to-know-11795835758057.html",
+          "source": "LiveMint Money",
+          "published": 1795839024
+        }
+      ]
+    },
+    {
+      "title": "Cricket",
+      "stories": [
+        {
+          "title": "India stumble on day two against New Zealand in Christchurch",
+          "summary": "Akash Deep took five wickets to bowl New Zealand out for 356. India are still 240 runs behind after New Zealand's pacers hit back.",
+          "why_it_matters": "India are in a tough spot in the Test.",
+          "importance": 4,
+          "url": "https://www.cricinfo.com/ci/content/story/1564515.html?ex_cid=OTC-RSS",
+          "source": "ESPNcricinfo",
+          "published": 1795852043
+        }
+      ]
+    }
+  ],
+  "date": "2026-11-28",
+  "generated_at": 1795856058,
+  "items_scanned": 145,
+  "failed_sources": [
+    "Indian Express - India",
+    "Moneycontrol Business",
+    "Moneycontrol IPO News"
+  ]
+}
